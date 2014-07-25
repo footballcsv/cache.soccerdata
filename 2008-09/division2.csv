@@ -1,0 +1,181 @@
+Date,Team 1,Team 2,FT,HT
+2008-08-02,Arbroath,Alloa,4-1,3-0
+2008-08-02,Ayr,Raith Rvs,0-0,0-0
+2008-08-02,Brechin,Stirling,2-1,1-0
+2008-08-02,East Fife,Peterhead,0-2,0-2
+2008-08-02,Queens Park,Stranraer,2-2,0-2
+2008-08-09,Alloa,Ayr,0-2,0-2
+2008-08-09,Peterhead,Arbroath,1-1,0-0
+2008-08-09,Raith Rvs,Queens Park,2-0,1-0
+2008-08-09,Stirling,East Fife,1-1,0-0
+2008-08-09,Stranraer,Brechin,1-2,1-1
+2008-08-16,Alloa,Raith Rvs,1-1,1-1
+2008-08-16,Ayr,Arbroath,2-1,0-1
+2008-08-16,Brechin,Peterhead,2-2,2-0
+2008-08-16,East Fife,Queens Park,1-2,1-2
+2008-08-16,Stranraer,Stirling,1-0,0-0
+2008-08-23,Arbroath,East Fife,0-1,0-0
+2008-08-23,Peterhead,Alloa,1-0,1-0
+2008-08-23,Queens Park,Brechin,1-1,0-0
+2008-08-23,Raith Rvs,Stranraer,2-1,1-1
+2008-08-23,Stirling,Ayr,2-2,1-2
+2008-08-30,Alloa,Stranraer,5-1,0-0
+2008-08-30,Arbroath,Stirling,1-2,1-1
+2008-08-30,Ayr,Queens Park,2-1,2-0
+2008-08-30,East Fife,Brechin,0-0,0-0
+2008-08-30,Peterhead,Raith Rvs,1-2,0-1
+2008-09-13,Brechin,Arbroath,3-1,1-0
+2008-09-13,Queens Park,Peterhead,0-1,0-0
+2008-09-13,Raith Rvs,East Fife,1-1,0-0
+2008-09-13,Stirling,Alloa,3-2,3-2
+2008-09-13,Stranraer,Ayr,1-3,0-1
+2008-09-20,Alloa,East Fife,0-3,0-1
+2008-09-20,Arbroath,Queens Park,1-1,1-1
+2008-09-20,Peterhead,Stranraer,4-0,2-0
+2008-09-20,Raith Rvs,Stirling,1-1,0-1
+2008-09-21,Ayr,Brechin,1-1,1-1
+2008-09-27,Brechin,Raith Rvs,2-0,2-0
+2008-09-27,East Fife,Ayr,3-0,1-0
+2008-09-27,Queens Park,Alloa,1-0,0-0
+2008-09-27,Stirling,Peterhead,0-0,0-0
+2008-09-27,Stranraer,Arbroath,2-2,1-0
+2008-10-04,Arbroath,Raith Rvs,0-2,0-2
+2008-10-04,Ayr,Peterhead,2-0,1-0
+2008-10-04,Brechin,Alloa,3-1,2-0
+2008-10-04,East Fife,Stranraer,1-2,1-2
+2008-10-04,Queens Park,Stirling,1-1,0-1
+2008-10-18,Alloa,Arbroath,2-1,0-1
+2008-10-18,Peterhead,East Fife,0-1,0-0
+2008-10-18,Raith Rvs,Ayr,3-2,1-1
+2008-10-18,Stirling,Brechin,1-2,0-1
+2008-10-18,Stranraer,Queens Park,0-0,0-0
+2008-10-25,Alloa,Peterhead,1-0,0-0
+2008-10-25,Ayr,Stirling,1-1,1-0
+2008-10-25,Brechin,Queens Park,2-1,1-0
+2008-10-25,East Fife,Arbroath,3-2,2-2
+2008-10-25,Stranraer,Raith Rvs,0-2,0-1
+2008-11-01,Arbroath,Ayr,0-3,0-3
+2008-11-01,Peterhead,Brechin,5-1,4-1
+2008-11-01,Queens Park,East Fife,0-0,0-0
+2008-11-01,Raith Rvs,Alloa,4-1,1-1
+2008-11-01,Stirling,Stranraer,3-2,0-1
+2008-11-08,Alloa,Stirling,4-3,1-0
+2008-11-08,Arbroath,Brechin,1-2,1-1
+2008-11-08,Ayr,Stranraer,3-2,2-1
+2008-11-08,East Fife,Raith Rvs,0-2,0-1
+2008-11-08,Peterhead,Queens Park,4-1,1-1
+2008-11-15,Brechin,East Fife,2-1,1-0
+2008-11-15,Queens Park,Ayr,0-3,0-1
+2008-11-15,Raith Rvs,Peterhead,3-0,0-0
+2008-11-15,Stirling,Arbroath,0-2,0-0
+2008-11-15,Stranraer,Alloa,2-2,1-0
+2008-11-22,Alloa,Queens Park,1-3,0-2
+2008-11-22,Arbroath,Stranraer,1-0,1-0
+2008-11-22,Ayr,East Fife,4-2,3-0
+2008-11-22,Peterhead,Stirling,1-1,1-0
+2008-11-22,Raith Rvs,Brechin,2-2,1-0
+2008-12-06,East Fife,Alloa,1-0,0-0
+2008-12-06,Queens Park,Arbroath,1-2,1-2
+2008-12-13,Arbroath,Peterhead,4-0,2-0
+2008-12-13,Ayr,Alloa,3-0,1-0
+2008-12-13,East Fife,Stirling,0-1,0-1
+2008-12-13,Queens Park,Raith Rvs,1-2,1-1
+2008-12-20,Alloa,Brechin,2-1,2-1
+2008-12-20,Peterhead,Ayr,3-0,1-0
+2008-12-20,Raith Rvs,Arbroath,2-1,0-0
+2008-12-20,Stirling,Queens Park,0-3,0-2
+2008-12-20,Stranraer,East Fife,0-4,0-2
+2008-12-27,Alloa,Stranraer,2-2,1-1
+2008-12-27,Arbroath,Stirling,1-2,1-2
+2008-12-27,East Fife,Brechin,2-1,1-0
+2008-12-27,Peterhead,Raith Rvs,2-1,0-0
+2008-12-30,Brechin,Ayr,0-1,0-0
+2009-01-03,Queens Park,Peterhead,2-1,2-1
+2009-01-03,Raith Rvs,East Fife,1-0,0-0
+2009-01-10,Stirling,Raith Rvs,2-1,1-0
+2009-01-17,Arbroath,East Fife,0-2,0-1
+2009-01-17,Peterhead,Alloa,2-2,1-1
+2009-01-17,Queens Park,Brechin,0-0,0-0
+2009-01-17,Raith Rvs,Stranraer,2-1,1-0
+2009-01-17,Stirling,Ayr,2-0,0-0
+2009-01-24,Alloa,Raith Rvs,0-0,0-0
+2009-01-24,Brechin,Peterhead,1-1,0-0
+2009-01-24,East Fife,Queens Park,4-2,0-1
+2009-01-24,Stranraer,Stirling,2-8,1-1
+2009-01-25,Ayr,Arbroath,2-1,1-1
+2009-01-31,Arbroath,Alloa,1-0,0-0
+2009-01-31,Ayr,Raith Rvs,2-2,1-2
+2009-01-31,Brechin,Stirling,1-2,1-1
+2009-01-31,East Fife,Peterhead,0-3,0-2
+2009-01-31,Queens Park,Stranraer,1-1,0-1
+2009-02-07,Alloa,Ayr,3-2,2-0
+2009-02-07,Stranraer,Brechin,0-3,0-2
+2009-02-14,Queens Park,Alloa,1-2,1-0
+2009-02-14,Stranraer,Arbroath,1-5,1-3
+2009-02-21,Alloa,East Fife,0-1,0-0
+2009-02-21,Arbroath,Queens Park,3-0,2-0
+2009-02-21,Ayr,Brechin,4-2,1-2
+2009-02-21,Peterhead,Stranraer,1-0,0-0
+2009-02-21,Raith Rvs,Stirling,1-1,1-1
+2009-02-28,Brechin,East Fife,2-1,1-1
+2009-02-28,Queens Park,Ayr,0-3,0-2
+2009-02-28,Raith Rvs,Peterhead,3-3,3-3
+2009-02-28,Stirling,Arbroath,1-1,0-1
+2009-02-28,Stranraer,Alloa,1-3,1-2
+2009-03-03,Stirling,Alloa,0-0,0-0
+2009-03-04,Ayr,Queens Park,1-1,0-1
+2009-03-04,Stranraer,Peterhead,0-3,0-1
+2009-03-07,Alloa,Stirling,2-3,1-0
+2009-03-07,Arbroath,Brechin,0-0,0-0
+2009-03-07,Ayr,Stranraer,5-0,3-0
+2009-03-07,East Fife,Raith Rvs,0-1,0-0
+2009-03-07,Peterhead,Queens Park,1-1,0-0
+2009-03-10,Brechin,Stranraer,1-0,0-0
+2009-03-10,Peterhead,Arbroath,1-0,1-0
+2009-03-14,Alloa,Arbroath,2-0,1-0
+2009-03-14,Peterhead,East Fife,2-0,1-0
+2009-03-14,Raith Rvs,Ayr,0-1,0-0
+2009-03-14,Stirling,Brechin,2-3,2-2
+2009-03-14,Stranraer,Queens Park,2-2,1-1
+2009-03-17,Raith Rvs,Queens Park,1-0,1-0
+2009-03-17,Stirling,Peterhead,2-1,0-0
+2009-03-18,East Fife,Ayr,0-1,0-1
+2009-03-21,Arbroath,Raith Rvs,0-2,0-1
+2009-03-21,Ayr,Peterhead,0-0,0-0
+2009-03-21,Brechin,Alloa,1-0,0-0
+2009-03-21,East Fife,Stranraer,4-0,1-0
+2009-03-21,Queens Park,Stirling,3-1,0-0
+2009-03-24,Brechin,Raith Rvs,0-4,0-2
+2009-03-28,Brechin,Arbroath,0-1,0-1
+2009-03-28,Stirling,East Fife,2-0,0-0
+2009-03-28,Stranraer,Ayr,1-4,0-2
+2009-04-04,Alloa,Peterhead,1-2,1-0
+2009-04-04,Ayr,Stirling,3-1,2-1
+2009-04-04,Brechin,Queens Park,2-0,1-0
+2009-04-04,East Fife,Arbroath,0-0,0-0
+2009-04-04,Stranraer,Raith Rvs,0-3,0-2
+2009-04-11,Arbroath,Ayr,1-3,0-0
+2009-04-11,Peterhead,Brechin,0-1,0-0
+2009-04-11,Queens Park,East Fife,3-1,2-1
+2009-04-11,Raith Rvs,Alloa,3-1,1-0
+2009-04-11,Stirling,Stranraer,1-2,1-1
+2009-04-18,Brechin,Ayr,1-0,0-0
+2009-04-18,East Fife,Alloa,0-2,0-2
+2009-04-18,Queens Park,Arbroath,0-1,0-0
+2009-04-18,Stirling,Raith Rvs,0-1,0-0
+2009-04-18,Stranraer,Peterhead,0-1,0-0
+2009-04-25,Alloa,Queens Park,0-0,0-0
+2009-04-25,Arbroath,Stranraer,2-0,1-0
+2009-04-25,Ayr,East Fife,2-0,0-0
+2009-04-25,Peterhead,Stirling,1-1,0-0
+2009-04-25,Raith Rvs,Brechin,2-0,0-0
+2009-05-02,Arbroath,Peterhead,2-2,1-1
+2009-05-02,Ayr,Alloa,1-1,1-0
+2009-05-02,Brechin,Stranraer,2-1,2-1
+2009-05-02,East Fife,Stirling,0-3,0-1
+2009-05-02,Queens Park,Raith Rvs,0-1,0-1
+2009-05-09,Alloa,Brechin,3-2,2-0
+2009-05-09,Peterhead,Ayr,2-3,0-0
+2009-05-09,Raith Rvs,Arbroath,0-0,0-0
+2009-05-09,Stranraer,East Fife,0-1,0-1
+2009-05-11,Stirling,Queens Park,4-0,3-0

@@ -1,0 +1,229 @@
+Date,Team 1,Team 2,FT,HT
+2002-08-03,Celtic,Dunfermline,2-1,1-0
+2002-08-03,Dundee,Hearts,1-1,0-1
+2002-08-03,Hibernian,Aberdeen,1-2,1-0
+2002-08-03,Kilmarnock,Rangers,1-1,0-1
+2002-08-03,Livingston,Motherwell,3-2,2-0
+2002-08-03,Partick,Dundee United,0-0,0-0
+2002-08-10,Aberdeen,Celtic,0-4,0-2
+2002-08-10,Dundee United,Kilmarnock,1-2,0-0
+2002-08-10,Dunfermline,Livingston,2-1,1-0
+2002-08-10,Motherwell,Partick,1-1,0-0
+2002-08-10,Rangers,Dundee,3-0,1-0
+2002-08-11,Hearts,Hibernian,5-1,2-0
+2002-08-17,Celtic,Dundee United,5-0,3-0
+2002-08-17,Dunfermline,Dundee,4-2,1-1
+2002-08-17,Kilmarnock,Motherwell,0-3,0-0
+2002-08-17,Partick,Livingston,2-2,1-1
+2002-08-18,Aberdeen,Hearts,1-1,0-0
+2002-08-18,Hibernian,Rangers,2-4,1-2
+2002-08-24,Dundee,Hibernian,2-1,0-1
+2002-08-24,Hearts,Dunfermline,2-0,0-0
+2002-08-24,Partick,Celtic,0-1,0-0
+2002-08-25,Dundee United,Motherwell,1-1,0-1
+2002-08-25,Livingston,Kilmarnock,0-1,0-1
+2002-08-25,Rangers,Aberdeen,2-0,1-0
+2002-08-31,Dundee United,Dundee,0-0,0-0
+2002-08-31,Hearts,Kilmarnock,1-1,1-1
+2002-08-31,Motherwell,Hibernian,0-2,0-1
+2002-09-01,Aberdeen,Partick,0-1,0-1
+2002-09-01,Celtic,Livingston,2-0,2-0
+2002-09-01,Dunfermline,Rangers,0-6,0-3
+2002-09-10,Motherwell,Celtic,2-1,0-0
+2002-09-11,Aberdeen,Dundee United,1-2,1-2
+2002-09-11,Dundee,Livingston,2-1,0-1
+2002-09-11,Hibernian,Dunfermline,1-4,1-3
+2002-09-11,Kilmarnock,Partick,1-0,1-0
+2002-09-11,Rangers,Hearts,2-0,1-0
+2002-09-14,Celtic,Hibernian,1-0,1-0
+2002-09-14,Dundee United,Dunfermline,1-2,0-2
+2002-09-14,Kilmarnock,Aberdeen,2-2,0-0
+2002-09-14,Livingston,Rangers,0-2,0-0
+2002-09-14,Partick,Dundee,1-1,1-0
+2002-09-15,Hearts,Motherwell,4-2,1-2
+2002-09-21,Dunfermline,Motherwell,1-0,0-0
+2002-09-21,Hearts,Dundee United,2-0,1-0
+2002-09-21,Hibernian,Kilmarnock,2-0,2-0
+2002-09-21,Rangers,Partick,3-0,2-0
+2002-09-22,Dundee,Celtic,0-1,0-1
+2002-09-22,Livingston,Aberdeen,1-2,0-1
+2002-09-28,Aberdeen,Dunfermline,3-1,1-1
+2002-09-28,Celtic,Kilmarnock,5-0,3-0
+2002-09-28,Dundee United,Rangers,0-3,0-2
+2002-09-28,Hibernian,Livingston,1-0,1-0
+2002-09-28,Motherwell,Dundee,1-1,0-1
+2002-09-28,Partick,Hearts,2-2,1-1
+2002-10-05,Dundee,Kilmarnock,2-1,0-0
+2002-10-05,Dunfermline,Partick,4-1,1-0
+2002-10-05,Hibernian,Dundee United,2-1,1-0
+2002-10-05,Motherwell,Aberdeen,1-2,1-0
+2002-10-06,Celtic,Rangers,3-3,1-1
+2002-10-06,Livingston,Hearts,1-1,1-0
+2002-10-19,Aberdeen,Dundee,0-0,0-0
+2002-10-19,Dundee United,Livingston,2-3,1-0
+2002-10-19,Kilmarnock,Dunfermline,2-2,0-1
+2002-10-19,Partick,Hibernian,0-3,0-1
+2002-10-19,Rangers,Motherwell,3-0,1-0
+2002-10-20,Hearts,Celtic,1-4,0-4
+2002-10-26,Dundee United,Partick,1-1,1-0
+2002-10-26,Hearts,Dundee,1-2,0-1
+2002-10-26,Motherwell,Livingston,1-5,0-1
+2002-10-27,Aberdeen,Hibernian,0-1,0-0
+2002-10-27,Dunfermline,Celtic,1-4,0-2
+2002-10-27,Rangers,Kilmarnock,6-1,4-1
+2002-11-02,Dundee,Rangers,0-3,0-1
+2002-11-02,Kilmarnock,Dundee United,1-2,1-1
+2002-11-02,Livingston,Dunfermline,1-1,0-0
+2002-11-02,Partick,Motherwell,2-0,1-0
+2002-11-03,Celtic,Aberdeen,7-0,3-0
+2002-11-03,Hibernian,Hearts,1-2,1-0
+2002-11-09,Hearts,Aberdeen,0-0,0-0
+2002-11-09,Livingston,Partick,3-0,0-0
+2002-11-09,Motherwell,Kilmarnock,0-1,0-0
+2002-11-10,Dundee United,Celtic,0-2,0-1
+2002-11-10,Rangers,Hibernian,2-1,2-1
+2002-11-12,Dundee,Dunfermline,2-3,2-1
+2002-11-16,Aberdeen,Rangers,2-2,0-1
+2002-11-16,Hibernian,Dundee,2-1,1-0
+2002-11-16,Kilmarnock,Livingston,2-0,0-0
+2002-11-16,Motherwell,Dundee United,1-2,0-2
+2002-11-17,Celtic,Partick,4-0,2-0
+2002-11-17,Dunfermline,Hearts,3-1,0-0
+2002-11-23,Dundee,Dundee United,3-2,2-0
+2002-11-23,Hibernian,Motherwell,3-1,0-0
+2002-11-23,Kilmarnock,Hearts,0-1,0-0
+2002-11-23,Partick,Aberdeen,2-1,1-0
+2002-11-23,Rangers,Dunfermline,3-0,0-0
+2002-11-24,Livingston,Celtic,0-2,0-1
+2002-11-30,Dundee United,Aberdeen,1-1,1-1
+2002-11-30,Dunfermline,Hibernian,1-1,0-0
+2002-11-30,Livingston,Dundee,1-1,1-0
+2002-11-30,Partick,Kilmarnock,3-0,0-0
+2002-12-01,Celtic,Motherwell,3-1,0-0
+2002-12-01,Hearts,Rangers,0-4,0-0
+2002-12-03,Aberdeen,Kilmarnock,0-1,0-0
+2002-12-04,Dundee,Partick,4-1,1-0
+2002-12-04,Dunfermline,Dundee United,4-1,3-0
+2002-12-04,Hibernian,Celtic,0-1,0-0
+2002-12-04,Motherwell,Hearts,6-1,4-0
+2002-12-04,Rangers,Livingston,4-3,3-0
+2002-12-07,Aberdeen,Motherwell,1-1,1-0
+2002-12-07,Dundee United,Hibernian,1-1,1-1
+2002-12-07,Hearts,Livingston,2-1,1-0
+2002-12-07,Kilmarnock,Dundee,2-0,0-0
+2002-12-07,Partick,Dunfermline,4-0,2-0
+2002-12-07,Rangers,Celtic,3-2,3-1
+2002-12-14,Dundee,Motherwell,1-1,1-1
+2002-12-14,Hearts,Partick,1-0,0-0
+2002-12-14,Livingston,Hibernian,1-2,0-0
+2002-12-14,Rangers,Dundee United,3-0,1-0
+2002-12-15,Dunfermline,Aberdeen,3-0,1-0
+2002-12-15,Kilmarnock,Celtic,1-1,1-0
+2002-12-21,Aberdeen,Livingston,0-0,0-0
+2002-12-21,Celtic,Dundee,2-0,1-0
+2002-12-21,Dundee United,Hearts,0-3,0-2
+2002-12-21,Kilmarnock,Hibernian,2-1,0-0
+2002-12-22,Partick,Rangers,1-2,1-0
+2002-12-26,Celtic,Hearts,4-2,2-1
+2002-12-26,Dundee,Aberdeen,1-2,0-0
+2002-12-26,Dunfermline,Kilmarnock,0-2,0-0
+2002-12-26,Hibernian,Partick,1-1,0-0
+2002-12-26,Livingston,Dundee United,3-0,1-0
+2002-12-26,Motherwell,Rangers,1-0,0-0
+2002-12-29,Celtic,Dunfermline,1-0,1-0
+2002-12-29,Dundee,Hearts,1-2,0-1
+2002-12-29,Hibernian,Aberdeen,2-0,0-0
+2002-12-29,Kilmarnock,Rangers,0-1,0-1
+2002-12-29,Livingston,Motherwell,1-0,0-0
+2002-12-29,Partick,Dundee United,0-0,0-0
+2003-01-02,Aberdeen,Celtic,1-1,0-1
+2003-01-02,Dundee United,Kilmarnock,2-2,1-1
+2003-01-02,Dunfermline,Livingston,2-0,1-0
+2003-01-02,Hearts,Hibernian,4-4,1-2
+2003-01-02,Motherwell,Partick,2-2,1-1
+2003-01-02,Rangers,Dundee,3-1,2-1
+2003-01-28,Aberdeen,Hearts,0-1,0-0
+2003-01-28,Dunfermline,Dundee,0-1,0-1
+2003-01-28,Partick,Livingston,1-3,1-1
+2003-01-29,Celtic,Dundee United,2-0,2-0
+2003-01-29,Hibernian,Rangers,0-2,0-0
+2003-01-29,Kilmarnock,Motherwell,1-0,0-0
+2003-02-01,Dundee United,Motherwell,2-1,1-1
+2003-02-01,Hearts,Dunfermline,3-0,1-0
+2003-02-01,Livingston,Kilmarnock,0-4,0-2
+2003-02-01,Rangers,Aberdeen,2-1,1-0
+2003-02-02,Partick,Celtic,0-2,0-2
+2003-02-08,Aberdeen,Partick,0-1,0-1
+2003-02-08,Dunfermline,Rangers,1-3,0-1
+2003-02-08,Hearts,Kilmarnock,3-0,0-0
+2003-02-08,Motherwell,Hibernian,2-1,2-0
+2003-02-09,Celtic,Livingston,2-1,0-0
+2003-02-09,Dundee United,Dundee,1-1,1-1
+2003-02-15,Hibernian,Dunfermline,1-3,0-2
+2003-02-15,Rangers,Hearts,1-0,1-0
+2003-02-16,Aberdeen,Dundee United,3-0,1-0
+2003-02-19,Motherwell,Dunfermline,2-1,1-0
+2003-02-23,Kilmarnock,Partick,1-0,1-0
+2003-02-25,Dundee,Hibernian,3-0,1-0
+2003-03-01,Dundee United,Dunfermline,3-0,1-0
+2003-03-01,Hearts,Motherwell,2-1,1-0
+2003-03-01,Kilmarnock,Aberdeen,2-0,0-0
+2003-03-01,Partick,Dundee,1-3,1-2
+2003-03-02,Celtic,Hibernian,3-2,2-1
+2003-03-02,Livingston,Rangers,1-2,0-2
+2003-03-05,Dundee,Livingston,0-0,0-0
+2003-03-08,Celtic,Rangers,1-0,0-0
+2003-03-08,Dundee,Kilmarnock,2-2,2-0
+2003-03-08,Livingston,Hearts,1-1,0-1
+2003-03-08,Motherwell,Aberdeen,0-1,0-1
+2003-03-09,Dunfermline,Partick,0-0,0-0
+2003-03-09,Hibernian,Dundee United,1-1,1-0
+2003-03-15,Aberdeen,Dundee,3-3,0-2
+2003-03-15,Dundee United,Livingston,0-1,0-0
+2003-03-15,Partick,Hibernian,0-1,0-1
+2003-03-16,Kilmarnock,Dunfermline,1-1,0-0
+2003-03-19,Rangers,Motherwell,2-0,1-0
+2003-04-05,Dunfermline,Motherwell,3-0,1-0
+2003-04-05,Hearts,Dundee United,2-1,0-1
+2003-04-05,Kilmarnock,Hibernian,6-2,3-1
+2003-04-05,Livingston,Aberdeen,1-2,1-2
+2003-04-05,Rangers,Partick,2-0,0-0
+2003-04-06,Dundee,Celtic,1-1,1-1
+2003-04-12,Aberdeen,Dunfermline,1-0,1-0
+2003-04-12,Hibernian,Livingston,2-2,1-0
+2003-04-12,Motherwell,Dundee,1-2,0-2
+2003-04-12,Partick,Hearts,1-1,0-0
+2003-04-13,Celtic,Kilmarnock,2-0,1-0
+2003-04-13,Dundee United,Rangers,1-4,0-3
+2003-04-19,Hearts,Celtic,2-1,0-0
+2003-04-26,Aberdeen,Livingston,1-0,1-0
+2003-04-26,Dundee United,Hibernian,1-2,1-0
+2003-04-26,Dunfermline,Hearts,0-1,0-0
+2003-04-26,Partick,Motherwell,3-0,1-0
+2003-04-27,Dundee,Kilmarnock,0-1,0-0
+2003-04-27,Rangers,Celtic,1-2,0-2
+2003-05-03,Dunfermline,Celtic,1-4,0-3
+2003-05-03,Hibernian,Aberdeen,3-1,1-0
+2003-05-03,Kilmarnock,Hearts,1-0,1-0
+2003-05-03,Livingston,Partick,3-1,2-1
+2003-05-03,Motherwell,Dundee United,2-2,1-0
+2003-05-04,Dundee,Rangers,2-2,2-1
+2003-05-07,Motherwell,Celtic,0-4,0-1
+2003-05-10,Aberdeen,Partick,2-1,0-1
+2003-05-10,Celtic,Hearts,1-0,1-0
+2003-05-10,Dundee,Dunfermline,2-2,1-0
+2003-05-10,Hibernian,Motherwell,1-0,0-0
+2003-05-10,Livingston,Dundee United,1-2,0-1
+2003-05-11,Rangers,Kilmarnock,4-0,2-0
+2003-05-14,Celtic,Dundee,6-2,3-1
+2003-05-17,Dunfermline,Kilmarnock,2-2,2-1
+2003-05-17,Livingston,Hibernian,1-2,0-1
+2003-05-17,Motherwell,Aberdeen,2-3,1-3
+2003-05-17,Partick,Dundee United,0-1,0-0
+2003-05-18,Hearts,Rangers,0-2,0-0
+2003-05-24,Dundee United,Aberdeen,0-2,0-0
+2003-05-24,Hibernian,Partick,2-3,2-1
+2003-05-24,Motherwell,Livingston,6-2,1-1
+2003-05-25,Hearts,Dundee,1-0,0-0
+2003-05-25,Kilmarnock,Celtic,0-4,0-2
+2003-05-25,Rangers,Dunfermline,6-1,3-1

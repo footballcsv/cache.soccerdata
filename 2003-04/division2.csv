@@ -1,0 +1,181 @@
+Date,Team 1,Team 2,FT,HT
+2003-08-09,Alloa,Dumbarton,1-2,1-1
+2003-08-09,Arbroath,Berwick,1-0,1-0
+2003-08-09,East Fife,Stenhousemuir,3-2,2-0
+2003-08-09,Hamilton,Forfar,1-2,0-0
+2003-08-09,Morton,Airdrie Utd,3-1,0-1
+2003-08-16,Airdrie Utd,Alloa,1-0,0-0
+2003-08-16,Berwick,Hamilton,3-1,1-0
+2003-08-16,Dumbarton,Arbroath,1-1,0-0
+2003-08-16,Forfar,East Fife,0-1,0-0
+2003-08-16,Stenhousemuir,Morton,0-2,0-0
+2003-08-23,Alloa,Stenhousemuir,2-2,0-0
+2003-08-23,Arbroath,Forfar,0-0,0-0
+2003-08-23,East Fife,Berwick,3-1,0-1
+2003-08-23,Hamilton,Airdrie Utd,2-1,1-0
+2003-08-23,Morton,Dumbarton,2-2,1-0
+2003-08-30,Airdrie Utd,Dumbarton,2-0,2-0
+2003-08-30,Arbroath,Hamilton,2-2,1-1
+2003-08-30,Berwick,Alloa,3-2,1-1
+2003-08-30,Morton,East Fife,2-1,0-1
+2003-08-30,Stenhousemuir,Forfar,2-0,1-0
+2003-09-13,Alloa,Arbroath,2-2,1-0
+2003-09-13,Dumbarton,Berwick,1-1,1-0
+2003-09-13,East Fife,Airdrie Utd,3-1,1-1
+2003-09-13,Forfar,Morton,2-3,2-2
+2003-09-13,Hamilton,Stenhousemuir,2-0,0-0
+2003-09-20,Airdrie Utd,Arbroath,2-1,0-1
+2003-09-20,East Fife,Alloa,0-1,0-1
+2003-09-20,Forfar,Dumbarton,3-1,1-0
+2003-09-20,Morton,Hamilton,1-1,0-1
+2003-09-20,Stenhousemuir,Berwick,0-3,0-1
+2003-09-27,Alloa,Forfar,1-1,1-0
+2003-09-27,Arbroath,Morton,0-4,0-3
+2003-09-27,Berwick,Airdrie Utd,0-1,0-1
+2003-09-27,Dumbarton,Stenhousemuir,0-1,0-0
+2003-09-27,Hamilton,East Fife,2-2,1-0
+2003-10-04,East Fife,Dumbarton,1-0,0-0
+2003-10-04,Forfar,Airdrie Utd,1-1,1-0
+2003-10-04,Hamilton,Alloa,3-4,0-3
+2003-10-04,Morton,Berwick,1-3,0-1
+2003-10-04,Stenhousemuir,Arbroath,1-0,1-0
+2003-10-11,Alloa,Airdrie Utd,1-4,1-3
+2003-10-18,Airdrie Utd,Stenhousemuir,2-0,1-0
+2003-10-18,Alloa,Morton,0-1,0-0
+2003-10-18,Arbroath,East Fife,0-1,0-1
+2003-10-18,Berwick,Forfar,0-4,0-1
+2003-10-18,Dumbarton,Hamilton,0-3,0-1
+2003-10-25,Arbroath,Dumbarton,2-1,1-0
+2003-10-25,East Fife,Forfar,2-3,2-2
+2003-10-25,Hamilton,Berwick,2-2,0-1
+2003-10-25,Morton,Stenhousemuir,5-2,2-1
+2003-11-01,Airdrie Utd,Morton,1-6,0-3
+2003-11-01,Berwick,Arbroath,3-0,1-0
+2003-11-01,Dumbarton,Alloa,1-0,1-0
+2003-11-01,Forfar,Hamilton,4-3,0-2
+2003-11-01,Stenhousemuir,East Fife,3-0,3-0
+2003-11-08,Airdrie Utd,East Fife,1-1,0-0
+2003-11-08,Arbroath,Alloa,3-1,2-0
+2003-11-08,Berwick,Dumbarton,1-4,1-4
+2003-11-08,Morton,Forfar,1-1,1-1
+2003-11-08,Stenhousemuir,Hamilton,0-3,0-0
+2003-11-16,Alloa,Berwick,2-3,1-1
+2003-11-16,Dumbarton,Airdrie Utd,2-0,0-0
+2003-11-16,East Fife,Morton,0-0,0-0
+2003-11-16,Forfar,Stenhousemuir,2-0,1-0
+2003-11-22,Hamilton,Arbroath,2-0,0-0
+2003-11-29,Berwick,Stenhousemuir,2-1,2-0
+2003-12-02,Alloa,East Fife,2-0,2-0
+2003-12-02,Arbroath,Airdrie Utd,1-1,0-0
+2003-12-02,Hamilton,Morton,1-2,0-1
+2003-12-06,Airdrie Utd,Berwick,1-1,1-0
+2003-12-06,East Fife,Hamilton,2-3,1-0
+2003-12-06,Forfar,Alloa,1-1,0-0
+2003-12-06,Morton,Arbroath,6-4,2-2
+2003-12-06,Stenhousemuir,Dumbarton,1-1,1-1
+2003-12-13,Airdrie Utd,Forfar,3-3,1-1
+2003-12-13,Alloa,Hamilton,1-3,0-0
+2003-12-13,Arbroath,Stenhousemuir,2-1,1-0
+2003-12-13,Berwick,Morton,2-3,0-2
+2003-12-13,Dumbarton,East Fife,3-1,1-0
+2003-12-27,East Fife,Arbroath,0-1,0-1
+2003-12-27,Forfar,Berwick,1-5,1-3
+2003-12-27,Stenhousemuir,Airdrie Utd,0-1,0-1
+2004-01-03,Berwick,East Fife,0-2,0-1
+2004-01-03,Dumbarton,Morton,1-0,1-0
+2004-01-10,Dumbarton,Forfar,2-1,1-1
+2004-01-10,Stenhousemuir,Alloa,1-3,1-0
+2004-01-17,Alloa,Dumbarton,3-0,1-0
+2004-01-17,Arbroath,Berwick,1-2,1-0
+2004-01-17,East Fife,Stenhousemuir,1-0,0-0
+2004-01-20,Hamilton,Forfar,2-1,2-0
+2004-01-24,Airdrie Utd,Arbroath,0-1,0-0
+2004-01-24,East Fife,Alloa,0-1,0-0
+2004-01-24,Forfar,Dumbarton,1-0,1-0
+2004-01-24,Morton,Hamilton,2-2,2-2
+2004-01-24,Stenhousemuir,Berwick,3-1,2-0
+2004-01-31,Alloa,Forfar,4-0,2-0
+2004-01-31,Arbroath,Morton,2-2,1-1
+2004-01-31,Hamilton,East Fife,1-0,1-0
+2004-02-07,Alloa,Arbroath,4-0,1-0
+2004-02-07,Dumbarton,Berwick,4-1,2-1
+2004-02-07,East Fife,Airdrie Utd,0-1,0-1
+2004-02-07,Forfar,Morton,2-1,1-1
+2004-02-10,Hamilton,Stenhousemuir,0-1,0-0
+2004-02-14,Airdrie Utd,Dumbarton,1-1,1-0
+2004-02-14,Arbroath,Hamilton,0-2,0-1
+2004-02-14,Berwick,Alloa,3-1,0-0
+2004-02-14,Morton,East Fife,1-1,0-0
+2004-02-14,Stenhousemuir,Forfar,0-2,0-0
+2004-02-21,Airdrie Utd,Stenhousemuir,4-0,4-0
+2004-02-21,Alloa,Morton,3-3,2-1
+2004-02-21,Arbroath,East Fife,0-0,0-0
+2004-02-21,Berwick,Forfar,3-1,1-1
+2004-02-21,Dumbarton,Hamilton,2-0,1-0
+2004-03-02,Airdrie Utd,Hamilton,3-0,1-0
+2004-03-06,Airdrie Utd,Alloa,2-1,2-1
+2004-03-06,Berwick,Hamilton,2-4,0-2
+2004-03-06,Dumbarton,Arbroath,1-0,1-0
+2004-03-06,Forfar,East Fife,1-0,0-0
+2004-03-06,Stenhousemuir,Morton,0-1,0-0
+2004-03-09,Hamilton,Dumbarton,2-0,1-0
+2004-03-09,Morton,Airdrie Utd,1-1,1-0
+2004-03-13,Alloa,Stenhousemuir,1-0,0-0
+2004-03-13,Arbroath,Forfar,0-1,0-1
+2004-03-13,East Fife,Berwick,2-2,2-2
+2004-03-13,Hamilton,Airdrie Utd,0-1,0-1
+2004-03-13,Morton,Dumbarton,3-2,1-0
+2004-03-16,Berwick,Airdrie Utd,1-1,1-0
+2004-03-16,East Fife,Dumbarton,1-3,1-1
+2004-03-16,Forfar,Arbroath,2-2,1-1
+2004-03-16,Hamilton,Alloa,0-1,0-0
+2004-03-20,Arbroath,Alloa,2-1,2-1
+2004-03-23,Dumbarton,Stenhousemuir,4-0,3-0
+2004-03-23,Forfar,Airdrie Utd,1-3,1-2
+2004-03-23,Morton,Berwick,2-1,1-0
+2004-03-27,Alloa,Berwick,4-2,2-2
+2004-03-27,Dumbarton,Airdrie Utd,1-2,1-1
+2004-03-27,East Fife,Morton,1-0,0-0
+2004-03-27,Forfar,Stenhousemuir,1-1,1-0
+2004-03-27,Hamilton,Arbroath,2-2,1-1
+2004-03-30,Berwick,Dumbarton,1-2,0-1
+2004-03-30,Morton,Alloa,2-2,2-1
+2004-03-30,Stenhousemuir,Arbroath,0-3,0-1
+2004-03-31,Airdrie Utd,East Fife,2-1,1-0
+2004-04-03,Airdrie Utd,Berwick,6-0,5-0
+2004-04-03,East Fife,Hamilton,2-3,0-0
+2004-04-03,Morton,Arbroath,1-0,1-0
+2004-04-03,Stenhousemuir,Dumbarton,1-2,0-1
+2004-04-06,Morton,Forfar,1-1,0-1
+2004-04-06,Stenhousemuir,Hamilton,0-2,0-0
+2004-04-10,Alloa,East Fife,1-1,1-0
+2004-04-10,Arbroath,Airdrie Utd,0-4,0-1
+2004-04-10,Berwick,Stenhousemuir,3-0,2-0
+2004-04-10,Dumbarton,Forfar,1-1,0-1
+2004-04-10,Hamilton,Morton,6-1,3-0
+2004-04-13,Forfar,Alloa,2-0,2-0
+2004-04-17,East Fife,Arbroath,1-2,1-1
+2004-04-17,Forfar,Berwick,0-2,0-1
+2004-04-17,Hamilton,Dumbarton,2-1,1-1
+2004-04-17,Morton,Alloa,2-1,1-0
+2004-04-17,Stenhousemuir,Airdrie Utd,0-3,0-1
+2004-04-24,Airdrie Utd,Forfar,2-2,0-1
+2004-04-24,Alloa,Hamilton,1-1,1-0
+2004-04-24,Arbroath,Stenhousemuir,1-1,0-1
+2004-04-24,Berwick,Morton,2-0,2-0
+2004-04-24,Dumbarton,East Fife,1-0,1-0
+2004-05-01,Airdrie Utd,Hamilton,1-1,0-0
+2004-05-01,Berwick,East Fife,1-1,0-0
+2004-05-01,Dumbarton,Morton,3-0,1-0
+2004-05-01,Forfar,Arbroath,1-2,1-1
+2004-05-01,Stenhousemuir,Alloa,0-1,0-0
+2004-05-08,Alloa,Airdrie Utd,0-1,0-1
+2004-05-08,Arbroath,Dumbarton,0-3,0-2
+2004-05-08,East Fife,Forfar,2-0,0-0
+2004-05-08,Hamilton,Berwick,2-0,2-0
+2004-05-08,Morton,Stenhousemuir,1-4,1-3
+2004-05-15,Airdrie Utd,Morton,2-0,0-0
+2004-05-15,Berwick,Arbroath,1-3,1-0
+2004-05-15,Dumbarton,Alloa,3-1,0-1
+2004-05-15,Forfar,Hamilton,0-4,0-1
+2004-05-15,Stenhousemuir,East Fife,0-1,0-0

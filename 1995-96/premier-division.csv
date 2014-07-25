@@ -1,0 +1,181 @@
+Date,Team 1,Team 2,FT,HT
+1995-08-26,Falkirk,Aberdeen,2-3,0-2
+1995-08-26,Hearts,Motherwell,1-1,0-0
+1995-08-26,Partick,Hibernian,1-1,0-0
+1995-08-26,Raith Rvs,Celtic,0-1,0-0
+1995-08-26,Rangers,Kilmarnock,1-0,0-0
+1995-09-09,Hearts,Falkirk,4-1,2-1
+1995-09-09,Kilmarnock,Hibernian,0-3,0-3
+1995-09-09,Motherwell,Partick,1-1,0-0
+1995-09-09,Rangers,Raith Rvs,4-0,3-0
+1995-09-10,Aberdeen,Celtic,2-3,2-3
+1995-09-16,Celtic,Motherwell,1-1,1-0
+1995-09-16,Falkirk,Rangers,0-2,0-1
+1995-09-16,Hibernian,Aberdeen,1-1,0-0
+1995-09-16,Partick,Hearts,2-0,1-0
+1995-09-16,Raith Rvs,Kilmarnock,2-0,0-0
+1995-09-23,Falkirk,Motherwell,0-0,0-0
+1995-09-23,Hearts,Celtic,0-4,0-2
+1995-09-23,Kilmarnock,Aberdeen,1-2,0-2
+1995-09-23,Raith Rvs,Partick,3-1,2-0
+1995-09-23,Rangers,Hibernian,0-1,0-0
+1995-09-30,Aberdeen,Raith Rvs,3-0,2-0
+1995-09-30,Celtic,Rangers,0-2,0-1
+1995-09-30,Motherwell,Kilmarnock,3-0,1-0
+1995-09-30,Partick,Falkirk,1-1,0-0
+1995-10-01,Hibernian,Hearts,2-2,0-1
+1995-10-03,Rangers,Motherwell,2-1,1-0
+1995-10-04,Falkirk,Celtic,0-1,0-0
+1995-10-04,Hearts,Aberdeen,1-2,1-1
+1995-10-04,Partick,Kilmarnock,1-1,1-1
+1995-10-04,Raith Rvs,Hibernian,3-0,1-0
+1995-10-07,Aberdeen,Rangers,0-1,0-0
+1995-10-07,Celtic,Partick,2-1,0-0
+1995-10-07,Hibernian,Falkirk,2-1,1-0
+1995-10-07,Kilmarnock,Hearts,3-1,2-1
+1995-10-07,Motherwell,Raith Rvs,0-2,0-1
+1995-10-14,Celtic,Hibernian,2-2,1-1
+1995-10-14,Falkirk,Kilmarnock,0-2,0-2
+1995-10-14,Hearts,Raith Rvs,4-2,2-0
+1995-10-14,Motherwell,Aberdeen,2-1,1-1
+1995-10-14,Partick,Rangers,0-4,0-2
+1995-10-21,Aberdeen,Partick,3-0,1-0
+1995-10-21,Hibernian,Motherwell,4-2,3-0
+1995-10-21,Kilmarnock,Celtic,0-0,0-0
+1995-10-21,Raith Rvs,Falkirk,0-1,0-1
+1995-10-21,Rangers,Hearts,4-1,3-0
+1995-10-28,Celtic,Aberdeen,2-0,1-0
+1995-10-28,Falkirk,Hearts,2-0,1-0
+1995-10-28,Hibernian,Kilmarnock,2-0,1-0
+1995-10-28,Partick,Motherwell,1-0,0-0
+1995-10-28,Raith Rvs,Rangers,2-2,0-0
+1995-11-04,Aberdeen,Hibernian,1-2,0-1
+1995-11-04,Hearts,Partick,3-0,1-0
+1995-11-04,Kilmarnock,Raith Rvs,5-1,2-0
+1995-11-04,Motherwell,Celtic,0-2,0-0
+1995-11-04,Rangers,Falkirk,2-0,2-0
+1995-11-07,Motherwell,Hearts,0-0,0-0
+1995-11-08,Aberdeen,Falkirk,3-1,2-1
+1995-11-08,Celtic,Raith Rvs,0-0,0-0
+1995-11-08,Kilmarnock,Rangers,0-2,0-0
+1995-11-11,Falkirk,Hibernian,2-0,0-0
+1995-11-11,Hearts,Kilmarnock,2-1,0-0
+1995-11-11,Partick,Celtic,1-2,1-1
+1995-11-11,Raith Rvs,Motherwell,0-0,0-0
+1995-11-11,Rangers,Aberdeen,1-1,1-1
+1995-11-19,Hearts,Hibernian,2-1,1-0
+1995-11-19,Rangers,Celtic,3-3,1-1
+1995-11-20,Falkirk,Partick,0-1,0-0
+1995-11-20,Kilmarnock,Motherwell,1-1,1-1
+1995-11-20,Raith Rvs,Aberdeen,1-0,1-0
+1995-11-22,Hibernian,Partick,3-0,1-0
+1995-11-25,Celtic,Hearts,3-1,1-0
+1995-11-25,Hibernian,Rangers,1-4,1-2
+1995-11-25,Motherwell,Falkirk,1-1,0-0
+1995-11-25,Partick,Raith Rvs,0-2,0-2
+1995-12-02,Celtic,Kilmarnock,4-2,2-2
+1995-12-02,Falkirk,Raith Rvs,2-1,0-0
+1995-12-02,Hearts,Rangers,0-2,0-0
+1995-12-02,Motherwell,Hibernian,0-2,0-0
+1995-12-02,Partick,Aberdeen,1-0,0-0
+1995-12-09,Aberdeen,Motherwell,1-0,0-0
+1995-12-09,Hibernian,Celtic,0-4,0-2
+1995-12-09,Kilmarnock,Falkirk,4-0,2-0
+1995-12-09,Raith Rvs,Hearts,1-1,1-0
+1995-12-09,Rangers,Partick,1-0,0-0
+1995-12-12,Aberdeen,Kilmarnock,4-1,2-1
+1995-12-16,Aberdeen,Hearts,1-2,1-0
+1995-12-16,Celtic,Falkirk,1-0,1-0
+1995-12-16,Hibernian,Raith Rvs,1-2,1-0
+1995-12-16,Kilmarnock,Partick,2-1,1-1
+1995-12-19,Motherwell,Rangers,0-0,0-0
+1995-12-26,Rangers,Kilmarnock,3-0,2-0
+1995-12-30,Rangers,Hibernian,7-0,2-0
+1996-01-01,Hibernian,Hearts,2-1,2-1
+1996-01-03,Celtic,Rangers,0-0,0-0
+1996-01-06,Celtic,Motherwell,1-0,1-0
+1996-01-06,Falkirk,Rangers,0-4,0-3
+1996-01-06,Partick,Hearts,0-1,0-0
+1996-01-06,Raith Rvs,Kilmarnock,1-1,1-0
+1996-01-08,Hibernian,Aberdeen,1-2,0-2
+1996-01-09,Partick,Falkirk,0-3,0-2
+1996-01-09,Raith Rvs,Celtic,1-3,0-2
+1996-01-10,Hearts,Motherwell,4-0,2-0
+1996-01-13,Hearts,Falkirk,2-1,1-0
+1996-01-13,Kilmarnock,Hibernian,3-2,0-2
+1996-01-13,Motherwell,Partick,0-2,0-1
+1996-01-13,Rangers,Raith Rvs,4-0,3-0
+1996-01-14,Aberdeen,Celtic,1-2,1-0
+1996-01-16,Falkirk,Aberdeen,1-1,1-1
+1996-01-16,Motherwell,Kilmarnock,0-1,0-0
+1996-01-16,Partick,Hibernian,0-0,0-0
+1996-01-17,Hearts,Celtic,1-2,1-0
+1996-01-20,Aberdeen,Partick,1-0,0-0
+1996-01-20,Hibernian,Motherwell,0-0,0-0
+1996-01-20,Kilmarnock,Celtic,0-0,0-0
+1996-01-20,Raith Rvs,Falkirk,1-0,0-0
+1996-01-20,Rangers,Hearts,0-3,0-1
+1996-01-23,Falkirk,Motherwell,0-1,0-1
+1996-01-23,Kilmarnock,Aberdeen,1-1,0-1
+1996-01-23,Raith Rvs,Partick,0-2,0-0
+1996-02-03,Celtic,Hibernian,2-1,0-1
+1996-02-03,Falkirk,Kilmarnock,4-2,2-2
+1996-02-03,Hearts,Raith Rvs,2-0,1-0
+1996-02-03,Partick,Rangers,1-2,1-2
+1996-02-07,Aberdeen,Raith Rvs,1-0,0-0
+1996-02-10,Falkirk,Celtic,0-0,0-0
+1996-02-10,Hearts,Aberdeen,1-3,1-2
+1996-02-10,Partick,Kilmarnock,0-1,0-1
+1996-02-10,Raith Rvs,Hibernian,1-0,1-0
+1996-02-10,Rangers,Motherwell,3-2,1-0
+1996-02-13,Motherwell,Aberdeen,1-0,0-0
+1996-02-24,Celtic,Partick,4-0,2-0
+1996-02-24,Hibernian,Falkirk,2-1,0-0
+1996-02-24,Kilmarnock,Hearts,0-2,0-2
+1996-02-24,Motherwell,Raith Rvs,1-0,0-0
+1996-02-25,Aberdeen,Rangers,0-1,0-1
+1996-03-02,Aberdeen,Kilmarnock,3-0,1-0
+1996-03-02,Celtic,Hearts,4-0,3-0
+1996-03-02,Motherwell,Falkirk,1-0,1-0
+1996-03-02,Partick,Raith Rvs,0-3,0-1
+1996-03-03,Hibernian,Rangers,0-2,0-1
+1996-03-16,Falkirk,Partick,1-2,0-1
+1996-03-16,Hearts,Hibernian,1-1,0-0
+1996-03-16,Kilmarnock,Motherwell,0-1,0-1
+1996-03-16,Raith Rvs,Aberdeen,2-2,2-1
+1996-03-17,Rangers,Celtic,1-1,1-0
+1996-03-23,Aberdeen,Hibernian,2-1,0-1
+1996-03-23,Hearts,Partick,2-5,1-2
+1996-03-23,Kilmarnock,Raith Rvs,2-0,0-0
+1996-03-23,Motherwell,Celtic,0-0,0-0
+1996-03-23,Rangers,Falkirk,3-2,2-0
+1996-03-30,Falkirk,Hearts,0-2,0-1
+1996-03-30,Hibernian,Kilmarnock,1-1,1-0
+1996-03-30,Partick,Motherwell,0-2,0-1
+1996-03-30,Raith Rvs,Rangers,2-4,1-1
+1996-04-01,Celtic,Aberdeen,5-0,2-0
+1996-04-06,Falkirk,Raith Rvs,2-3,2-1
+1996-04-06,Motherwell,Hibernian,3-0,2-0
+1996-04-10,Celtic,Kilmarnock,1-1,0-1
+1996-04-10,Hearts,Rangers,2-0,1-0
+1996-04-13,Aberdeen,Motherwell,2-1,0-1
+1996-04-13,Kilmarnock,Falkirk,1-0,0-0
+1996-04-13,Raith Rvs,Hearts,1-3,0-1
+1996-04-13,Rangers,Partick,5-0,2-0
+1996-04-14,Hibernian,Celtic,1-2,0-0
+1996-04-16,Partick,Aberdeen,1-1,1-1
+1996-04-20,Aberdeen,Hearts,1-1,0-0
+1996-04-20,Celtic,Falkirk,4-0,2-0
+1996-04-20,Hibernian,Raith Rvs,1-1,0-0
+1996-04-20,Kilmarnock,Partick,2-1,0-0
+1996-04-20,Motherwell,Rangers,1-3,0-2
+1996-04-27,Falkirk,Hibernian,1-1,0-0
+1996-04-27,Hearts,Kilmarnock,1-0,0-0
+1996-04-27,Partick,Celtic,2-4,2-1
+1996-04-27,Raith Rvs,Motherwell,2-0,1-0
+1996-04-28,Rangers,Aberdeen,3-1,1-1
+1996-05-04,Aberdeen,Falkirk,2-1,1-1
+1996-05-04,Celtic,Raith Rvs,4-1,3-0
+1996-05-04,Hibernian,Partick,1-0,0-0
+1996-05-04,Kilmarnock,Rangers,0-3,0-2
+1996-05-04,Motherwell,Hearts,1-1,0-1

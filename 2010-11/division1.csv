@@ -1,0 +1,181 @@
+Date,Team 1,Team 2,FT,HT
+2010-08-07,Cowdenbeath,Ross County,0-2,0-0
+2010-08-07,Dundee,Queen of Sth,1-0,1-0
+2010-08-07,Falkirk,Dunfermline,0-1,0-1
+2010-08-07,Morton,Stirling,0-0,0-0
+2010-08-07,Raith Rvs,Partick,4-0,3-0
+2010-08-14,Dunfermline,Morton,2-0,0-0
+2010-08-14,Partick,Dundee,1-0,0-0
+2010-08-14,Queen of Sth,Raith Rvs,1-3,0-2
+2010-08-14,Ross County,Falkirk,0-1,0-1
+2010-08-14,Stirling,Cowdenbeath,1-3,1-0
+2010-08-21,Dundee,Ross County,0-0,0-0
+2010-08-21,Falkirk,Stirling,3-0,0-0
+2010-08-21,Morton,Partick,2-0,1-0
+2010-08-21,Raith Rvs,Dunfermline,2-0,0-0
+2010-08-22,Cowdenbeath,Queen of Sth,1-3,0-1
+2010-08-28,Cowdenbeath,Partick,2-1,1-1
+2010-08-28,Dundee,Falkirk,2-0,2-0
+2010-08-28,Queen of Sth,Ross County,3-0,2-0
+2010-08-28,Raith Rvs,Morton,1-0,0-0
+2010-08-28,Stirling,Dunfermline,1-5,1-2
+2010-09-11,Dunfermline,Dundee,3-1,2-0
+2010-09-11,Falkirk,Queen of Sth,3-1,1-0
+2010-09-11,Morton,Cowdenbeath,1-2,0-0
+2010-09-11,Partick,Stirling,1-2,0-0
+2010-09-11,Ross County,Raith Rvs,0-0,0-0
+2010-09-18,Dundee,Raith Rvs,0-0,0-0
+2010-09-18,Dunfermline,Cowdenbeath,2-1,0-1
+2010-09-18,Falkirk,Morton,2-1,1-0
+2010-09-18,Queen of Sth,Partick,2-1,0-1
+2010-09-18,Ross County,Stirling,3-1,2-1
+2010-09-25,Cowdenbeath,Dundee,2-1,2-0
+2010-09-25,Morton,Ross County,0-0,0-0
+2010-09-25,Partick,Dunfermline,0-2,0-1
+2010-09-25,Raith Rvs,Falkirk,2-1,1-1
+2010-09-25,Stirling,Queen of Sth,0-0,0-0
+2010-10-02,Dundee,Morton,2-1,1-1
+2010-10-02,Falkirk,Cowdenbeath,5-1,3-0
+2010-10-02,Queen of Sth,Dunfermline,2-0,0-0
+2010-10-02,Raith Rvs,Stirling,0-2,0-1
+2010-10-02,Ross County,Partick,0-2,0-1
+2010-10-16,Cowdenbeath,Raith Rvs,1-2,0-0
+2010-10-16,Dunfermline,Ross County,3-2,2-1
+2010-10-16,Morton,Queen of Sth,2-0,0-0
+2010-10-16,Partick,Falkirk,1-0,1-0
+2010-10-16,Stirling,Dundee,1-1,0-0
+2010-10-23,Cowdenbeath,Morton,2-2,2-2
+2010-10-23,Dundee,Dunfermline,2-2,0-2
+2010-10-23,Queen of Sth,Falkirk,1-5,0-1
+2010-10-23,Raith Rvs,Ross County,1-0,0-0
+2010-10-23,Stirling,Partick,4-2,3-1
+2010-10-30,Dunfermline,Stirling,3-0,2-0
+2010-10-30,Falkirk,Dundee,3-3,0-2
+2010-10-30,Morton,Raith Rvs,0-1,0-0
+2010-10-30,Partick,Cowdenbeath,1-0,0-0
+2010-10-30,Ross County,Queen of Sth,1-1,0-1
+2010-11-06,Cowdenbeath,Stirling,5-1,2-1
+2010-11-06,Dundee,Partick,2-1,1-0
+2010-11-06,Falkirk,Ross County,0-1,0-1
+2010-11-06,Morton,Dunfermline,2-1,2-0
+2010-11-06,Raith Rvs,Queen of Sth,0-1,0-0
+2010-11-13,Dunfermline,Raith Rvs,2-2,2-0
+2010-11-13,Partick,Morton,0-0,0-0
+2010-11-13,Queen of Sth,Cowdenbeath,3-0,2-0
+2010-11-13,Ross County,Dundee,0-3,0-1
+2010-11-13,Stirling,Falkirk,0-5,0-2
+2010-12-11,Dunfermline,Queen of Sth,1-0,0-0
+2010-12-11,Morton,Dundee,0-1,0-0
+2010-12-11,Partick,Ross County,1-1,1-1
+2010-12-14,Dundee,Cowdenbeath,3-0,1-0
+2010-12-14,Dunfermline,Partick,0-0,0-0
+2010-12-14,Ross County,Morton,2-2,1-2
+2010-12-18,Dundee,Stirling,2-0,1-0
+2010-12-26,Partick,Raith Rvs,0-0,0-0
+2010-12-29,Dunfermline,Cowdenbeath,5-0,1-0
+2010-12-29,Falkirk,Raith Rvs,0-0,0-0
+2011-01-02,Dundee,Ross County,2-0,1-0
+2011-01-02,Falkirk,Stirling,4-2,3-1
+2011-01-02,Raith Rvs,Dunfermline,2-1,0-0
+2011-01-15,Dunfermline,Dundee,0-0,0-0
+2011-01-15,Falkirk,Queen of Sth,0-3,0-3
+2011-01-15,Morton,Cowdenbeath,3-0,1-0
+2011-01-15,Partick,Stirling,6-1,2-0
+2011-01-15,Ross County,Raith Rvs,0-1,0-0
+2011-01-22,Dundee,Falkirk,1-0,1-0
+2011-01-22,Raith Rvs,Morton,2-2,2-0
+2011-01-29,Morton,Ross County,2-1,0-1
+2011-01-29,Partick,Dunfermline,2-0,2-0
+2011-01-29,Raith Rvs,Falkirk,1-2,1-2
+2011-02-05,Queen of Sth,Dundee,1-2,0-1
+2011-02-05,Ross County,Cowdenbeath,1-1,1-0
+2011-02-05,Stirling,Raith Rvs,1-3,1-1
+2011-02-12,Cowdenbeath,Dunfermline,0-4,0-0
+2011-02-12,Dundee,Raith Rvs,2-1,0-0
+2011-02-12,Falkirk,Morton,1-0,0-0
+2011-02-12,Queen of Sth,Partick,3-3,1-2
+2011-02-12,Ross County,Stirling,0-0,0-0
+2011-02-15,Cowdenbeath,Partick,1-1,1-0
+2011-02-15,Dunfermline,Falkirk,1-1,0-0
+2011-02-15,Stirling,Morton,0-1,0-0
+2011-02-19,Cowdenbeath,Raith Rvs,0-3,0-3
+2011-02-19,Morton,Queen of Sth,0-4,0-2
+2011-02-19,Stirling,Dundee,0-1,0-1
+2011-02-22,Morton,Partick,1-0,1-0
+2011-02-22,Queen of Sth,Stirling,2-2,0-1
+2011-02-22,Raith Rvs,Dundee,1-2,0-1
+2011-02-22,Ross County,Dunfermline,0-0,0-0
+2011-02-26,Dundee,Morton,1-1,1-0
+2011-02-26,Falkirk,Cowdenbeath,2-0,1-0
+2011-02-26,Queen of Sth,Dunfermline,1-3,0-0
+2011-02-26,Raith Rvs,Stirling,2-1,1-0
+2011-02-26,Ross County,Partick,0-0,0-0
+2011-03-01,Cowdenbeath,Queen of Sth,2-2,1-1
+2011-03-01,Morton,Falkirk,0-0,0-0
+2011-03-01,Stirling,Ross County,0-0,0-0
+2011-03-05,Dunfermline,Morton,1-3,0-1
+2011-03-05,Partick,Dundee,0-0,0-0
+2011-03-05,Queen of Sth,Raith Rvs,0-2,0-1
+2011-03-05,Ross County,Falkirk,2-1,1-1
+2011-03-05,Stirling,Cowdenbeath,3-4,1-0
+2011-03-08,Cowdenbeath,Dundee,1-3,0-1
+2011-03-08,Dunfermline,Ross County,1-1,0-0
+2011-03-08,Partick,Queen of Sth,3-1,1-0
+2011-03-12,Dundee,Queen of Sth,2-1,0-1
+2011-03-12,Falkirk,Dunfermline,1-2,0-2
+2011-03-12,Raith Rvs,Partick,0-2,0-0
+2011-03-15,Raith Rvs,Cowdenbeath,2-1,1-0
+2011-03-15,Stirling,Dunfermline,1-1,1-1
+2011-03-16,Queen of Sth,Morton,2-0,2-0
+2011-03-19,Dunfermline,Stirling,4-1,2-0
+2011-03-19,Falkirk,Dundee,2-2,1-0
+2011-03-19,Morton,Raith Rvs,0-0,0-0
+2011-03-19,Partick,Cowdenbeath,0-1,0-0
+2011-03-19,Ross County,Queen of Sth,1-2,1-2
+2011-03-22,Cowdenbeath,Morton,0-2,0-1
+2011-03-22,Dundee,Dunfermline,1-1,0-1
+2011-03-22,Queen of Sth,Falkirk,0-1,0-1
+2011-03-22,Raith Rvs,Ross County,1-1,0-0
+2011-03-22,Stirling,Partick,0-3,0-2
+2011-03-26,Dundee,Cowdenbeath,2-2,1-1
+2011-03-26,Dunfermline,Partick,0-0,0-0
+2011-03-26,Falkirk,Raith Rvs,2-1,1-0
+2011-03-26,Queen of Sth,Stirling,4-1,2-1
+2011-03-26,Ross County,Morton,2-0,0-0
+2011-03-29,Cowdenbeath,Falkirk,0-0,0-0
+2011-03-29,Ross County,Dunfermline,0-1,0-0
+2011-03-29,Stirling,Queen of Sth,0-2,0-2
+2011-04-02,Cowdenbeath,Dunfermline,0-1,0-0
+2011-04-02,Morton,Falkirk,2-2,1-0
+2011-04-02,Partick,Queen of Sth,0-0,0-0
+2011-04-02,Raith Rvs,Dundee,2-1,1-0
+2011-04-02,Stirling,Ross County,0-2,0-1
+2011-04-05,Cowdenbeath,Ross County,2-1,2-0
+2011-04-05,Morton,Stirling,2-0,2-0
+2011-04-09,Falkirk,Partick,2-3,0-2
+2011-04-09,Raith Rvs,Cowdenbeath,2-2,0-0
+2011-04-10,Dundee,Stirling,1-1,0-1
+2011-04-12,Partick,Falkirk,1-2,0-0
+2011-04-13,Queen of Sth,Morton,1-4,0-2
+2011-04-16,Cowdenbeath,Falkirk,1-2,1-0
+2011-04-16,Dunfermline,Queen of Sth,6-1,1-0
+2011-04-16,Morton,Dundee,1-3,0-2
+2011-04-16,Partick,Ross County,1-1,1-1
+2011-04-16,Stirling,Raith Rvs,1-2,0-1
+2011-04-19,Falkirk,Partick,2-0,1-0
+2011-04-23,Dunfermline,Raith Rvs,2-1,0-1
+2011-04-23,Partick,Morton,2-0,0-0
+2011-04-23,Queen of Sth,Cowdenbeath,2-2,2-2
+2011-04-23,Ross County,Dundee,0-1,0-0
+2011-04-23,Stirling,Falkirk,1-2,0-2
+2011-04-26,Queen of Sth,Ross County,0-1,0-1
+2011-04-30,Cowdenbeath,Stirling,1-0,0-0
+2011-04-30,Dundee,Partick,3-2,0-0
+2011-04-30,Falkirk,Ross County,0-1,0-0
+2011-04-30,Morton,Dunfermline,0-2,0-1
+2011-04-30,Raith Rvs,Queen of Sth,0-1,0-0
+2011-05-07,Dunfermline,Falkirk,3-0,1-0
+2011-05-07,Partick,Raith Rvs,3-0,0-0
+2011-05-07,Queen of Sth,Dundee,3-0,2-0
+2011-05-07,Ross County,Cowdenbeath,3-0,1-0
+2011-05-07,Stirling,Morton,3-2,2-1

@@ -1,0 +1,181 @@
+Date,Team 1,Team 2,FT,HT
+2013-08-10,Clyde,Berwick,1-0,0-0
+2013-08-10,Elgin,Albion Rvs,1-2,0-1
+2013-08-10,Montrose,Stirling,1-2,1-1
+2013-08-10,Peterhead,Annan Athletic,2-2,0-1
+2013-08-10,Queens Park,East Stirling,1-3,1-2
+2013-08-17,Albion Rvs,Clyde,3-0,3-0
+2013-08-17,Annan Athletic,Montrose,2-1,0-0
+2013-08-17,Berwick,Queens Park,4-0,2-0
+2013-08-17,East Stirling,Elgin,3-0,2-0
+2013-08-17,Stirling,Peterhead,2-0,1-0
+2013-08-24,Annan Athletic,Albion Rvs,1-1,0-0
+2013-08-24,Clyde,Queens Park,3-0,0-0
+2013-08-24,Montrose,Berwick,1-1,0-0
+2013-08-24,Peterhead,Elgin,2-2,0-1
+2013-08-24,Stirling,East Stirling,1-3,0-2
+2013-08-31,Albion Rvs,Montrose,0-2,0-1
+2013-08-31,Berwick,Annan Athletic,4-2,3-2
+2013-08-31,East Stirling,Peterhead,1-4,1-0
+2013-08-31,Elgin,Clyde,1-0,0-0
+2013-08-31,Queens Park,Stirling,0-2,0-0
+2013-09-14,Albion Rvs,Berwick,0-2,0-0
+2013-09-14,Clyde,East Stirling,1-2,0-0
+2013-09-14,Elgin,Montrose,3-3,0-1
+2013-09-14,Peterhead,Queens Park,2-1,1-1
+2013-09-14,Stirling,Annan Athletic,0-2,0-1
+2013-09-21,Annan Athletic,Clyde,1-2,1-1
+2013-09-21,Berwick,Stirling,1-1,0-0
+2013-09-21,East Stirling,Albion Rvs,1-4,0-3
+2013-09-21,Montrose,Peterhead,2-1,1-1
+2013-09-21,Queens Park,Elgin,3-3,2-3
+2013-09-28,Albion Rvs,Peterhead,1-2,0-1
+2013-09-28,Clyde,Montrose,0-3,0-0
+2013-09-28,East Stirling,Berwick,1-0,1-0
+2013-09-28,Elgin,Stirling,4-0,2-0
+2013-09-28,Queens Park,Annan Athletic,2-5,0-3
+2013-10-12,Berwick,Elgin,2-3,2-0
+2013-10-12,Peterhead,Clyde,1-1,1-0
+2013-10-19,Albion Rvs,Elgin,0-0,0-0
+2013-10-19,Berwick,Clyde,0-1,0-0
+2013-10-19,East Stirling,Queens Park,1-1,0-0
+2013-10-19,Stirling,Montrose,3-1,1-1
+2013-10-26,Clyde,Stirling,2-1,2-0
+2013-10-26,Elgin,Annan Athletic,2-3,2-1
+2013-10-26,Montrose,East Stirling,2-0,1-0
+2013-10-26,Peterhead,Berwick,1-1,0-1
+2013-10-26,Queens Park,Albion Rvs,1-1,1-0
+2013-10-29,Annan Athletic,East Stirling,1-2,0-1
+2013-10-29,Montrose,Queens Park,1-2,0-1
+2013-10-29,Stirling,Albion Rvs,2-1,1-1
+2013-11-05,Annan Athletic,Peterhead,2-0,0-0
+2013-11-09,Albion Rvs,Annan Athletic,2-0,0-0
+2013-11-09,East Stirling,Stirling,2-2,1-2
+2013-11-09,Elgin,Peterhead,2-4,0-1
+2013-11-09,Queens Park,Clyde,1-1,0-0
+2013-11-16,Annan Athletic,Berwick,3-2,1-2
+2013-11-16,Clyde,Elgin,2-1,0-0
+2013-11-16,Montrose,Albion Rvs,2-1,1-1
+2013-11-16,Peterhead,East Stirling,1-1,0-0
+2013-11-16,Stirling,Queens Park,3-0,1-0
+2013-11-20,Berwick,Montrose,1-1,0-1
+2013-11-23,Annan Athletic,Stirling,4-4,2-1
+2013-11-23,Berwick,Albion Rvs,2-1,2-0
+2013-11-23,East Stirling,Clyde,0-1,0-0
+2013-11-23,Montrose,Elgin,3-3,1-2
+2013-11-23,Queens Park,Peterhead,0-5,0-2
+2013-11-30,Elgin,Queens Park,3-2,1-2
+2013-11-30,Peterhead,Montrose,3-0,0-0
+2013-12-03,Albion Rvs,East Stirling,3-2,2-0
+2013-12-03,Clyde,Annan Athletic,2-1,0-1
+2013-12-03,Stirling,Berwick,3-1,1-0
+2013-12-07,Albion Rvs,Stirling,2-1,2-0
+2013-12-07,Clyde,Peterhead,1-3,1-2
+2013-12-07,East Stirling,Annan Athletic,1-1,0-0
+2013-12-07,Elgin,Berwick,2-0,2-0
+2013-12-07,Queens Park,Montrose,0-1,0-0
+2013-12-14,Berwick,East Stirling,2-0,1-0
+2013-12-14,Montrose,Clyde,0-2,0-2
+2013-12-14,Peterhead,Albion Rvs,1-1,0-0
+2013-12-21,Clyde,Albion Rvs,2-2,0-1
+2013-12-21,Elgin,East Stirling,0-1,0-0
+2013-12-21,Peterhead,Stirling,3-1,2-0
+2013-12-21,Queens Park,Berwick,0-4,0-1
+2013-12-26,Montrose,Annan Athletic,0-2,0-0
+2013-12-28,Albion Rvs,Queens Park,2-1,1-0
+2013-12-28,Annan Athletic,Elgin,2-1,0-0
+2013-12-28,Berwick,Peterhead,1-3,1-1
+2013-12-28,East Stirling,Montrose,2-2,1-1
+2013-12-28,Stirling,Clyde,1-1,0-1
+2014-01-02,Montrose,Berwick,0-0,0-0
+2014-01-02,Peterhead,Elgin,2-1,0-1
+2014-01-04,Annan Athletic,Albion Rvs,2-0,1-0
+2014-01-04,Clyde,Queens Park,1-2,1-0
+2014-01-04,Stirling,East Stirling,2-1,0-1
+2014-01-11,Albion Rvs,Montrose,1-0,1-0
+2014-01-11,Berwick,Annan Athletic,1-4,0-3
+2014-01-11,East Stirling,Peterhead,2-0,1-0
+2014-01-11,Elgin,Clyde,3-1,1-0
+2014-01-11,Queens Park,Stirling,0-1,0-1
+2014-01-18,Annan Athletic,Clyde,0-1,0-1
+2014-01-18,Berwick,Stirling,4-0,2-0
+2014-01-18,East Stirling,Albion Rvs,1-1,0-0
+2014-01-18,Montrose,Peterhead,2-3,1-0
+2014-01-18,Queens Park,Elgin,2-0,1-0
+2014-01-25,Albion Rvs,Berwick,0-3,0-2
+2014-01-25,Clyde,East Stirling,1-0,0-0
+2014-01-25,Elgin,Montrose,2-3,0-2
+2014-01-25,Peterhead,Queens Park,1-0,1-0
+2014-01-25,Stirling,Annan Athletic,1-1,0-1
+2014-02-01,Clyde,Berwick,3-3,1-3
+2014-02-01,Elgin,Albion Rvs,1-1,0-0
+2014-02-01,Montrose,Stirling,0-0,0-0
+2014-02-01,Queens Park,East Stirling,0-0,0-0
+2014-02-08,Annan Athletic,Montrose,1-0,0-0
+2014-02-08,Berwick,Queens Park,1-0,0-0
+2014-02-08,East Stirling,Elgin,3-0,1-0
+2014-02-08,Stirling,Peterhead,1-2,0-1
+2014-02-15,Annan Athletic,East Stirling,2-3,1-1
+2014-02-15,Berwick,Elgin,2-3,1-1
+2014-02-15,Montrose,Queens Park,1-0,0-0
+2014-02-15,Peterhead,Clyde,2-0,1-0
+2014-02-15,Stirling,Albion Rvs,2-0,0-0
+2014-02-22,Albion Rvs,Peterhead,0-0,0-0
+2014-02-22,Clyde,Montrose,1-1,1-0
+2014-02-22,East Stirling,Berwick,1-1,0-1
+2014-02-22,Elgin,Stirling,2-3,2-0
+2014-02-22,Queens Park,Annan Athletic,0-1,0-1
+2014-02-25,Albion Rvs,Clyde,1-0,0-0
+2014-02-25,Annan Athletic,Queens Park,3-2,0-1
+2014-03-01,Annan Athletic,Berwick,4-0,1-0
+2014-03-01,Clyde,Elgin,4-0,1-0
+2014-03-01,Montrose,Albion Rvs,2-1,0-0
+2014-03-01,Peterhead,East Stirling,4-0,3-0
+2014-03-01,Stirling,Queens Park,2-2,1-2
+2014-03-04,Peterhead,Annan Athletic,3-1,2-1
+2014-03-08,Berwick,Montrose,5-0,3-0
+2014-03-08,East Stirling,Stirling,1-0,1-0
+2014-03-08,Elgin,Peterhead,2-3,2-1
+2014-03-08,Queens Park,Clyde,1-3,0-3
+2014-03-11,Stirling,Elgin,1-1,0-0
+2014-03-15,Clyde,Stirling,1-0,1-0
+2014-03-15,Elgin,Annan Athletic,2-3,0-3
+2014-03-15,Montrose,East Stirling,2-0,2-0
+2014-03-15,Peterhead,Berwick,3-0,1-0
+2014-03-15,Queens Park,Albion Rvs,4-0,2-0
+2014-03-22,Albion Rvs,Elgin,5-2,3-0
+2014-03-22,Annan Athletic,Peterhead,2-1,0-1
+2014-03-22,Berwick,Clyde,3-0,0-0
+2014-03-22,East Stirling,Queens Park,1-4,1-2
+2014-03-22,Stirling,Montrose,2-2,0-0
+2014-03-25,Albion Rvs,Annan Athletic,0-2,0-1
+2014-03-29,Annan Athletic,Stirling,1-2,0-1
+2014-03-29,Berwick,Albion Rvs,3-1,2-0
+2014-03-29,East Stirling,Clyde,2-4,1-3
+2014-03-29,Montrose,Elgin,0-3,0-0
+2014-03-29,Queens Park,Peterhead,0-2,0-0
+2014-04-05,Albion Rvs,East Stirling,2-1,1-0
+2014-04-05,Clyde,Annan Athletic,0-3,0-1
+2014-04-05,Elgin,Queens Park,1-1,0-1
+2014-04-05,Peterhead,Montrose,4-0,0-0
+2014-04-05,Stirling,Berwick,2-1,0-1
+2014-04-12,Albion Rvs,Stirling,0-2,0-2
+2014-04-12,Clyde,Peterhead,0-2,0-1
+2014-04-12,East Stirling,Annan Athletic,2-1,1-1
+2014-04-12,Elgin,Berwick,1-3,1-0
+2014-04-12,Queens Park,Montrose,1-1,0-0
+2014-04-19,Annan Athletic,Queens Park,1-1,0-0
+2014-04-19,Berwick,East Stirling,1-0,1-0
+2014-04-19,Montrose,Clyde,0-2,0-2
+2014-04-19,Peterhead,Albion Rvs,2-0,2-0
+2014-04-19,Stirling,Elgin,2-2,1-1
+2014-04-26,Clyde,Albion Rvs,4-0,1-0
+2014-04-26,Elgin,East Stirling,5-0,1-0
+2014-04-26,Montrose,Annan Athletic,2-1,1-0
+2014-04-26,Peterhead,Stirling,0-4,0-2
+2014-04-26,Queens Park,Berwick,1-3,1-0
+2014-05-03,Albion Rvs,Queens Park,1-0,1-0
+2014-05-03,Annan Athletic,Elgin,2-0,1-0
+2014-05-03,Berwick,Peterhead,1-2,1-0
+2014-05-03,East Stirling,Montrose,1-2,1-2
+2014-05-03,Stirling,Clyde,4-1,1-1

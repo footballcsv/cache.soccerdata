@@ -1,0 +1,181 @@
+Date,Team 1,Team 2,FT,HT
+2008-08-02,Clyde,Morton,1-1,0-1
+2008-08-02,Partick,Dunfermline,1-0,0-0
+2008-08-02,Queen of Sth,Airdrie Utd,0-0,0-0
+2008-08-02,Ross County,Dundee,1-2,0-1
+2008-08-02,St Johnstone,Livingston,2-0,0-0
+2008-08-09,Airdrie Utd,Partick,0-1,0-0
+2008-08-09,Dundee,Clyde,1-0,1-0
+2008-08-09,Dunfermline,Queen of Sth,2-1,0-1
+2008-08-09,Livingston,Ross County,2-0,1-0
+2008-08-09,Morton,St Johnstone,2-2,1-2
+2008-08-16,Airdrie Utd,Dundee,0-0,0-0
+2008-08-16,Clyde,Ross County,2-2,0-2
+2008-08-16,Morton,Livingston,1-2,1-2
+2008-08-16,St Johnstone,Dunfermline,0-3,0-1
+2008-08-17,Queen of Sth,Partick,2-0,2-0
+2008-08-23,Dundee,Morton,1-0,1-0
+2008-08-23,Dunfermline,Airdrie Utd,0-0,0-0
+2008-08-23,Livingston,Clyde,2-1,1-1
+2008-08-23,Partick,St Johnstone,4-0,1-0
+2008-08-30,Airdrie Utd,Morton,5-0,3-0
+2008-08-30,Dunfermline,Livingston,1-2,0-1
+2008-08-30,Partick,Ross County,0-1,0-1
+2008-08-30,Queen of Sth,Dundee,3-1,2-1
+2008-08-30,St Johnstone,Clyde,2-3,1-2
+2008-09-03,Queen of Sth,Ross County,1-0,0-0
+2008-09-13,Clyde,Partick,1-1,0-1
+2008-09-13,Dundee,Dunfermline,0-0,0-0
+2008-09-13,Livingston,Airdrie Utd,1-2,0-1
+2008-09-13,Morton,Queen of Sth,0-0,0-0
+2008-09-13,Ross County,St Johnstone,1-2,0-1
+2008-09-20,Airdrie Utd,Clyde,0-2,0-1
+2008-09-20,Dundee,Livingston,0-3,0-1
+2008-09-20,Dunfermline,Ross County,3-1,2-0
+2008-09-20,Partick,Morton,2-1,1-1
+2008-09-20,Queen of Sth,St Johnstone,2-2,0-0
+2008-09-27,Clyde,Queen of Sth,0-2,0-0
+2008-09-27,Livingston,Partick,3-1,2-1
+2008-09-27,Morton,Dunfermline,1-1,0-0
+2008-09-27,Ross County,Airdrie Utd,2-0,1-0
+2008-09-27,St Johnstone,Dundee,2-0,0-0
+2008-10-04,Clyde,Dunfermline,0-2,0-2
+2008-10-04,Partick,Dundee,0-0,0-0
+2008-10-04,Queen of Sth,Livingston,6-1,3-1
+2008-10-04,Ross County,Morton,3-0,0-0
+2008-10-04,St Johnstone,Airdrie Utd,3-1,1-0
+2008-10-18,Airdrie Utd,Queen of Sth,2-0,2-0
+2008-10-18,Dundee,Ross County,1-2,0-2
+2008-10-18,Dunfermline,Partick,1-0,1-0
+2008-10-18,Livingston,St Johnstone,0-1,0-1
+2008-10-18,Morton,Clyde,1-0,1-0
+2008-10-25,Clyde,Livingston,2-1,0-1
+2008-10-25,Morton,Dundee,2-0,1-0
+2008-10-25,Ross County,Queen of Sth,0-2,0-1
+2008-10-25,St Johnstone,Partick,3-0,1-0
+2008-11-01,Dundee,Airdrie Utd,1-1,0-1
+2008-11-01,Dunfermline,St Johnstone,1-2,1-1
+2008-11-01,Livingston,Morton,1-0,0-0
+2008-11-01,Partick,Queen of Sth,2-0,1-0
+2008-11-01,Ross County,Clyde,3-0,0-0
+2008-11-04,Airdrie Utd,Dunfermline,1-3,1-2
+2008-11-08,Airdrie Utd,Livingston,0-0,0-0
+2008-11-08,Dunfermline,Dundee,0-1,0-0
+2008-11-08,Partick,Clyde,2-0,1-0
+2008-11-08,Queen of Sth,Morton,1-4,0-3
+2008-11-08,St Johnstone,Ross County,2-1,1-0
+2008-11-15,Clyde,St Johnstone,2-2,1-1
+2008-11-15,Dundee,Queen of Sth,2-0,0-0
+2008-11-15,Livingston,Dunfermline,2-3,1-1
+2008-11-22,Airdrie Utd,Ross County,0-2,0-1
+2008-11-22,Dunfermline,Morton,0-1,0-1
+2008-11-22,Partick,Livingston,2-1,2-1
+2008-11-22,Queen of Sth,Clyde,0-2,0-0
+2008-11-25,Morton,Airdrie Utd,2-0,1-0
+2008-11-25,Ross County,Partick,1-0,0-0
+2008-11-29,Dundee,St Johnstone,1-1,0-1
+2008-12-06,St Johnstone,Queen of Sth,0-0,0-0
+2008-12-13,Clyde,Dundee,1-0,0-0
+2008-12-13,Partick,Airdrie Utd,2-1,1-1
+2008-12-13,Queen of Sth,Dunfermline,1-2,1-1
+2008-12-13,Ross County,Livingston,1-4,1-1
+2008-12-13,St Johnstone,Morton,1-0,0-0
+2008-12-16,Clyde,Airdrie Utd,1-0,0-0
+2008-12-20,Airdrie Utd,St Johnstone,1-1,0-0
+2008-12-20,Dundee,Partick,0-0,0-0
+2008-12-20,Dunfermline,Clyde,4-4,1-1
+2008-12-20,Livingston,Queen of Sth,2-0,0-0
+2008-12-20,Morton,Ross County,2-1,1-1
+2008-12-27,Airdrie Utd,Morton,1-0,1-0
+2008-12-27,Partick,Ross County,0-2,0-1
+2008-12-27,Queen of Sth,Dundee,0-1,0-1
+2008-12-27,St Johnstone,Clyde,1-0,1-0
+2008-12-30,Dunfermline,Livingston,1-0,0-0
+2008-12-30,Morton,Partick,2-0,1-0
+2009-01-03,Clyde,Partick,2-4,1-3
+2009-01-03,Dundee,Dunfermline,1-0,0-0
+2009-01-03,Livingston,Airdrie Utd,1-1,0-0
+2009-01-03,Morton,Queen of Sth,2-2,1-2
+2009-01-17,Dundee,Morton,0-0,0-0
+2009-01-17,Dunfermline,Airdrie Utd,1-1,0-1
+2009-01-17,Livingston,Clyde,1-1,1-1
+2009-01-17,Partick,St Johnstone,0-0,0-0
+2009-01-17,Ross County,Queen of Sth,1-0,0-0
+2009-01-24,Airdrie Utd,Dundee,1-0,0-0
+2009-01-24,Clyde,Ross County,2-0,1-0
+2009-01-24,Morton,Livingston,2-2,2-0
+2009-01-24,Queen of Sth,Partick,2-2,1-1
+2009-01-31,Airdrie Utd,Partick,0-1,0-1
+2009-01-31,Dundee,Clyde,2-1,2-1
+2009-01-31,Dunfermline,Queen of Sth,0-2,0-1
+2009-01-31,Livingston,Ross County,4-2,3-0
+2009-01-31,Morton,St Johnstone,0-0,0-0
+2009-02-07,Livingston,Dundee,1-2,0-2
+2009-02-07,Ross County,St Johnstone,2-2,2-0
+2009-02-14,Partick,Dunfermline,2-3,2-2
+2009-02-14,Queen of Sth,Airdrie Utd,4-0,1-0
+2009-02-14,St Johnstone,Livingston,1-0,0-0
+2009-02-21,Dundee,Livingston,4-1,0-0
+2009-02-21,Dunfermline,Ross County,1-2,0-1
+2009-02-21,Partick,Morton,1-0,0-0
+2009-02-21,Queen of Sth,St Johnstone,3-3,1-0
+2009-02-22,Airdrie Utd,Clyde,1-0,1-0
+2009-02-28,Clyde,Queen of Sth,1-1,1-0
+2009-02-28,Livingston,Partick,2-4,0-2
+2009-02-28,Morton,Dunfermline,2-1,1-0
+2009-02-28,Ross County,Airdrie Utd,0-0,0-0
+2009-02-28,St Johnstone,Dundee,0-0,0-0
+2009-03-03,Clyde,Morton,2-4,2-1
+2009-03-07,Airdrie Utd,Livingston,4-4,1-2
+2009-03-07,Partick,Clyde,0-1,0-0
+2009-03-07,Queen of Sth,Morton,1-1,0-1
+2009-03-07,St Johnstone,Ross County,0-0,0-0
+2009-03-10,Clyde,St Johnstone,1-3,0-1
+2009-03-10,Dundee,Queen of Sth,2-3,0-1
+2009-03-10,Livingston,Dunfermline,4-2,1-0
+2009-03-10,Morton,Airdrie Utd,0-0,0-0
+2009-03-10,Ross County,Partick,0-2,0-0
+2009-03-14,Airdrie Utd,Queen of Sth,2-0,0-0
+2009-03-14,Dundee,Ross County,2-0,2-0
+2009-03-14,Dunfermline,Partick,0-1,0-1
+2009-03-14,Livingston,St Johnstone,1-0,1-0
+2009-03-14,Morton,Clyde,2-0,1-0
+2009-03-21,Clyde,Dunfermline,1-4,1-2
+2009-03-21,Queen of Sth,Livingston,3-3,1-0
+2009-03-21,Ross County,Morton,1-1,1-0
+2009-03-21,St Johnstone,Airdrie Utd,3-0,2-0
+2009-03-22,Partick,Dundee,1-1,0-1
+2009-03-24,Ross County,Dunfermline,2-1,0-0
+2009-03-28,Ross County,Dundee,1-1,0-0
+2009-03-31,Dunfermline,Dundee,1-1,0-0
+2009-04-04,Airdrie Utd,Dunfermline,1-1,0-0
+2009-04-04,Clyde,Livingston,0-1,0-1
+2009-04-04,Morton,Dundee,2-0,1-0
+2009-04-04,Queen of Sth,Ross County,1-2,0-2
+2009-04-04,St Johnstone,Partick,1-1,0-0
+2009-04-07,St Johnstone,Dunfermline,0-0,0-0
+2009-04-11,Dundee,Airdrie Utd,0-1,0-1
+2009-04-11,Dunfermline,St Johnstone,1-3,1-2
+2009-04-11,Livingston,Morton,0-2,0-1
+2009-04-11,Partick,Queen of Sth,0-2,0-1
+2009-04-11,Ross County,Clyde,0-0,0-0
+2009-04-18,Clyde,Airdrie Utd,3-0,1-0
+2009-04-18,Livingston,Dundee,0-1,0-0
+2009-04-18,Morton,Partick,0-1,0-1
+2009-04-18,Ross County,Dunfermline,1-3,0-1
+2009-04-19,St Johnstone,Queen of Sth,2-3,0-1
+2009-04-25,Airdrie Utd,Ross County,1-0,0-0
+2009-04-25,Dundee,St Johnstone,0-1,0-1
+2009-04-25,Partick,Livingston,1-0,0-0
+2009-04-25,Queen of Sth,Clyde,7-1,3-1
+2009-05-02,Clyde,Dundee,2-0,0-0
+2009-05-02,Partick,Airdrie Utd,0-1,0-0
+2009-05-02,Queen of Sth,Dunfermline,0-3,0-3
+2009-05-02,Ross County,Livingston,2-2,0-1
+2009-05-02,St Johnstone,Morton,3-1,1-1
+2009-05-05,Dunfermline,Morton,2-1,0-0
+2009-05-09,Dundee,Partick,4-0,2-0
+2009-05-09,Dunfermline,Clyde,1-1,1-1
+2009-05-09,Livingston,Queen of Sth,2-2,2-0
+2009-05-09,Morton,Ross County,0-2,0-0
+2009-05-11,Airdrie Utd,St Johnstone,0-4,0-0

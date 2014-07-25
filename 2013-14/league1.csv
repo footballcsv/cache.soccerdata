@@ -1,0 +1,181 @@
+Date,Team 1,Team 2,FT,HT
+2013-08-10,Arbroath,Ayr,0-3,0-2
+2013-08-10,East Fife,Dunfermline,0-1,0-1
+2013-08-10,Forfar,Airdrie Utd,3-3,1-1
+2013-08-10,Rangers,Brechin,4-1,2-0
+2013-08-10,Stenhousemuir,Stranraer,1-0,1-0
+2013-08-17,Airdrie Utd,Stenhousemuir,0-1,0-0
+2013-08-17,Ayr,Forfar,2-0,1-0
+2013-08-17,Brechin,East Fife,2-0,0-0
+2013-08-17,Dunfermline,Arbroath,2-3,2-3
+2013-08-17,Stranraer,Rangers,0-3,0-3
+2013-08-23,Airdrie Utd,Rangers,0-6,0-2
+2013-08-24,Brechin,Forfar,2-1,1-0
+2013-08-24,East Fife,Arbroath,2-1,2-1
+2013-08-24,Stenhousemuir,Dunfermline,4-5,2-0
+2013-08-24,Stranraer,Ayr,1-1,1-1
+2013-08-31,Arbroath,Brechin,2-1,2-0
+2013-08-31,Ayr,Airdrie Utd,2-2,2-2
+2013-08-31,Dunfermline,Stranraer,3-1,1-1
+2013-08-31,Forfar,Stenhousemuir,1-2,0-2
+2013-08-31,Rangers,East Fife,5-0,3-0
+2013-09-14,Airdrie Utd,Stranraer,3-2,1-1
+2013-09-14,Brechin,Dunfermline,1-1,0-1
+2013-09-14,East Fife,Forfar,1-3,1-1
+2013-09-14,Rangers,Arbroath,5-1,0-0
+2013-09-14,Stenhousemuir,Ayr,1-1,0-1
+2013-09-21,Arbroath,Stenhousemuir,3-4,1-1
+2013-09-21,Ayr,Brechin,2-2,2-0
+2013-09-21,Dunfermline,Airdrie Utd,2-1,0-0
+2013-09-21,Stranraer,East Fife,2-0,1-0
+2013-09-22,Forfar,Rangers,0-1,0-1
+2013-09-28,Arbroath,Forfar,3-0,1-0
+2013-09-28,Brechin,Stranraer,1-1,1-0
+2013-09-28,Dunfermline,Ayr,5-1,4-1
+2013-09-28,East Fife,Airdrie Utd,1-0,1-0
+2013-09-28,Rangers,Stenhousemuir,8-0,3-0
+2013-10-05,Airdrie Utd,Brechin,3-1,2-1
+2013-10-05,Forfar,Dunfermline,4-0,2-0
+2013-10-05,Stenhousemuir,East Fife,1-1,1-1
+2013-10-05,Stranraer,Arbroath,3-2,3-0
+2013-10-06,Ayr,Rangers,0-2,0-0
+2013-10-12,Arbroath,Airdrie Utd,3-2,1-0
+2013-10-12,East Fife,Ayr,1-4,1-2
+2013-10-12,Forfar,Stranraer,1-2,1-2
+2013-10-12,Stenhousemuir,Brechin,3-2,0-1
+2013-10-19,Airdrie Utd,Forfar,0-2,0-1
+2013-10-19,Ayr,Arbroath,2-0,1-0
+2013-10-19,Brechin,Rangers,3-4,3-1
+2013-10-19,Dunfermline,East Fife,1-2,1-0
+2013-10-19,Stranraer,Stenhousemuir,1-0,1-0
+2013-10-26,Airdrie Utd,Ayr,0-1,0-0
+2013-10-26,Brechin,Arbroath,3-1,1-0
+2013-10-26,East Fife,Rangers,0-4,0-0
+2013-10-26,Stenhousemuir,Forfar,1-1,1-1
+2013-10-26,Stranraer,Dunfermline,1-2,1-0
+2013-11-06,Rangers,Dunfermline,3-1,0-0
+2013-11-09,Arbroath,East Fife,2-2,0-0
+2013-11-09,Dunfermline,Stenhousemuir,3-2,1-1
+2013-11-09,Forfar,Brechin,2-0,1-0
+2013-11-09,Rangers,Airdrie Utd,2-0,0-0
+2013-11-12,Ayr,Stranraer,3-6,2-3
+2013-11-16,Airdrie Utd,Dunfermline,0-3,0-1
+2013-11-16,Brechin,Ayr,1-1,0-1
+2013-11-16,East Fife,Stranraer,1-2,1-1
+2013-11-16,Stenhousemuir,Arbroath,3-2,0-0
+2013-11-23,Ayr,Stenhousemuir,4-3,2-2
+2013-11-23,Dunfermline,Brechin,3-1,2-0
+2013-11-23,Forfar,East Fife,2-0,0-0
+2013-11-23,Stranraer,Airdrie Utd,3-1,2-0
+2013-11-25,Arbroath,Rangers,0-3,0-3
+2013-12-03,Rangers,Forfar,6-1,4-1
+2013-12-07,Arbroath,Stranraer,1-2,0-1
+2013-12-07,Dunfermline,Forfar,1-1,0-1
+2013-12-07,East Fife,Stenhousemuir,1-0,1-0
+2013-12-07,Rangers,Ayr,3-0,2-0
+2013-12-14,Airdrie Utd,East Fife,1-3,1-1
+2013-12-14,Ayr,Dunfermline,2-4,2-1
+2013-12-14,Forfar,Arbroath,1-1,0-0
+2013-12-14,Stranraer,Brechin,3-0,1-0
+2013-12-17,Brechin,Airdrie Utd,4-3,2-0
+2013-12-21,Arbroath,Dunfermline,0-3,0-2
+2013-12-21,East Fife,Brechin,1-3,0-1
+2013-12-21,Forfar,Ayr,0-1,0-0
+2013-12-21,Stenhousemuir,Airdrie Utd,1-1,0-1
+2013-12-26,Rangers,Stranraer,1-1,1-0
+2013-12-28,Airdrie Utd,Arbroath,2-1,0-1
+2013-12-28,Ayr,East Fife,2-0,1-0
+2013-12-28,Brechin,Stenhousemuir,0-1,0-1
+2013-12-30,Dunfermline,Rangers,0-4,0-1
+2014-01-02,Airdrie Utd,Rangers,0-1,0-1
+2014-01-02,Brechin,Forfar,1-5,0-4
+2014-01-02,East Fife,Arbroath,1-0,1-0
+2014-01-02,Stenhousemuir,Dunfermline,1-2,0-1
+2014-01-04,Stranraer,Ayr,4-0,2-0
+2014-01-05,Stenhousemuir,Rangers,0-2,0-1
+2014-01-11,Arbroath,Brechin,0-1,0-1
+2014-01-11,Ayr,Airdrie Utd,3-0,0-0
+2014-01-11,Dunfermline,Stranraer,3-2,1-1
+2014-01-11,Forfar,Stenhousemuir,3-0,3-0
+2014-01-11,Rangers,East Fife,2-0,1-0
+2014-01-18,Arbroath,Stenhousemuir,2-1,1-1
+2014-01-18,Ayr,Brechin,1-3,0-2
+2014-01-18,Dunfermline,Airdrie Utd,0-1,0-1
+2014-01-20,Forfar,Rangers,0-2,0-0
+2014-01-25,Airdrie Utd,Stranraer,1-1,1-0
+2014-01-25,Brechin,Dunfermline,3-2,0-1
+2014-01-25,East Fife,Forfar,2-1,0-1
+2014-01-25,Rangers,Arbroath,3-2,1-1
+2014-01-25,Stenhousemuir,Ayr,1-1,0-1
+2014-02-01,Arbroath,Ayr,2-3,0-3
+2014-02-01,East Fife,Dunfermline,1-3,0-1
+2014-02-01,Forfar,Airdrie Utd,1-1,1-0
+2014-02-01,Rangers,Brechin,2-1,2-0
+2014-02-01,Stenhousemuir,Stranraer,1-1,0-0
+2014-02-08,Brechin,East Fife,3-0,2-0
+2014-02-15,Airdrie Utd,Brechin,2-1,1-1
+2014-02-15,Ayr,Rangers,0-2,0-0
+2014-02-15,Forfar,Dunfermline,2-4,1-1
+2014-02-15,Stenhousemuir,East Fife,1-1,0-0
+2014-02-15,Stranraer,Arbroath,1-1,0-1
+2014-02-22,Arbroath,Forfar,2-3,0-1
+2014-02-22,Brechin,Stranraer,1-3,0-3
+2014-02-22,Dunfermline,Ayr,3-0,2-0
+2014-02-22,East Fife,Airdrie Utd,0-0,0-0
+2014-02-22,Rangers,Stenhousemuir,3-3,1-1
+2014-02-25,Airdrie Utd,Stenhousemuir,1-1,0-0
+2014-02-25,Dunfermline,Arbroath,3-0,1-0
+2014-02-25,Stranraer,Rangers,0-2,0-1
+2014-03-01,Airdrie Utd,Ayr,3-0,1-0
+2014-03-01,Brechin,Arbroath,2-4,0-2
+2014-03-01,East Fife,Rangers,0-1,0-0
+2014-03-01,Stenhousemuir,Forfar,4-1,1-0
+2014-03-01,Stranraer,Dunfermline,3-1,2-0
+2014-03-04,Ayr,Forfar,2-3,1-2
+2014-03-04,Stranraer,East Fife,2-0,1-0
+2014-03-08,Arbroath,East Fife,2-1,1-1
+2014-03-08,Ayr,Stranraer,5-0,3-0
+2014-03-08,Dunfermline,Stenhousemuir,0-0,0-0
+2014-03-08,Forfar,Brechin,1-1,0-0
+2014-03-11,Stranraer,Forfar,0-4,0-2
+2014-03-12,Rangers,Airdrie Utd,3-0,3-0
+2014-03-15,Arbroath,Airdrie Utd,0-1,0-1
+2014-03-15,East Fife,Ayr,0-5,0-3
+2014-03-15,Forfar,Stranraer,1-0,1-0
+2014-03-15,Rangers,Dunfermline,2-0,1-0
+2014-03-15,Stenhousemuir,Brechin,4-2,2-1
+2014-03-22,Airdrie Utd,Forfar,5-1,3-1
+2014-03-22,Ayr,Arbroath,2-1,2-1
+2014-03-22,Dunfermline,East Fife,1-2,1-0
+2014-03-22,Stranraer,Stenhousemuir,1-1,1-0
+2014-03-23,Brechin,Rangers,1-2,0-1
+2014-03-29,Arbroath,Rangers,1-2,0-1
+2014-03-29,Ayr,Stenhousemuir,2-3,0-1
+2014-03-29,Dunfermline,Brechin,2-1,0-0
+2014-03-29,Forfar,East Fife,1-2,1-2
+2014-03-29,Stranraer,Airdrie Utd,1-1,0-0
+2014-04-05,Airdrie Utd,Dunfermline,2-0,1-0
+2014-04-05,Brechin,Ayr,2-1,1-0
+2014-04-05,East Fife,Stranraer,1-1,1-0
+2014-04-05,Stenhousemuir,Arbroath,2-2,1-1
+2014-04-12,Arbroath,Stranraer,4-2,1-0
+2014-04-12,Brechin,Airdrie Utd,1-1,0-1
+2014-04-12,Dunfermline,Forfar,0-0,0-0
+2014-04-12,East Fife,Stenhousemuir,1-2,1-0
+2014-04-15,Rangers,Forfar,3-0,0-0
+2014-04-19,Airdrie Utd,East Fife,2-1,0-0
+2014-04-19,Ayr,Dunfermline,1-1,0-0
+2014-04-19,Forfar,Arbroath,0-2,0-2
+2014-04-19,Stenhousemuir,Rangers,0-4,0-2
+2014-04-19,Stranraer,Brechin,1-2,1-1
+2014-04-22,Rangers,Ayr,2-1,0-0
+2014-04-26,Arbroath,Dunfermline,1-2,0-1
+2014-04-26,East Fife,Brechin,1-2,0-1
+2014-04-26,Forfar,Ayr,4-2,2-0
+2014-04-26,Rangers,Stranraer,3-0,1-0
+2014-04-26,Stenhousemuir,Airdrie Utd,1-2,0-1
+2014-05-03,Airdrie Utd,Arbroath,2-0,1-0
+2014-05-03,Ayr,East Fife,4-1,1-0
+2014-05-03,Brechin,Stenhousemuir,1-3,0-1
+2014-05-03,Dunfermline,Rangers,1-1,0-0
+2014-05-03,Stranraer,Forfar,3-1,1-1
