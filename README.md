@@ -16,7 +16,7 @@ Note:
 - The Premier Division changed to Premier League starting with the 1998/99 season.
 
 
-Example - [`2013-14/premiership.csv`](2013-14/premiership.csv):
+Example - [`2013-14/premiership.csv`](2013-14/1-premiership.csv):
 
 ~~~
 2013-08-02,Partick,Dundee United,0-0,0-0
