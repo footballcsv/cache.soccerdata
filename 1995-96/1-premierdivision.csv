@@ -1,181 +1,181 @@
-Date,Team 1,Team 2,FT,HT
-1995-08-26,Falkirk,Aberdeen,2-3,0-2
-1995-08-26,Hearts,Motherwell,1-1,0-0
-1995-08-26,Partick,Hibernian,1-1,0-0
-1995-08-26,Raith Rvs,Celtic,0-1,0-0
-1995-08-26,Rangers,Kilmarnock,1-0,0-0
-1995-09-09,Hearts,Falkirk,4-1,2-1
-1995-09-09,Kilmarnock,Hibernian,0-3,0-3
-1995-09-09,Motherwell,Partick,1-1,0-0
-1995-09-09,Rangers,Raith Rvs,4-0,3-0
-1995-09-10,Aberdeen,Celtic,2-3,2-3
-1995-09-16,Celtic,Motherwell,1-1,1-0
-1995-09-16,Falkirk,Rangers,0-2,0-1
-1995-09-16,Hibernian,Aberdeen,1-1,0-0
-1995-09-16,Partick,Hearts,2-0,1-0
-1995-09-16,Raith Rvs,Kilmarnock,2-0,0-0
-1995-09-23,Falkirk,Motherwell,0-0,0-0
-1995-09-23,Hearts,Celtic,0-4,0-2
-1995-09-23,Kilmarnock,Aberdeen,1-2,0-2
-1995-09-23,Raith Rvs,Partick,3-1,2-0
-1995-09-23,Rangers,Hibernian,0-1,0-0
-1995-09-30,Aberdeen,Raith Rvs,3-0,2-0
-1995-09-30,Celtic,Rangers,0-2,0-1
-1995-09-30,Motherwell,Kilmarnock,3-0,1-0
-1995-09-30,Partick,Falkirk,1-1,0-0
-1995-10-01,Hibernian,Hearts,2-2,0-1
-1995-10-03,Rangers,Motherwell,2-1,1-0
-1995-10-04,Falkirk,Celtic,0-1,0-0
-1995-10-04,Hearts,Aberdeen,1-2,1-1
-1995-10-04,Partick,Kilmarnock,1-1,1-1
-1995-10-04,Raith Rvs,Hibernian,3-0,1-0
-1995-10-07,Aberdeen,Rangers,0-1,0-0
-1995-10-07,Celtic,Partick,2-1,0-0
-1995-10-07,Hibernian,Falkirk,2-1,1-0
-1995-10-07,Kilmarnock,Hearts,3-1,2-1
-1995-10-07,Motherwell,Raith Rvs,0-2,0-1
-1995-10-14,Celtic,Hibernian,2-2,1-1
-1995-10-14,Falkirk,Kilmarnock,0-2,0-2
-1995-10-14,Hearts,Raith Rvs,4-2,2-0
-1995-10-14,Motherwell,Aberdeen,2-1,1-1
-1995-10-14,Partick,Rangers,0-4,0-2
-1995-10-21,Aberdeen,Partick,3-0,1-0
-1995-10-21,Hibernian,Motherwell,4-2,3-0
-1995-10-21,Kilmarnock,Celtic,0-0,0-0
-1995-10-21,Raith Rvs,Falkirk,0-1,0-1
-1995-10-21,Rangers,Hearts,4-1,3-0
-1995-10-28,Celtic,Aberdeen,2-0,1-0
-1995-10-28,Falkirk,Hearts,2-0,1-0
-1995-10-28,Hibernian,Kilmarnock,2-0,1-0
-1995-10-28,Partick,Motherwell,1-0,0-0
-1995-10-28,Raith Rvs,Rangers,2-2,0-0
-1995-11-04,Aberdeen,Hibernian,1-2,0-1
-1995-11-04,Hearts,Partick,3-0,1-0
-1995-11-04,Kilmarnock,Raith Rvs,5-1,2-0
-1995-11-04,Motherwell,Celtic,0-2,0-0
-1995-11-04,Rangers,Falkirk,2-0,2-0
-1995-11-07,Motherwell,Hearts,0-0,0-0
-1995-11-08,Aberdeen,Falkirk,3-1,2-1
-1995-11-08,Celtic,Raith Rvs,0-0,0-0
-1995-11-08,Kilmarnock,Rangers,0-2,0-0
-1995-11-11,Falkirk,Hibernian,2-0,0-0
-1995-11-11,Hearts,Kilmarnock,2-1,0-0
-1995-11-11,Partick,Celtic,1-2,1-1
-1995-11-11,Raith Rvs,Motherwell,0-0,0-0
-1995-11-11,Rangers,Aberdeen,1-1,1-1
-1995-11-19,Hearts,Hibernian,2-1,1-0
-1995-11-19,Rangers,Celtic,3-3,1-1
-1995-11-20,Falkirk,Partick,0-1,0-0
-1995-11-20,Kilmarnock,Motherwell,1-1,1-1
-1995-11-20,Raith Rvs,Aberdeen,1-0,1-0
-1995-11-22,Hibernian,Partick,3-0,1-0
-1995-11-25,Celtic,Hearts,3-1,1-0
-1995-11-25,Hibernian,Rangers,1-4,1-2
-1995-11-25,Motherwell,Falkirk,1-1,0-0
-1995-11-25,Partick,Raith Rvs,0-2,0-2
-1995-12-02,Celtic,Kilmarnock,4-2,2-2
-1995-12-02,Falkirk,Raith Rvs,2-1,0-0
-1995-12-02,Hearts,Rangers,0-2,0-0
-1995-12-02,Motherwell,Hibernian,0-2,0-0
-1995-12-02,Partick,Aberdeen,1-0,0-0
-1995-12-09,Aberdeen,Motherwell,1-0,0-0
-1995-12-09,Hibernian,Celtic,0-4,0-2
-1995-12-09,Kilmarnock,Falkirk,4-0,2-0
-1995-12-09,Raith Rvs,Hearts,1-1,1-0
-1995-12-09,Rangers,Partick,1-0,0-0
-1995-12-12,Aberdeen,Kilmarnock,4-1,2-1
-1995-12-16,Aberdeen,Hearts,1-2,1-0
-1995-12-16,Celtic,Falkirk,1-0,1-0
-1995-12-16,Hibernian,Raith Rvs,1-2,1-0
-1995-12-16,Kilmarnock,Partick,2-1,1-1
-1995-12-19,Motherwell,Rangers,0-0,0-0
-1995-12-26,Rangers,Kilmarnock,3-0,2-0
-1995-12-30,Rangers,Hibernian,7-0,2-0
-1996-01-01,Hibernian,Hearts,2-1,2-1
-1996-01-03,Celtic,Rangers,0-0,0-0
-1996-01-06,Celtic,Motherwell,1-0,1-0
-1996-01-06,Falkirk,Rangers,0-4,0-3
-1996-01-06,Partick,Hearts,0-1,0-0
-1996-01-06,Raith Rvs,Kilmarnock,1-1,1-0
-1996-01-08,Hibernian,Aberdeen,1-2,0-2
-1996-01-09,Partick,Falkirk,0-3,0-2
-1996-01-09,Raith Rvs,Celtic,1-3,0-2
-1996-01-10,Hearts,Motherwell,4-0,2-0
-1996-01-13,Hearts,Falkirk,2-1,1-0
-1996-01-13,Kilmarnock,Hibernian,3-2,0-2
-1996-01-13,Motherwell,Partick,0-2,0-1
-1996-01-13,Rangers,Raith Rvs,4-0,3-0
-1996-01-14,Aberdeen,Celtic,1-2,1-0
-1996-01-16,Falkirk,Aberdeen,1-1,1-1
-1996-01-16,Motherwell,Kilmarnock,0-1,0-0
-1996-01-16,Partick,Hibernian,0-0,0-0
-1996-01-17,Hearts,Celtic,1-2,1-0
-1996-01-20,Aberdeen,Partick,1-0,0-0
-1996-01-20,Hibernian,Motherwell,0-0,0-0
-1996-01-20,Kilmarnock,Celtic,0-0,0-0
-1996-01-20,Raith Rvs,Falkirk,1-0,0-0
-1996-01-20,Rangers,Hearts,0-3,0-1
-1996-01-23,Falkirk,Motherwell,0-1,0-1
-1996-01-23,Kilmarnock,Aberdeen,1-1,0-1
-1996-01-23,Raith Rvs,Partick,0-2,0-0
-1996-02-03,Celtic,Hibernian,2-1,0-1
-1996-02-03,Falkirk,Kilmarnock,4-2,2-2
-1996-02-03,Hearts,Raith Rvs,2-0,1-0
-1996-02-03,Partick,Rangers,1-2,1-2
-1996-02-07,Aberdeen,Raith Rvs,1-0,0-0
-1996-02-10,Falkirk,Celtic,0-0,0-0
-1996-02-10,Hearts,Aberdeen,1-3,1-2
-1996-02-10,Partick,Kilmarnock,0-1,0-1
-1996-02-10,Raith Rvs,Hibernian,1-0,1-0
-1996-02-10,Rangers,Motherwell,3-2,1-0
-1996-02-13,Motherwell,Aberdeen,1-0,0-0
-1996-02-24,Celtic,Partick,4-0,2-0
-1996-02-24,Hibernian,Falkirk,2-1,0-0
-1996-02-24,Kilmarnock,Hearts,0-2,0-2
-1996-02-24,Motherwell,Raith Rvs,1-0,0-0
-1996-02-25,Aberdeen,Rangers,0-1,0-1
-1996-03-02,Aberdeen,Kilmarnock,3-0,1-0
-1996-03-02,Celtic,Hearts,4-0,3-0
-1996-03-02,Motherwell,Falkirk,1-0,1-0
-1996-03-02,Partick,Raith Rvs,0-3,0-1
-1996-03-03,Hibernian,Rangers,0-2,0-1
-1996-03-16,Falkirk,Partick,1-2,0-1
-1996-03-16,Hearts,Hibernian,1-1,0-0
-1996-03-16,Kilmarnock,Motherwell,0-1,0-1
-1996-03-16,Raith Rvs,Aberdeen,2-2,2-1
-1996-03-17,Rangers,Celtic,1-1,1-0
-1996-03-23,Aberdeen,Hibernian,2-1,0-1
-1996-03-23,Hearts,Partick,2-5,1-2
-1996-03-23,Kilmarnock,Raith Rvs,2-0,0-0
-1996-03-23,Motherwell,Celtic,0-0,0-0
-1996-03-23,Rangers,Falkirk,3-2,2-0
-1996-03-30,Falkirk,Hearts,0-2,0-1
-1996-03-30,Hibernian,Kilmarnock,1-1,1-0
-1996-03-30,Partick,Motherwell,0-2,0-1
-1996-03-30,Raith Rvs,Rangers,2-4,1-1
-1996-04-01,Celtic,Aberdeen,5-0,2-0
-1996-04-06,Falkirk,Raith Rvs,2-3,2-1
-1996-04-06,Motherwell,Hibernian,3-0,2-0
-1996-04-10,Celtic,Kilmarnock,1-1,0-1
-1996-04-10,Hearts,Rangers,2-0,1-0
-1996-04-13,Aberdeen,Motherwell,2-1,0-1
-1996-04-13,Kilmarnock,Falkirk,1-0,0-0
-1996-04-13,Raith Rvs,Hearts,1-3,0-1
-1996-04-13,Rangers,Partick,5-0,2-0
-1996-04-14,Hibernian,Celtic,1-2,0-0
-1996-04-16,Partick,Aberdeen,1-1,1-1
-1996-04-20,Aberdeen,Hearts,1-1,0-0
-1996-04-20,Celtic,Falkirk,4-0,2-0
-1996-04-20,Hibernian,Raith Rvs,1-1,0-0
-1996-04-20,Kilmarnock,Partick,2-1,0-0
-1996-04-20,Motherwell,Rangers,1-3,0-2
-1996-04-27,Falkirk,Hibernian,1-1,0-0
-1996-04-27,Hearts,Kilmarnock,1-0,0-0
-1996-04-27,Partick,Celtic,2-4,2-1
-1996-04-27,Raith Rvs,Motherwell,2-0,1-0
-1996-04-28,Rangers,Aberdeen,3-1,1-1
-1996-05-04,Aberdeen,Falkirk,2-1,1-1
-1996-05-04,Celtic,Raith Rvs,4-1,3-0
-1996-05-04,Hibernian,Partick,1-0,0-0
-1996-05-04,Kilmarnock,Rangers,0-3,0-2
-1996-05-04,Motherwell,Hearts,1-1,0-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 26 Aug 1995 (34),Falkirk (1),2-3,0-2,Aberdeen FC (1)
+?,(Sat) 26 Aug 1995 (34),Heart of Midlothian FC (1),1-1,0-0,Motherwell FC (1)
+?,(Sat) 26 Aug 1995 (34),Partick Thistle (1),1-1,0-0,Hibernian FC (1)
+?,(Sat) 26 Aug 1995 (34),Raith Rovers (1),0-1,0-0,Celtic FC (1)
+?,(Sat) 26 Aug 1995 (34),Rangers FC (1),1-0,0-0,Kilmarnock FC (1)
+?,(Sat) 9 Sep 1995 (36),Heart of Midlothian FC (2),4-1,2-1,Falkirk (2)
+?,(Sat) 9 Sep 1995 (36),Kilmarnock FC (2),0-3,0-3,Hibernian FC (2)
+?,(Sat) 9 Sep 1995 (36),Motherwell FC (2),1-1,0-0,Partick Thistle (2)
+?,(Sat) 9 Sep 1995 (36),Rangers FC (2),4-0,3-0,Raith Rovers (2)
+?,(Sun) 10 Sep 1995 (36),Aberdeen FC (2),2-3,2-3,Celtic FC (2)
+?,(Sat) 16 Sep 1995 (37),Celtic FC (3),1-1,1-0,Motherwell FC (3)
+?,(Sat) 16 Sep 1995 (37),Falkirk (3),0-2,0-1,Rangers FC (3)
+?,(Sat) 16 Sep 1995 (37),Hibernian FC (3),1-1,0-0,Aberdeen FC (3)
+?,(Sat) 16 Sep 1995 (37),Partick Thistle (3),2-0,1-0,Heart of Midlothian FC (3)
+?,(Sat) 16 Sep 1995 (37),Raith Rovers (3),2-0,0-0,Kilmarnock FC (3)
+?,(Sat) 23 Sep 1995 (38),Falkirk (4),0-0,0-0,Motherwell FC (4)
+?,(Sat) 23 Sep 1995 (38),Heart of Midlothian FC (4),0-4,0-2,Celtic FC (4)
+?,(Sat) 23 Sep 1995 (38),Kilmarnock FC (4),1-2,0-2,Aberdeen FC (4)
+?,(Sat) 23 Sep 1995 (38),Raith Rovers (4),3-1,2-0,Partick Thistle (4)
+?,(Sat) 23 Sep 1995 (38),Rangers FC (4),0-1,0-0,Hibernian FC (4)
+?,(Sat) 30 Sep 1995 (39),Aberdeen FC (5),3-0,2-0,Raith Rovers (5)
+?,(Sat) 30 Sep 1995 (39),Celtic FC (5),0-2,0-1,Rangers FC (5)
+?,(Sat) 30 Sep 1995 (39),Motherwell FC (5),3-0,1-0,Kilmarnock FC (5)
+?,(Sat) 30 Sep 1995 (39),Partick Thistle (5),1-1,0-0,Falkirk (5)
+?,(Sun) 1 Oct 1995 (39),Hibernian FC (5),2-2,0-1,Heart of Midlothian FC (5)
+?,(Tue) 3 Oct 1995 (40),Rangers FC (6),2-1,1-0,Motherwell FC (6)
+?,(Wed) 4 Oct 1995 (40),Falkirk (6),0-1,0-0,Celtic FC (6)
+?,(Wed) 4 Oct 1995 (40),Heart of Midlothian FC (6),1-2,1-1,Aberdeen FC (6)
+?,(Wed) 4 Oct 1995 (40),Partick Thistle (6),1-1,1-1,Kilmarnock FC (6)
+?,(Wed) 4 Oct 1995 (40),Raith Rovers (6),3-0,1-0,Hibernian FC (6)
+?,(Sat) 7 Oct 1995 (40),Aberdeen FC (7),0-1,0-0,Rangers FC (7)
+?,(Sat) 7 Oct 1995 (40),Celtic FC (7),2-1,0-0,Partick Thistle (7)
+?,(Sat) 7 Oct 1995 (40),Hibernian FC (7),2-1,1-0,Falkirk (7)
+?,(Sat) 7 Oct 1995 (40),Kilmarnock FC (7),3-1,2-1,Heart of Midlothian FC (7)
+?,(Sat) 7 Oct 1995 (40),Motherwell FC (7),0-2,0-1,Raith Rovers (7)
+?,(Sat) 14 Oct 1995 (41),Celtic FC (8),2-2,1-1,Hibernian FC (8)
+?,(Sat) 14 Oct 1995 (41),Falkirk (8),0-2,0-2,Kilmarnock FC (8)
+?,(Sat) 14 Oct 1995 (41),Heart of Midlothian FC (8),4-2,2-0,Raith Rovers (8)
+?,(Sat) 14 Oct 1995 (41),Motherwell FC (8),2-1,1-1,Aberdeen FC (8)
+?,(Sat) 14 Oct 1995 (41),Partick Thistle (8),0-4,0-2,Rangers FC (8)
+?,(Sat) 21 Oct 1995 (42),Aberdeen FC (9),3-0,1-0,Partick Thistle (9)
+?,(Sat) 21 Oct 1995 (42),Hibernian FC (9),4-2,3-0,Motherwell FC (9)
+?,(Sat) 21 Oct 1995 (42),Kilmarnock FC (9),0-0,0-0,Celtic FC (9)
+?,(Sat) 21 Oct 1995 (42),Raith Rovers (9),0-1,0-1,Falkirk (9)
+?,(Sat) 21 Oct 1995 (42),Rangers FC (9),4-1,3-0,Heart of Midlothian FC (9)
+?,(Sat) 28 Oct 1995 (43),Celtic FC (10),2-0,1-0,Aberdeen FC (10)
+?,(Sat) 28 Oct 1995 (43),Falkirk (10),2-0,1-0,Heart of Midlothian FC (10)
+?,(Sat) 28 Oct 1995 (43),Hibernian FC (10),2-0,1-0,Kilmarnock FC (10)
+?,(Sat) 28 Oct 1995 (43),Partick Thistle (10),1-0,0-0,Motherwell FC (10)
+?,(Sat) 28 Oct 1995 (43),Raith Rovers (10),2-2,0-0,Rangers FC (10)
+?,(Sat) 4 Nov 1995 (44),Aberdeen FC (11),1-2,0-1,Hibernian FC (11)
+?,(Sat) 4 Nov 1995 (44),Heart of Midlothian FC (11),3-0,1-0,Partick Thistle (11)
+?,(Sat) 4 Nov 1995 (44),Kilmarnock FC (11),5-1,2-0,Raith Rovers (11)
+?,(Sat) 4 Nov 1995 (44),Motherwell FC (11),0-2,0-0,Celtic FC (11)
+?,(Sat) 4 Nov 1995 (44),Rangers FC (11),2-0,2-0,Falkirk (11)
+?,(Tue) 7 Nov 1995 (45),Motherwell FC (12),0-0,0-0,Heart of Midlothian FC (12)
+?,(Wed) 8 Nov 1995 (45),Aberdeen FC (12),3-1,2-1,Falkirk (12)
+?,(Wed) 8 Nov 1995 (45),Celtic FC (12),0-0,0-0,Raith Rovers (12)
+?,(Wed) 8 Nov 1995 (45),Kilmarnock FC (12),0-2,0-0,Rangers FC (12)
+?,(Sat) 11 Nov 1995 (45),Falkirk (13),2-0,0-0,Hibernian FC (12)
+?,(Sat) 11 Nov 1995 (45),Heart of Midlothian FC (13),2-1,0-0,Kilmarnock FC (13)
+?,(Sat) 11 Nov 1995 (45),Partick Thistle (12),1-2,1-1,Celtic FC (13)
+?,(Sat) 11 Nov 1995 (45),Raith Rovers (13),0-0,0-0,Motherwell FC (13)
+?,(Sat) 11 Nov 1995 (45),Rangers FC (13),1-1,1-1,Aberdeen FC (13)
+?,(Sun) 19 Nov 1995 (46),Heart of Midlothian FC (14),2-1,1-0,Hibernian FC (13)
+?,(Sun) 19 Nov 1995 (46),Rangers FC (14),3-3,1-1,Celtic FC (14)
+?,(Mon) 20 Nov 1995 (47),Falkirk (14),0-1,0-0,Partick Thistle (13)
+?,(Mon) 20 Nov 1995 (47),Kilmarnock FC (14),1-1,1-1,Motherwell FC (14)
+?,(Mon) 20 Nov 1995 (47),Raith Rovers (14),1-0,1-0,Aberdeen FC (14)
+?,(Wed) 22 Nov 1995 (47),Hibernian FC (14),3-0,1-0,Partick Thistle (14)
+?,(Sat) 25 Nov 1995 (47),Celtic FC (15),3-1,1-0,Heart of Midlothian FC (15)
+?,(Sat) 25 Nov 1995 (47),Hibernian FC (15),1-4,1-2,Rangers FC (15)
+?,(Sat) 25 Nov 1995 (47),Motherwell FC (15),1-1,0-0,Falkirk (15)
+?,(Sat) 25 Nov 1995 (47),Partick Thistle (15),0-2,0-2,Raith Rovers (15)
+?,(Sat) 2 Dec 1995 (48),Celtic FC (16),4-2,2-2,Kilmarnock FC (15)
+?,(Sat) 2 Dec 1995 (48),Falkirk (16),2-1,0-0,Raith Rovers (16)
+?,(Sat) 2 Dec 1995 (48),Heart of Midlothian FC (16),0-2,0-0,Rangers FC (16)
+?,(Sat) 2 Dec 1995 (48),Motherwell FC (16),0-2,0-0,Hibernian FC (16)
+?,(Sat) 2 Dec 1995 (48),Partick Thistle (16),1-0,0-0,Aberdeen FC (15)
+?,(Sat) 9 Dec 1995 (49),Aberdeen FC (16),1-0,0-0,Motherwell FC (17)
+?,(Sat) 9 Dec 1995 (49),Hibernian FC (17),0-4,0-2,Celtic FC (17)
+?,(Sat) 9 Dec 1995 (49),Kilmarnock FC (16),4-0,2-0,Falkirk (17)
+?,(Sat) 9 Dec 1995 (49),Raith Rovers (17),1-1,1-0,Heart of Midlothian FC (17)
+?,(Sat) 9 Dec 1995 (49),Rangers FC (17),1-0,0-0,Partick Thistle (17)
+?,(Tue) 12 Dec 1995 (50),Aberdeen FC (17),4-1,2-1,Kilmarnock FC (17)
+?,(Sat) 16 Dec 1995 (50),Aberdeen FC (18),1-2,1-0,Heart of Midlothian FC (18)
+?,(Sat) 16 Dec 1995 (50),Celtic FC (18),1-0,1-0,Falkirk (18)
+?,(Sat) 16 Dec 1995 (50),Hibernian FC (18),1-2,1-0,Raith Rovers (18)
+?,(Sat) 16 Dec 1995 (50),Kilmarnock FC (18),2-1,1-1,Partick Thistle (18)
+?,(Tue) 19 Dec 1995 (51),Motherwell FC (18),0-0,0-0,Rangers FC (18)
+?,(Tue) 26 Dec 1995 (52),Rangers FC (19),3-0,2-0,Kilmarnock FC (19)
+?,(Sat) 30 Dec 1995 (52),Rangers FC (20),7-0,2-0,Hibernian FC (19)
+?,(Mon) 1 Jan 1996 (1),Hibernian FC (20),2-1,2-1,Heart of Midlothian FC (19)
+?,(Wed) 3 Jan 1996 (1),Celtic FC (19),0-0,0-0,Rangers FC (21)
+?,(Sat) 6 Jan 1996 (1),Celtic FC (20),1-0,1-0,Motherwell FC (19)
+?,(Sat) 6 Jan 1996 (1),Falkirk (19),0-4,0-3,Rangers FC (22)
+?,(Sat) 6 Jan 1996 (1),Partick Thistle (19),0-1,0-0,Heart of Midlothian FC (20)
+?,(Sat) 6 Jan 1996 (1),Raith Rovers (19),1-1,1-0,Kilmarnock FC (20)
+?,(Mon) 8 Jan 1996 (2),Hibernian FC (21),1-2,0-2,Aberdeen FC (19)
+?,(Tue) 9 Jan 1996 (2),Partick Thistle (20),0-3,0-2,Falkirk (20)
+?,(Tue) 9 Jan 1996 (2),Raith Rovers (20),1-3,0-2,Celtic FC (21)
+?,(Wed) 10 Jan 1996 (2),Heart of Midlothian FC (21),4-0,2-0,Motherwell FC (20)
+?,(Sat) 13 Jan 1996 (2),Heart of Midlothian FC (22),2-1,1-0,Falkirk (21)
+?,(Sat) 13 Jan 1996 (2),Kilmarnock FC (21),3-2,0-2,Hibernian FC (22)
+?,(Sat) 13 Jan 1996 (2),Motherwell FC (21),0-2,0-1,Partick Thistle (21)
+?,(Sat) 13 Jan 1996 (2),Rangers FC (23),4-0,3-0,Raith Rovers (21)
+?,(Sun) 14 Jan 1996 (2),Aberdeen FC (20),1-2,1-0,Celtic FC (22)
+?,(Tue) 16 Jan 1996 (3),Falkirk (22),1-1,1-1,Aberdeen FC (21)
+?,(Tue) 16 Jan 1996 (3),Motherwell FC (22),0-1,0-0,Kilmarnock FC (22)
+?,(Tue) 16 Jan 1996 (3),Partick Thistle (22),0-0,0-0,Hibernian FC (23)
+?,(Wed) 17 Jan 1996 (3),Heart of Midlothian FC (23),1-2,1-0,Celtic FC (23)
+?,(Sat) 20 Jan 1996 (3),Aberdeen FC (22),1-0,0-0,Partick Thistle (23)
+?,(Sat) 20 Jan 1996 (3),Hibernian FC (24),0-0,0-0,Motherwell FC (23)
+?,(Sat) 20 Jan 1996 (3),Kilmarnock FC (23),0-0,0-0,Celtic FC (24)
+?,(Sat) 20 Jan 1996 (3),Raith Rovers (22),1-0,0-0,Falkirk (23)
+?,(Sat) 20 Jan 1996 (3),Rangers FC (24),0-3,0-1,Heart of Midlothian FC (24)
+?,(Tue) 23 Jan 1996 (4),Falkirk (24),0-1,0-1,Motherwell FC (24)
+?,(Tue) 23 Jan 1996 (4),Kilmarnock FC (24),1-1,0-1,Aberdeen FC (23)
+?,(Tue) 23 Jan 1996 (4),Raith Rovers (23),0-2,0-0,Partick Thistle (24)
+?,(Sat) 3 Feb 1996 (5),Celtic FC (25),2-1,0-1,Hibernian FC (25)
+?,(Sat) 3 Feb 1996 (5),Falkirk (25),4-2,2-2,Kilmarnock FC (25)
+?,(Sat) 3 Feb 1996 (5),Heart of Midlothian FC (25),2-0,1-0,Raith Rovers (24)
+?,(Sat) 3 Feb 1996 (5),Partick Thistle (25),1-2,1-2,Rangers FC (25)
+?,(Wed) 7 Feb 1996 (6),Aberdeen FC (24),1-0,0-0,Raith Rovers (25)
+?,(Sat) 10 Feb 1996 (6),Falkirk (26),0-0,0-0,Celtic FC (26)
+?,(Sat) 10 Feb 1996 (6),Heart of Midlothian FC (26),1-3,1-2,Aberdeen FC (25)
+?,(Sat) 10 Feb 1996 (6),Partick Thistle (26),0-1,0-1,Kilmarnock FC (26)
+?,(Sat) 10 Feb 1996 (6),Raith Rovers (26),1-0,1-0,Hibernian FC (26)
+?,(Sat) 10 Feb 1996 (6),Rangers FC (26),3-2,1-0,Motherwell FC (25)
+?,(Tue) 13 Feb 1996 (7),Motherwell FC (26),1-0,0-0,Aberdeen FC (26)
+?,(Sat) 24 Feb 1996 (8),Celtic FC (27),4-0,2-0,Partick Thistle (27)
+?,(Sat) 24 Feb 1996 (8),Hibernian FC (27),2-1,0-0,Falkirk (27)
+?,(Sat) 24 Feb 1996 (8),Kilmarnock FC (27),0-2,0-2,Heart of Midlothian FC (27)
+?,(Sat) 24 Feb 1996 (8),Motherwell FC (27),1-0,0-0,Raith Rovers (27)
+?,(Sun) 25 Feb 1996 (8),Aberdeen FC (27),0-1,0-1,Rangers FC (27)
+?,(Sat) 2 Mar 1996 (9),Aberdeen FC (28),3-0,1-0,Kilmarnock FC (28)
+?,(Sat) 2 Mar 1996 (9),Celtic FC (28),4-0,3-0,Heart of Midlothian FC (28)
+?,(Sat) 2 Mar 1996 (9),Motherwell FC (28),1-0,1-0,Falkirk (28)
+?,(Sat) 2 Mar 1996 (9),Partick Thistle (28),0-3,0-1,Raith Rovers (28)
+?,(Sun) 3 Mar 1996 (9),Hibernian FC (28),0-2,0-1,Rangers FC (28)
+?,(Sat) 16 Mar 1996 (11),Falkirk (29),1-2,0-1,Partick Thistle (29)
+?,(Sat) 16 Mar 1996 (11),Heart of Midlothian FC (29),1-1,0-0,Hibernian FC (29)
+?,(Sat) 16 Mar 1996 (11),Kilmarnock FC (29),0-1,0-1,Motherwell FC (29)
+?,(Sat) 16 Mar 1996 (11),Raith Rovers (29),2-2,2-1,Aberdeen FC (29)
+?,(Sun) 17 Mar 1996 (11),Rangers FC (29),1-1,1-0,Celtic FC (29)
+?,(Sat) 23 Mar 1996 (12),Aberdeen FC (30),2-1,0-1,Hibernian FC (30)
+?,(Sat) 23 Mar 1996 (12),Heart of Midlothian FC (30),2-5,1-2,Partick Thistle (30)
+?,(Sat) 23 Mar 1996 (12),Kilmarnock FC (30),2-0,0-0,Raith Rovers (30)
+?,(Sat) 23 Mar 1996 (12),Motherwell FC (30),0-0,0-0,Celtic FC (30)
+?,(Sat) 23 Mar 1996 (12),Rangers FC (30),3-2,2-0,Falkirk (30)
+?,(Sat) 30 Mar 1996 (13),Falkirk (31),0-2,0-1,Heart of Midlothian FC (31)
+?,(Sat) 30 Mar 1996 (13),Hibernian FC (31),1-1,1-0,Kilmarnock FC (31)
+?,(Sat) 30 Mar 1996 (13),Partick Thistle (31),0-2,0-1,Motherwell FC (31)
+?,(Sat) 30 Mar 1996 (13),Raith Rovers (31),2-4,1-1,Rangers FC (31)
+?,(Mon) 1 Apr 1996 (14),Celtic FC (31),5-0,2-0,Aberdeen FC (31)
+?,(Sat) 6 Apr 1996 (14),Falkirk (32),2-3,2-1,Raith Rovers (32)
+?,(Sat) 6 Apr 1996 (14),Motherwell FC (32),3-0,2-0,Hibernian FC (32)
+?,(Wed) 10 Apr 1996 (15),Celtic FC (32),1-1,0-1,Kilmarnock FC (32)
+?,(Wed) 10 Apr 1996 (15),Heart of Midlothian FC (32),2-0,1-0,Rangers FC (32)
+?,(Sat) 13 Apr 1996 (15),Aberdeen FC (32),2-1,0-1,Motherwell FC (33)
+?,(Sat) 13 Apr 1996 (15),Kilmarnock FC (33),1-0,0-0,Falkirk (33)
+?,(Sat) 13 Apr 1996 (15),Raith Rovers (33),1-3,0-1,Heart of Midlothian FC (33)
+?,(Sat) 13 Apr 1996 (15),Rangers FC (33),5-0,2-0,Partick Thistle (32)
+?,(Sun) 14 Apr 1996 (15),Hibernian FC (33),1-2,0-0,Celtic FC (33)
+?,(Tue) 16 Apr 1996 (16),Partick Thistle (33),1-1,1-1,Aberdeen FC (33)
+?,(Sat) 20 Apr 1996 (16),Aberdeen FC (34),1-1,0-0,Heart of Midlothian FC (34)
+?,(Sat) 20 Apr 1996 (16),Celtic FC (34),4-0,2-0,Falkirk (34)
+?,(Sat) 20 Apr 1996 (16),Hibernian FC (34),1-1,0-0,Raith Rovers (34)
+?,(Sat) 20 Apr 1996 (16),Kilmarnock FC (34),2-1,0-0,Partick Thistle (34)
+?,(Sat) 20 Apr 1996 (16),Motherwell FC (34),1-3,0-2,Rangers FC (34)
+?,(Sat) 27 Apr 1996 (17),Falkirk (35),1-1,0-0,Hibernian FC (35)
+?,(Sat) 27 Apr 1996 (17),Heart of Midlothian FC (35),1-0,0-0,Kilmarnock FC (35)
+?,(Sat) 27 Apr 1996 (17),Partick Thistle (35),2-4,2-1,Celtic FC (35)
+?,(Sat) 27 Apr 1996 (17),Raith Rovers (35),2-0,1-0,Motherwell FC (35)
+?,(Sun) 28 Apr 1996 (17),Rangers FC (35),3-1,1-1,Aberdeen FC (35)
+?,(Sat) 4 May 1996 (18),Aberdeen FC (36),2-1,1-1,Falkirk (36)
+?,(Sat) 4 May 1996 (18),Celtic FC (36),4-1,3-0,Raith Rovers (36)
+?,(Sat) 4 May 1996 (18),Hibernian FC (36),1-0,0-0,Partick Thistle (36)
+?,(Sat) 4 May 1996 (18),Kilmarnock FC (36),0-3,0-2,Rangers FC (36)
+?,(Sat) 4 May 1996 (18),Motherwell FC (36),1-1,0-1,Heart of Midlothian FC (36)
