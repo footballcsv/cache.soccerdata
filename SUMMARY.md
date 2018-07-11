@@ -1,5 +1,83 @@
 # Summary
 
+4 levels: 1 2 3 4
+
+level 1
+- 24 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 
+- 20 teams: Aberdeen FC (24) Celtic FC (24) Dundee FC (12) Dundee United (21) Dunfermline Athletic (11) Falkirk (7) Gretna FC (1) Hamilton Academical FC (7) Heart of Midlothian FC (23) Hibernian FC (20) Inverness Caledonian Thistle (12) Kilmarnock FC (24) Livingston FC (5) Motherwell FC (24) Partick Thistle (9) Raith Rovers (2) Rangers FC (20) Ross County (6) Saint Mirren FC (10) St Johnstone FC (14) 
+  - 24 seasons: Aberdeen FC, Celtic FC, Kilmarnock FC, Motherwell FC
+  - 23 seasons: Heart of Midlothian FC
+  - 21 seasons: Dundee United
+  - 20 seasons: Hibernian FC, Rangers FC
+  - 14 seasons: St Johnstone FC
+  - 12 seasons: Dundee FC, Inverness Caledonian Thistle
+  - 11 seasons: Dunfermline Athletic
+  - 10 seasons: Saint Mirren FC
+  - 9 seasons: Partick Thistle
+  - 7 seasons: Falkirk, Hamilton Academical FC
+  - 6 seasons: Ross County
+  - 5 seasons: Livingston FC
+  - 2 seasons: Raith Rovers
+  - 1 seasons: Gretna FC
+
+
+level 2
+- 24 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 
+- 30 teams: Airdrieonians (14) Alloa Athletic (5) Arbroath (2) Ayr United (11) Brechin City (3) Clyde (9) Clydebank FC (5) Cowdenbeath (4) Dumbarton (7) Dundee FC (12) Dundee United (3) Dunfermline Athletic (10) East Fife (1) Falkirk (17) Greenock Morton (16) Gretna FC (1) Hamilton Academical FC (11) Heart of Midlothian FC (1) Hibernian FC (4) Inverness Caledonian Thistle (7) Livingston FC (11) Partick Thistle (11) Queen of the South (15) Raith Rovers (16) Rangers FC (2) Ross County (11) Saint Mirren FC (14) St Johnstone FC (10) Stirling Albion (4) Stranraer (3) 
+  - 17 seasons: Falkirk
+  - 16 seasons: Greenock Morton, Raith Rovers
+  - 15 seasons: Queen of the South
+  - 14 seasons: Airdrieonians, Saint Mirren FC
+  - 12 seasons: Dundee FC
+  - 11 seasons: Ayr United, Hamilton Academical FC, Livingston FC, Partick Thistle, Ross County
+  - 10 seasons: Dunfermline Athletic, St Johnstone FC
+  - 9 seasons: Clyde
+  - 7 seasons: Dumbarton, Inverness Caledonian Thistle
+  - 5 seasons: Alloa Athletic, Clydebank FC
+  - 4 seasons: Cowdenbeath, Hibernian FC, Stirling Albion
+  - 3 seasons: Brechin City, Dundee United, Stranraer
+  - 2 seasons: Arbroath, Rangers FC
+  - 1 seasons: East Fife, Gretna FC, Heart of Midlothian FC
+
+
+level 3
+- 21 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 
+- 29 teams: Airdrieonians (10) Albion Rovers (5) Alloa Athletic (14) Arbroath (11) Ayr United (11) Berwick Rangers (6) Brechin City (14) Clyde (4) Clydebank FC (3) Cowdenbeath (7) Dumbarton (7) Dunfermline Athletic (3) East Fife (11) Forfar Athletic (16) Greenock Morton (6) Gretna FC (1) Hamilton Academical FC (4) Inverness Caledonian Thistle (2) Livingston FC (4) Partick Thistle (4) Peterhead (9) Queen of the South (6) Queen's Park (5) Raith Rovers (6) Rangers FC (1) Ross County (2) Stenhousemuir (14) Stirling Albion (10) Stranraer (14) 
+  - 16 seasons: Forfar Athletic
+  - 14 seasons: Alloa Athletic, Brechin City, Stenhousemuir, Stranraer
+  - 11 seasons: Arbroath, Ayr United, East Fife
+  - 10 seasons: Airdrieonians, Stirling Albion
+  - 9 seasons: Peterhead
+  - 7 seasons: Cowdenbeath, Dumbarton
+  - 6 seasons: Berwick Rangers, Greenock Morton, Queen of the South, Raith Rovers
+  - 5 seasons: Albion Rovers, Queen's Park
+  - 4 seasons: Clyde, Hamilton Academical FC, Livingston FC, Partick Thistle
+  - 3 seasons: Clydebank FC, Dunfermline Athletic
+  - 2 seasons: Inverness Caledonian Thistle, Ross County
+  - 1 seasons: Gretna FC, Rangers FC
+
+
+level 4
+- 21 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 
+- 26 teams: Albion Rovers (16) Alloa Athletic (2) Annan Athletic (10) Arbroath (8) Berwick Rangers (15) Brechin City (4) Clyde (8) Cowdenbeath (10) Dumbarton (8) East Fife (10) East Stirlingshire FC (19) Edinburgh City (2) Elgin City (18) Forfar Athletic (5) Greenock Morton (1) Gretna FC (3) Hamilton Academical FC (1) Livingston FC (1) Montrose (21) Peterhead (9) Queen's Park (16) Rangers FC (1) Ross County (2) Stenhousemuir (7) Stirling Albion (8) Stranraer (5) 
+  - 21 seasons: Montrose
+  - 19 seasons: East Stirlingshire FC
+  - 18 seasons: Elgin City
+  - 16 seasons: Albion Rovers, Queen's Park
+  - 15 seasons: Berwick Rangers
+  - 10 seasons: Annan Athletic, Cowdenbeath, East Fife
+  - 9 seasons: Peterhead
+  - 8 seasons: Arbroath, Clyde, Dumbarton, Stirling Albion
+  - 7 seasons: Stenhousemuir
+  - 5 seasons: Forfar Athletic, Stranraer
+  - 4 seasons: Brechin City
+  - 3 seasons: Gretna FC
+  - 2 seasons: Alloa Athletic, Edinburgh City, Ross County
+  - 1 seasons: Greenock Morton, Hamilton Academical FC, Livingston FC, Rangers FC
+
+
+
+
 ## Datafiles
 
 - [`2017-18/1-premiership.csv`](2017-18/1-premiership.csv) => 12 teams / 228 matches / 594 goals / start: Sat 05 Aug 2017, end: Sun 13 May 2018
