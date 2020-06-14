@@ -1,32 +1,34 @@
-# Scotland
+# Cache - Soccer Data
 
-Football data for Scotland includes:
-
-- Scotish Premiership
-- Scotish Championship
-- Scotish League One
-- Scotish League Two
+A cache for datasets from James P. Curley's Soccer Data R statistics package.
 
 
-Note:
-
-- The Premier League, Division 1, Division 2 and Division 3 changed to
-  Premiership, Championship, League One and League Two starting with the 2013/14 season.
-
-- The Premier Division changed to Premier League starting with the 1998/99 season.
+## What's James P. Curley's Soccer Data?
 
 
-Example - [`2013-14/sco.1.csv`](2013-14/sco.1.csv):
-
-```
-2013-08-02,Partick,Dundee United,0-0,0-0
-2013-08-03,Aberdeen,Kilmarnock,2-1,1-0
-2013-08-03,Celtic,Ross County,2-1,1-1
-2013-08-03,Inverness C,St Mirren,3-0,0-0
-2013-08-04,Hibernian,Motherwell,0-1,0-0
-2013-08-04,St Johnstone,Hearts,1-0,1-0
 ...
-```
+
+
+
+## Why Cache the Datasets?
+
+### What's unchanged?
+
+The club names get copied as is incl. typos.
+
+
+### What's changed?
+
+The league codes (`1`, `2`, `3`, `4`, ...) get changed to
+the football.db "standard" using two letter ISO codes for countries
+and if no ISO code exists (e.g. for England, Scotland) than the three letter FIFA codes for countries (e.g. ENG, SCO) get used.
+
+The datasets here use the football.csv "standard", that is, one datafile
+per season and league. The league code becomes the file name and the season the
+directory name e.g. `1958-59/eng.1.csv` or `1958-59/eng.3n.csv`
+
+
+
 
 
 ## Questions? Comments?
@@ -34,4 +36,3 @@ Example - [`2013-14/sco.1.csv`](2013-14/sco.1.csv):
 Send them along to the
 [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
 Thanks!
-
