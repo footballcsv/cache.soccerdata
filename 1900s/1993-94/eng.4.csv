@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 14 1993,Mansfield Town,1-0,Shrewsbury Town
+Sat Aug 14 1993,Gillingham,0-2,Chesterfield
+Sat Aug 14 1993,Walsall,1-2,Torquay United
+Sat Aug 14 1993,Hereford United,0-1,Scarborough
+Sat Aug 14 1993,Chester,0-1,Doncaster Rovers
+Sat Aug 14 1993,Colchester United,1-0,Lincoln City
+Sat Aug 14 1993,Wigan Athletic,0-2,Scunthorpe United
+Sat Aug 14 1993,Preston North End,0-2,Crewe Alexandra
+Sat Aug 14 1993,Carlisle United,2-2,Wycombe Wanderers
+Sat Aug 14 1993,Bury,0-0,Northampton Town
+Sat Aug 14 1993,Darlington,1-1,Rochdale
+Sat Aug 21 1993,Scarborough,3-4,Preston North End
+Sat Aug 21 1993,Lincoln City,1-1,Darlington
+Sat Aug 21 1993,Scunthorpe United,1-1,Bury
+Sat Aug 21 1993,Chesterfield,3-1,Hereford United
+Sat Aug 21 1993,Doncaster Rovers,0-0,Carlisle United
+Sat Aug 21 1993,Rochdale,3-0,Gillingham
+Sat Aug 21 1993,Torquay United,1-1,Wigan Athletic
+Sat Aug 21 1993,Crewe Alexandra,2-1,Colchester United
+Sat Aug 21 1993,Shrewsbury Town,1-2,Walsall
+Sat Aug 21 1993,Wycombe Wanderers,1-0,Chester
+Sat Aug 28 1993,Preston North End,6-1,Shrewsbury Town
+Sat Aug 28 1993,Mansfield Town,0-1,Scunthorpe United
+Sat Aug 28 1993,Bury,1-0,Crewe Alexandra
+Sat Aug 28 1993,Chester,3-1,Chesterfield
+Sat Aug 28 1993,Darlington,1-2,Torquay United
+Sat Aug 28 1993,Gillingham,2-2,Scarborough
+Sat Aug 28 1993,Wigan Athletic,1-1,Wycombe Wanderers
+Sat Aug 28 1993,Carlisle United,0-1,Rochdale
+Sat Aug 28 1993,Hereford United,1-2,Lincoln City
+Sat Aug 28 1993,Colchester United,3-2,Northampton Town
+Sat Aug 28 1993,Walsall,1-2,Doncaster Rovers
+Tue Aug 31 1993,Torquay United,1-1,Carlisle United
+Tue Aug 31 1993,Lincoln City,0-3,Chester
+Tue Aug 31 1993,Crewe Alexandra,3-1,Northampton Town
+Tue Aug 31 1993,Gillingham,0-0,Doncaster Rovers
+Tue Aug 31 1993,Rochdale,1-2,Wigan Athletic
+Tue Aug 31 1993,Colchester United,3-3,Shrewsbury Town
+Tue Aug 31 1993,Walsall,0-0,Scunthorpe United
+Tue Aug 31 1993,Chesterfield,0-2,Mansfield Town
+Tue Aug 31 1993,Darlington,0-2,Scarborough
+Tue Aug 31 1993,Hereford United,3-4,Wycombe Wanderers
+Tue Aug 31 1993,Preston North End,3-1,Bury
+Sat Sep 4 1993,Lincoln City,0-2,Preston North End
+Sat Sep 4 1993,Scunthorpe United,1-2,Hereford United
+Sat Sep 4 1993,Rochdale,2-0,Chester
+Sat Sep 4 1993,Chesterfield,1-1,Darlington
+Sat Sep 4 1993,Scarborough,0-3,Carlisle United
+Sat Sep 4 1993,Crewe Alexandra,2-1,Mansfield Town
+Sat Sep 4 1993,Torquay United,3-3,Colchester United
+Sat Sep 4 1993,Northampton Town,0-1,Walsall
+Sat Sep 4 1993,Wycombe Wanderers,1-1,Gillingham
+Sat Sep 4 1993,Shrewsbury Town,1-0,Bury
+Sat Sep 4 1993,Doncaster Rovers,3-1,Wigan Athletic
+Sat Sep 11 1993,Carlisle United,3-0,Chesterfield
+Sat Sep 11 1993,Colchester United,2-5,Rochdale
+Sat Sep 11 1993,Walsall,2-2,Crewe Alexandra
+Sat Sep 11 1993,Chester,0-2,Scunthorpe United
+Sat Sep 11 1993,Wigan Athletic,1-2,Scarborough
+Sat Sep 11 1993,Darlington,0-2,Shrewsbury Town
+Sat Sep 11 1993,Mansfield Town,1-0,Lincoln City
+Sat Sep 11 1993,Gillingham,2-2,Torquay United
+Sat Sep 11 1993,Hereford United,1-1,Northampton Town
+Sat Sep 11 1993,Bury,1-2,Wycombe Wanderers
+Sat Sep 11 1993,Preston North End,3-1,Doncaster Rovers
+Fri Sep 17 1993,Doncaster Rovers,0-1,Mansfield Town
+Sat Sep 18 1993,Torquay United,4-3,Preston North End
+Sat Sep 18 1993,Northampton Town,0-2,Wigan Athletic
+Sat Sep 18 1993,Crewe Alexandra,2-1,Darlington
+Sat Sep 18 1993,Wycombe Wanderers,2-5,Colchester United
+Sat Sep 18 1993,Lincoln City,2-2,Bury
+Sat Sep 18 1993,Shrewsbury Town,2-2,Gillingham
+Sat Sep 18 1993,Scarborough,0-1,Chester
+Sat Sep 18 1993,Rochdale,2-0,Hereford United
+Sat Sep 18 1993,Scunthorpe United,2-1,Carlisle United
+Sat Sep 18 1993,Chesterfield,0-1,Walsall
+Sat Sep 25 1993,Chester,0-0,Carlisle United
+Sat Sep 25 1993,Gillingham,1-0,Scunthorpe United
+Sat Sep 25 1993,Mansfield Town,2-2,Preston North End
+Sat Sep 25 1993,Hereford United,3-0,Wigan Athletic
+Sat Sep 25 1993,Wycombe Wanderers,1-0,Doncaster Rovers
+Sat Sep 25 1993,Darlington,0-0,Walsall
+Sat Sep 25 1993,Rochdale,5-1,Chesterfield
+Sat Sep 25 1993,Lincoln City,4-3,Northampton Town
+Sat Sep 25 1993,Colchester United,4-1,Bury
+Sat Sep 25 1993,Scarborough,1-3,Shrewsbury Town
+Sat Sep 25 1993,Torquay United,3-3,Crewe Alexandra
+Sat Oct 2 1993,Shrewsbury Town,3-2,Torquay United
+Sat Oct 2 1993,Carlisle United,1-2,Gillingham
+Sat Oct 2 1993,Walsall,3-3,Hereford United
+Sat Oct 2 1993,Preston North End,1-0,Colchester United
+Sat Oct 2 1993,Crewe Alexandra,2-2,Lincoln City
+Sat Oct 2 1993,Chesterfield,2-3,Wycombe Wanderers
+Sat Oct 2 1993,Scunthorpe United,1-1,Scarborough
+Sat Oct 2 1993,Northampton Town,1-0,Darlington
+Sat Oct 2 1993,Wigan Athletic,6-3,Chester
+Sat Oct 2 1993,Bury,2-2,Mansfield Town
+Sat Oct 2 1993,Doncaster Rovers,2-1,Rochdale
+Sat Oct 9 1993,Preston North End,4-1,Chesterfield
+Sat Oct 9 1993,Colchester United,2-1,Scunthorpe United
+Sat Oct 9 1993,Darlington,1-2,Chester
+Sat Oct 9 1993,Mansfield Town,4-2,Scarborough
+Sat Oct 9 1993,Bury,3-0,Wigan Athletic
+Sat Oct 9 1993,Northampton Town,1-1,Wycombe Wanderers
+Sat Oct 9 1993,Crewe Alexandra,6-0,Hereford United
+Sat Oct 9 1993,Walsall,1-0,Gillingham
+Sat Oct 9 1993,Lincoln City,2-1,Doncaster Rovers
+Sat Oct 9 1993,Shrewsbury Town,1-0,Carlisle United
+Sat Oct 9 1993,Torquay United,1-1,Rochdale
+Tue Oct 12 1993,Northampton Town,5-1,Mansfield Town
+Sat Oct 16 1993,Wigan Athletic,2-2,Preston North End
+Sat Oct 16 1993,Carlisle United,1-1,Mansfield Town
+Sat Oct 16 1993,Scarborough,1-2,Crewe Alexandra
+Sat Oct 16 1993,Doncaster Rovers,1-3,Bury
+Sat Oct 16 1993,Hereford United,5-0,Colchester United
+Sat Oct 16 1993,Wycombe Wanderers,2-3,Lincoln City
+Sat Oct 16 1993,Gillingham,2-1,Darlington
+Sat Oct 16 1993,Chester,1-0,Shrewsbury Town
+Sat Oct 16 1993,Chesterfield,3-1,Torquay United
+Sat Oct 16 1993,Rochdale,0-0,Walsall
+Sat Oct 16 1993,Scunthorpe United,7-0,Northampton Town
+Sat Oct 23 1993,Mansfield Town,0-4,Chester
+Sat Oct 23 1993,Torquay United,1-1,Scunthorpe United
+Sat Oct 23 1993,Preston North End,2-1,Rochdale
+Sat Oct 23 1993,Darlington,0-0,Wycombe Wanderers
+Sat Oct 23 1993,Walsall,1-0,Scarborough
+Sat Oct 23 1993,Colchester United,3-1,Wigan Athletic
+Sat Oct 23 1993,Crewe Alexandra,1-0,Gillingham
+Sat Oct 23 1993,Shrewsbury Town,0-1,Doncaster Rovers
+Sat Oct 23 1993,Lincoln City,1-2,Chesterfield
+Sat Oct 23 1993,Northampton Town,1-1,Carlisle United
+Sat Oct 23 1993,Bury,5-3,Hereford United
+Sat Oct 30 1993,Wigan Athletic,4-1,Mansfield Town
+Sat Oct 30 1993,Carlisle United,2-1,Walsall
+Sat Oct 30 1993,Rochdale,0-1,Lincoln City
+Sat Oct 30 1993,Hereford United,2-3,Preston North End
+Sat Oct 30 1993,Scarborough,1-0,Bury
+Sat Oct 30 1993,Chesterfield,2-0,Crewe Alexandra
+Sat Oct 30 1993,Doncaster Rovers,2-1,Northampton Town
+Sat Oct 30 1993,Wycombe Wanderers,1-1,Shrewsbury Town
+Sat Oct 30 1993,Gillingham,3-0,Colchester United
+Sat Oct 30 1993,Scunthorpe United,3-0,Darlington
+Sat Oct 30 1993,Chester,1-1,Torquay United
+Mon Nov 1 1993,Doncaster Rovers,3-1,Scunthorpe United
+Tue Nov 2 1993,Chesterfield,1-0,Wigan Athletic
+Tue Nov 2 1993,Darlington,7-3,Colchester United
+Tue Nov 2 1993,Torquay United,2-0,Northampton Town
+Tue Nov 2 1993,Walsall,2-0,Preston North End
+Tue Nov 2 1993,Chester,3-0,Bury
+Tue Nov 2 1993,Rochdale,1-1,Mansfield Town
+Tue Nov 2 1993,Wycombe Wanderers,4-0,Scarborough
+Tue Nov 2 1993,Gillingham,2-0,Hereford United
+Tue Nov 2 1993,Shrewsbury Town,2-2,Crewe Alexandra
+Tue Nov 2 1993,Carlisle United,3-3,Lincoln City
+Sat Nov 6 1993,Bury,2-1,Chesterfield
+Sat Nov 6 1993,Wigan Athletic,0-2,Carlisle United
+Sat Nov 6 1993,Northampton Town,0-3,Shrewsbury Town
+Sat Nov 6 1993,Scarborough,2-0,Doncaster Rovers
+Sat Nov 6 1993,Preston North End,3-2,Darlington
+Sat Nov 6 1993,Colchester United,0-1,Walsall
+Sat Nov 6 1993,Lincoln City,1-0,Torquay United
+Sat Nov 6 1993,Hereford United,0-5,Chester
+Sat Nov 6 1993,Mansfield Town,2-1,Gillingham
+Sat Nov 6 1993,Crewe Alexandra,2-1,Rochdale
+Sat Nov 6 1993,Scunthorpe United,0-0,Wycombe Wanderers
+Sat Nov 20 1993,Chesterfield,1-0,Scarborough
+Sat Nov 20 1993,Darlington,2-0,Mansfield Town
+Sat Nov 20 1993,Walsall,5-2,Lincoln City
+Sat Nov 20 1993,Gillingham,2-2,Wigan Athletic
+Sat Nov 20 1993,Wycombe Wanderers,3-1,Crewe Alexandra
+Sat Nov 20 1993,Chester,1-0,Northampton Town
+Sat Nov 20 1993,Rochdale,2-1,Bury
+Sat Nov 20 1993,Shrewsbury Town,0-0,Scunthorpe United
+Sat Nov 20 1993,Torquay United,1-1,Hereford United
+Sat Nov 20 1993,Doncaster Rovers,2-1,Colchester United
+Sat Nov 20 1993,Carlisle United,0-1,Preston North End
+Sat Nov 27 1993,Crewe Alexandra,2-1,Chester
+Sat Nov 27 1993,Lincoln City,3-1,Gillingham
+Sat Nov 27 1993,Scunthorpe United,2-1,Rochdale
+Sat Nov 27 1993,Preston North End,2-3,Wycombe Wanderers
+Sat Nov 27 1993,Bury,5-1,Darlington
+Sat Nov 27 1993,Scarborough,1-2,Torquay United
+Sat Nov 27 1993,Northampton Town,2-2,Chesterfield
+Sat Nov 27 1993,Colchester United,2-1,Carlisle United
+Sat Nov 27 1993,Wigan Athletic,2-5,Shrewsbury Town
+Sat Nov 27 1993,Mansfield Town,1-2,Walsall
+Sat Nov 27 1993,Hereford United,2-1,Doncaster Rovers
+Sat Dec 11 1993,Carlisle United,4-2,Doncaster Rovers
+Sat Dec 11 1993,Preston North End,2-2,Scarborough
+Sat Dec 11 1993,Darlington,3-2,Lincoln City
+Sat Dec 11 1993,Bury,1-0,Scunthorpe United
+Sat Dec 11 1993,Wigan Athletic,1-3,Torquay United
+Sat Dec 11 1993,Colchester United,2-4,Crewe Alexandra
+Sat Dec 11 1993,Mansfield Town,1-0,Northampton Town
+Sat Dec 11 1993,Walsall,0-1,Shrewsbury Town
+Sat Dec 11 1993,Gillingham,1-2,Rochdale
+Sat Dec 11 1993,Chester,3-1,Wycombe Wanderers
+Fri Dec 17 1993,Doncaster Rovers,3-4,Chester
+Fri Dec 17 1993,Crewe Alexandra,4-3,Preston North End
+Fri Dec 17 1993,Shrewsbury Town,2-2,Mansfield Town
+Sat Dec 18 1993,Torquay United,0-1,Walsall
+Sat Dec 18 1993,Wycombe Wanderers,2-0,Carlisle United
+Sat Dec 18 1993,Scunthorpe United,1-0,Wigan Athletic
+Sat Dec 18 1993,Rochdale,0-0,Darlington
+Sat Dec 18 1993,Chesterfield,3-2,Gillingham
+Sat Dec 18 1993,Northampton Town,0-1,Bury
+Sat Dec 18 1993,Scarborough,0-1,Hereford United
+Mon Dec 27 1993,Hereford United,0-1,Shrewsbury Town
+Mon Dec 27 1993,Lincoln City,2-0,Scunthorpe United
+Mon Dec 27 1993,Preston North End,1-1,Chester
+Mon Dec 27 1993,Torquay United,1-1,Wycombe Wanderers
+Mon Dec 27 1993,Darlington,1-3,Carlisle United
+Mon Dec 27 1993,Colchester United,0-0,Mansfield Town
+Mon Dec 27 1993,Gillingham,1-0,Northampton Town
+Mon Dec 27 1993,Walsall,0-1,Bury
+Tue Dec 28 1993,Carlisle United,1-2,Crewe Alexandra
+Tue Dec 28 1993,Scarborough,0-2,Colchester United
+Tue Dec 28 1993,Doncaster Rovers,1-3,Darlington
+Tue Dec 28 1993,Scunthorpe United,2-2,Chesterfield
+Sat Jan 1 1994,Walsall,4-2,Wycombe Wanderers
+Sat Jan 1 1994,Gillingham,1-0,Bury
+Sat Jan 1 1994,Hereford United,0-0,Carlisle United
+Sat Jan 1 1994,Colchester United,0-0,Chester
+Sat Jan 1 1994,Crewe Alexandra,2-0,Doncaster Rovers
+Sat Jan 1 1994,Lincoln City,0-1,Scarborough
+Sat Jan 1 1994,Rochdale,6-2,Northampton Town
+Sat Jan 1 1994,Torquay United,1-0,Mansfield Town
+Sat Jan 1 1994,Preston North End,2-2,Scunthorpe United
+Sat Jan 1 1994,Chesterfield,1-2,Shrewsbury Town
+Mon Jan 3 1994,Scunthorpe United,5-0,Walsall
+Mon Jan 3 1994,Shrewsbury Town,2-1,Colchester United
+Mon Jan 3 1994,Scarborough,3-0,Darlington
+Mon Jan 3 1994,Wycombe Wanderers,3-2,Hereford United
+Mon Jan 3 1994,Carlisle United,1-1,Torquay United
+Mon Jan 3 1994,Mansfield Town,1-2,Chesterfield
+Mon Jan 3 1994,Northampton Town,2-2,Crewe Alexandra
+Mon Jan 3 1994,Doncaster Rovers,0-0,Gillingham
+Tue Jan 4 1994,Bury,1-1,Preston North End
+Tue Jan 4 1994,Wigan Athletic,0-0,Rochdale
+Sat Jan 8 1994,Hereford United,1-1,Darlington
+Sat Jan 8 1994,Scarborough,2-1,Northampton Town
+Sat Jan 8 1994,Doncaster Rovers,0-2,Torquay United
+Tue Jan 11 1994,Wigan Athletic,2-2,Walsall
+Sat Jan 15 1994,Walsall,1-0,Rochdale
+Sat Jan 15 1994,Preston North End,3-0,Wigan Athletic
+Sat Jan 15 1994,Shrewsbury Town,3-0,Chester
+Sat Jan 15 1994,Colchester United,1-0,Hereford United
+Sat Jan 15 1994,Lincoln City,1-3,Wycombe Wanderers
+Sat Jan 15 1994,Mansfield Town,0-1,Carlisle United
+Sat Jan 15 1994,Crewe Alexandra,1-1,Scarborough
+Sat Jan 15 1994,Bury,4-0,Doncaster Rovers
+Sat Jan 15 1994,Torquay United,1-0,Chesterfield
+Sat Jan 15 1994,Darlington,2-1,Gillingham
+Tue Jan 18 1994,Mansfield Town,2-1,Hereford United
+Sat Jan 22 1994,Hereford United,1-2,Crewe Alexandra
+Sat Jan 22 1994,Gillingham,1-1,Walsall
+Sat Jan 22 1994,Wycombe Wanderers,1-0,Northampton Town
+Sat Jan 22 1994,Scarborough,1-1,Mansfield Town
+Sat Jan 22 1994,Chester,0-0,Darlington
+Sat Jan 22 1994,Scunthorpe United,1-1,Colchester United
+Sat Jan 22 1994,Doncaster Rovers,1-0,Lincoln City
+Sat Jan 22 1994,Chesterfield,1-1,Preston North End
+Sat Jan 22 1994,Wigan Athletic,3-1,Bury
+Sat Jan 22 1994,Rochdale,4-1,Torquay United
+Tue Jan 25 1994,Darlington,0-0,Wigan Athletic
+Tue Jan 25 1994,Carlisle United,1-2,Bury
+Tue Jan 25 1994,Chesterfield,1-1,Doncaster Rovers
+Tue Jan 25 1994,Wycombe Wanderers,1-0,Mansfield Town
+Sat Jan 29 1994,Torquay United,1-3,Chester
+Sat Jan 29 1994,Lincoln City,1-1,Rochdale
+Sat Jan 29 1994,Colchester United,1-2,Gillingham
+Sat Jan 29 1994,Shrewsbury Town,1-0,Wycombe Wanderers
+Sat Jan 29 1994,Darlington,2-1,Scunthorpe United
+Sat Jan 29 1994,Walsall,0-1,Carlisle United
+Sat Jan 29 1994,Crewe Alexandra,0-1,Chesterfield
+Sat Jan 29 1994,Mansfield Town,2-3,Wigan Athletic
+Sat Jan 29 1994,Bury,0-2,Scarborough
+Sat Jan 29 1994,Northampton Town,0-0,Doncaster Rovers
+Tue Feb 1 1994,Chester,1-1,Lincoln City
+Sat Feb 5 1994,Wigan Athletic,0-1,Colchester United
+Sat Feb 5 1994,Gillingham,1-3,Crewe Alexandra
+Sat Feb 5 1994,Chester,1-1,Mansfield Town
+Sat Feb 5 1994,Rochdale,2-1,Preston North End
+Sat Feb 5 1994,Chesterfield,2-2,Lincoln City
+Sat Feb 5 1994,Scunthorpe United,1-3,Torquay United
+Sat Feb 5 1994,Carlisle United,0-1,Northampton Town
+Sat Feb 5 1994,Hereford United,3-0,Bury
+Sat Feb 5 1994,Doncaster Rovers,0-0,Shrewsbury Town
+Sat Feb 5 1994,Scarborough,1-0,Walsall
+Sat Feb 12 1994,Bury,2-1,Carlisle United
+Sat Feb 12 1994,Walsall,1-1,Chester
+Sat Feb 12 1994,Mansfield Town,3-0,Wycombe Wanderers
+Sat Feb 12 1994,Colchester United,0-2,Chesterfield
+Sat Feb 12 1994,Crewe Alexandra,3-3,Scunthorpe United
+Sat Feb 12 1994,Lincoln City,0-1,Wigan Athletic
+Sat Feb 12 1994,Darlington,1-3,Hereford United
+Sat Feb 12 1994,Torquay United,2-1,Doncaster Rovers
+Sat Feb 12 1994,Preston North End,0-0,Gillingham
+Sat Feb 12 1994,Shrewsbury Town,1-1,Rochdale
+Sat Feb 12 1994,Northampton Town,3-2,Scarborough
+Sat Feb 19 1994,Wycombe Wanderers,0-1,Wigan Athletic
+Sat Feb 19 1994,Lincoln City,3-1,Hereford United
+Sat Feb 19 1994,Torquay United,2-1,Darlington
+Sat Feb 19 1994,Shrewsbury Town,1-0,Preston North End
+Sat Feb 19 1994,Rochdale,0-1,Carlisle United
+Sat Feb 19 1994,Crewe Alexandra,2-4,Bury
+Sat Feb 19 1994,Northampton Town,1-1,Colchester United
+Sat Feb 19 1994,Scunthorpe United,2-3,Mansfield Town
+Sat Feb 19 1994,Doncaster Rovers,4-0,Walsall
+Sat Feb 19 1994,Chesterfield,1-2,Chester
+Sat Feb 19 1994,Scarborough,1-1,Gillingham
+Sat Feb 26 1994,Mansfield Town,1-2,Crewe Alexandra
+Sat Feb 26 1994,Walsall,1-3,Northampton Town
+Sat Feb 26 1994,Preston North End,2-0,Lincoln City
+Sat Feb 26 1994,Bury,2-3,Shrewsbury Town
+Sat Feb 26 1994,Chester,3-1,Rochdale
+Sat Feb 26 1994,Gillingham,0-1,Wycombe Wanderers
+Sat Feb 26 1994,Carlisle United,2-0,Scarborough
+Sat Feb 26 1994,Colchester United,1-2,Torquay United
+Tue Mar 1 1994,Shrewsbury Town,1-2,Lincoln City
+Tue Mar 1 1994,Chester,1-0,Gillingham
+Tue Mar 1 1994,Rochdale,2-1,Scarborough
+Tue Mar 1 1994,Preston North End,3-0,Hereford United
+Fri Mar 4 1994,Doncaster Rovers,1-1,Preston North End
+Sat Mar 5 1994,Lincoln City,1-2,Mansfield Town
+Sat Mar 5 1994,Crewe Alexandra,1-2,Walsall
+Sat Mar 5 1994,Torquay United,0-1,Gillingham
+Sat Mar 5 1994,Chesterfield,3-0,Carlisle United
+Sat Mar 5 1994,Scarborough,4-1,Wigan Athletic
+Sat Mar 5 1994,Northampton Town,0-1,Hereford United
+Sat Mar 5 1994,Shrewsbury Town,1-1,Darlington
+Sat Mar 5 1994,Scunthorpe United,1-1,Chester
+Sat Mar 5 1994,Wycombe Wanderers,2-1,Bury
+Sat Mar 5 1994,Rochdale,1-1,Colchester United
+Tue Mar 8 1994,Northampton Town,4-0,Scunthorpe United
+Tue Mar 8 1994,Darlington,0-0,Chesterfield
+Sat Mar 12 1994,Colchester United,0-2,Wycombe Wanderers
+Sat Mar 12 1994,Carlisle United,3-1,Scunthorpe United
+Sat Mar 12 1994,Darlington,1-0,Crewe Alexandra
+Sat Mar 12 1994,Wigan Athletic,1-1,Northampton Town
+Sat Mar 12 1994,Chester,4-1,Scarborough
+Sat Mar 12 1994,Walsall,0-1,Chesterfield
+Sat Mar 12 1994,Mansfield Town,2-1,Doncaster Rovers
+Sat Mar 12 1994,Gillingham,0-2,Shrewsbury Town
+Sat Mar 12 1994,Bury,1-0,Lincoln City
+Sat Mar 12 1994,Hereford United,5-1,Rochdale
+Sat Mar 12 1994,Preston North End,3-1,Torquay United
+Tue Mar 15 1994,Northampton Town,2-0,Preston North End
+Tue Mar 15 1994,Chester,2-1,Walsall
+Tue Mar 15 1994,Lincoln City,2-0,Colchester United
+Tue Mar 15 1994,Scunthorpe United,2-1,Crewe Alexandra
+Tue Mar 15 1994,Hereford United,0-3,Chesterfield
+Sat Mar 19 1994,Northampton Town,0-0,Lincoln City
+Sat Mar 19 1994,Bury,0-1,Colchester United
+Sat Mar 19 1994,Scunthorpe United,1-1,Gillingham
+Sat Mar 19 1994,Wigan Athletic,3-4,Hereford United
+Sat Mar 19 1994,Chesterfield,1-1,Rochdale
+Sat Mar 19 1994,Shrewsbury Town,2-0,Scarborough
+Sat Mar 19 1994,Carlisle United,1-0,Chester
+Sat Mar 19 1994,Doncaster Rovers,0-3,Wycombe Wanderers
+Sat Mar 19 1994,Preston North End,3-1,Mansfield Town
+Sat Mar 19 1994,Crewe Alexandra,2-3,Torquay United
+Sat Mar 19 1994,Walsall,3-0,Darlington
+Tue Mar 22 1994,Wigan Athletic,0-0,Doncaster Rovers
+Sat Mar 26 1994,Rochdale,0-1,Doncaster Rovers
+Sat Mar 26 1994,Wycombe Wanderers,0-1,Chesterfield
+Sat Mar 26 1994,Mansfield Town,2-2,Bury
+Sat Mar 26 1994,Hereford United,0-1,Walsall
+Sat Mar 26 1994,Colchester United,1-1,Preston North End
+Sat Mar 26 1994,Chester,2-1,Wigan Athletic
+Sat Mar 26 1994,Torquay United,0-0,Shrewsbury Town
+Sat Mar 26 1994,Scarborough,0-1,Scunthorpe United
+Sat Mar 26 1994,Gillingham,2-0,Carlisle United
+Sat Mar 26 1994,Darlington,0-1,Northampton Town
+Sat Mar 26 1994,Lincoln City,1-2,Crewe Alexandra
+Tue Mar 29 1994,Bury,1-1,Torquay United
+Tue Mar 29 1994,Wycombe Wanderers,2-0,Darlington
+Tue Mar 29 1994,Hereford United,1-2,Scunthorpe United
+Tue Mar 29 1994,Chesterfield,0-0,Colchester United
+Tue Mar 29 1994,Wigan Athletic,0-1,Lincoln City
+Sat Apr 2 1994,Wigan Athletic,2-2,Crewe Alexandra
+Sat Apr 2 1994,Scunthorpe United,2-0,Lincoln City
+Sat Apr 2 1994,Mansfield Town,1-1,Colchester United
+Sat Apr 2 1994,Doncaster Rovers,0-0,Chesterfield
+Sat Apr 2 1994,Scarborough,2-1,Rochdale
+Sat Apr 2 1994,Chester,3-2,Preston North End
+Sat Apr 2 1994,Shrewsbury Town,2-0,Hereford United
+Sat Apr 2 1994,Carlisle United,2-0,Darlington
+Sat Apr 2 1994,Wycombe Wanderers,1-1,Torquay United
+Sat Apr 2 1994,Northampton Town,1-2,Gillingham
+Sat Apr 2 1994,Bury,1-2,Walsall
+Mon Apr 4 1994,Chesterfield,1-1,Scunthorpe United
+Mon Apr 4 1994,Preston North End,1-1,Northampton Town
+Mon Apr 4 1994,Rochdale,2-2,Wycombe Wanderers
+Mon Apr 4 1994,Hereford United,2-3,Mansfield Town
+Mon Apr 4 1994,Gillingham,2-2,Chester
+Mon Apr 4 1994,Lincoln City,0-1,Shrewsbury Town
+Mon Apr 4 1994,Crewe Alexandra,2-3,Carlisle United
+Mon Apr 4 1994,Darlington,1-3,Doncaster Rovers
+Mon Apr 4 1994,Colchester United,1-2,Scarborough
+Tue Apr 5 1994,Torquay United,0-0,Bury
+Tue Apr 5 1994,Walsall,1-1,Wigan Athletic
+Sat Apr 9 1994,Scunthorpe United,3-1,Preston North End
+Sat Apr 9 1994,Chester,2-1,Colchester United
+Sat Apr 9 1994,Shrewsbury Town,0-0,Chesterfield
+Sat Apr 9 1994,Wycombe Wanderers,3-0,Walsall
+Sat Apr 9 1994,Carlisle United,1-2,Hereford United
+Sat Apr 9 1994,Mansfield Town,2-1,Torquay United
+Sat Apr 9 1994,Northampton Town,1-2,Rochdale
+Sat Apr 9 1994,Doncaster Rovers,0-0,Crewe Alexandra
+Sat Apr 9 1994,Scarborough,2-2,Lincoln City
+Sat Apr 9 1994,Wigan Athletic,2-0,Darlington
+Tue Apr 12 1994,Rochdale,1-2,Shrewsbury Town
+Tue Apr 12 1994,Gillingham,2-2,Preston North End
+Sat Apr 16 1994,Bury,1-1,Chester
+Sat Apr 16 1994,Northampton Town,0-1,Torquay United
+Sat Apr 16 1994,Hereford United,2-0,Gillingham
+Sat Apr 16 1994,Preston North End,2-0,Walsall
+Sat Apr 16 1994,Colchester United,1-2,Darlington
+Sat Apr 16 1994,Crewe Alexandra,0-0,Shrewsbury Town
+Sat Apr 16 1994,Lincoln City,0-0,Carlisle United
+Sat Apr 16 1994,Scarborough,3-1,Wycombe Wanderers
+Sat Apr 16 1994,Mansfield Town,0-1,Rochdale
+Sat Apr 16 1994,Wigan Athletic,1-0,Chesterfield
+Sat Apr 16 1994,Scunthorpe United,1-3,Doncaster Rovers
+Tue Apr 19 1994,Wycombe Wanderers,1-1,Rochdale
+Tue Apr 19 1994,Crewe Alexandra,4-1,Wigan Athletic
+Tue Apr 19 1994,Bury,0-0,Gillingham
+Sat Apr 23 1994,Chesterfield,1-1,Bury
+Sat Apr 23 1994,Darlington,0-2,Preston North End
+Sat Apr 23 1994,Gillingham,1-0,Mansfield Town
+Sat Apr 23 1994,Shrewsbury Town,2-1,Northampton Town
+Sat Apr 23 1994,Rochdale,2-1,Crewe Alexandra
+Sat Apr 23 1994,Chester,3-1,Hereford United
+Sat Apr 23 1994,Wycombe Wanderers,2-2,Scunthorpe United
+Sat Apr 23 1994,Doncaster Rovers,0-4,Scarborough
+Sat Apr 23 1994,Walsall,1-2,Colchester United
+Sat Apr 23 1994,Carlisle United,3-0,Wigan Athletic
+Sat Apr 23 1994,Torquay United,3-2,Lincoln City
+Sat Apr 30 1994,Preston North End,0-3,Carlisle United
+Sat Apr 30 1994,Scarborough,1-1,Chesterfield
+Sat Apr 30 1994,Northampton Town,1-0,Chester
+Sat Apr 30 1994,Mansfield Town,0-3,Darlington
+Sat Apr 30 1994,Hereford United,2-2,Torquay United
+Sat Apr 30 1994,Wigan Athletic,2-0,Gillingham
+Sat Apr 30 1994,Colchester United,3-1,Doncaster Rovers
+Sat Apr 30 1994,Crewe Alexandra,2-1,Wycombe Wanderers
+Sat Apr 30 1994,Bury,0-1,Rochdale
+Sat Apr 30 1994,Lincoln City,1-2,Walsall
+Sat Apr 30 1994,Scunthorpe United,1-4,Shrewsbury Town
+Tue May 3 1994,Carlisle United,2-1,Shrewsbury Town
+Sat May 7 1994,Walsall,0-2,Mansfield Town
+Sat May 7 1994,Rochdale,2-3,Scunthorpe United
+Sat May 7 1994,Chesterfield,4-0,Northampton Town
+Sat May 7 1994,Wycombe Wanderers,1-1,Preston North End
+Sat May 7 1994,Gillingham,1-1,Lincoln City
+Sat May 7 1994,Shrewsbury Town,0-0,Wigan Athletic
+Sat May 7 1994,Torquay United,2-0,Scarborough
+Sat May 7 1994,Carlisle United,2-0,Colchester United
+Sat May 7 1994,Doncaster Rovers,1-0,Hereford United
+Sat May 7 1994,Chester,1-2,Crewe Alexandra
+Sat May 7 1994,Darlington,1-0,Bury

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 17 1985,Sheffield Wednesday,1-1,Chelsea
+Sat Aug 17 1985,Luton Town,1-1,Nottingham Forest
+Sat Aug 17 1985,Leicester City,3-1,Everton
+Sat Aug 17 1985,Coventry City,1-1,Manchester City
+Sat Aug 17 1985,Manchester United,4-0,Aston Villa
+Sat Aug 17 1985,Queens Park Rangers,1-0,Ipswich Town
+Sat Aug 17 1985,Tottenham Hotspur,4-0,Watford
+Sat Aug 17 1985,Birmingham City,1-0,West Ham United
+Sat Aug 17 1985,Southampton,1-1,Newcastle United
+Sat Aug 17 1985,Liverpool,2-0,Arsenal
+Sat Aug 17 1985,West Bromwich Albion,1-1,Oxford United
+Tue Aug 20 1985,Ipswich Town,0-1,Manchester United
+Tue Aug 20 1985,Watford,3-0,Birmingham City
+Tue Aug 20 1985,Chelsea,1-0,Coventry City
+Tue Aug 20 1985,Everton,2-0,West Bromwich Albion
+Tue Aug 20 1985,West Ham United,3-1,Queens Park Rangers
+Tue Aug 20 1985,Arsenal,3-2,Southampton
+Wed Aug 21 1985,Aston Villa,2-2,Liverpool
+Wed Aug 21 1985,Manchester City,1-1,Leicester City
+Wed Aug 21 1985,Nottingham Forest,0-1,Sheffield Wednesday
+Wed Aug 21 1985,Oxford United,1-1,Tottenham Hotspur
+Wed Aug 21 1985,Newcastle United,2-2,Luton Town
+Sat Aug 24 1985,Chelsea,2-0,Birmingham City
+Sat Aug 24 1985,Nottingham Forest,2-1,Southampton
+Sat Aug 24 1985,Ipswich Town,1-0,Tottenham Hotspur
+Sat Aug 24 1985,West Ham United,0-1,Luton Town
+Sat Aug 24 1985,Arsenal,1-2,Manchester United
+Sat Aug 24 1985,Newcastle United,1-0,Liverpool
+Sat Aug 24 1985,Oxford United,5-0,Leicester City
+Sat Aug 24 1985,Aston Villa,1-2,Queens Park Rangers
+Sat Aug 24 1985,Manchester City,1-3,Sheffield Wednesday
+Sat Aug 24 1985,Watford,5-1,West Bromwich Albion
+Sat Aug 24 1985,Everton,1-1,Coventry City
+Mon Aug 26 1985,Tottenham Hotspur,0-1,Everton
+Mon Aug 26 1985,Liverpool,5-0,Ipswich Town
+Mon Aug 26 1985,Manchester United,2-0,West Ham United
+Mon Aug 26 1985,Coventry City,1-2,Newcastle United
+Mon Aug 26 1985,Birmingham City,3-1,Oxford United
+Mon Aug 26 1985,Sheffield Wednesday,2-1,Watford
+Mon Aug 26 1985,West Bromwich Albion,2-3,Manchester City
+Tue Aug 27 1985,Queens Park Rangers,2-1,Nottingham Forest
+Tue Aug 27 1985,Southampton,0-0,Aston Villa
+Tue Aug 27 1985,Luton Town,2-2,Arsenal
+Wed Aug 28 1985,Leicester City,0-0,Chelsea
+Sat Aug 31 1985,Ipswich Town,1-1,Southampton
+Sat Aug 31 1985,West Ham United,2-2,Liverpool
+Sat Aug 31 1985,Manchester City,2-1,Tottenham Hotspur
+Sat Aug 31 1985,Watford,3-0,Coventry City
+Sat Aug 31 1985,Oxford United,0-1,Sheffield Wednesday
+Sat Aug 31 1985,Aston Villa,3-1,Luton Town
+Sat Aug 31 1985,Chelsea,3-0,West Bromwich Albion
+Sat Aug 31 1985,Nottingham Forest,1-3,Manchester United
+Sat Aug 31 1985,Everton,4-1,Birmingham City
+Sat Aug 31 1985,Arsenal,1-0,Leicester City
+Sat Aug 31 1985,Newcastle United,3-1,Queens Park Rangers
+Tue Sep 3 1985,Liverpool,2-0,Nottingham Forest
+Tue Sep 3 1985,Coventry City,5-2,Oxford United
+Tue Sep 3 1985,Birmingham City,1-0,Manchester City
+Tue Sep 3 1985,Queens Park Rangers,0-1,Arsenal
+Tue Sep 3 1985,Southampton,1-1,West Ham United
+Tue Sep 3 1985,Sheffield Wednesday,1-5,Everton
+Wed Sep 4 1985,Leicester City,2-2,Watford
+Wed Sep 4 1985,Manchester United,3-0,Newcastle United
+Wed Sep 4 1985,West Bromwich Albion,0-3,Aston Villa
+Wed Sep 4 1985,Tottenham Hotspur,4-1,Chelsea
+Sat Sep 7 1985,Queens Park Rangers,3-0,Everton
+Sat Sep 7 1985,Sheffield Wednesday,2-2,West Ham United
+Sat Sep 7 1985,West Bromwich Albion,1-2,Ipswich Town
+Sat Sep 7 1985,Manchester United,3-0,Oxford United
+Sat Sep 7 1985,Liverpool,3-1,Watford
+Sat Sep 7 1985,Luton Town,1-1,Chelsea
+Sat Sep 7 1985,Coventry City,0-2,Arsenal
+Sat Sep 7 1985,Southampton,3-0,Manchester City
+Sat Sep 7 1985,Tottenham Hotspur,5-1,Newcastle United
+Sat Sep 7 1985,Birmingham City,0-0,Aston Villa
+Sun Sep 8 1985,Leicester City,0-3,Nottingham Forest
+Sat Sep 14 1985,Aston Villa,1-1,Coventry City
+Sat Sep 14 1985,Manchester City,0-3,Manchester United
+Sat Sep 14 1985,Nottingham Forest,0-1,Tottenham Hotspur
+Sat Sep 14 1985,Chelsea,2-0,Southampton
+Sat Sep 14 1985,Watford,2-0,Queens Park Rangers
+Sat Sep 14 1985,Ipswich Town,0-1,Birmingham City
+Sat Sep 14 1985,Arsenal,1-0,Sheffield Wednesday
+Sat Sep 14 1985,Everton,2-0,Luton Town
+Sat Sep 14 1985,West Ham United,3-0,Leicester City
+Sat Sep 14 1985,Newcastle United,4-1,West Bromwich Albion
+Sat Sep 14 1985,Oxford United,2-2,Liverpool
+Sat Sep 21 1985,Everton,2-3,Liverpool
+Sat Sep 21 1985,West Bromwich Albion,1-5,Manchester United
+Sat Sep 21 1985,Newcastle United,3-0,Oxford United
+Sat Sep 21 1985,Nottingham Forest,3-2,Watford
+Sat Sep 21 1985,Southampton,1-1,Coventry City
+Sat Sep 21 1985,Ipswich Town,0-3,Aston Villa
+Sat Sep 21 1985,Manchester City,2-2,West Ham United
+Sat Sep 21 1985,Chelsea,2-1,Arsenal
+Sat Sep 21 1985,Luton Town,2-0,Queens Park Rangers
+Sat Sep 21 1985,Birmingham City,2-1,Leicester City
+Sat Sep 21 1985,Tottenham Hotspur,5-1,Sheffield Wednesday
+Sat Sep 28 1985,Sheffield Wednesday,3-2,Luton Town
+Sat Sep 28 1985,Arsenal,0-0,Newcastle United
+Sat Sep 28 1985,Manchester United,1-0,Southampton
+Sat Sep 28 1985,Watford,3-1,Chelsea
+Sat Sep 28 1985,Leicester City,1-0,Ipswich Town
+Sat Sep 28 1985,Oxford United,1-0,Manchester City
+Sat Sep 28 1985,Aston Villa,0-0,Everton
+Sat Sep 28 1985,West Ham United,4-2,Nottingham Forest
+Sat Sep 28 1985,Queens Park Rangers,3-1,Birmingham City
+Sat Sep 28 1985,Liverpool,4-1,Tottenham Hotspur
+Sat Sep 28 1985,Coventry City,3-0,West Bromwich Albion
+Tue Oct 1 1985,Luton Town,1-0,Ipswich Town
+Wed Oct 2 1985,Leicester City,4-4,Oxford United
+Sat Oct 5 1985,Manchester City,0-1,Chelsea
+Sat Oct 5 1985,West Bromwich Albion,1-1,Tottenham Hotspur
+Sat Oct 5 1985,Birmingham City,0-2,Sheffield Wednesday
+Sat Oct 5 1985,Queens Park Rangers,2-1,Liverpool
+Sat Oct 5 1985,Southampton,3-1,Watford
+Sat Oct 5 1985,Nottingham Forest,3-1,Ipswich Town
+Sat Oct 5 1985,Newcastle United,1-2,West Ham United
+Sat Oct 5 1985,Everton,2-0,Oxford United
+Sat Oct 5 1985,Arsenal,3-2,Aston Villa
+Sat Oct 5 1985,Luton Town,1-1,Manchester United
+Sun Oct 6 1985,Coventry City,3-0,Leicester City
+Sat Oct 12 1985,Oxford United,1-1,Luton Town
+Sat Oct 12 1985,Ipswich Town,2-2,Newcastle United
+Sat Oct 12 1985,Liverpool,1-0,Southampton
+Sat Oct 12 1985,Leicester City,2-2,West Bromwich Albion
+Sat Oct 12 1985,Sheffield Wednesday,2-2,Coventry City
+Sat Oct 12 1985,Aston Villa,1-2,Nottingham Forest
+Sat Oct 12 1985,Chelsea,2-1,Everton
+Sat Oct 12 1985,Manchester United,2-0,Queens Park Rangers
+Sat Oct 12 1985,Watford,3-2,Manchester City
+Sat Oct 12 1985,West Ham United,0-0,Arsenal
+Sat Oct 19 1985,Arsenal,1-0,Ipswich Town
+Sat Oct 19 1985,Queens Park Rangers,0-0,Manchester City
+Sat Oct 19 1985,West Bromwich Albion,2-1,Birmingham City
+Sat Oct 19 1985,West Ham United,4-1,Aston Villa
+Sat Oct 19 1985,Leicester City,2-3,Sheffield Wednesday
+Sat Oct 19 1985,Everton,4-1,Watford
+Sat Oct 19 1985,Oxford United,2-1,Chelsea
+Sat Oct 19 1985,Newcastle United,0-3,Nottingham Forest
+Sat Oct 19 1985,Manchester United,1-1,Liverpool
+Sat Oct 19 1985,Luton Town,7-0,Southampton
+Sun Oct 20 1985,Coventry City,2-3,Tottenham Hotspur
+Sat Oct 26 1985,Birmingham City,0-1,Coventry City
+Sat Oct 26 1985,Manchester City,1-1,Everton
+Sat Oct 26 1985,Aston Villa,1-2,Newcastle United
+Sat Oct 26 1985,Ipswich Town,0-1,West Ham United
+Sat Oct 26 1985,Liverpool,3-2,Luton Town
+Sat Oct 26 1985,Nottingham Forest,3-2,Arsenal
+Sat Oct 26 1985,Chelsea,1-2,Manchester United
+Sat Oct 26 1985,Southampton,3-0,Queens Park Rangers
+Sat Oct 26 1985,Tottenham Hotspur,1-3,Leicester City
+Sat Oct 26 1985,Sheffield Wednesday,1-0,West Bromwich Albion
+Sat Oct 26 1985,Watford,2-2,Oxford United
+Sat Nov 2 1985,Queens Park Rangers,1-1,Sheffield Wednesday
+Sat Nov 2 1985,Southampton,1-0,Tottenham Hotspur
+Sat Nov 2 1985,Manchester United,2-0,Coventry City
+Sat Nov 2 1985,West Ham United,2-1,Everton
+Sat Nov 2 1985,Aston Villa,2-0,Oxford United
+Sat Nov 2 1985,Arsenal,1-0,Manchester City
+Sat Nov 2 1985,Luton Town,2-0,Birmingham City
+Sat Nov 2 1985,Ipswich Town,0-2,Chelsea
+Sat Nov 2 1985,Newcastle United,1-1,Watford
+Sat Nov 2 1985,Liverpool,1-0,Leicester City
+Sun Nov 3 1985,Nottingham Forest,2-1,West Bromwich Albion
+Sat Nov 9 1985,Birmingham City,0-1,Newcastle United
+Sat Nov 9 1985,Leicester City,2-2,Southampton
+Sat Nov 9 1985,Tottenham Hotspur,1-3,Luton Town
+Sat Nov 9 1985,West Bromwich Albion,0-1,Queens Park Rangers
+Sat Nov 9 1985,Watford,1-1,Aston Villa
+Sat Nov 9 1985,Oxford United,1-2,West Ham United
+Sat Nov 9 1985,Manchester City,1-1,Ipswich Town
+Sat Nov 9 1985,Everton,6-1,Arsenal
+Sat Nov 9 1985,Coventry City,0-3,Liverpool
+Sat Nov 9 1985,Chelsea,4-2,Nottingham Forest
+Sat Nov 9 1985,Sheffield Wednesday,1-0,Manchester United
+Sat Nov 16 1985,Southampton,1-0,Birmingham City
+Sat Nov 16 1985,Aston Villa,1-1,Sheffield Wednesday
+Sat Nov 16 1985,Nottingham Forest,0-2,Manchester City
+Sat Nov 16 1985,Ipswich Town,3-4,Everton
+Sat Nov 16 1985,Liverpool,4-1,West Bromwich Albion
+Sat Nov 16 1985,Luton Town,0-1,Coventry City
+Sat Nov 16 1985,Newcastle United,1-3,Chelsea
+Sat Nov 16 1985,Manchester United,0-0,Tottenham Hotspur
+Sat Nov 16 1985,West Ham United,2-1,Watford
+Sat Nov 16 1985,Arsenal,2-1,Oxford United
+Sat Nov 16 1985,Queens Park Rangers,2-0,Leicester City
+Sat Nov 23 1985,West Bromwich Albion,0-0,Arsenal
+Sat Nov 23 1985,Manchester City,1-0,Newcastle United
+Sat Nov 23 1985,Watford,1-2,Luton Town
+Sat Nov 23 1985,Birmingham City,0-2,Liverpool
+Sat Nov 23 1985,Tottenham Hotspur,1-1,Queens Park Rangers
+Sat Nov 23 1985,Leicester City,3-0,Manchester United
+Sat Nov 23 1985,Chelsea,2-1,Aston Villa
+Sat Nov 23 1985,Sheffield Wednesday,2-1,Southampton
+Sat Nov 23 1985,Coventry City,0-1,West Ham United
+Sat Nov 23 1985,Everton,1-1,Nottingham Forest
+Sat Nov 23 1985,Oxford United,4-3,Ipswich Town
+Sat Nov 30 1985,Liverpool,1-1,Chelsea
+Sat Nov 30 1985,West Ham United,4-0,West Bromwich Albion
+Sat Nov 30 1985,Newcastle United,2-1,Leicester City
+Sat Nov 30 1985,Ipswich Town,2-1,Sheffield Wednesday
+Sat Nov 30 1985,Luton Town,2-1,Manchester City
+Sat Nov 30 1985,Southampton,2-3,Everton
+Sat Nov 30 1985,Aston Villa,1-2,Tottenham Hotspur
+Sat Nov 30 1985,Manchester United,1-1,Watford
+Sat Nov 30 1985,Arsenal,0-0,Birmingham City
+Sat Nov 30 1985,Queens Park Rangers,0-2,Coventry City
+Sun Dec 1 1985,Nottingham Forest,1-1,Oxford United
+Sat Dec 7 1985,Manchester United,1-0,Ipswich Town
+Sat Dec 7 1985,Tottenham Hotspur,5-1,Oxford United
+Sat Dec 7 1985,Liverpool,3-0,Aston Villa
+Sat Dec 7 1985,Sheffield Wednesday,2-1,Nottingham Forest
+Sat Dec 7 1985,Luton Town,2-0,Newcastle United
+Sat Dec 7 1985,Southampton,3-0,Arsenal
+Sat Dec 7 1985,West Bromwich Albion,0-3,Everton
+Sat Dec 7 1985,Queens Park Rangers,0-1,West Ham United
+Sat Dec 7 1985,Coventry City,1-1,Chelsea
+Sat Dec 7 1985,Birmingham City,1-2,Watford
+Sat Dec 7 1985,Leicester City,1-1,Manchester City
+Sat Dec 14 1985,Everton,1-2,Leicester City
+Sat Dec 14 1985,Newcastle United,2-1,Southampton
+Sat Dec 14 1985,Chelsea,2-1,Sheffield Wednesday
+Sat Dec 14 1985,Ipswich Town,1-0,Queens Park Rangers
+Sat Dec 14 1985,Nottingham Forest,2-0,Luton Town
+Sat Dec 14 1985,West Ham United,2-0,Birmingham City
+Sat Dec 14 1985,Oxford United,2-2,West Bromwich Albion
+Sat Dec 14 1985,Watford,1-0,Tottenham Hotspur
+Sat Dec 14 1985,Manchester City,5-1,Coventry City
+Sat Dec 14 1985,Aston Villa,1-3,Manchester United
+Sat Dec 14 1985,Arsenal,2-0,Liverpool
+Tue Dec 17 1985,Queens Park Rangers,0-1,Aston Villa
+Fri Dec 20 1985,Southampton,3-1,Nottingham Forest
+Sat Dec 21 1985,Sheffield Wednesday,3-2,Manchester City
+Sat Dec 21 1985,Coventry City,1-3,Everton
+Sat Dec 21 1985,Luton Town,0-0,West Ham United
+Sat Dec 21 1985,Tottenham Hotspur,2-0,Ipswich Town
+Sat Dec 21 1985,Birmingham City,1-2,Chelsea
+Sat Dec 21 1985,Manchester United,0-1,Arsenal
+Sat Dec 21 1985,Liverpool,1-1,Newcastle United
+Sun Dec 22 1985,West Bromwich Albion,3-1,Watford
+Thu Dec 26 1985,Coventry City,0-1,Ipswich Town
+Thu Dec 26 1985,Tottenham Hotspur,1-0,West Ham United
+Thu Dec 26 1985,Oxford United,3-0,Southampton
+Thu Dec 26 1985,West Bromwich Albion,1-2,Luton Town
+Thu Dec 26 1985,Leicester City,3-1,Aston Villa
+Thu Dec 26 1985,Everton,3-1,Manchester United
+Thu Dec 26 1985,Sheffield Wednesday,2-2,Newcastle United
+Thu Dec 26 1985,Manchester City,1-0,Liverpool
+Thu Dec 26 1985,Birmingham City,0-1,Nottingham Forest
+Sat Dec 28 1985,Aston Villa,1-1,West Bromwich Albion
+Sat Dec 28 1985,Manchester City,1-1,Birmingham City
+Sat Dec 28 1985,Watford,2-1,Leicester City
+Sat Dec 28 1985,Chelsea,2-0,Tottenham Hotspur
+Sat Dec 28 1985,Nottingham Forest,1-1,Liverpool
+Sat Dec 28 1985,Ipswich Town,1-1,Luton Town
+Sat Dec 28 1985,Everton,3-1,Sheffield Wednesday
+Sat Dec 28 1985,Arsenal,3-1,Queens Park Rangers
+Wed Jan 1 1986,Manchester United,1-0,Birmingham City
+Wed Jan 1 1986,Arsenal,0-0,Tottenham Hotspur
+Wed Jan 1 1986,Southampton,3-1,West Bromwich Albion
+Wed Jan 1 1986,Luton Town,3-1,Leicester City
+Wed Jan 1 1986,Queens Park Rangers,3-1,Oxford United
+Wed Jan 1 1986,Aston Villa,0-1,Manchester City
+Wed Jan 1 1986,Newcastle United,2-2,Everton
+Wed Jan 1 1986,Liverpool,2-2,Sheffield Wednesday
+Wed Jan 1 1986,Ipswich Town,0-0,Watford
+Wed Jan 1 1986,Nottingham Forest,5-2,Coventry City
+Sat Jan 11 1986,Oxford United,1-3,Manchester United
+Sat Jan 11 1986,Tottenham Hotspur,0-3,Nottingham Forest
+Sat Jan 11 1986,Chelsea,1-0,Luton Town
+Sat Jan 11 1986,Birmingham City,0-1,Ipswich Town
+Sat Jan 11 1986,Leicester City,0-1,West Ham United
+Sat Jan 11 1986,Everton,4-3,Queens Park Rangers
+Sat Jan 11 1986,Manchester City,1-0,Southampton
+Sat Jan 11 1986,Coventry City,3-3,Aston Villa
+Sat Jan 11 1986,West Bromwich Albion,1-1,Newcastle United
+Sun Jan 12 1986,Watford,2-3,Liverpool
+Sat Jan 18 1986,Birmingham City,0-2,Everton
+Sat Jan 18 1986,Sheffield Wednesday,2-1,Oxford United
+Sat Jan 18 1986,Manchester United,2-3,Nottingham Forest
+Sat Jan 18 1986,Liverpool,3-1,West Ham United
+Sat Jan 18 1986,West Bromwich Albion,0-3,Chelsea
+Sat Jan 18 1986,Queens Park Rangers,3-1,Newcastle United
+Sat Jan 18 1986,Southampton,1-0,Ipswich Town
+Sat Jan 18 1986,Luton Town,2-0,Aston Villa
+Sat Jan 18 1986,Tottenham Hotspur,0-2,Manchester City
+Sat Jan 18 1986,Coventry City,0-2,Watford
+Sat Jan 18 1986,Leicester City,2-2,Arsenal
+Sat Jan 25 1986,Oxford United,0-1,Coventry City
+Sat Feb 1 1986,Watford,2-1,Sheffield Wednesday
+Sat Feb 1 1986,Nottingham Forest,4-0,Queens Park Rangers
+Sat Feb 1 1986,Newcastle United,3-2,Coventry City
+Sat Feb 1 1986,Manchester City,2-1,West Bromwich Albion
+Sat Feb 1 1986,Ipswich Town,2-1,Liverpool
+Sat Feb 1 1986,Aston Villa,0-0,Southampton
+Sat Feb 1 1986,Oxford United,0-1,Birmingham City
+Sat Feb 1 1986,Chelsea,2-2,Leicester City
+Sat Feb 1 1986,Arsenal,2-1,Luton Town
+Sat Feb 1 1986,Everton,1-0,Tottenham Hotspur
+Sun Feb 2 1986,West Ham United,2-1,Manchester United
+Sat Feb 8 1986,Chelsea,1-4,Oxford United
+Sat Feb 8 1986,Tottenham Hotspur,0-1,Coventry City
+Sat Feb 8 1986,Southampton,1-2,Luton Town
+Sat Feb 8 1986,Birmingham City,0-1,West Bromwich Albion
+Sat Feb 8 1986,Nottingham Forest,1-2,Newcastle United
+Sat Feb 8 1986,Manchester City,2-0,Queens Park Rangers
+Sun Feb 9 1986,Liverpool,1-1,Manchester United
+Tue Feb 11 1986,Everton,4-0,Manchester City
+Sun Feb 16 1986,Coventry City,4-4,Birmingham City
+Sat Feb 22 1986,Manchester United,3-0,West Bromwich Albion
+Sat Feb 22 1986,Coventry City,3-2,Southampton
+Sat Feb 22 1986,Liverpool,0-2,Everton
+Sat Feb 22 1986,Sheffield Wednesday,1-2,Tottenham Hotspur
+Sat Feb 22 1986,Queens Park Rangers,1-1,Luton Town
+Sat Mar 1 1986,Birmingham City,2-0,Queens Park Rangers
+Sat Mar 1 1986,Southampton,1-0,Manchester United
+Sat Mar 1 1986,Everton,2-0,Aston Villa
+Sat Mar 1 1986,Newcastle United,1-0,Arsenal
+Sat Mar 1 1986,Luton Town,1-0,Sheffield Wednesday
+Sat Mar 1 1986,Manchester City,0-3,Oxford United
+Sun Mar 2 1986,Tottenham Hotspur,1-2,Liverpool
+Sat Mar 8 1986,Aston Villa,1-4,Arsenal
+Sat Mar 8 1986,Chelsea,1-0,Manchester City
+Sat Mar 8 1986,Sheffield Wednesday,5-1,Birmingham City
+Sat Mar 8 1986,Leicester City,2-1,Coventry City
+Sat Mar 8 1986,Liverpool,4-1,Queens Park Rangers
+Sat Mar 8 1986,Tottenham Hotspur,5-0,West Bromwich Albion
+Sat Mar 8 1986,Ipswich Town,1-0,Nottingham Forest
+Tue Mar 11 1986,Ipswich Town,1-2,Arsenal
+Tue Mar 11 1986,Queens Park Rangers,0-2,Southampton
+Wed Mar 12 1986,Leicester City,4-2,Birmingham City
+Sat Mar 15 1986,Queens Park Rangers,1-0,Manchester United
+Sat Mar 15 1986,Newcastle United,3-1,Ipswich Town
+Sat Mar 15 1986,Coventry City,0-1,Sheffield Wednesday
+Sat Mar 15 1986,Southampton,1-2,Liverpool
+Sat Mar 15 1986,Arsenal,1-0,West Ham United
+Sat Mar 15 1986,Manchester City,0-1,Watford
+Sat Mar 15 1986,Birmingham City,1-2,Tottenham Hotspur
+Sat Mar 15 1986,West Bromwich Albion,2-2,Leicester City
+Sat Mar 15 1986,Luton Town,1-2,Oxford United
+Sat Mar 15 1986,Nottingham Forest,1-1,Aston Villa
+Sun Mar 16 1986,Everton,1-1,Chelsea
+Tue Mar 18 1986,Sheffield Wednesday,1-0,Leicester City
+Wed Mar 19 1986,Aston Villa,2-1,West Ham United
+Wed Mar 19 1986,Manchester United,2-0,Luton Town
+Wed Mar 19 1986,West Bromwich Albion,0-0,Coventry City
+Wed Mar 19 1986,Oxford United,1-2,Newcastle United
+Wed Mar 19 1986,Chelsea,1-1,Queens Park Rangers
+Sat Mar 22 1986,Aston Villa,0-3,Birmingham City
+Sat Mar 22 1986,Luton Town,2-1,Everton
+Sat Mar 22 1986,Manchester United,2-2,Manchester City
+Sat Mar 22 1986,Nottingham Forest,4-3,Leicester City
+Sat Mar 22 1986,West Ham United,1-0,Sheffield Wednesday
+Sat Mar 22 1986,Ipswich Town,1-0,West Bromwich Albion
+Sat Mar 22 1986,Southampton,0-1,Chelsea
+Sat Mar 22 1986,Arsenal,3-0,Coventry City
+Sat Mar 22 1986,Newcastle United,2-2,Tottenham Hotspur
+Sat Mar 22 1986,Liverpool,6-0,Oxford United
+Sat Mar 22 1986,Queens Park Rangers,2-1,Watford
+Sat Mar 29 1986,Sheffield Wednesday,0-0,Liverpool
+Sat Mar 29 1986,Leicester City,0-0,Luton Town
+Sat Mar 29 1986,Tottenham Hotspur,1-0,Arsenal
+Sat Mar 29 1986,Watford,0-0,Ipswich Town
+Sat Mar 29 1986,Everton,1-0,Newcastle United
+Sat Mar 29 1986,West Bromwich Albion,1-0,Southampton
+Sat Mar 29 1986,Coventry City,0-0,Nottingham Forest
+Sat Mar 29 1986,Oxford United,3-3,Queens Park Rangers
+Sat Mar 29 1986,Birmingham City,1-1,Manchester United
+Sat Mar 29 1986,Chelsea,0-4,West Ham United
+Sat Mar 29 1986,Manchester City,2-2,Aston Villa
+Mon Mar 31 1986,Aston Villa,1-0,Leicester City
+Mon Mar 31 1986,Queens Park Rangers,6-0,Chelsea
+Mon Mar 31 1986,Arsenal,0-2,Watford
+Mon Mar 31 1986,Nottingham Forest,3-0,Birmingham City
+Mon Mar 31 1986,Manchester United,0-0,Everton
+Mon Mar 31 1986,Newcastle United,4-1,Sheffield Wednesday
+Mon Mar 31 1986,Liverpool,2-0,Manchester City
+Mon Mar 31 1986,West Ham United,2-1,Tottenham Hotspur
+Mon Mar 31 1986,Ipswich Town,1-0,Coventry City
+Tue Apr 1 1986,Southampton,1-1,Oxford United
+Tue Apr 1 1986,Luton Town,3-0,West Bromwich Albion
+Tue Apr 1 1986,Watford,3-0,Arsenal
+Wed Apr 2 1986,Nottingham Forest,2-1,West Ham United
+Sat Apr 5 1986,Watford,4-1,Newcastle United
+Sat Apr 5 1986,West Bromwich Albion,1-1,Nottingham Forest
+Sat Apr 5 1986,Manchester City,0-1,Arsenal
+Sat Apr 5 1986,Coventry City,1-3,Manchester United
+Sat Apr 5 1986,Leicester City,1-4,Tottenham Hotspur
+Sat Apr 5 1986,Oxford United,1-1,Aston Villa
+Sat Apr 5 1986,Chelsea,1-1,Ipswich Town
+Sun Apr 6 1986,Birmingham City,0-2,Luton Town
+Tue Apr 8 1986,Arsenal,1-1,Nottingham Forest
+Tue Apr 8 1986,Sheffield Wednesday,0-0,Queens Park Rangers
+Tue Apr 8 1986,Ipswich Town,0-2,Leicester City
+Tue Apr 8 1986,West Ham United,1-0,Southampton
+Wed Apr 9 1986,Newcastle United,2-2,Aston Villa
+Wed Apr 9 1986,Oxford United,1-1,Watford
+Wed Apr 9 1986,Manchester United,1-2,Chelsea
+Sat Apr 12 1986,Aston Villa,4-1,Watford
+Sat Apr 12 1986,Southampton,0-0,Leicester City
+Sat Apr 12 1986,Arsenal,0-1,Everton
+Sat Apr 12 1986,Queens Park Rangers,1-0,West Bromwich Albion
+Sat Apr 12 1986,Liverpool,5-0,Coventry City
+Sat Apr 12 1986,Nottingham Forest,0-0,Chelsea
+Sat Apr 12 1986,West Ham United,3-1,Oxford United
+Sat Apr 12 1986,Luton Town,1-1,Tottenham Hotspur
+Sat Apr 12 1986,Ipswich Town,0-0,Manchester City
+Sat Apr 12 1986,Newcastle United,4-1,Birmingham City
+Sun Apr 13 1986,Manchester United,0-2,Sheffield Wednesday
+Mon Apr 14 1986,Leicester City,1-4,Queens Park Rangers
+Tue Apr 15 1986,West Ham United,1-2,Chelsea
+Tue Apr 15 1986,Watford,0-2,Everton
+Wed Apr 16 1986,Newcastle United,2-4,Manchester United
+Wed Apr 16 1986,Sheffield Wednesday,2-0,Arsenal
+Wed Apr 16 1986,Tottenham Hotspur,2-0,Birmingham City
+Wed Apr 16 1986,Aston Villa,1-0,Ipswich Town
+Wed Apr 16 1986,Luton Town,0-1,Liverpool
+Sat Apr 19 1986,Tottenham Hotspur,0-0,Manchester United
+Sat Apr 19 1986,Watford,0-2,West Ham United
+Sat Apr 19 1986,Birmingham City,0-2,Southampton
+Sat Apr 19 1986,Chelsea,1-1,Newcastle United
+Sat Apr 19 1986,Sheffield Wednesday,2-0,Aston Villa
+Sat Apr 19 1986,Coventry City,1-0,Luton Town
+Sat Apr 19 1986,West Bromwich Albion,1-2,Liverpool
+Sat Apr 19 1986,Everton,1-0,Ipswich Town
+Sat Apr 19 1986,Manchester City,1-2,Nottingham Forest
+Mon Apr 21 1986,West Ham United,8-1,Newcastle United
+Mon Apr 21 1986,Watford,1-1,Nottingham Forest
+Tue Apr 22 1986,West Bromwich Albion,1-1,Sheffield Wednesday
+Sat Apr 26 1986,Liverpool,5-0,Birmingham City
+Sat Apr 26 1986,Ipswich Town,3-2,Oxford United
+Sat Apr 26 1986,West Ham United,1-0,Coventry City
+Sat Apr 26 1986,Newcastle United,3-1,Manchester City
+Sat Apr 26 1986,Aston Villa,3-1,Chelsea
+Sat Apr 26 1986,Arsenal,2-2,West Bromwich Albion
+Sat Apr 26 1986,Nottingham Forest,0-0,Everton
+Sat Apr 26 1986,Queens Park Rangers,2-5,Tottenham Hotspur
+Sat Apr 26 1986,Manchester United,4-0,Leicester City
+Sat Apr 26 1986,Southampton,2-3,Sheffield Wednesday
+Sat Apr 26 1986,Luton Town,3-2,Watford
+Mon Apr 28 1986,West Ham United,1-0,Manchester City
+Tue Apr 29 1986,Arsenal,2-0,Chelsea
+Tue Apr 29 1986,Watford,1-1,Southampton
+Wed Apr 30 1986,Leicester City,0-2,Liverpool
+Wed Apr 30 1986,Oxford United,1-0,Everton
+Wed Apr 30 1986,West Ham United,2-1,Ipswich Town
+Sat May 3 1986,West Bromwich Albion,2-3,West Ham United
+Sat May 3 1986,Birmingham City,0-1,Arsenal
+Sat May 3 1986,Sheffield Wednesday,1-0,Ipswich Town
+Sat May 3 1986,Chelsea,0-1,Liverpool
+Sat May 3 1986,Oxford United,1-2,Nottingham Forest
+Sat May 3 1986,Leicester City,2-0,Newcastle United
+Sat May 3 1986,Watford,1-1,Manchester United
+Sat May 3 1986,Coventry City,2-1,Queens Park Rangers
+Sat May 3 1986,Manchester City,1-1,Luton Town
+Sat May 3 1986,Everton,6-1,Southampton
+Sat May 3 1986,Tottenham Hotspur,4-2,Aston Villa
+Mon May 5 1986,Tottenham Hotspur,5-3,Southampton
+Mon May 5 1986,Oxford United,3-0,Arsenal
+Mon May 5 1986,Everton,3-1,West Ham United
+Mon May 5 1986,Chelsea,1-5,Watford

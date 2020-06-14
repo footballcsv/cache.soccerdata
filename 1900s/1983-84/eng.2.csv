@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 27 1983,Charlton Athletic,2-0,Cardiff City
+Sat Aug 27 1983,Portsmouth,0-1,Middlesbrough
+Sat Aug 27 1983,Blackburn Rovers,2-2,Huddersfield Town
+Sat Aug 27 1983,Swansea City,0-1,Sheffield Wednesday
+Sat Aug 27 1983,Crystal Palace,0-2,Manchester City
+Sat Aug 27 1983,Carlisle United,0-0,Cambridge United
+Sat Aug 27 1983,Grimsby Town,1-1,Shrewsbury Town
+Sat Aug 27 1983,Oldham Athletic,1-0,Brighton & Hove Albion
+Sat Aug 27 1983,Leeds United,0-1,Newcastle United
+Sat Aug 27 1983,Barnsley,3-0,Fulham
+Sat Aug 27 1983,Chelsea,5-0,Derby County
+Mon Aug 29 1983,Leeds United,3-2,Brighton & Hove Albion
+Mon Aug 29 1983,Cardiff City,2-1,Manchester City
+Mon Aug 29 1983,Newcastle United,0-1,Shrewsbury Town
+Mon Aug 29 1983,Derby County,1-1,Sheffield Wednesday
+Mon Aug 29 1983,Carlisle United,0-1,Blackburn Rovers
+Sat Sep 3 1983,Newcastle United,3-0,Oldham Athletic
+Sat Sep 3 1983,Fulham,0-2,Portsmouth
+Sat Sep 3 1983,Derby County,2-1,Swansea City
+Sat Sep 3 1983,Brighton & Hove Albion,1-2,Chelsea
+Sat Sep 3 1983,Manchester City,3-2,Barnsley
+Sat Sep 3 1983,Huddersfield Town,0-0,Charlton Athletic
+Sat Sep 3 1983,Middlesbrough,2-2,Leeds United
+Sat Sep 3 1983,Sheffield Wednesday,2-0,Carlisle United
+Sat Sep 3 1983,Shrewsbury Town,1-1,Crystal Palace
+Sat Sep 3 1983,Cambridge United,2-0,Blackburn Rovers
+Sat Sep 3 1983,Cardiff City,3-1,Grimsby Town
+Tue Sep 6 1983,Middlesbrough,3-2,Newcastle United
+Tue Sep 6 1983,Swansea City,0-0,Oldham Athletic
+Tue Sep 6 1983,Grimsby Town,2-0,Leeds United
+Tue Sep 6 1983,Huddersfield Town,2-1,Crystal Palace
+Tue Sep 6 1983,Portsmouth,2-1,Barnsley
+Tue Sep 6 1983,Brighton & Hove Albion,1-0,Derby County
+Tue Sep 6 1983,Charlton Athletic,1-0,Carlisle United
+Tue Sep 6 1983,Shrewsbury Town,1-0,Cardiff City
+Tue Sep 6 1983,Sheffield Wednesday,1-0,Cambridge United
+Wed Sep 7 1983,Blackburn Rovers,0-0,Chelsea
+Wed Sep 7 1983,Manchester City,0-0,Fulham
+Sat Sep 10 1983,Carlisle United,1-0,Shrewsbury Town
+Sat Sep 10 1983,Chelsea,2-1,Cambridge United
+Sat Sep 10 1983,Oldham Athletic,0-3,Huddersfield Town
+Sat Sep 10 1983,Blackburn Rovers,5-1,Derby County
+Sat Sep 10 1983,Leeds United,1-0,Cardiff City
+Sat Sep 10 1983,Charlton Athletic,1-1,Sheffield Wednesday
+Sat Sep 10 1983,Grimsby Town,1-1,Newcastle United
+Sat Sep 10 1983,Barnsley,0-2,Middlesbrough
+Sat Sep 10 1983,Swansea City,1-3,Brighton & Hove Albion
+Sat Sep 10 1983,Portsmouth,1-2,Manchester City
+Sun Sep 11 1983,Crystal Palace,1-1,Fulham
+Sat Sep 17 1983,Cambridge United,2-2,Charlton Athletic
+Sat Sep 17 1983,Middlesbrough,1-1,Grimsby Town
+Sat Sep 17 1983,Fulham,2-1,Leeds United
+Sat Sep 17 1983,Cardiff City,0-0,Portsmouth
+Sat Sep 17 1983,Huddersfield Town,1-0,Swansea City
+Sat Sep 17 1983,Sheffield Wednesday,2-1,Chelsea
+Sat Sep 17 1983,Newcastle United,3-1,Crystal Palace
+Sat Sep 17 1983,Shrewsbury Town,3-2,Barnsley
+Sat Sep 17 1983,Manchester City,6-0,Blackburn Rovers
+Sat Sep 17 1983,Brighton & Hove Albion,1-1,Carlisle United
+Sat Sep 17 1983,Derby County,2-2,Oldham Athletic
+Sat Sep 24 1983,Leeds United,1-2,Manchester City
+Sat Sep 24 1983,Charlton Athletic,1-0,Derby County
+Sat Sep 24 1983,Blackburn Rovers,2-2,Brighton & Hove Albion
+Sat Sep 24 1983,Grimsby Town,2-1,Fulham
+Sat Sep 24 1983,Swansea City,2-1,Cambridge United
+Sat Sep 24 1983,Carlisle United,0-0,Huddersfield Town
+Sat Sep 24 1983,Portsmouth,4-1,Shrewsbury Town
+Sat Sep 24 1983,Chelsea,0-0,Middlesbrough
+Sat Sep 24 1983,Barnsley,1-1,Newcastle United
+Sat Sep 24 1983,Oldham Athletic,1-3,Sheffield Wednesday
+Tue Sep 27 1983,Barnsley,3-1,Grimsby Town
+Tue Sep 27 1983,Fulham,2-1,Middlesbrough
+Tue Sep 27 1983,Crystal Palace,2-1,Portsmouth
+Tue Sep 27 1983,Oldham Athletic,0-0,Charlton Athletic
+Sat Oct 1 1983,Sheffield Wednesday,4-2,Blackburn Rovers
+Sat Oct 1 1983,Brighton & Hove Albion,7-0,Charlton Athletic
+Sat Oct 1 1983,Fulham,5-0,Swansea City
+Sat Oct 1 1983,Cardiff City,0-3,Barnsley
+Sat Oct 1 1983,Shrewsbury Town,5-1,Leeds United
+Sat Oct 1 1983,Cambridge United,2-1,Oldham Athletic
+Sat Oct 1 1983,Huddersfield Town,2-3,Chelsea
+Sat Oct 1 1983,Middlesbrough,1-3,Crystal Palace
+Sat Oct 1 1983,Derby County,1-4,Carlisle United
+Sat Oct 1 1983,Manchester City,2-1,Grimsby Town
+Sat Oct 1 1983,Newcastle United,4-2,Portsmouth
+Sat Oct 8 1983,Derby County,0-2,Barnsley
+Sat Oct 8 1983,Cambridge United,1-3,Crystal Palace
+Sat Oct 8 1983,Sheffield Wednesday,3-1,Leeds United
+Sat Oct 8 1983,Cardiff City,2-0,Carlisle United
+Sat Oct 8 1983,Shrewsbury Town,2-0,Oldham Athletic
+Sat Oct 8 1983,Fulham,3-5,Chelsea
+Sat Oct 8 1983,Newcastle United,2-1,Charlton Athletic
+Sat Oct 8 1983,Middlesbrough,1-2,Blackburn Rovers
+Sat Oct 8 1983,Manchester City,2-1,Swansea City
+Sat Oct 8 1983,Huddersfield Town,0-0,Grimsby Town
+Sat Oct 8 1983,Brighton & Hove Albion,0-1,Portsmouth
+Fri Oct 14 1983,Leeds United,3-1,Cambridge United
+Sat Oct 15 1983,Portsmouth,0-1,Sheffield Wednesday
+Sat Oct 15 1983,Grimsby Town,5-0,Brighton & Hove Albion
+Sat Oct 15 1983,Chelsea,2-0,Cardiff City
+Sat Oct 15 1983,Crystal Palace,0-1,Derby County
+Sat Oct 15 1983,Barnsley,2-2,Huddersfield Town
+Sat Oct 15 1983,Carlisle United,2-0,Fulham
+Sat Oct 15 1983,Charlton Athletic,1-0,Manchester City
+Sat Oct 15 1983,Oldham Athletic,2-1,Middlesbrough
+Sun Oct 16 1983,Blackburn Rovers,1-1,Shrewsbury Town
+Sun Oct 16 1983,Swansea City,1-2,Newcastle United
+Tue Oct 18 1983,Cambridge United,0-3,Huddersfield Town
+Wed Oct 19 1983,Cardiff City,0-2,Newcastle United
+Sat Oct 22 1983,Blackburn Rovers,3-1,Oldham Athletic
+Sat Oct 22 1983,Brighton & Hove Albion,1-3,Sheffield Wednesday
+Sat Oct 22 1983,Carlisle United,0-0,Chelsea
+Sat Oct 22 1983,Huddersfield Town,3-0,Derby County
+Sat Oct 22 1983,Shrewsbury Town,0-0,Fulham
+Sat Oct 22 1983,Charlton Athletic,2-2,Swansea City
+Sat Oct 22 1983,Grimsby Town,2-0,Crystal Palace
+Sat Oct 22 1983,Barnsley,0-2,Leeds United
+Sat Oct 22 1983,Manchester City,2-1,Middlesbrough
+Sat Oct 29 1983,Cambridge United,3-4,Brighton & Hove Albion
+Sat Oct 29 1983,Leeds United,2-1,Portsmouth
+Sat Oct 29 1983,Swansea City,0-1,Blackburn Rovers
+Sat Oct 29 1983,Oldham Athletic,2-3,Carlisle United
+Sat Oct 29 1983,Sheffield Wednesday,0-0,Huddersfield Town
+Sat Oct 29 1983,Middlesbrough,4-0,Shrewsbury Town
+Sat Oct 29 1983,Chelsea,3-2,Charlton Athletic
+Sat Oct 29 1983,Newcastle United,5-0,Manchester City
+Sat Oct 29 1983,Crystal Palace,0-1,Barnsley
+Sat Oct 29 1983,Derby County,1-2,Grimsby Town
+Mon Oct 31 1983,Fulham,0-2,Cardiff City
+Tue Nov 1 1983,Portsmouth,5-0,Cambridge United
+Sat Nov 5 1983,Oldham Athletic,1-1,Chelsea
+Sat Nov 5 1983,Swansea City,0-0,Carlisle United
+Sat Nov 5 1983,Cambridge United,0-1,Derby County
+Sat Nov 5 1983,Shrewsbury Town,1-3,Manchester City
+Sat Nov 5 1983,Portsmouth,4-0,Grimsby Town
+Sat Nov 5 1983,Middlesbrough,2-0,Cardiff City
+Sat Nov 5 1983,Charlton Athletic,2-0,Blackburn Rovers
+Sat Nov 5 1983,Leeds United,1-1,Crystal Palace
+Sat Nov 5 1983,Brighton & Hove Albion,3-1,Huddersfield Town
+Sat Nov 5 1983,Newcastle United,3-2,Fulham
+Sat Nov 5 1983,Sheffield Wednesday,2-0,Barnsley
+Tue Nov 8 1983,Crystal Palace,1-0,Cardiff City
+Fri Nov 11 1983,Fulham,1-1,Sheffield Wednesday
+Sat Nov 12 1983,Grimsby Town,2-1,Charlton Athletic
+Sat Nov 12 1983,Derby County,1-0,Middlesbrough
+Sat Nov 12 1983,Manchester City,4-0,Brighton & Hove Albion
+Sat Nov 12 1983,Crystal Palace,2-1,Oldham Athletic
+Sat Nov 12 1983,Chelsea,4-0,Newcastle United
+Sat Nov 12 1983,Carlisle United,0-0,Portsmouth
+Sat Nov 12 1983,Barnsley,3-2,Swansea City
+Sat Nov 12 1983,Huddersfield Town,1-0,Shrewsbury Town
+Sat Nov 12 1983,Cardiff City,5-0,Cambridge United
+Sat Nov 12 1983,Blackburn Rovers,1-1,Leeds United
+Tue Nov 15 1983,Charlton Athletic,1-1,Chelsea
+Sat Nov 19 1983,Chelsea,2-2,Crystal Palace
+Sat Nov 19 1983,Carlisle United,2-0,Manchester City
+Sat Nov 19 1983,Huddersfield Town,2-0,Fulham
+Sat Nov 19 1983,Cambridge United,0-0,Middlesbrough
+Sat Nov 19 1983,Charlton Athletic,3-2,Barnsley
+Sat Nov 19 1983,Swansea City,0-1,Grimsby Town
+Sat Nov 19 1983,Blackburn Rovers,2-1,Portsmouth
+Sat Nov 19 1983,Sheffield Wednesday,4-2,Newcastle United
+Sat Nov 19 1983,Oldham Athletic,2-1,Cardiff City
+Sat Nov 19 1983,Brighton & Hove Albion,2-2,Shrewsbury Town
+Sat Nov 19 1983,Derby County,1-1,Leeds United
+Tue Nov 22 1983,Swansea City,1-3,Chelsea
+Sat Nov 26 1983,Cardiff City,3-1,Huddersfield Town
+Sat Nov 26 1983,Newcastle United,2-1,Cambridge United
+Sat Nov 26 1983,Crystal Palace,1-0,Sheffield Wednesday
+Sat Nov 26 1983,Grimsby Town,1-1,Carlisle United
+Sat Nov 26 1983,Fulham,0-1,Blackburn Rovers
+Sat Nov 26 1983,Manchester City,1-1,Derby County
+Sat Nov 26 1983,Barnsley,3-1,Brighton & Hove Albion
+Sat Nov 26 1983,Middlesbrough,1-0,Swansea City
+Sat Nov 26 1983,Portsmouth,3-4,Oldham Athletic
+Sat Nov 26 1983,Shrewsbury Town,1-1,Charlton Athletic
+Sat Nov 26 1983,Leeds United,1-1,Chelsea
+Sat Dec 3 1983,Chelsea,0-1,Manchester City
+Sat Dec 3 1983,Cambridge United,1-1,Fulham
+Sat Dec 3 1983,Carlisle United,1-0,Leeds United
+Sat Dec 3 1983,Huddersfield Town,2-1,Portsmouth
+Sat Dec 3 1983,Sheffield Wednesday,1-1,Shrewsbury Town
+Sat Dec 3 1983,Charlton Athletic,2-0,Middlesbrough
+Sat Dec 3 1983,Oldham Athletic,1-0,Barnsley
+Sat Dec 3 1983,Derby County,3-2,Newcastle United
+Sat Dec 3 1983,Brighton & Hove Albion,3-1,Cardiff City
+Sat Dec 3 1983,Swansea City,1-0,Crystal Palace
+Sun Dec 4 1983,Blackburn Rovers,1-1,Grimsby Town
+Tue Dec 6 1983,Chelsea,6-1,Swansea City
+Sat Dec 10 1983,Shrewsbury Town,1-0,Cambridge United
+Sat Dec 10 1983,Cardiff City,0-1,Blackburn Rovers
+Sat Dec 10 1983,Portsmouth,3-0,Derby County
+Sat Dec 10 1983,Fulham,0-1,Charlton Athletic
+Sat Dec 10 1983,Newcastle United,5-2,Huddersfield Town
+Sat Dec 10 1983,Middlesbrough,0-0,Brighton & Hove Albion
+Sat Dec 10 1983,Barnsley,0-0,Chelsea
+Sat Dec 10 1983,Manchester City,1-2,Sheffield Wednesday
+Sun Dec 11 1983,Crystal Palace,1-2,Carlisle United
+Tue Dec 13 1983,Grimsby Town,3-0,Oldham Athletic
+Thu Dec 15 1983,Charlton Athletic,2-0,Leeds United
+Sat Dec 17 1983,Sheffield Wednesday,5-2,Cardiff City
+Sat Dec 17 1983,Brighton & Hove Albion,0-1,Newcastle United
+Sat Dec 17 1983,Huddersfield Town,2-2,Middlesbrough
+Sat Dec 17 1983,Oldham Athletic,3-0,Fulham
+Sat Dec 17 1983,Cambridge United,0-0,Manchester City
+Sat Dec 17 1983,Carlisle United,4-2,Barnsley
+Sat Dec 17 1983,Chelsea,2-3,Grimsby Town
+Sat Dec 17 1983,Blackburn Rovers,2-1,Crystal Palace
+Sat Dec 17 1983,Derby County,1-0,Shrewsbury Town
+Sat Dec 17 1983,Swansea City,1-2,Portsmouth
+Mon Dec 26 1983,Middlesbrough,0-1,Carlisle United
+Mon Dec 26 1983,Newcastle United,1-1,Blackburn Rovers
+Mon Dec 26 1983,Grimsby Town,1-0,Sheffield Wednesday
+Mon Dec 26 1983,Manchester City,2-0,Oldham Athletic
+Mon Dec 26 1983,Barnsley,2-0,Cambridge United
+Mon Dec 26 1983,Crystal Palace,0-2,Brighton & Hove Albion
+Mon Dec 26 1983,Leeds United,1-2,Huddersfield Town
+Mon Dec 26 1983,Shrewsbury Town,2-4,Chelsea
+Mon Dec 26 1983,Portsmouth,4-0,Charlton Athletic
+Mon Dec 26 1983,Fulham,2-2,Derby County
+Mon Dec 26 1983,Cardiff City,3-2,Swansea City
+Tue Dec 27 1983,Huddersfield Town,1-3,Manchester City
+Tue Dec 27 1983,Brighton & Hove Albion,1-1,Fulham
+Tue Dec 27 1983,Sheffield Wednesday,0-2,Middlesbrough
+Tue Dec 27 1983,Oldham Athletic,3-2,Leeds United
+Tue Dec 27 1983,Carlisle United,3-1,Newcastle United
+Tue Dec 27 1983,Charlton Athletic,1-0,Crystal Palace
+Tue Dec 27 1983,Chelsea,2-2,Portsmouth
+Tue Dec 27 1983,Derby County,2-3,Cardiff City
+Tue Dec 27 1983,Swansea City,0-2,Shrewsbury Town
+Wed Dec 28 1983,Blackburn Rovers,1-1,Barnsley
+Wed Dec 28 1983,Cambridge United,2-2,Grimsby Town
+Sat Dec 31 1983,Barnsley,1-1,Manchester City
+Sat Dec 31 1983,Portsmouth,1-4,Fulham
+Sat Dec 31 1983,Crystal Palace,1-1,Shrewsbury Town
+Sat Dec 31 1983,Grimsby Town,1-0,Cardiff City
+Sat Dec 31 1983,Oldham Athletic,1-2,Newcastle United
+Sat Dec 31 1983,Charlton Athletic,1-2,Huddersfield Town
+Sat Dec 31 1983,Swansea City,2-0,Derby County
+Sat Dec 31 1983,Carlisle United,1-1,Sheffield Wednesday
+Sat Dec 31 1983,Chelsea,1-0,Brighton & Hove Albion
+Sat Dec 31 1983,Leeds United,4-1,Middlesbrough
+Sat Dec 31 1983,Blackburn Rovers,1-0,Cambridge United
+Mon Jan 2 1984,Fulham,1-1,Grimsby Town
+Mon Jan 2 1984,Middlesbrough,2-1,Chelsea
+Mon Jan 2 1984,Derby County,0-1,Charlton Athletic
+Mon Jan 2 1984,Sheffield Wednesday,3-0,Oldham Athletic
+Mon Jan 2 1984,Brighton & Hove Albion,1-1,Blackburn Rovers
+Mon Jan 2 1984,Newcastle United,1-0,Barnsley
+Mon Jan 2 1984,Manchester City,1-1,Leeds United
+Mon Jan 2 1984,Huddersfield Town,0-0,Carlisle United
+Mon Jan 2 1984,Shrewsbury Town,2-0,Portsmouth
+Mon Jan 2 1984,Cambridge United,1-1,Swansea City
+Sat Jan 14 1984,Fulham,1-0,Barnsley
+Sat Jan 14 1984,Manchester City,3-1,Crystal Palace
+Sat Jan 14 1984,Shrewsbury Town,1-2,Grimsby Town
+Sat Jan 14 1984,Derby County,1-2,Chelsea
+Sat Jan 14 1984,Huddersfield Town,0-2,Blackburn Rovers
+Sat Jan 14 1984,Middlesbrough,0-0,Portsmouth
+Sat Jan 14 1984,Brighton & Hove Albion,4-0,Oldham Athletic
+Sat Jan 14 1984,Cambridge United,0-2,Carlisle United
+Sat Jan 14 1984,Sheffield Wednesday,6-1,Swansea City
+Wed Jan 18 1984,Swansea City,2-2,Huddersfield Town
+Sat Jan 21 1984,Grimsby Town,0-0,Middlesbrough
+Sat Jan 21 1984,Crystal Palace,3-1,Newcastle United
+Sat Jan 21 1984,Charlton Athletic,5-2,Cambridge United
+Sat Jan 21 1984,Blackburn Rovers,2-1,Manchester City
+Sat Jan 21 1984,Chelsea,3-2,Sheffield Wednesday
+Sat Jan 21 1984,Leeds United,1-0,Fulham
+Sat Jan 21 1984,Carlisle United,1-2,Brighton & Hove Albion
+Sat Jan 21 1984,Portsmouth,1-1,Cardiff City
+Sat Jan 21 1984,Oldham Athletic,3-0,Derby County
+Tue Jan 31 1984,Cardiff City,2-1,Charlton Athletic
+Sat Feb 4 1984,Crystal Palace,1-0,Middlesbrough
+Sat Feb 4 1984,Barnsley,2-3,Cardiff City
+Sat Feb 4 1984,Leeds United,3-0,Shrewsbury Town
+Sat Feb 4 1984,Oldham Athletic,0-0,Cambridge United
+Sat Feb 4 1984,Chelsea,3-1,Huddersfield Town
+Sat Feb 4 1984,Carlisle United,2-1,Derby County
+Sat Feb 4 1984,Portsmouth,1-4,Newcastle United
+Sat Feb 4 1984,Blackburn Rovers,0-0,Sheffield Wednesday
+Sat Feb 4 1984,Charlton Athletic,2-0,Brighton & Hove Albion
+Sat Feb 4 1984,Grimsby Town,1-1,Manchester City
+Sun Feb 5 1984,Swansea City,0-3,Fulham
+Sat Feb 11 1984,Huddersfield Town,0-1,Oldham Athletic
+Sat Feb 11 1984,Shrewsbury Town,0-0,Carlisle United
+Sat Feb 11 1984,Cardiff City,0-1,Leeds United
+Sat Feb 11 1984,Sheffield Wednesday,4-1,Charlton Athletic
+Sat Feb 11 1984,Fulham,1-1,Crystal Palace
+Sat Feb 11 1984,Cambridge United,0-1,Chelsea
+Sat Feb 11 1984,Middlesbrough,2-1,Barnsley
+Sat Feb 11 1984,Newcastle United,0-1,Grimsby Town
+Sat Feb 11 1984,Derby County,1-1,Blackburn Rovers
+Sat Feb 11 1984,Brighton & Hove Albion,1-1,Swansea City
+Sat Feb 11 1984,Manchester City,2-1,Portsmouth
+Wed Feb 15 1984,Leeds United,1-0,Swansea City
+Sat Feb 18 1984,Barnsley,1-1,Crystal Palace
+Sat Feb 18 1984,Manchester City,1-2,Newcastle United
+Sat Feb 18 1984,Carlisle United,2-0,Oldham Athletic
+Sat Feb 18 1984,Portsmouth,2-3,Leeds United
+Sun Feb 19 1984,Cardiff City,0-4,Fulham
+Tue Feb 21 1984,Grimsby Town,2-1,Derby County
+Sat Feb 25 1984,Fulham,3-0,Shrewsbury Town
+Sat Feb 25 1984,Swansea City,1-0,Charlton Athletic
+Sat Feb 25 1984,Newcastle United,3-1,Cardiff City
+Sat Feb 25 1984,Leeds United,1-2,Barnsley
+Sat Feb 25 1984,Middlesbrough,0-0,Manchester City
+Sat Feb 25 1984,Sheffield Wednesday,2-1,Brighton & Hove Albion
+Sat Feb 25 1984,Cambridge United,1-3,Portsmouth
+Sat Feb 25 1984,Crystal Palace,0-1,Grimsby Town
+Sat Feb 25 1984,Chelsea,0-0,Carlisle United
+Sat Feb 25 1984,Oldham Athletic,0-0,Blackburn Rovers
+Sat Feb 25 1984,Derby County,1-1,Huddersfield Town
+Tue Feb 28 1984,Brighton & Hove Albion,3-0,Cambridge United
+Tue Feb 28 1984,Shrewsbury Town,1-0,Middlesbrough
+Sat Mar 3 1984,Carlisle United,2-0,Swansea City
+Sat Mar 3 1984,Barnsley,0-1,Sheffield Wednesday
+Sat Mar 3 1984,Fulham,2-2,Newcastle United
+Sat Mar 3 1984,Grimsby Town,3-4,Portsmouth
+Sat Mar 3 1984,Crystal Palace,0-0,Leeds United
+Sat Mar 3 1984,Cardiff City,2-1,Middlesbrough
+Sat Mar 3 1984,Derby County,1-0,Cambridge United
+Sat Mar 3 1984,Huddersfield Town,0-1,Brighton & Hove Albion
+Sat Mar 3 1984,Manchester City,1-0,Shrewsbury Town
+Sat Mar 3 1984,Chelsea,3-0,Oldham Athletic
+Wed Mar 7 1984,Sheffield Wednesday,1-1,Fulham
+Wed Mar 7 1984,Blackburn Rovers,4-1,Swansea City
+Sat Mar 10 1984,Shrewsbury Town,1-0,Huddersfield Town
+Sat Mar 10 1984,Charlton Athletic,3-3,Grimsby Town
+Sat Mar 10 1984,Oldham Athletic,3-2,Crystal Palace
+Sat Mar 10 1984,Portsmouth,0-1,Carlisle United
+Sat Mar 10 1984,Newcastle United,1-1,Chelsea
+Sat Mar 10 1984,Cambridge United,0-2,Cardiff City
+Sat Mar 10 1984,Leeds United,1-0,Blackburn Rovers
+Sat Mar 10 1984,Swansea City,1-0,Barnsley
+Sat Mar 10 1984,Brighton & Hove Albion,1-1,Manchester City
+Tue Mar 13 1984,Barnsley,3-0,Shrewsbury Town
+Fri Mar 16 1984,Chelsea,2-1,Blackburn Rovers
+Sat Mar 17 1984,Fulham,5-1,Manchester City
+Sat Mar 17 1984,Derby County,0-3,Brighton & Hove Albion
+Sat Mar 17 1984,Cardiff City,2-0,Shrewsbury Town
+Sat Mar 17 1984,Carlisle United,3-0,Charlton Athletic
+Sat Mar 17 1984,Barnsley,0-3,Portsmouth
+Sat Mar 17 1984,Crystal Palace,0-0,Huddersfield Town
+Sat Mar 17 1984,Newcastle United,3-1,Middlesbrough
+Sat Mar 17 1984,Leeds United,2-1,Grimsby Town
+Sat Mar 17 1984,Oldham Athletic,3-3,Swansea City
+Sat Mar 17 1984,Cambridge United,1-2,Sheffield Wednesday
+Tue Mar 20 1984,Middlesbrough,0-0,Derby County
+Wed Mar 21 1984,Blackburn Rovers,1-1,Charlton Athletic
+Sat Mar 24 1984,Huddersfield Town,3-0,Cambridge United
+Sat Mar 24 1984,Middlesbrough,0-2,Fulham
+Sat Mar 24 1984,Brighton & Hove Albion,3-0,Leeds United
+Sat Mar 24 1984,Shrewsbury Town,2-2,Newcastle United
+Sat Mar 24 1984,Manchester City,2-1,Cardiff City
+Sat Mar 24 1984,Blackburn Rovers,4-1,Carlisle United
+Sat Mar 24 1984,Charlton Athletic,2-1,Oldham Athletic
+Sat Mar 24 1984,Portsmouth,0-1,Crystal Palace
+Wed Mar 28 1984,Newcastle United,1-0,Leeds United
+Fri Mar 30 1984,Shrewsbury Town,1-0,Blackburn Rovers
+Sat Mar 31 1984,Middlesbrough,3-2,Oldham Athletic
+Sat Mar 31 1984,Newcastle United,2-0,Swansea City
+Sat Mar 31 1984,Grimsby Town,2-1,Huddersfield Town
+Sat Mar 31 1984,Portsmouth,5-1,Brighton & Hove Albion
+Sat Mar 31 1984,Fulham,0-0,Carlisle United
+Sat Mar 31 1984,Cardiff City,3-3,Chelsea
+Sat Mar 31 1984,Manchester City,0-1,Charlton Athletic
+Sat Mar 31 1984,Leeds United,1-1,Sheffield Wednesday
+Sat Mar 31 1984,Barnsley,5-1,Derby County
+Sun Apr 1 1984,Crystal Palace,1-1,Cambridge United
+Sat Apr 7 1984,Brighton & Hove Albion,2-0,Grimsby Town
+Sat Apr 7 1984,Chelsea,4-0,Fulham
+Sat Apr 7 1984,Cambridge United,2-2,Leeds United
+Sat Apr 7 1984,Blackburn Rovers,1-0,Middlesbrough
+Sat Apr 7 1984,Sheffield Wednesday,2-0,Portsmouth
+Sat Apr 7 1984,Carlisle United,1-1,Cardiff City
+Sat Apr 7 1984,Oldham Athletic,0-1,Shrewsbury Town
+Sat Apr 7 1984,Charlton Athletic,1-3,Newcastle United
+Sat Apr 7 1984,Swansea City,0-2,Manchester City
+Sat Apr 7 1984,Derby County,3-0,Crystal Palace
+Sat Apr 7 1984,Huddersfield Town,0-1,Barnsley
+Tue Apr 10 1984,Sheffield Wednesday,3-1,Derby County
+Tue Apr 10 1984,Grimsby Town,1-0,Barnsley
+Sat Apr 14 1984,Shrewsbury Town,2-1,Brighton & Hove Albion
+Sat Apr 14 1984,Manchester City,3-1,Carlisle United
+Sat Apr 14 1984,Middlesbrough,1-1,Cambridge United
+Sat Apr 14 1984,Newcastle United,0-1,Sheffield Wednesday
+Sat Apr 14 1984,Leeds United,0-0,Derby County
+Sat Apr 14 1984,Grimsby Town,3-0,Swansea City
+Sat Apr 14 1984,Cardiff City,2-0,Oldham Athletic
+Sat Apr 14 1984,Portsmouth,2-4,Blackburn Rovers
+Sat Apr 14 1984,Crystal Palace,0-1,Chelsea
+Sat Apr 14 1984,Barnsley,2-0,Charlton Athletic
+Sat Apr 14 1984,Fulham,0-2,Huddersfield Town
+Tue Apr 17 1984,Cardiff City,0-2,Crystal Palace
+Fri Apr 20 1984,Blackburn Rovers,1-1,Newcastle United
+Fri Apr 20 1984,Carlisle United,1-1,Middlesbrough
+Fri Apr 20 1984,Oldham Athletic,2-2,Manchester City
+Sat Apr 21 1984,Brighton & Hove Albion,3-1,Crystal Palace
+Sat Apr 21 1984,Cambridge United,0-3,Barnsley
+Sat Apr 21 1984,Chelsea,3-0,Shrewsbury Town
+Sat Apr 21 1984,Sheffield Wednesday,1-0,Grimsby Town
+Sat Apr 21 1984,Charlton Athletic,2-1,Portsmouth
+Sat Apr 21 1984,Swansea City,3-2,Cardiff City
+Sat Apr 21 1984,Huddersfield Town,2-2,Leeds United
+Sat Apr 21 1984,Derby County,1-0,Fulham
+Mon Apr 23 1984,Cardiff City,1-0,Derby County
+Mon Apr 23 1984,Manchester City,2-3,Huddersfield Town
+Mon Apr 23 1984,Newcastle United,5-1,Carlisle United
+Mon Apr 23 1984,Grimsby Town,0-0,Cambridge United
+Mon Apr 23 1984,Crystal Palace,2-0,Charlton Athletic
+Mon Apr 23 1984,Fulham,3-1,Brighton & Hove Albion
+Mon Apr 23 1984,Barnsley,0-0,Blackburn Rovers
+Tue Apr 24 1984,Portsmouth,2-2,Chelsea
+Tue Apr 24 1984,Leeds United,2-0,Oldham Athletic
+Tue Apr 24 1984,Shrewsbury Town,2-0,Swansea City
+Wed Apr 25 1984,Middlesbrough,2-0,Sheffield Wednesday
+Fri Apr 27 1984,Swansea City,2-1,Middlesbrough
+Sat Apr 28 1984,Sheffield Wednesday,1-0,Crystal Palace
+Sat Apr 28 1984,Cambridge United,1-0,Newcastle United
+Sat Apr 28 1984,Chelsea,5-0,Leeds United
+Sat Apr 28 1984,Charlton Athletic,2-4,Shrewsbury Town
+Sat Apr 28 1984,Brighton & Hove Albion,1-0,Barnsley
+Sat Apr 28 1984,Carlisle United,1-1,Grimsby Town
+Sat Apr 28 1984,Huddersfield Town,4-0,Cardiff City
+Sat Apr 28 1984,Derby County,1-0,Manchester City
+Sat Apr 28 1984,Oldham Athletic,3-2,Portsmouth
+Sun Apr 29 1984,Blackburn Rovers,0-1,Fulham
+Tue May 1 1984,Huddersfield Town,0-1,Sheffield Wednesday
+Fri May 4 1984,Manchester City,0-2,Chelsea
+Sat May 5 1984,Barnsley,0-1,Oldham Athletic
+Sat May 5 1984,Newcastle United,4-0,Derby County
+Sat May 5 1984,Leeds United,3-0,Carlisle United
+Sat May 5 1984,Cardiff City,2-2,Brighton & Hove Albion
+Sat May 5 1984,Crystal Palace,2-0,Swansea City
+Sat May 5 1984,Middlesbrough,1-0,Charlton Athletic
+Sat May 5 1984,Fulham,1-0,Cambridge United
+Sat May 5 1984,Portsmouth,1-1,Huddersfield Town
+Sat May 5 1984,Grimsby Town,3-2,Blackburn Rovers
+Sat May 5 1984,Shrewsbury Town,2-1,Sheffield Wednesday
+Mon May 7 1984,Chelsea,3-1,Barnsley
+Mon May 7 1984,Blackburn Rovers,1-1,Cardiff City
+Mon May 7 1984,Brighton & Hove Albion,3-0,Middlesbrough
+Mon May 7 1984,Cambridge United,1-0,Shrewsbury Town
+Mon May 7 1984,Swansea City,2-2,Leeds United
+Mon May 7 1984,Oldham Athletic,2-1,Grimsby Town
+Mon May 7 1984,Charlton Athletic,3-4,Fulham
+Mon May 7 1984,Carlisle United,2-2,Crystal Palace
+Mon May 7 1984,Huddersfield Town,2-2,Newcastle United
+Mon May 7 1984,Sheffield Wednesday,0-0,Manchester City
+Wed May 9 1984,Derby County,2-0,Portsmouth
+Sat May 12 1984,Portsmouth,5-0,Swansea City
+Sat May 12 1984,Shrewsbury Town,3-0,Derby County
+Sat May 12 1984,Leeds United,1-0,Charlton Athletic
+Sat May 12 1984,Middlesbrough,0-0,Huddersfield Town
+Sat May 12 1984,Crystal Palace,0-2,Blackburn Rovers
+Sat May 12 1984,Newcastle United,3-1,Brighton & Hove Albion
+Sat May 12 1984,Grimsby Town,0-1,Chelsea
+Sat May 12 1984,Fulham,3-0,Oldham Athletic
+Sat May 12 1984,Barnsley,2-1,Carlisle United
+Sat May 12 1984,Manchester City,5-0,Cambridge United
+Sat May 12 1984,Cardiff City,0-2,Sheffield Wednesday

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 15 1992,Carlisle United,3-4,Walsall
+Sat Aug 15 1992,Chesterfield,1-2,Barnet
+Sat Aug 15 1992,Crewe Alexandra,4-2,Torquay United
+Sat Aug 15 1992,Rochdale,2-3,Halifax Town
+Sat Aug 15 1992,Hereford United,1-1,Scarborough
+Sat Aug 15 1992,Cardiff City,0-0,Darlington
+Sat Aug 15 1992,York City,2-0,Shrewsbury Town
+Sat Aug 15 1992,Colchester United,2-1,Lincoln City
+Sat Aug 15 1992,Gillingham,2-3,Northampton Town
+Sat Aug 15 1992,Doncaster Rovers,2-3,Bury
+Fri Aug 21 1992,Barnet,3-1,Colchester United
+Fri Aug 21 1992,Darlington,0-1,Hereford United
+Sat Aug 22 1992,Walsall,2-3,Cardiff City
+Sat Aug 22 1992,Wrexham,3-1,Rochdale
+Sat Aug 22 1992,Lincoln City,0-1,York City
+Sat Aug 22 1992,Shrewsbury Town,2-1,Doncaster Rovers
+Sat Aug 22 1992,Bury,1-0,Gillingham
+Sat Aug 22 1992,Halifax Town,0-0,Scunthorpe United
+Sat Aug 22 1992,Scarborough,1-0,Crewe Alexandra
+Fri Aug 28 1992,Crewe Alexandra,3-2,Northampton Town
+Sat Aug 29 1992,Carlisle United,2-0,Lincoln City
+Sat Aug 29 1992,Chesterfield,2-1,Bury
+Sat Aug 29 1992,Gillingham,1-1,Barnet
+Sat Aug 29 1992,Rochdale,3-0,Scarborough
+Sat Aug 29 1992,Hereford United,1-3,Walsall
+Sat Aug 29 1992,Scunthorpe United,1-1,Shrewsbury Town
+Sat Aug 29 1992,Cardiff City,2-1,Halifax Town
+Sat Aug 29 1992,Colchester United,0-3,Darlington
+Sat Aug 29 1992,Doncaster Rovers,2-3,Torquay United
+Sat Aug 29 1992,York City,4-0,Wrexham
+Tue Sep 1 1992,Cardiff City,2-1,Northampton Town
+Tue Sep 1 1992,York City,2-1,Torquay United
+Tue Sep 1 1992,Doncaster Rovers,2-1,Barnet
+Tue Sep 1 1992,Chesterfield,2-0,Darlington
+Tue Sep 1 1992,Gillingham,4-1,Wrexham
+Tue Sep 1 1992,Scunthorpe United,2-0,Walsall
+Tue Sep 1 1992,Carlisle United,5-1,Bury
+Tue Sep 1 1992,Colchester United,0-2,Shrewsbury Town
+Tue Sep 1 1992,Hereford United,0-2,Lincoln City
+Tue Sep 1 1992,Crewe Alexandra,2-1,Halifax Town
+Sat Sep 5 1992,Wrexham,1-1,Doncaster Rovers
+Sat Sep 5 1992,Walsall,3-1,York City
+Sat Sep 5 1992,Barnet,2-0,Carlisle United
+Sat Sep 5 1992,Lincoln City,1-0,Scunthorpe United
+Sat Sep 5 1992,Scarborough,1-1,Gillingham
+Sat Sep 5 1992,Torquay United,2-1,Cardiff City
+Sat Sep 5 1992,Shrewsbury Town,1-2,Rochdale
+Sat Sep 5 1992,Darlington,3-0,Crewe Alexandra
+Sat Sep 5 1992,Bury,3-2,Colchester United
+Sun Sep 6 1992,Northampton Town,1-1,Hereford United
+Tue Sep 8 1992,Cardiff City,2-2,Carlisle United
+Sat Sep 12 1992,Scarborough,1-0,Torquay United
+Sat Sep 12 1992,Colchester United,3-1,Walsall
+Sat Sep 12 1992,Wrexham,2-0,Shrewsbury Town
+Sat Sep 12 1992,Carlisle United,1-2,York City
+Sat Sep 12 1992,Northampton Town,1-0,Scunthorpe United
+Sat Sep 12 1992,Bury,0-0,Barnet
+Sat Sep 12 1992,Crewe Alexandra,4-0,Doncaster Rovers
+Sat Sep 12 1992,Gillingham,0-0,Chesterfield
+Sat Sep 12 1992,Lincoln City,2-1,Halifax Town
+Sun Sep 13 1992,Hereford United,1-1,Cardiff City
+Tue Sep 15 1992,Doncaster Rovers,1-0,Colchester United
+Tue Sep 15 1992,Barnet,3-0,Northampton Town
+Tue Sep 15 1992,Shrewsbury Town,2-0,Scarborough
+Tue Sep 15 1992,Halifax Town,1-0,Darlington
+Tue Sep 15 1992,Torquay United,1-1,Wrexham
+Tue Sep 15 1992,Rochdale,1-1,Gillingham
+Tue Sep 15 1992,Chesterfield,2-1,Crewe Alexandra
+Tue Sep 15 1992,York City,4-2,Hereford United
+Tue Sep 15 1992,Walsall,4-3,Bury
+Fri Sep 18 1992,Doncaster Rovers,0-0,Lincoln City
+Sat Sep 19 1992,Torquay United,1-0,Northampton Town
+Sat Sep 19 1992,Chesterfield,1-0,Carlisle United
+Sat Sep 19 1992,Cardiff City,3-1,Gillingham
+Sat Sep 19 1992,Shrewsbury Town,2-0,Bury
+Sat Sep 19 1992,Barnet,2-0,Hereford United
+Sat Sep 19 1992,Halifax Town,3-4,Scarborough
+Sat Sep 19 1992,Rochdale,3-1,Darlington
+Sat Sep 19 1992,York City,2-0,Colchester United
+Sat Sep 19 1992,Scunthorpe United,3-3,Crewe Alexandra
+Fri Sep 25 1992,Darlington,0-1,York City
+Sat Sep 26 1992,Wrexham,2-3,Barnet
+Sat Sep 26 1992,Colchester United,3-0,Chesterfield
+Sat Sep 26 1992,Northampton Town,2-5,Halifax Town
+Sat Sep 26 1992,Scarborough,1-1,Doncaster Rovers
+Sat Sep 26 1992,Gillingham,0-1,Walsall
+Sat Sep 26 1992,Bury,2-0,Torquay United
+Sat Sep 26 1992,Carlisle United,0-2,Scunthorpe United
+Sat Sep 26 1992,Lincoln City,0-1,Shrewsbury Town
+Sat Sep 26 1992,Hereford United,1-1,Rochdale
+Fri Oct 2 1992,Darlington,4-1,Torquay United
+Sat Oct 3 1992,Carlisle United,1-1,Halifax Town
+Sat Oct 3 1992,York City,1-1,Doncaster Rovers
+Sat Oct 3 1992,Barnet,2-2,Shrewsbury Town
+Sat Oct 3 1992,Hereford United,1-1,Wrexham
+Sat Oct 3 1992,Chesterfield,1-2,Scunthorpe United
+Sat Oct 3 1992,Bury,0-2,Scarborough
+Sat Oct 3 1992,Gillingham,1-2,Crewe Alexandra
+Sat Oct 3 1992,Cardiff City,1-1,Rochdale
+Sat Oct 3 1992,Northampton Town,0-2,Lincoln City
+Sat Oct 10 1992,Doncaster Rovers,1-0,Gillingham
+Sat Oct 10 1992,Scunthorpe United,1-2,York City
+Sat Oct 10 1992,Crewe Alexandra,2-0,Cardiff City
+Sat Oct 10 1992,Torquay United,2-2,Chesterfield
+Sat Oct 10 1992,Scarborough,4-2,Northampton Town
+Sat Oct 10 1992,Shrewsbury Town,1-2,Darlington
+Sat Oct 10 1992,Lincoln City,0-2,Walsall
+Sat Oct 10 1992,Rochdale,2-2,Carlisle United
+Sat Oct 10 1992,Wrexham,4-2,Bury
+Sat Oct 10 1992,Halifax Town,2-4,Colchester United
+Tue Oct 13 1992,Northampton Town,0-1,Chesterfield
+Fri Oct 16 1992,Colchester United,3-2,Crewe Alexandra
+Sat Oct 17 1992,Darlington,2-3,Scarborough
+Sat Oct 17 1992,Northampton Town,0-1,Doncaster Rovers
+Sat Oct 17 1992,Hereford United,3-1,Torquay United
+Sat Oct 17 1992,Carlisle United,0-2,Wrexham
+Sat Oct 17 1992,York City,3-0,Rochdale
+Sat Oct 17 1992,Walsall,1-2,Halifax Town
+Sat Oct 17 1992,Barnet,3-0,Scunthorpe United
+Sat Oct 17 1992,Chesterfield,2-4,Shrewsbury Town
+Sat Oct 17 1992,Bury,1-2,Lincoln City
+Fri Oct 23 1992,Doncaster Rovers,2-1,Hereford United
+Sat Oct 24 1992,Shrewsbury Town,3-2,Cardiff City
+Sat Oct 24 1992,Scunthorpe United,3-1,Colchester United
+Sat Oct 24 1992,Halifax Town,2-0,Gillingham
+Sat Oct 24 1992,Wrexham,0-1,Northampton Town
+Sat Oct 24 1992,Scarborough,2-2,Chesterfield
+Sat Oct 24 1992,Crewe Alexandra,2-1,Bury
+Sat Oct 24 1992,Lincoln City,4-1,Barnet
+Sat Oct 24 1992,Rochdale,4-3,Walsall
+Sat Oct 24 1992,Torquay United,0-2,Carlisle United
+Fri Oct 30 1992,Colchester United,2-4,Wrexham
+Sat Oct 31 1992,Darlington,1-3,Lincoln City
+Sat Oct 31 1992,Carlisle United,2-2,Scarborough
+Sat Oct 31 1992,Chesterfield,2-3,Rochdale
+Sat Oct 31 1992,Walsall,3-1,Doncaster Rovers
+Sat Oct 31 1992,Cardiff City,3-0,Scunthorpe United
+Sat Oct 31 1992,Hereford United,3-0,Halifax Town
+Sat Oct 31 1992,Bury,1-1,York City
+Sat Oct 31 1992,Northampton Town,0-0,Shrewsbury Town
+Sat Oct 31 1992,Barnet,3-2,Crewe Alexandra
+Sat Oct 31 1992,Gillingham,0-2,Torquay United
+Tue Nov 3 1992,Scarborough,0-1,Lincoln City
+Tue Nov 3 1992,Chesterfield,2-1,Cardiff City
+Tue Nov 3 1992,Colchester United,2-1,Carlisle United
+Tue Nov 3 1992,Northampton Town,1-2,Darlington
+Tue Nov 3 1992,Barnet,3-0,Walsall
+Tue Nov 3 1992,Gillingham,3-1,Hereford United
+Tue Nov 3 1992,Wrexham,0-2,Scunthorpe United
+Tue Nov 3 1992,Torquay United,0-2,Rochdale
+Tue Nov 3 1992,Shrewsbury Town,1-0,Halifax Town
+Sat Nov 7 1992,Darlington,0-0,Bury
+Sat Nov 7 1992,Hereford United,1-3,Chesterfield
+Sat Nov 7 1992,York City,2-0,Barnet
+Sat Nov 7 1992,Cardiff City,3-1,Colchester United
+Sat Nov 7 1992,Rochdale,0-1,Crewe Alexandra
+Sat Nov 7 1992,Walsall,3-2,Scarborough
+Sat Nov 7 1992,Lincoln City,0-0,Wrexham
+Sat Nov 7 1992,Halifax Town,0-2,Torquay United
+Sat Nov 7 1992,Carlisle United,1-0,Gillingham
+Sat Nov 7 1992,Scunthorpe United,0-1,Doncaster Rovers
+Sat Nov 21 1992,Crewe Alexandra,1-2,Lincoln City
+Sat Nov 21 1992,Wrexham,1-1,Halifax Town
+Sat Nov 21 1992,Torquay United,0-1,Scunthorpe United
+Sat Nov 21 1992,Gillingham,3-1,Darlington
+Sat Nov 21 1992,Bury,2-0,Hereford United
+Sat Nov 21 1992,Doncaster Rovers,1-2,Carlisle United
+Sat Nov 21 1992,Northampton Town,4-3,York City
+Sat Nov 21 1992,Shrewsbury Town,0-3,Walsall
+Sat Nov 21 1992,Colchester United,4-4,Rochdale
+Sun Nov 22 1992,Barnet,2-1,Cardiff City
+Sat Nov 28 1992,Walsall,1-1,Wrexham
+Sat Nov 28 1992,Halifax Town,1-1,Chesterfield
+Sat Nov 28 1992,Scunthorpe United,1-2,Scarborough
+Sat Nov 28 1992,Rochdale,1-1,Doncaster Rovers
+Sat Nov 28 1992,Carlisle United,2-0,Northampton Town
+Sat Nov 28 1992,York City,3-1,Crewe Alexandra
+Sat Nov 28 1992,Lincoln City,1-1,Gillingham
+Sat Nov 28 1992,Darlington,1-0,Barnet
+Sat Nov 28 1992,Cardiff City,3-0,Bury
+Sat Nov 28 1992,Hereford United,3-1,Colchester United
+Sat Dec 5 1992,Halifax Town,1-2,Barnet
+Fri Dec 11 1992,Colchester United,2-0,Torquay United
+Fri Dec 11 1992,Doncaster Rovers,0-1,Cardiff City
+Sat Dec 12 1992,Shrewsbury Town,2-1,Gillingham
+Sat Dec 12 1992,York City,0-0,Chesterfield
+Sat Dec 12 1992,Carlisle United,1-3,Crewe Alexandra
+Sat Dec 12 1992,Bury,3-3,Northampton Town
+Sat Dec 12 1992,Walsall,2-2,Darlington
+Sat Dec 12 1992,Scunthorpe United,3-1,Hereford United
+Sat Dec 12 1992,Barnet,2-0,Rochdale
+Sat Dec 12 1992,Wrexham,4-1,Scarborough
+Fri Dec 18 1992,Gillingham,0-1,Colchester United
+Fri Dec 18 1992,Cardiff City,1-2,Wrexham
+Sat Dec 19 1992,Rochdale,5-1,Lincoln City
+Sat Dec 19 1992,Darlington,2-2,Scunthorpe United
+Sat Dec 19 1992,Halifax Town,0-1,Bury
+Sat Dec 19 1992,Chesterfield,0-0,Doncaster Rovers
+Sat Dec 19 1992,Scarborough,4-2,York City
+Sun Dec 20 1992,Torquay United,1-0,Shrewsbury Town
+Sat Dec 26 1992,Hereford United,1-1,Shrewsbury Town
+Sat Dec 26 1992,Crewe Alexandra,0-1,Wrexham
+Sat Dec 26 1992,Cardiff City,3-3,York City
+Sat Dec 26 1992,Gillingham,1-4,Bury
+Sat Dec 26 1992,Torquay United,0-1,Walsall
+Sat Dec 26 1992,Northampton Town,1-0,Colchester United
+Sat Dec 26 1992,Halifax Town,2-2,Doncaster Rovers
+Sat Dec 26 1992,Rochdale,2-0,Scunthorpe United
+Mon Dec 28 1992,Doncaster Rovers,0-1,Darlington
+Mon Dec 28 1992,Walsall,2-0,Northampton Town
+Mon Dec 28 1992,Wrexham,5-4,Chesterfield
+Mon Dec 28 1992,Lincoln City,3-2,Cardiff City
+Mon Dec 28 1992,Barnet,5-4,Torquay United
+Mon Dec 28 1992,Shrewsbury Town,4-1,Crewe Alexandra
+Mon Dec 28 1992,Scunthorpe United,2-2,Gillingham
+Tue Dec 29 1992,Colchester United,1-0,Scarborough
+Tue Dec 29 1992,York City,1-1,Halifax Town
+Sat Jan 2 1993,Barnet,0-0,Darlington
+Sat Jan 2 1993,Cardiff City,2-1,Hereford United
+Sat Jan 2 1993,Shrewsbury Town,0-1,Wrexham
+Sat Jan 2 1993,Walsall,1-3,Colchester United
+Sat Jan 2 1993,Doncaster Rovers,1-1,Rochdale
+Sat Jan 2 1993,Torquay United,1-3,Scarborough
+Fri Jan 8 1993,Northampton Town,1-1,Barnet
+Fri Jan 8 1993,Gillingham,4-2,Rochdale
+Fri Jan 8 1993,Colchester United,2-0,Doncaster Rovers
+Sat Jan 9 1993,Darlington,0-3,Halifax Town
+Sat Jan 9 1993,Crewe Alexandra,0-2,Chesterfield
+Sat Jan 9 1993,Wrexham,4-2,Torquay United
+Sat Jan 9 1993,Bury,2-1,Walsall
+Sat Jan 9 1993,Carlisle United,1-2,Cardiff City
+Sat Jan 9 1993,Hereford United,1-1,York City
+Tue Jan 12 1993,Darlington,1-1,Carlisle United
+Sat Jan 16 1993,Torquay United,0-1,Bury
+Sat Jan 16 1993,Halifax Town,2-2,Northampton Town
+Sat Jan 16 1993,Rochdale,1-3,Hereford United
+Sat Jan 16 1993,Chesterfield,4-0,Colchester United
+Sat Jan 16 1993,York City,0-0,Darlington
+Sat Jan 16 1993,Barnet,3-1,Wrexham
+Sat Jan 16 1993,Doncaster Rovers,4-3,Scarborough
+Sat Jan 16 1993,Scunthorpe United,0-0,Carlisle United
+Sat Jan 16 1993,Shrewsbury Town,3-2,Lincoln City
+Sat Jan 16 1993,Walsall,1-1,Gillingham
+Tue Jan 19 1993,York City,2-2,Carlisle United
+Fri Jan 22 1993,Colchester United,0-0,York City
+Sat Jan 23 1993,Hereford United,1-1,Barnet
+Sat Jan 23 1993,Lincoln City,2-1,Doncaster Rovers
+Sat Jan 23 1993,Darlington,0-4,Rochdale
+Sat Jan 23 1993,Gillingham,0-1,Cardiff City
+Sat Jan 23 1993,Scarborough,2-0,Halifax Town
+Sat Jan 23 1993,Northampton Town,0-1,Torquay United
+Sat Jan 23 1993,Carlisle United,3-1,Chesterfield
+Sat Jan 23 1993,Wrexham,3-1,Walsall
+Tue Jan 26 1993,Wrexham,3-0,York City
+Tue Jan 26 1993,Halifax Town,0-1,Cardiff City
+Tue Jan 26 1993,Lincoln City,2-1,Carlisle United
+Tue Jan 26 1993,Walsall,1-1,Hereford United
+Tue Jan 26 1993,Shrewsbury Town,2-1,Scunthorpe United
+Tue Jan 26 1993,Northampton Town,0-2,Crewe Alexandra
+Tue Jan 26 1993,Bury,3-0,Chesterfield
+Tue Jan 26 1993,Torquay United,1-2,Doncaster Rovers
+Fri Jan 29 1993,Doncaster Rovers,0-1,Shrewsbury Town
+Fri Jan 29 1993,Colchester United,1-2,Barnet
+Sat Jan 30 1993,Cardiff City,2-1,Walsall
+Sat Jan 30 1993,Rochdale,1-2,Wrexham
+Sat Jan 30 1993,Scunthorpe United,4-1,Halifax Town
+Sat Jan 30 1993,Crewe Alexandra,2-3,Scarborough
+Sat Jan 30 1993,Chesterfield,1-3,Northampton Town
+Sat Jan 30 1993,Hereford United,1-1,Darlington
+Sat Jan 30 1993,York City,2-0,Lincoln City
+Sat Feb 6 1993,Torquay United,1-2,Crewe Alexandra
+Sat Feb 6 1993,Bury,3-0,Doncaster Rovers
+Sat Feb 6 1993,Scarborough,2-0,Hereford United
+Sat Feb 6 1993,Shrewsbury Town,1-1,York City
+Sat Feb 6 1993,Walsall,2-1,Carlisle United
+Sat Feb 6 1993,Darlington,0-2,Cardiff City
+Sat Feb 6 1993,Lincoln City,1-1,Colchester United
+Sat Feb 6 1993,Halifax Town,2-3,Rochdale
+Sat Feb 6 1993,Northampton Town,2-2,Gillingham
+Sat Feb 6 1993,Barnet,2-1,Chesterfield
+Sat Feb 13 1993,Gillingham,3-1,Scarborough
+Sat Feb 13 1993,Scunthorpe United,1-1,Lincoln City
+Sat Feb 13 1993,Colchester United,0-0,Bury
+Sat Feb 13 1993,Rochdale,2-0,Shrewsbury Town
+Sat Feb 13 1993,Crewe Alexandra,1-0,Darlington
+Sat Feb 13 1993,Carlisle United,0-1,Barnet
+Sat Feb 13 1993,Cardiff City,4-0,Torquay United
+Sat Feb 13 1993,Doncaster Rovers,1-1,Wrexham
+Sat Feb 13 1993,Hereford United,3-2,Northampton Town
+Sat Feb 13 1993,York City,0-1,Walsall
+Tue Feb 16 1993,Chesterfield,1-1,Gillingham
+Tue Feb 16 1993,Halifax Town,2-1,Lincoln City
+Tue Feb 16 1993,Doncaster Rovers,1-1,Crewe Alexandra
+Fri Feb 19 1993,Northampton Town,1-2,Cardiff City
+Sat Feb 20 1993,Halifax Town,1-2,Crewe Alexandra
+Sat Feb 20 1993,Torquay United,1-0,York City
+Sat Feb 20 1993,Wrexham,2-0,Gillingham
+Sat Feb 20 1993,Shrewsbury Town,4-3,Colchester United
+Sat Feb 20 1993,Barnet,2-0,Doncaster Rovers
+Sat Feb 20 1993,Walsall,3-2,Scunthorpe United
+Sat Feb 20 1993,Bury,6-0,Carlisle United
+Sat Feb 20 1993,Darlington,1-1,Chesterfield
+Sat Feb 20 1993,Scarborough,1-1,Rochdale
+Sat Feb 20 1993,Lincoln City,2-0,Hereford United
+Fri Feb 26 1993,Colchester United,2-1,Halifax Town
+Sat Feb 27 1993,Chesterfield,1-0,Torquay United
+Sat Feb 27 1993,Northampton Town,1-3,Scarborough
+Sat Feb 27 1993,Carlisle United,3-0,Rochdale
+Sat Feb 27 1993,Darlington,0-2,Shrewsbury Town
+Sat Feb 27 1993,Walsall,1-2,Lincoln City
+Sat Feb 27 1993,Bury,3-1,Wrexham
+Sat Feb 27 1993,York City,5-1,Scunthorpe United
+Sat Feb 27 1993,Gillingham,1-1,Doncaster Rovers
+Sat Feb 27 1993,Cardiff City,1-1,Crewe Alexandra
+Tue Mar 2 1993,Chesterfield,2-1,Lincoln City
+Tue Mar 2 1993,Barnet,2-0,Gillingham
+Fri Mar 5 1993,Doncaster Rovers,0-1,York City
+Sat Mar 6 1993,Scarborough,1-3,Bury
+Sat Mar 6 1993,Crewe Alexandra,3-1,Gillingham
+Sat Mar 6 1993,Lincoln City,2-0,Northampton Town
+Sat Mar 6 1993,Shrewsbury Town,1-0,Barnet
+Sat Mar 6 1993,Scunthorpe United,0-1,Chesterfield
+Sat Mar 6 1993,Torquay United,0-2,Darlington
+Sat Mar 6 1993,Rochdale,1-2,Cardiff City
+Sat Mar 6 1993,Halifax Town,0-2,Carlisle United
+Sat Mar 6 1993,Wrexham,2-0,Hereford United
+Tue Mar 9 1993,Darlington,1-1,Wrexham
+Tue Mar 9 1993,Cardiff City,1-0,Scarborough
+Tue Mar 9 1993,York City,1-1,Gillingham
+Tue Mar 9 1993,Lincoln City,2-2,Torquay United
+Tue Mar 9 1993,Walsall,3-2,Chesterfield
+Tue Mar 9 1993,Scunthorpe United,2-0,Bury
+Tue Mar 9 1993,Hereford United,0-1,Crewe Alexandra
+Tue Mar 9 1993,Carlisle United,1-0,Shrewsbury Town
+Tue Mar 9 1993,Rochdale,0-3,Northampton Town
+Fri Mar 12 1993,Crewe Alexandra,1-1,Rochdale
+Fri Mar 12 1993,Colchester United,2-4,Cardiff City
+Sat Mar 13 1993,Doncaster Rovers,0-1,Scunthorpe United
+Sat Mar 13 1993,Gillingham,1-0,Carlisle United
+Sat Mar 13 1993,Bury,1-1,Darlington
+Sat Mar 13 1993,Torquay United,2-0,Halifax Town
+Sat Mar 13 1993,Chesterfield,1-0,Hereford United
+Sat Mar 13 1993,Scarborough,4-1,Walsall
+Sat Mar 13 1993,Wrexham,2-0,Lincoln City
+Sat Mar 13 1993,Barnet,1-5,York City
+Tue Mar 16 1993,Bury,2-2,Rochdale
+Sat Mar 20 1993,Darlington,3-1,Northampton Town
+Sat Mar 20 1993,Hereford United,3-1,Gillingham
+Sat Mar 20 1993,Cardiff City,2-1,Chesterfield
+Sat Mar 20 1993,Scunthorpe United,0-0,Wrexham
+Sat Mar 20 1993,Carlisle United,0-2,Colchester United
+Sat Mar 20 1993,York City,1-2,Bury
+Sat Mar 20 1993,Lincoln City,3-0,Scarborough
+Sat Mar 20 1993,Rochdale,1-0,Torquay United
+Sat Mar 20 1993,Walsall,2-0,Barnet
+Sat Mar 20 1993,Halifax Town,1-1,Shrewsbury Town
+Tue Mar 23 1993,Northampton Town,2-0,Carlisle United
+Tue Mar 23 1993,Chesterfield,2-1,Halifax Town
+Tue Mar 23 1993,Scarborough,1-2,Scunthorpe United
+Tue Mar 23 1993,Bury,1-0,Cardiff City
+Tue Mar 23 1993,Colchester United,3-1,Hereford United
+Tue Mar 23 1993,Crewe Alexandra,3-1,York City
+Tue Mar 23 1993,Gillingham,3-1,Lincoln City
+Fri Mar 26 1993,York City,2-1,Northampton Town
+Fri Mar 26 1993,Halifax Town,0-1,Wrexham
+Sat Mar 27 1993,Rochdale,5-2,Colchester United
+Sat Mar 27 1993,Scunthorpe United,2-2,Torquay United
+Sat Mar 27 1993,Walsall,1-1,Shrewsbury Town
+Sat Mar 27 1993,Carlisle United,1-1,Doncaster Rovers
+Sat Mar 27 1993,Darlington,1-1,Gillingham
+Sat Mar 27 1993,Cardiff City,1-1,Barnet
+Sat Mar 27 1993,Lincoln City,1-1,Crewe Alexandra
+Sat Mar 27 1993,Hereford United,3-1,Bury
+Tue Mar 30 1993,Scarborough,2-2,Barnet
+Tue Mar 30 1993,Scunthorpe United,5-0,Northampton Town
+Tue Mar 30 1993,Bury,0-0,Shrewsbury Town
+Fri Apr 2 1993,Northampton Town,1-0,Rochdale
+Fri Apr 2 1993,Wrexham,1-1,Darlington
+Fri Apr 2 1993,Gillingham,1-4,York City
+Fri Apr 2 1993,Crewe Alexandra,1-1,Hereford United
+Sat Apr 3 1993,Chesterfield,2-1,Walsall
+Sat Apr 3 1993,Shrewsbury Town,2-3,Carlisle United
+Sat Apr 3 1993,Barnet,0-0,Halifax Town
+Sat Apr 3 1993,Scarborough,1-3,Cardiff City
+Sat Apr 3 1993,Bury,0-0,Scunthorpe United
+Tue Apr 6 1993,Hereford United,2-2,Scunthorpe United
+Tue Apr 6 1993,Rochdale,0-1,Barnet
+Tue Apr 6 1993,Gillingham,1-0,Shrewsbury Town
+Tue Apr 6 1993,Northampton Town,1-0,Bury
+Tue Apr 6 1993,Darlington,1-2,Walsall
+Tue Apr 6 1993,Cardiff City,1-1,Doncaster Rovers
+Tue Apr 6 1993,Chesterfield,1-1,York City
+Tue Apr 6 1993,Crewe Alexandra,4-0,Carlisle United
+Tue Apr 6 1993,Scarborough,1-1,Wrexham
+Tue Apr 6 1993,Torquay United,2-2,Colchester United
+Sat Apr 10 1993,York City,3-1,Cardiff City
+Sat Apr 10 1993,Wrexham,2-0,Crewe Alexandra
+Sat Apr 10 1993,Carlisle United,2-2,Darlington
+Sat Apr 10 1993,Barnet,3-1,Scarborough
+Sat Apr 10 1993,Lincoln City,1-1,Chesterfield
+Sat Apr 10 1993,Walsall,2-2,Torquay United
+Sat Apr 10 1993,Scunthorpe United,5-1,Rochdale
+Sat Apr 10 1993,Doncaster Rovers,0-1,Halifax Town
+Sat Apr 10 1993,Shrewsbury Town,1-1,Hereford United
+Mon Apr 12 1993,Cardiff City,3-1,Lincoln City
+Mon Apr 12 1993,Crewe Alexandra,2-2,Shrewsbury Town
+Mon Apr 12 1993,Gillingham,1-1,Scunthorpe United
+Mon Apr 12 1993,Chesterfield,2-3,Wrexham
+Mon Apr 12 1993,Halifax Town,0-1,York City
+Mon Apr 12 1993,Northampton Town,0-0,Walsall
+Mon Apr 12 1993,Hereford United,1-0,Carlisle United
+Mon Apr 12 1993,Darlington,1-2,Doncaster Rovers
+Tue Apr 13 1993,Rochdale,1-2,Bury
+Tue Apr 13 1993,Scarborough,0-1,Colchester United
+Tue Apr 13 1993,Torquay United,0-1,Barnet
+Fri Apr 16 1993,Colchester United,3-0,Gillingham
+Sat Apr 17 1993,Shrewsbury Town,0-1,Torquay United
+Sat Apr 17 1993,York City,1-0,Scarborough
+Sat Apr 17 1993,Carlisle United,0-0,Hereford United
+Sat Apr 17 1993,Scunthorpe United,1-3,Darlington
+Sat Apr 17 1993,Doncaster Rovers,2-1,Chesterfield
+Sat Apr 17 1993,Walsall,1-0,Crewe Alexandra
+Sat Apr 17 1993,Wrexham,0-2,Cardiff City
+Sat Apr 17 1993,Lincoln City,1-2,Rochdale
+Sat Apr 17 1993,Bury,1-2,Halifax Town
+Tue Apr 20 1993,Torquay United,1-2,Lincoln City
+Tue Apr 20 1993,Scarborough,1-2,Shrewsbury Town
+Tue Apr 20 1993,Colchester United,2-0,Northampton Town
+Tue Apr 20 1993,Crewe Alexandra,1-0,Scunthorpe United
+Tue Apr 20 1993,Barnet,1-0,Bury
+Sat Apr 24 1993,Scarborough,0-3,Darlington
+Sat Apr 24 1993,Doncaster Rovers,2-2,Northampton Town
+Sat Apr 24 1993,Shrewsbury Town,2-2,Chesterfield
+Sat Apr 24 1993,Halifax Town,0-4,Walsall
+Sat Apr 24 1993,Scunthorpe United,2-0,Barnet
+Sat Apr 24 1993,Rochdale,1-0,York City
+Sat Apr 24 1993,Crewe Alexandra,7-1,Colchester United
+Sat Apr 24 1993,Wrexham,3-1,Carlisle United
+Sat Apr 24 1993,Torquay United,0-0,Hereford United
+Sat Apr 24 1993,Lincoln City,1-2,Bury
+Tue Apr 27 1993,Crewe Alexandra,0-1,Walsall
+Tue Apr 27 1993,Northampton Town,0-2,Wrexham
+Sat May 1 1993,Cardiff City,2-1,Shrewsbury Town
+Sat May 1 1993,Chesterfield,0-3,Scarborough
+Sat May 1 1993,Gillingham,2-0,Halifax Town
+Sat May 1 1993,Bury,1-2,Crewe Alexandra
+Sat May 1 1993,Colchester United,1-0,Scunthorpe United
+Sat May 1 1993,Barnet,1-1,Lincoln City
+Sat May 1 1993,Hereford United,0-2,Doncaster Rovers
+Sat May 1 1993,Walsall,3-1,Rochdale
+Sat May 1 1993,Carlisle United,0-1,Torquay United
+Tue May 4 1993,Darlington,1-0,Colchester United
+Sat May 8 1993,Torquay United,2-1,Gillingham
+Sat May 8 1993,Shrewsbury Town,2-3,Northampton Town
+Sat May 8 1993,Lincoln City,2-0,Darlington
+Sat May 8 1993,Scunthorpe United,0-3,Cardiff City
+Sat May 8 1993,Doncaster Rovers,0-3,Walsall
+Sat May 8 1993,Rochdale,2-1,Chesterfield
+Sat May 8 1993,Wrexham,4-3,Colchester United
+Sat May 8 1993,Crewe Alexandra,4-1,Barnet
+Sat May 8 1993,Halifax Town,0-1,Hereford United
+Sat May 8 1993,Scarborough,2-2,Carlisle United

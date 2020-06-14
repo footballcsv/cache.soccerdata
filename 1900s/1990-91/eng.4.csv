@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 25 1990,Cardiff City,0-0,Scarborough
+Sat Aug 25 1990,Halifax Town,0-0,Stockport County
+Sat Aug 25 1990,Burnley,2-2,Lincoln City
+Sat Aug 25 1990,Scunthorpe United,2-0,Blackpool
+Sat Aug 25 1990,Rochdale,4-0,Aldershot
+Sat Aug 25 1990,Wrexham,0-0,Peterborough United
+Sat Aug 25 1990,York City,0-1,Maidstone United
+Sat Aug 25 1990,Hereford United,1-2,Northampton Town
+Sat Aug 25 1990,Carlisle United,2-3,Doncaster Rovers
+Sat Aug 25 1990,Chesterfield,2-3,Hartlepool United
+Sat Aug 25 1990,Gillingham,1-0,Darlington
+Sat Aug 25 1990,Walsall,2-2,Torquay United
+Fri Aug 31 1990,Torquay United,3-1,Gillingham
+Sat Sep 1 1990,Doncaster Rovers,3-1,Wrexham
+Sat Sep 1 1990,Blackpool,0-0,Rochdale
+Sat Sep 1 1990,Aldershot,3-2,Scunthorpe United
+Sat Sep 1 1990,Scarborough,1-0,Chesterfield
+Sat Sep 1 1990,Lincoln City,1-0,Halifax Town
+Sat Sep 1 1990,Hartlepool United,0-2,Cardiff City
+Sat Sep 1 1990,Darlington,3-1,Burnley
+Sat Sep 1 1990,Peterborough United,1-1,Carlisle United
+Sat Sep 1 1990,Stockport County,3-0,Walsall
+Sat Sep 1 1990,Maidstone United,1-3,Northampton Town
+Sat Sep 1 1990,Hereford United,2-0,York City
+Sat Sep 8 1990,Rochdale,1-0,Stockport County
+Sat Sep 8 1990,Halifax Town,0-1,Doncaster Rovers
+Sat Sep 8 1990,Wrexham,4-2,Aldershot
+Sat Sep 8 1990,Carlisle United,1-0,Maidstone United
+Sat Sep 8 1990,Cardiff City,3-3,Torquay United
+Sat Sep 8 1990,Gillingham,3-0,Hartlepool United
+Sat Sep 8 1990,Chesterfield,1-0,Hereford United
+Sat Sep 8 1990,Burnley,2-1,Scarborough
+Sat Sep 8 1990,Walsall,2-2,Darlington
+Sat Sep 8 1990,Scunthorpe United,1-1,Peterborough United
+Sat Sep 8 1990,Northampton Town,1-0,Blackpool
+Fri Sep 14 1990,Stockport County,2-2,Burnley
+Fri Sep 14 1990,Aldershot,3-3,Northampton Town
+Sat Sep 15 1990,Rochdale,0-3,Doncaster Rovers
+Sat Sep 15 1990,Darlington,3-0,Halifax Town
+Sat Sep 15 1990,Lincoln City,0-0,Cardiff City
+Sat Sep 15 1990,Maidstone United,6-1,Scunthorpe United
+Sat Sep 15 1990,Hereford United,4-2,Carlisle United
+Sat Sep 15 1990,Torquay United,2-0,Chesterfield
+Sat Sep 15 1990,Peterborough United,0-0,Walsall
+Sat Sep 15 1990,Blackpool,4-1,Wrexham
+Sat Sep 15 1990,Scarborough,2-1,Gillingham
+Mon Sep 17 1990,Stockport County,3-1,Carlisle United
+Tue Sep 18 1990,Blackpool,1-2,Burnley
+Tue Sep 18 1990,Hartlepool United,2-2,Rochdale
+Tue Sep 18 1990,Torquay United,1-1,Scunthorpe United
+Tue Sep 18 1990,Scarborough,1-1,Northampton Town
+Tue Sep 18 1990,Doncaster Rovers,2-0,Walsall
+Tue Sep 18 1990,Darlington,0-0,York City
+Tue Sep 18 1990,Aldershot,0-0,Cardiff City
+Tue Sep 18 1990,Peterborough United,2-0,Halifax Town
+Wed Sep 19 1990,Lincoln City,1-1,Chesterfield
+Wed Sep 19 1990,Hereford United,1-1,Gillingham
+Fri Sep 21 1990,Halifax Town,0-1,Torquay United
+Sat Sep 22 1990,Rochdale,1-1,Scarborough
+Sat Sep 22 1990,Scunthorpe United,2-1,Lincoln City
+Sat Sep 22 1990,Cardiff City,3-3,Stockport County
+Sat Sep 22 1990,York City,3-1,Doncaster Rovers
+Sat Sep 22 1990,Burnley,3-0,Aldershot
+Sat Sep 22 1990,Northampton Town,1-2,Peterborough United
+Sat Sep 22 1990,Walsall,0-0,Hereford United
+Sat Sep 22 1990,Carlisle United,1-0,Hartlepool United
+Sat Sep 22 1990,Wrexham,1-1,Darlington
+Sat Sep 22 1990,Gillingham,0-2,Maidstone United
+Sat Sep 22 1990,Chesterfield,2-2,Blackpool
+Fri Sep 28 1990,Carlisle United,1-1,Burnley
+Sat Sep 29 1990,Scunthorpe United,0-2,Cardiff City
+Sat Sep 29 1990,Rochdale,3-2,Walsall
+Sat Sep 29 1990,Peterborough United,1-2,Torquay United
+Sat Sep 29 1990,Blackpool,2-0,Hartlepool United
+Sat Sep 29 1990,Hereford United,0-0,Stockport County
+Sat Sep 29 1990,Northampton Town,1-0,Halifax Town
+Sat Sep 29 1990,Doncaster Rovers,0-1,Darlington
+Sat Sep 29 1990,Wrexham,1-1,Chesterfield
+Sat Sep 29 1990,York City,1-1,Gillingham
+Sat Sep 29 1990,Aldershot,2-2,Scarborough
+Sat Sep 29 1990,Maidstone United,4-1,Lincoln City
+Mon Oct 1 1990,Stockport County,1-0,Maidstone United
+Tue Oct 2 1990,Darlington,0-1,Peterborough United
+Tue Oct 2 1990,Walsall,3-0,Scunthorpe United
+Tue Oct 2 1990,Cardiff City,0-1,Rochdale
+Tue Oct 2 1990,Gillingham,2-1,Carlisle United
+Tue Oct 2 1990,Chesterfield,2-2,York City
+Tue Oct 2 1990,Burnley,3-0,Northampton Town
+Tue Oct 2 1990,Torquay United,1-0,Doncaster Rovers
+Tue Oct 2 1990,Hartlepool United,1-0,Aldershot
+Wed Oct 3 1990,Scarborough,0-1,Blackpool
+Wed Oct 3 1990,Lincoln City,1-1,Hereford United
+Fri Oct 5 1990,Cardiff City,1-0,Wrexham
+Sat Oct 6 1990,Burnley,0-0,York City
+Sat Oct 6 1990,Gillingham,2-2,Rochdale
+Sat Oct 6 1990,Darlington,3-1,Hereford United
+Sat Oct 6 1990,Torquay United,2-1,Blackpool
+Sat Oct 6 1990,Halifax Town,0-0,Scunthorpe United
+Sat Oct 6 1990,Stockport County,2-1,Peterborough United
+Sat Oct 6 1990,Walsall,1-1,Carlisle United
+Sat Oct 6 1990,Hartlepool United,1-0,Maidstone United
+Sat Oct 6 1990,Lincoln City,2-2,Aldershot
+Sat Oct 6 1990,Chesterfield,0-0,Northampton Town
+Sun Oct 7 1990,Scarborough,2-1,Doncaster Rovers
+Fri Oct 12 1990,Aldershot,2-3,Torquay United
+Sat Oct 13 1990,Maidstone United,1-3,Walsall
+Sat Oct 13 1990,Hereford United,3-0,Burnley
+Sat Oct 13 1990,Blackpool,1-2,Darlington
+Sat Oct 13 1990,Northampton Town,1-0,Stockport County
+Sat Oct 13 1990,York City,1-2,Cardiff City
+Sat Oct 13 1990,Rochdale,3-0,Chesterfield
+Sat Oct 13 1990,Wrexham,1-2,Scarborough
+Sat Oct 13 1990,Scunthorpe United,1-0,Gillingham
+Sat Oct 13 1990,Peterborough United,2-0,Lincoln City
+Sat Oct 13 1990,Doncaster Rovers,2-2,Hartlepool United
+Sat Oct 13 1990,Carlisle United,0-3,Halifax Town
+Tue Oct 16 1990,Torquay United,1-0,Wrexham
+Tue Oct 16 1990,Hartlepool United,0-1,York City
+Fri Oct 19 1990,Northampton Town,5-0,Walsall
+Fri Oct 19 1990,Aldershot,2-2,Stockport County
+Sat Oct 20 1990,Scunthorpe United,3-0,Scarborough
+Sat Oct 20 1990,Blackpool,2-0,Gillingham
+Sat Oct 20 1990,Maidstone United,2-3,Darlington
+Sat Oct 20 1990,Hereford United,1-1,Cardiff City
+Sat Oct 20 1990,Rochdale,0-0,Torquay United
+Sat Oct 20 1990,Doncaster Rovers,1-0,Lincoln City
+Sat Oct 20 1990,York City,3-3,Halifax Town
+Sat Oct 20 1990,Wrexham,2-2,Hartlepool United
+Sat Oct 20 1990,Carlisle United,1-0,Chesterfield
+Sat Oct 20 1990,Peterborough United,3-2,Burnley
+Mon Oct 22 1990,Stockport County,0-0,Blackpool
+Tue Oct 23 1990,Walsall,1-1,York City
+Tue Oct 23 1990,Chesterfield,1-0,Scunthorpe United
+Tue Oct 23 1990,Darlington,1-1,Northampton Town
+Tue Oct 23 1990,Burnley,2-1,Maidstone United
+Tue Oct 23 1990,Gillingham,1-1,Aldershot
+Tue Oct 23 1990,Cardiff City,0-2,Doncaster Rovers
+Tue Oct 23 1990,Halifax Town,0-4,Hereford United
+Tue Oct 23 1990,Hartlepool United,2-0,Peterborough United
+Wed Oct 24 1990,Scarborough,1-1,Carlisle United
+Wed Oct 24 1990,Lincoln City,1-2,Rochdale
+Fri Oct 26 1990,Stockport County,2-0,York City
+Sat Oct 27 1990,Cardiff City,1-1,Peterborough United
+Sat Oct 27 1990,Chesterfield,2-1,Doncaster Rovers
+Sat Oct 27 1990,Gillingham,2-3,Wrexham
+Sat Oct 27 1990,Scarborough,0-2,Maidstone United
+Sat Oct 27 1990,Walsall,2-2,Aldershot
+Sat Oct 27 1990,Halifax Town,5-3,Blackpool
+Sat Oct 27 1990,Burnley,1-0,Rochdale
+Sat Oct 27 1990,Darlington,0-0,Scunthorpe United
+Sat Oct 27 1990,Hartlepool United,2-1,Hereford United
+Sat Oct 27 1990,Lincoln City,3-1,Northampton Town
+Sat Oct 27 1990,Torquay United,3-0,Carlisle United
+Wed Oct 31 1990,Maidstone United,0-2,Wrexham
+Fri Nov 2 1990,Aldershot,2-2,Halifax Town
+Sat Nov 3 1990,Peterborough United,2-1,Chesterfield
+Sat Nov 3 1990,Carlisle United,0-0,Lincoln City
+Sat Nov 3 1990,Northampton Town,3-2,Hartlepool United
+Sat Nov 3 1990,Blackpool,1-2,Walsall
+Sat Nov 3 1990,York City,0-0,Torquay United
+Sat Nov 3 1990,Hereford United,3-3,Scarborough
+Sat Nov 3 1990,Doncaster Rovers,1-1,Gillingham
+Sat Nov 3 1990,Scunthorpe United,3-0,Stockport County
+Sat Nov 3 1990,Wrexham,2-4,Burnley
+Sat Nov 3 1990,Rochdale,1-1,Darlington
+Sat Nov 3 1990,Maidstone United,3-0,Cardiff City
+Fri Nov 9 1990,Halifax Town,1-2,Gillingham
+Fri Nov 9 1990,Scarborough,1-0,Torquay United
+Fri Nov 9 1990,Northampton Town,1-0,Wrexham
+Sat Nov 10 1990,Cardiff City,2-1,Chesterfield
+Sat Nov 10 1990,Walsall,1-0,Burnley
+Sat Nov 10 1990,Darlington,0-1,Hartlepool United
+Sat Nov 10 1990,Blackpool,4-2,Aldershot
+Sat Nov 10 1990,Maidstone United,1-1,Hereford United
+Sat Nov 10 1990,Stockport County,4-0,Lincoln City
+Sat Nov 10 1990,Scunthorpe United,2-1,Rochdale
+Sat Nov 10 1990,Peterborough United,1-1,Doncaster Rovers
+Sat Nov 10 1990,Carlisle United,1-0,York City
+Sat Nov 24 1990,Wrexham,1-0,Scunthorpe United
+Sat Nov 24 1990,Hartlepool United,2-0,Scarborough
+Sat Nov 24 1990,Hereford United,0-0,Peterborough United
+Sat Nov 24 1990,York City,0-1,Northampton Town
+Sat Nov 24 1990,Rochdale,0-1,Carlisle United
+Sat Nov 24 1990,Gillingham,4-0,Cardiff City
+Sat Nov 24 1990,Doncaster Rovers,1-0,Blackpool
+Sat Nov 24 1990,Aldershot,4-3,Maidstone United
+Sat Nov 24 1990,Burnley,2-1,Halifax Town
+Sat Nov 24 1990,Lincoln City,0-3,Darlington
+Sun Nov 25 1990,Chesterfield,2-2,Walsall
+Sat Dec 1 1990,Chesterfield,1-1,Gillingham
+Sat Dec 1 1990,Northampton Town,3-2,Rochdale
+Sat Dec 1 1990,Walsall,3-1,Halifax Town
+Sat Dec 1 1990,Doncaster Rovers,3-0,Aldershot
+Sat Dec 1 1990,Burnley,2-0,Cardiff City
+Sat Dec 1 1990,Wrexham,3-0,Carlisle United
+Sat Dec 1 1990,Lincoln City,2-0,Scarborough
+Sat Dec 1 1990,Maidstone United,2-0,Peterborough United
+Sat Dec 1 1990,York City,2-2,Scunthorpe United
+Sat Dec 1 1990,Torquay United,0-1,Hartlepool United
+Sat Dec 1 1990,Stockport County,3-1,Darlington
+Sat Dec 1 1990,Hereford United,1-1,Blackpool
+Fri Dec 7 1990,Torquay United,1-1,Stockport County
+Fri Dec 7 1990,Scarborough,4-2,Wrexham
+Sat Dec 15 1990,Scunthorpe United,1-1,Doncaster Rovers
+Sat Dec 15 1990,Blackpool,2-2,Maidstone United
+Sat Dec 15 1990,Aldershot,1-0,Hereford United
+Sat Dec 15 1990,Hartlepool United,2-0,Lincoln City
+Sat Dec 15 1990,Rochdale,2-0,Wrexham
+Sat Dec 15 1990,Gillingham,3-2,Burnley
+Sat Dec 15 1990,Carlisle United,4-1,Northampton Town
+Sat Dec 15 1990,Darlington,3-0,Torquay United
+Sat Dec 15 1990,Cardiff City,0-2,Walsall
+Sat Dec 15 1990,Halifax Town,2-1,Chesterfield
+Sat Dec 15 1990,Peterborough United,2-0,York City
+Sun Dec 16 1990,Scarborough,0-2,Stockport County
+Fri Dec 21 1990,Peterborough United,2-0,Scarborough
+Fri Dec 21 1990,York City,2-0,Aldershot
+Fri Dec 21 1990,Stockport County,0-0,Doncaster Rovers
+Fri Dec 21 1990,Walsall,1-0,Wrexham
+Fri Dec 21 1990,Northampton Town,0-0,Cardiff City
+Fri Dec 21 1990,Halifax Town,2-0,Rochdale
+Sat Dec 22 1990,Maidstone United,2-2,Torquay United
+Sat Dec 22 1990,Darlington,1-0,Chesterfield
+Sat Dec 22 1990,Hereford United,2-0,Scunthorpe United
+Sat Dec 22 1990,Lincoln City,1-1,Gillingham
+Sat Dec 22 1990,Burnley,4-0,Hartlepool United
+Sun Dec 23 1990,Carlisle United,1-0,Blackpool
+Wed Dec 26 1990,Gillingham,1-0,Walsall
+Wed Dec 26 1990,Blackpool,1-1,Peterborough United
+Wed Dec 26 1990,Scarborough,4-1,Halifax Town
+Wed Dec 26 1990,Doncaster Rovers,3-0,Maidstone United
+Wed Dec 26 1990,Cardiff City,3-1,Carlisle United
+Wed Dec 26 1990,Wrexham,1-2,Hereford United
+Sat Dec 29 1990,Wrexham,0-4,York City
+Sat Dec 29 1990,Cardiff City,1-0,Halifax Town
+Sat Dec 29 1990,Blackpool,5-0,Lincoln City
+Sat Dec 29 1990,Scarborough,1-1,Darlington
+Sat Dec 29 1990,Rochdale,3-2,Maidstone United
+Sat Dec 29 1990,Aldershot,5-0,Peterborough United
+Sat Dec 29 1990,Scunthorpe United,2-0,Carlisle United
+Sat Dec 29 1990,Torquay United,2-0,Burnley
+Sat Dec 29 1990,Chesterfield,1-1,Stockport County
+Sat Dec 29 1990,Doncaster Rovers,3-1,Hereford United
+Sat Dec 29 1990,Gillingham,0-0,Northampton Town
+Tue Jan 1 1991,Burnley,1-1,Scunthorpe United
+Tue Jan 1 1991,Walsall,0-0,Scarborough
+Tue Jan 1 1991,Maidstone United,1-0,Chesterfield
+Tue Jan 1 1991,Carlisle United,1-2,Aldershot
+Tue Jan 1 1991,York City,0-1,Blackpool
+Tue Jan 1 1991,Darlington,4-1,Cardiff City
+Tue Jan 1 1991,Stockport County,1-1,Gillingham
+Tue Jan 1 1991,Halifax Town,1-2,Hartlepool United
+Tue Jan 1 1991,Hereford United,0-0,Torquay United
+Tue Jan 1 1991,Northampton Town,0-0,Doncaster Rovers
+Tue Jan 1 1991,Lincoln City,0-0,Wrexham
+Wed Jan 2 1991,Peterborough United,1-1,Rochdale
+Fri Jan 4 1991,Stockport County,2-0,Wrexham
+Sat Jan 5 1991,Lincoln City,2-1,Walsall
+Sat Jan 5 1991,Darlington,3-1,Carlisle United
+Sat Jan 5 1991,Scarborough,2-2,York City
+Fri Jan 11 1991,Gillingham,2-2,Torquay United
+Sat Jan 12 1991,Walsall,0-2,Stockport County
+Sat Jan 12 1991,Rochdale,2-1,Blackpool
+Sat Jan 12 1991,York City,1-0,Hereford United
+Sat Jan 12 1991,Cardiff City,1-0,Hartlepool United
+Sat Jan 12 1991,Carlisle United,3-2,Peterborough United
+Sat Jan 12 1991,Northampton Town,2-0,Maidstone United
+Sat Jan 12 1991,Wrexham,2-1,Doncaster Rovers
+Sat Jan 12 1991,Burnley,3-1,Darlington
+Sat Jan 12 1991,Chesterfield,0-1,Scarborough
+Sat Jan 12 1991,Halifax Town,1-1,Lincoln City
+Sat Jan 12 1991,Scunthorpe United,6-2,Aldershot
+Fri Jan 18 1991,Stockport County,5-1,Halifax Town
+Sat Jan 19 1991,Maidstone United,5-4,York City
+Sat Jan 19 1991,Torquay United,0-0,Walsall
+Sat Jan 19 1991,Blackpool,3-1,Scunthorpe United
+Sat Jan 19 1991,Hartlepool United,2-0,Chesterfield
+Sat Jan 19 1991,Northampton Town,3-0,Hereford United
+Sat Jan 19 1991,Lincoln City,1-0,Burnley
+Sat Jan 19 1991,Aldershot,2-2,Rochdale
+Sat Jan 19 1991,Peterborough United,2-2,Wrexham
+Sat Jan 19 1991,Doncaster Rovers,4-0,Carlisle United
+Fri Jan 25 1991,Gillingham,1-1,Scarborough
+Fri Jan 25 1991,Doncaster Rovers,1-0,Rochdale
+Sat Jan 26 1991,Chesterfield,1-1,Torquay United
+Sat Jan 26 1991,York City,0-0,Hartlepool United
+Sat Jan 26 1991,Walsall,0-1,Peterborough United
+Sat Jan 26 1991,Halifax Town,0-0,Darlington
+Sat Jan 26 1991,Burnley,3-2,Stockport County
+Sat Jan 26 1991,Carlisle United,0-1,Hereford United
+Sat Jan 26 1991,Cardiff City,0-1,Lincoln City
+Sat Jan 26 1991,Scunthorpe United,2-2,Maidstone United
+Sat Jan 26 1991,Wrexham,0-1,Blackpool
+Sat Jan 26 1991,Northampton Town,2-1,Aldershot
+Tue Jan 29 1991,Darlington,1-1,Gillingham
+Tue Jan 29 1991,Hartlepool United,3-1,Stockport County
+Wed Jan 30 1991,Hereford United,2-0,Rochdale
+Fri Feb 1 1991,Halifax Town,1-1,Peterborough United
+Fri Feb 1 1991,Cardiff City,1-3,Aldershot
+Fri Feb 1 1991,Northampton Town,0-2,Scarborough
+Sat Feb 2 1991,Walsall,1-0,Doncaster Rovers
+Sat Feb 2 1991,York City,0-1,Darlington
+Sat Feb 2 1991,Chesterfield,1-1,Lincoln City
+Sat Feb 2 1991,Carlisle United,1-0,Stockport County
+Sat Feb 2 1991,Scunthorpe United,3-0,Torquay United
+Sat Feb 2 1991,Gillingham,2-1,Hereford United
+Tue Feb 5 1991,Torquay United,3-1,Halifax Town
+Tue Feb 5 1991,Darlington,1-0,Wrexham
+Tue Feb 5 1991,Blackpool,3-0,Chesterfield
+Tue Feb 5 1991,Peterborough United,1-0,Northampton Town
+Tue Feb 5 1991,Doncaster Rovers,2-2,York City
+Tue Feb 5 1991,Hartlepool United,4-1,Carlisle United
+Wed Feb 6 1991,Hereford United,0-0,Walsall
+Wed Feb 6 1991,Scarborough,0-0,Rochdale
+Fri Feb 15 1991,Northampton Town,2-1,York City
+Fri Feb 15 1991,Cardiff City,2-0,Gillingham
+Sat Feb 16 1991,Scarborough,2-0,Hartlepool United
+Sat Feb 16 1991,Halifax Town,1-2,Burnley
+Sat Feb 16 1991,Walsall,3-0,Chesterfield
+Sat Feb 16 1991,Blackpool,2-0,Doncaster Rovers
+Sat Feb 16 1991,Carlisle United,1-1,Rochdale
+Tue Feb 19 1991,Scarborough,1-2,Cardiff City
+Tue Feb 19 1991,Walsall,0-0,Lincoln City
+Tue Feb 19 1991,Aldershot,0-2,Darlington
+Fri Feb 22 1991,Doncaster Rovers,0-2,Peterborough United
+Fri Feb 22 1991,Gillingham,1-0,Halifax Town
+Sat Feb 23 1991,Aldershot,1-4,Blackpool
+Sat Feb 23 1991,York City,2-0,Carlisle United
+Sat Feb 23 1991,Hartlepool United,0-0,Darlington
+Sat Feb 23 1991,Chesterfield,0-0,Cardiff City
+Sat Feb 23 1991,Burnley,2-0,Walsall
+Sat Feb 23 1991,Lincoln City,0-3,Stockport County
+Sat Feb 23 1991,Wrexham,0-2,Northampton Town
+Sat Feb 23 1991,Rochdale,2-1,Scunthorpe United
+Sat Feb 23 1991,Hereford United,4-0,Maidstone United
+Tue Feb 26 1991,Carlisle United,0-2,Darlington
+Tue Feb 26 1991,Scunthorpe United,2-1,Hartlepool United
+Tue Feb 26 1991,York City,1-0,Lincoln City
+Tue Feb 26 1991,Doncaster Rovers,2-1,Burnley
+Tue Feb 26 1991,Gillingham,2-3,Peterborough United
+Tue Feb 26 1991,Stockport County,1-1,Cardiff City
+Wed Feb 27 1991,Maidstone United,5-1,Halifax Town
+Fri Mar 1 1991,Cardiff City,3-0,Burnley
+Sat Mar 2 1991,Halifax Town,5-2,Walsall
+Sat Mar 2 1991,Gillingham,0-1,Chesterfield
+Sat Mar 2 1991,Peterborough United,2-0,Maidstone United
+Sat Mar 2 1991,Darlington,1-0,Stockport County
+Sat Mar 2 1991,Scunthorpe United,2-1,York City
+Sat Mar 2 1991,Blackpool,3-0,Hereford United
+Sat Mar 2 1991,Aldershot,1-1,Doncaster Rovers
+Sat Mar 2 1991,Hartlepool United,0-0,Torquay United
+Sat Mar 2 1991,Rochdale,1-1,Northampton Town
+Sat Mar 2 1991,Carlisle United,2-0,Wrexham
+Sat Mar 2 1991,Scarborough,3-0,Lincoln City
+Tue Mar 5 1991,Torquay United,0-1,Lincoln City
+Tue Mar 5 1991,Scunthorpe United,3-0,Northampton Town
+Tue Mar 5 1991,Darlington,1-0,Walsall
+Tue Mar 5 1991,Aldershot,3-2,Wrexham
+Tue Mar 5 1991,Chesterfield,2-1,Burnley
+Fri Mar 8 1991,Doncaster Rovers,2-3,Scunthorpe United
+Fri Mar 8 1991,Stockport County,2-2,Scarborough
+Sat Mar 9 1991,Maidstone United,1-1,Blackpool
+Sat Mar 9 1991,Lincoln City,3-1,Hartlepool United
+Sat Mar 9 1991,Hereford United,1-0,Aldershot
+Sat Mar 9 1991,Torquay United,2-1,Darlington
+Sat Mar 9 1991,Burnley,2-2,Gillingham
+Sat Mar 9 1991,Chesterfield,2-1,Halifax Town
+Sat Mar 9 1991,Walsall,0-0,Cardiff City
+Sat Mar 9 1991,York City,0-4,Peterborough United
+Sat Mar 9 1991,Wrexham,2-1,Rochdale
+Sat Mar 9 1991,Northampton Town,1-1,Carlisle United
+Tue Mar 12 1991,Rochdale,0-0,Cardiff City
+Tue Mar 12 1991,Wrexham,1-2,Halifax Town
+Tue Mar 12 1991,Northampton Town,0-0,Burnley
+Tue Mar 12 1991,Aldershot,1-5,Hartlepool United
+Tue Mar 12 1991,York City,0-2,Chesterfield
+Tue Mar 12 1991,Blackpool,3-1,Scarborough
+Tue Mar 12 1991,Carlisle United,0-4,Gillingham
+Tue Mar 12 1991,Scunthorpe United,1-0,Walsall
+Tue Mar 12 1991,Peterborough United,2-2,Darlington
+Wed Mar 13 1991,Maidstone United,2-3,Stockport County
+Wed Mar 13 1991,Hereford United,0-1,Lincoln City
+Fri Mar 15 1991,Halifax Town,2-1,Northampton Town
+Fri Mar 15 1991,Torquay United,0-0,Peterborough United
+Sat Mar 16 1991,Lincoln City,2-1,Maidstone United
+Sat Mar 16 1991,Stockport County,4-2,Hereford United
+Sat Mar 16 1991,Burnley,2-1,Carlisle United
+Sat Mar 16 1991,Chesterfield,2-1,Wrexham
+Sat Mar 16 1991,Gillingham,0-0,York City
+Sat Mar 16 1991,Walsall,0-1,Rochdale
+Sat Mar 16 1991,Cardiff City,1-0,Scunthorpe United
+Sat Mar 16 1991,Darlington,1-1,Doncaster Rovers
+Sat Mar 16 1991,Hartlepool United,1-2,Blackpool
+Sat Mar 16 1991,Scarborough,2-0,Aldershot
+Tue Mar 19 1991,Chesterfield,1-1,Rochdale
+Tue Mar 19 1991,Cardiff City,2-1,York City
+Tue Mar 19 1991,Gillingham,1-1,Scunthorpe United
+Tue Mar 19 1991,Darlington,1-1,Blackpool
+Tue Mar 19 1991,Halifax Town,1-1,Carlisle United
+Tue Mar 19 1991,Burnley,2-1,Hereford United
+Wed Mar 20 1991,Walsall,0-0,Maidstone United
+Wed Mar 20 1991,Lincoln City,0-2,Peterborough United
+Fri Mar 22 1991,Wrexham,1-0,Cardiff City
+Sat Mar 23 1991,Northampton Town,2-0,Chesterfield
+Sat Mar 23 1991,Carlisle United,0-3,Walsall
+Sat Mar 23 1991,Aldershot,0-3,Lincoln City
+Sat Mar 23 1991,Maidstone United,1-4,Hartlepool United
+Sat Mar 23 1991,Blackpool,1-0,Torquay United
+Sat Mar 23 1991,Scunthorpe United,4-4,Halifax Town
+Sat Mar 23 1991,York City,2-0,Burnley
+Sat Mar 23 1991,Hereford United,1-1,Darlington
+Sat Mar 23 1991,Peterborough United,0-0,Stockport County
+Sat Mar 23 1991,Rochdale,1-3,Gillingham
+Sun Mar 24 1991,Doncaster Rovers,0-2,Scarborough
+Tue Mar 26 1991,Torquay United,0-0,Northampton Town
+Tue Mar 26 1991,Scarborough,0-1,Burnley
+Tue Mar 26 1991,Halifax Town,2-0,Wrexham
+Tue Mar 26 1991,Stockport County,3-0,Rochdale
+Tue Mar 26 1991,Hartlepool United,2-1,Walsall
+Tue Mar 26 1991,Lincoln City,2-1,York City
+Fri Mar 29 1991,Stockport County,1-3,Hartlepool United
+Sat Mar 30 1991,Walsall,0-0,Gillingham
+Sat Mar 30 1991,Hereford United,1-0,Wrexham
+Sat Mar 30 1991,Darlington,3-1,Aldershot
+Sat Mar 30 1991,Maidstone United,0-1,Doncaster Rovers
+Sat Mar 30 1991,Halifax Town,1-2,Scarborough
+Sat Mar 30 1991,Peterborough United,2-0,Blackpool
+Sat Mar 30 1991,Carlisle United,3-2,Cardiff City
+Sat Mar 30 1991,Lincoln City,3-2,Torquay United
+Sat Mar 30 1991,York City,0-2,Rochdale
+Sat Mar 30 1991,Burnley,0-1,Chesterfield
+Sat Mar 30 1991,Northampton Town,2-1,Scunthorpe United
+Mon Apr 1 1991,Cardiff City,1-0,Northampton Town
+Mon Apr 1 1991,Gillingham,2-2,Lincoln City
+Mon Apr 1 1991,Doncaster Rovers,1-0,Stockport County
+Mon Apr 1 1991,Wrexham,1-1,Walsall
+Mon Apr 1 1991,Rochdale,1-1,Halifax Town
+Mon Apr 1 1991,Hartlepool United,0-0,Burnley
+Mon Apr 1 1991,Aldershot,0-1,York City
+Mon Apr 1 1991,Scunthorpe United,3-0,Hereford United
+Mon Apr 1 1991,Chesterfield,2-2,Darlington
+Tue Apr 2 1991,Torquay United,1-1,Maidstone United
+Tue Apr 2 1991,Blackpool,6-0,Carlisle United
+Wed Apr 3 1991,Scarborough,3-1,Peterborough United
+Sat Apr 6 1991,Peterborough United,3-2,Aldershot
+Sat Apr 6 1991,Darlington,2-1,Scarborough
+Sat Apr 6 1991,Stockport County,3-1,Chesterfield
+Sat Apr 6 1991,Lincoln City,0-1,Blackpool
+Sat Apr 6 1991,Maidstone United,0-1,Rochdale
+Sat Apr 6 1991,Carlisle United,0-3,Scunthorpe United
+Sat Apr 6 1991,Northampton Town,2-1,Gillingham
+Sat Apr 6 1991,Hereford United,1-1,Doncaster Rovers
+Sat Apr 6 1991,Halifax Town,1-2,Cardiff City
+Sat Apr 6 1991,Burnley,1-1,Torquay United
+Sat Apr 6 1991,Walsall,0-1,Hartlepool United
+Sat Apr 6 1991,York City,0-0,Wrexham
+Mon Apr 8 1991,Torquay United,5-0,Aldershot
+Tue Apr 9 1991,Wrexham,2-2,Maidstone United
+Tue Apr 9 1991,Hartlepool United,2-0,Scunthorpe United
+Tue Apr 9 1991,Stockport County,2-0,Northampton Town
+Tue Apr 9 1991,Darlington,1-1,Lincoln City
+Wed Apr 10 1991,Torquay United,2-1,Cardiff City
+Sat Apr 13 1991,Chesterfield,1-2,Maidstone United
+Sat Apr 13 1991,Hartlepool United,2-1,Halifax Town
+Sat Apr 13 1991,Aldershot,3-0,Carlisle United
+Sat Apr 13 1991,Gillingham,1-3,Stockport County
+Sat Apr 13 1991,Scunthorpe United,1-3,Burnley
+Sat Apr 13 1991,Blackpool,1-0,York City
+Sat Apr 13 1991,Wrexham,2-2,Lincoln City
+Sat Apr 13 1991,Scarborough,1-0,Walsall
+Sat Apr 13 1991,Cardiff City,0-1,Darlington
+Sat Apr 13 1991,Torquay United,1-1,Hereford United
+Sat Apr 13 1991,Doncaster Rovers,2-1,Northampton Town
+Sat Apr 13 1991,Rochdale,0-3,Peterborough United
+Tue Apr 16 1991,Wrexham,1-3,Stockport County
+Tue Apr 16 1991,Aldershot,1-2,Burnley
+Tue Apr 16 1991,Rochdale,2-1,York City
+Tue Apr 16 1991,Peterborough United,2-0,Gillingham
+Tue Apr 16 1991,Hartlepool United,1-1,Doncaster Rovers
+Tue Apr 16 1991,Halifax Town,3-2,Maidstone United
+Tue Apr 16 1991,Northampton Town,1-4,Torquay United
+Wed Apr 17 1991,Hereford United,2-3,Chesterfield
+Wed Apr 17 1991,Blackpool,3-0,Cardiff City
+Wed Apr 17 1991,Lincoln City,1-2,Scunthorpe United
+Fri Apr 19 1991,Halifax Town,2-1,York City
+Fri Apr 19 1991,Stockport County,3-2,Aldershot
+Sat Apr 20 1991,Gillingham,2-2,Blackpool
+Sat Apr 20 1991,Darlington,1-1,Maidstone United
+Sat Apr 20 1991,Cardiff City,0-2,Hereford United
+Sat Apr 20 1991,Scarborough,3-1,Scunthorpe United
+Sat Apr 20 1991,Walsall,3-3,Northampton Town
+Sat Apr 20 1991,Torquay United,3-1,Rochdale
+Sat Apr 20 1991,Chesterfield,4-1,Carlisle United
+Sat Apr 20 1991,Burnley,4-1,Peterborough United
+Sat Apr 20 1991,Hartlepool United,2-1,Wrexham
+Sat Apr 20 1991,Lincoln City,0-0,Doncaster Rovers
+Tue Apr 23 1991,Rochdale,0-0,Hartlepool United
+Tue Apr 23 1991,Doncaster Rovers,1-2,Halifax Town
+Tue Apr 23 1991,Peterborough United,0-0,Scunthorpe United
+Tue Apr 23 1991,York City,2-0,Scarborough
+Tue Apr 23 1991,Aldershot,1-0,Chesterfield
+Tue Apr 23 1991,Burnley,2-0,Blackpool
+Tue Apr 23 1991,Stockport County,2-1,Torquay United
+Wed Apr 24 1991,Maidstone United,3-1,Gillingham
+Fri Apr 26 1991,York City,1-0,Walsall
+Sat Apr 27 1991,Maidstone United,1-0,Burnley
+Sat Apr 27 1991,Wrexham,2-1,Torquay United
+Sat Apr 27 1991,Aldershot,1-0,Gillingham
+Sat Apr 27 1991,Rochdale,0-0,Lincoln City
+Sat Apr 27 1991,Peterborough United,1-1,Hartlepool United
+Sat Apr 27 1991,Blackpool,3-2,Stockport County
+Sat Apr 27 1991,Northampton Town,0-3,Darlington
+Sat Apr 27 1991,Doncaster Rovers,1-1,Cardiff City
+Sat Apr 27 1991,Carlisle United,4-1,Scarborough
+Sat Apr 27 1991,Hereford United,1-0,Halifax Town
+Sat Apr 27 1991,Scunthorpe United,3-0,Chesterfield
+Tue Apr 30 1991,Chesterfield,1-0,Aldershot
+Tue Apr 30 1991,Torquay United,2-0,Scarborough
+Tue Apr 30 1991,Blackpool,2-0,Halifax Town
+Tue Apr 30 1991,Northampton Town,1-1,Lincoln City
+Tue Apr 30 1991,Rochdale,2-1,Hereford United
+Tue Apr 30 1991,Burnley,1-0,Doncaster Rovers
+Tue Apr 30 1991,Hartlepool United,1-0,Gillingham
+Wed May 1 1991,Maidstone United,0-0,Carlisle United
+Thu May 2 1991,Cardiff City,1-1,Blackpool
+Sat May 4 1991,Maidstone United,0-1,Scarborough
+Sat May 4 1991,York City,0-2,Stockport County
+Sat May 4 1991,Peterborough United,3-0,Cardiff City
+Sat May 4 1991,Doncaster Rovers,0-1,Chesterfield
+Sat May 4 1991,Hereford United,1-3,Hartlepool United
+Sat May 4 1991,Carlisle United,3-1,Torquay United
+Sat May 4 1991,Wrexham,3-0,Gillingham
+Sat May 4 1991,Aldershot,0-4,Walsall
+Sat May 4 1991,Rochdale,0-0,Burnley
+Sat May 4 1991,Scunthorpe United,2-1,Darlington
+Tue May 7 1991,Blackpool,2-1,Northampton Town
+Tue May 7 1991,Scunthorpe United,2-0,Wrexham
+Tue May 7 1991,Peterborough United,3-0,Hereford United
+Tue May 7 1991,Doncaster Rovers,1-1,Torquay United
+Wed May 8 1991,Maidstone United,1-1,Aldershot
+Sat May 11 1991,Walsall,2-0,Blackpool
+Sat May 11 1991,Lincoln City,6-2,Carlisle United
+Sat May 11 1991,Torquay United,2-1,York City
+Sat May 11 1991,Gillingham,2-0,Doncaster Rovers
+Sat May 11 1991,Halifax Town,3-0,Aldershot
+Sat May 11 1991,Scarborough,2-1,Hereford United
+Sat May 11 1991,Darlington,2-0,Rochdale
+Sat May 11 1991,Chesterfield,2-2,Peterborough United
+Sat May 11 1991,Cardiff City,0-0,Maidstone United
+Sat May 11 1991,Stockport County,5-0,Scunthorpe United
+Sat May 11 1991,Hartlepool United,3-1,Northampton Town
+Sat May 11 1991,Burnley,2-0,Wrexham

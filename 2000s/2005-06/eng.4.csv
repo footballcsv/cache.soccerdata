@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 6 2005,Barnet,1-1,Bristol Rovers
+Sat Aug 6 2005,Stockport County,2-2,Mansfield Town
+Sat Aug 6 2005,Wrexham,2-0,Boston United
+Sat Aug 6 2005,Shrewsbury Town,0-1,Rochdale
+Sat Aug 6 2005,Leyton Orient,2-1,Macclesfield
+Sat Aug 6 2005,Cheltenham,2-1,Bury
+Sat Aug 6 2005,Torquay United,0-0,Notts County
+Sat Aug 6 2005,Grimsby Town,1-1,Oxford United
+Sat Aug 6 2005,Wycombe Wanderers,1-1,Carlisle United
+Sat Aug 6 2005,Lincoln City,1-1,Northampton Town
+Sat Aug 6 2005,Rushden & Diamonds,1-1,Darlington
+Sat Aug 6 2005,Peterborough United,0-1,Chester
+Tue Aug 9 2005,Bristol Rovers,1-2,Grimsby Town
+Tue Aug 9 2005,Northampton Town,1-2,Barnet
+Tue Aug 9 2005,Mansfield Town,0-1,Rushden & Diamonds
+Tue Aug 9 2005,Bury,1-2,Leyton Orient
+Tue Aug 9 2005,Carlisle United,1-0,Peterborough United
+Tue Aug 9 2005,Rochdale,1-2,Wycombe Wanderers
+Tue Aug 9 2005,Chester,2-2,Lincoln City
+Tue Aug 9 2005,Notts County,1-0,Wrexham
+Tue Aug 9 2005,Macclesfield,2-2,Cheltenham
+Tue Aug 9 2005,Darlington,2-0,Stockport County
+Wed Aug 10 2005,Boston United,1-1,Shrewsbury Town
+Wed Aug 10 2005,Oxford United,1-0,Torquay United
+Sat Aug 13 2005,Boston United,2-2,Stockport County
+Sat Aug 13 2005,Northampton Town,0-0,Wrexham
+Sat Aug 13 2005,Bristol Rovers,2-3,Peterborough United
+Sat Aug 13 2005,Carlisle United,1-3,Barnet
+Sat Aug 13 2005,Oxford United,2-2,Wycombe Wanderers
+Sat Aug 13 2005,Notts County,2-1,Lincoln City
+Sat Aug 13 2005,Mansfield Town,3-0,Torquay United
+Sat Aug 13 2005,Rochdale,1-1,Cheltenham
+Sat Aug 13 2005,Bury,2-0,Shrewsbury Town
+Sat Aug 13 2005,Darlington,0-1,Leyton Orient
+Sat Aug 20 2005,Wycombe Wanderers,4-0,Bury
+Sat Aug 20 2005,Stockport County,1-1,Notts County
+Sat Aug 20 2005,Cheltenham,3-0,Boston United
+Sat Aug 20 2005,Wrexham,0-1,Carlisle United
+Sat Aug 20 2005,Torquay United,2-3,Bristol Rovers
+Sat Aug 20 2005,Grimsby Town,0-1,Darlington
+Sat Aug 20 2005,Peterborough United,2-0,Mansfield Town
+Sat Aug 20 2005,Rushden & Diamonds,1-1,Chester
+Sat Aug 20 2005,Barnet,1-0,Macclesfield
+Sat Aug 20 2005,Lincoln City,2-1,Oxford United
+Sat Aug 20 2005,Leyton Orient,1-4,Rochdale
+Sat Aug 20 2005,Shrewsbury Town,1-1,Northampton Town
+Sat Aug 27 2005,Bury,2-2,Wrexham
+Sat Aug 27 2005,Boston United,2-2,Mansfield Town
+Sat Aug 27 2005,Shrewsbury Town,1-1,Wycombe Wanderers
+Sat Aug 27 2005,Carlisle United,0-1,Northampton Town
+Sat Aug 27 2005,Cheltenham,1-1,Leyton Orient
+Sat Aug 27 2005,Rushden & Diamonds,1-1,Lincoln City
+Sat Aug 27 2005,Chester,4-4,Darlington
+Sat Aug 27 2005,Barnet,0-1,Grimsby Town
+Sat Aug 27 2005,Notts County,2-0,Bristol Rovers
+Sat Aug 27 2005,Peterborough United,0-0,Torquay United
+Sat Aug 27 2005,Rochdale,3-1,Macclesfield
+Sat Aug 27 2005,Oxford United,1-1,Stockport County
+Mon Aug 29 2005,Torquay United,0-1,Chester
+Mon Aug 29 2005,Wycombe Wanderers,0-0,Cheltenham
+Mon Aug 29 2005,Leyton Orient,0-1,Shrewsbury Town
+Mon Aug 29 2005,Darlington,2-1,Rochdale
+Mon Aug 29 2005,Mansfield Town,2-3,Notts County
+Mon Aug 29 2005,Grimsby Town,2-0,Rushden & Diamonds
+Mon Aug 29 2005,Northampton Town,3-2,Boston United
+Mon Aug 29 2005,Macclesfield,1-0,Bury
+Mon Aug 29 2005,Wrexham,3-1,Barnet
+Mon Aug 29 2005,Stockport County,1-1,Peterborough United
+Mon Aug 29 2005,Lincoln City,0-0,Carlisle United
+Fri Sep 2 2005,Shrewsbury Town,2-0,Oxford United
+Fri Sep 2 2005,Grimsby Town,1-3,Stockport County
+Fri Sep 2 2005,Cheltenham,1-1,Barnet
+Fri Sep 2 2005,Bury,0-1,Carlisle United
+Fri Sep 2 2005,Wycombe Wanderers,1-1,Northampton Town
+Fri Sep 2 2005,Rushden & Diamonds,0-2,Peterborough United
+Fri Sep 2 2005,Chester,3-1,Mansfield Town
+Fri Sep 2 2005,Darlington,1-1,Notts County
+Sat Sep 3 2005,Leyton Orient,2-3,Bristol Rovers
+Sat Sep 3 2005,Rochdale,4-1,Torquay United
+Sun Sep 4 2005,Macclesfield,2-2,Boston United
+Tue Sep 6 2005,Chester,1-2,Grimsby Town
+Sat Sep 10 2005,Mansfield Town,2-2,Darlington
+Sat Sep 10 2005,Stockport County,3-3,Wycombe Wanderers
+Sat Sep 10 2005,Torquay United,2-1,Shrewsbury Town
+Sat Sep 10 2005,Wrexham,2-0,Cheltenham
+Sat Sep 10 2005,Carlisle United,2-0,Macclesfield
+Sat Sep 10 2005,Peterborough United,0-1,Grimsby Town
+Sat Sep 10 2005,Oxford United,2-2,Rushden & Diamonds
+Sat Sep 10 2005,Notts County,1-1,Chester
+Sat Sep 10 2005,Boston United,3-2,Rochdale
+Sat Sep 10 2005,Bristol Rovers,0-0,Lincoln City
+Sat Sep 10 2005,Northampton Town,1-1,Bury
+Sat Sep 10 2005,Barnet,2-3,Leyton Orient
+Tue Sep 13 2005,Lincoln City,2-0,Wrexham
+Tue Sep 13 2005,Macclesfield,3-1,Rushden & Diamonds
+Tue Sep 13 2005,Bristol Rovers,1-1,Oxford United
+Sat Sep 17 2005,Darlington,1-2,Oxford United
+Sat Sep 17 2005,Macclesfield,1-4,Northampton Town
+Sat Sep 17 2005,Grimsby Town,3-0,Torquay United
+Sat Sep 17 2005,Cheltenham,2-3,Carlisle United
+Sat Sep 17 2005,Leyton Orient,1-1,Wrexham
+Sat Sep 17 2005,Lincoln City,1-2,Peterborough United
+Sat Sep 17 2005,Rushden & Diamonds,3-2,Stockport County
+Sat Sep 17 2005,Chester,4-0,Bristol Rovers
+Sat Sep 17 2005,Shrewsbury Town,2-0,Notts County
+Sat Sep 17 2005,Bury,1-1,Boston United
+Sat Sep 17 2005,Wycombe Wanderers,1-0,Barnet
+Sat Sep 17 2005,Rochdale,2-0,Mansfield Town
+Sat Sep 24 2005,Mansfield Town,2-3,Wycombe Wanderers
+Sat Sep 24 2005,Boston United,1-1,Grimsby Town
+Sat Sep 24 2005,Northampton Town,1-2,Cheltenham
+Sat Sep 24 2005,Carlisle United,2-3,Leyton Orient
+Sat Sep 24 2005,Peterborough United,0-2,Shrewsbury Town
+Sat Sep 24 2005,Barnet,1-1,Rochdale
+Sat Sep 24 2005,Oxford United,2-1,Bury
+Sat Sep 24 2005,Bristol Rovers,1-0,Darlington
+Sat Sep 24 2005,Stockport County,0-0,Chester
+Sat Sep 24 2005,Wrexham,1-1,Macclesfield
+Sat Sep 24 2005,Torquay United,2-1,Lincoln City
+Sat Sep 24 2005,Notts County,0-0,Rushden & Diamonds
+Tue Sep 27 2005,Darlington,0-0,Boston United
+Tue Sep 27 2005,Bury,1-0,Bristol Rovers
+Tue Sep 27 2005,Rushden & Diamonds,1-3,Northampton Town
+Tue Sep 27 2005,Rochdale,0-1,Oxford United
+Tue Sep 27 2005,Chester,2-0,Carlisle United
+Tue Sep 27 2005,Leyton Orient,2-1,Torquay United
+Tue Sep 27 2005,Grimsby Town,4-0,Notts County
+Tue Sep 27 2005,Lincoln City,2-0,Stockport County
+Tue Sep 27 2005,Shrewsbury Town,2-2,Barnet
+Tue Sep 27 2005,Macclesfield,1-1,Mansfield Town
+Tue Sep 27 2005,Cheltenham,2-1,Peterborough United
+Tue Sep 27 2005,Wycombe Wanderers,4-1,Wrexham
+Sat Oct 1 2005,Wycombe Wanderers,3-3,Chester
+Sat Oct 1 2005,Northampton Town,0-0,Darlington
+Sat Oct 1 2005,Rochdale,2-1,Rushden & Diamonds
+Sat Oct 1 2005,Cheltenham,0-1,Torquay United
+Sat Oct 1 2005,Bury,1-1,Lincoln City
+Sat Oct 1 2005,Boston United,1-0,Peterborough United
+Sat Oct 1 2005,Macclesfield,0-0,Notts County
+Sat Oct 1 2005,Shrewsbury Town,0-0,Grimsby Town
+Sat Oct 1 2005,Wrexham,3-0,Stockport County
+Sat Oct 1 2005,Barnet,0-0,Oxford United
+Sat Oct 1 2005,Carlisle United,1-3,Bristol Rovers
+Sat Oct 1 2005,Leyton Orient,3-1,Mansfield Town
+Fri Oct 7 2005,Bristol Rovers,0-0,Northampton Town
+Fri Oct 7 2005,Oxford United,1-0,Carlisle United
+Fri Oct 7 2005,Notts County,1-2,Boston United
+Fri Oct 7 2005,Lincoln City,0-1,Cheltenham
+Fri Oct 7 2005,Darlington,1-0,Macclesfield
+Fri Oct 7 2005,Grimsby Town,0-1,Wycombe Wanderers
+Fri Oct 7 2005,Mansfield Town,4-0,Shrewsbury Town
+Fri Oct 7 2005,Rushden & Diamonds,0-2,Bury
+Fri Oct 7 2005,Chester,2-3,Rochdale
+Fri Oct 7 2005,Torquay United,0-0,Barnet
+Sat Oct 8 2005,Stockport County,1-1,Leyton Orient
+Fri Oct 14 2005,Northampton Town,1-0,Oxford United
+Fri Oct 14 2005,Cheltenham,0-3,Grimsby Town
+Sat Oct 15 2005,Bury,1-0,Darlington
+Sat Oct 15 2005,Wycombe Wanderers,0-0,Rushden & Diamonds
+Sat Oct 15 2005,Boston United,3-1,Bristol Rovers
+Sat Oct 15 2005,Wrexham,4-2,Torquay United
+Sat Oct 15 2005,Barnet,1-3,Chester
+Sat Oct 15 2005,Macclesfield,0-4,Peterborough United
+Sat Oct 15 2005,Rochdale,3-0,Notts County
+Sat Oct 15 2005,Shrewsbury Town,2-2,Stockport County
+Sat Oct 15 2005,Carlisle United,1-0,Mansfield Town
+Sat Oct 15 2005,Leyton Orient,1-1,Lincoln City
+Sat Oct 22 2005,Rushden & Diamonds,3-0,Shrewsbury Town
+Sat Oct 22 2005,Mansfield Town,4-0,Barnet
+Sat Oct 22 2005,Darlington,3-1,Cheltenham
+Sat Oct 22 2005,Oxford United,0-0,Boston United
+Sat Oct 22 2005,Stockport County,4-2,Northampton Town
+Sat Oct 22 2005,Grimsby Town,0-1,Leyton Orient
+Sat Oct 22 2005,Peterborough United,3-1,Rochdale
+Sat Oct 22 2005,Lincoln City,1-2,Wycombe Wanderers
+Sat Oct 22 2005,Bristol Rovers,2-1,Wrexham
+Sat Oct 22 2005,Chester,1-1,Bury
+Sat Oct 22 2005,Notts County,0-0,Carlisle United
+Sat Oct 22 2005,Torquay United,1-1,Macclesfield
+Tue Oct 25 2005,Peterborough United,1-1,Wrexham
+Sat Oct 29 2005,Rochdale,1-2,Lincoln City
+Sat Oct 29 2005,Cheltenham,0-2,Mansfield Town
+Sat Oct 29 2005,Barnet,2-1,Rushden & Diamonds
+Sat Oct 29 2005,Leyton Orient,1-0,Oxford United
+Sat Oct 29 2005,Macclesfield,2-1,Bristol Rovers
+Sat Oct 29 2005,Shrewsbury Town,3-1,Chester
+Sat Oct 29 2005,Carlisle United,6-0,Stockport County
+Sat Oct 29 2005,Northampton Town,0-0,Grimsby Town
+Sat Oct 29 2005,Bury,2-3,Notts County
+Sat Oct 29 2005,Wrexham,1-0,Darlington
+Sat Oct 29 2005,Boston United,2-0,Torquay United
+Sat Oct 29 2005,Wycombe Wanderers,2-2,Peterborough United
+Fri Nov 11 2005,Mansfield Town,0-3,Bury
+Fri Nov 11 2005,Rushden & Diamonds,1-0,Boston United
+Fri Nov 11 2005,Grimsby Town,3-1,Macclesfield
+Sat Nov 12 2005,Chester,0-0,Northampton Town
+Sat Nov 12 2005,Torquay United,3-4,Carlisle United
+Sat Nov 12 2005,Oxford United,0-3,Wrexham
+Sat Nov 12 2005,Bristol Rovers,1-2,Rochdale
+Sat Nov 12 2005,Darlington,1-1,Wycombe Wanderers
+Sat Nov 12 2005,Notts County,2-3,Cheltenham
+Sat Nov 12 2005,Peterborough United,1-1,Leyton Orient
+Sat Nov 12 2005,Lincoln City,1-1,Shrewsbury Town
+Sun Nov 13 2005,Stockport County,1-1,Barnet
+Fri Nov 18 2005,Cheltenham,4-1,Lincoln City
+Sat Nov 19 2005,Wrexham,1-1,Peterborough United
+Sat Nov 19 2005,Rochdale,2-2,Chester
+Sat Nov 19 2005,Barnet,1-0,Torquay United
+Sat Nov 19 2005,Wycombe Wanderers,3-1,Grimsby Town
+Sat Nov 19 2005,Leyton Orient,2-2,Stockport County
+Sat Nov 19 2005,Macclesfield,1-0,Darlington
+Sat Nov 19 2005,Northampton Town,4-0,Bristol Rovers
+Sat Nov 19 2005,Carlisle United,2-1,Oxford United
+Sat Nov 19 2005,Boston United,1-2,Notts County
+Sat Nov 26 2005,Oxford United,2-3,Grimsby Town
+Sat Nov 26 2005,Macclesfield,0-0,Leyton Orient
+Sat Nov 26 2005,Northampton Town,1-1,Lincoln City
+Sat Nov 26 2005,Mansfield Town,2-1,Stockport County
+Sat Nov 26 2005,Bury,0-1,Cheltenham
+Sat Nov 26 2005,Rochdale,4-3,Shrewsbury Town
+Sat Nov 26 2005,Carlisle United,0-1,Wycombe Wanderers
+Sat Nov 26 2005,Notts County,2-2,Torquay United
+Sat Nov 26 2005,Boston United,2-1,Wrexham
+Sat Nov 26 2005,Bristol Rovers,2-1,Barnet
+Sat Nov 26 2005,Darlington,1-1,Rushden & Diamonds
+Sat Nov 26 2005,Chester,3-1,Peterborough United
+Sat Dec 3 2005,Barnet,1-1,Bury
+Sat Dec 3 2005,Lincoln City,2-2,Macclesfield
+Tue Dec 6 2005,Wycombe Wanderers,1-1,Boston United
+Tue Dec 6 2005,Shrewsbury Town,3-1,Darlington
+Tue Dec 6 2005,Rushden & Diamonds,0-4,Carlisle United
+Tue Dec 6 2005,Torquay United,3-3,Northampton Town
+Tue Dec 6 2005,Grimsby Town,4-1,Rochdale
+Tue Dec 6 2005,Peterborough United,2-0,Notts County
+Tue Dec 6 2005,Stockport County,0-1,Bristol Rovers
+Tue Dec 6 2005,Cheltenham,1-2,Oxford United
+Tue Dec 6 2005,Wrexham,4-1,Mansfield Town
+Tue Dec 6 2005,Leyton Orient,0-1,Chester
+Sat Dec 10 2005,Lincoln City,3-1,Chester
+Sat Dec 10 2005,Grimsby Town,0-1,Bristol Rovers
+Sat Dec 10 2005,Rushden & Diamonds,1-2,Mansfield Town
+Sat Dec 10 2005,Leyton Orient,0-1,Bury
+Sat Dec 10 2005,Wycombe Wanderers,3-0,Rochdale
+Sat Dec 10 2005,Stockport County,0-3,Darlington
+Sat Dec 10 2005,Peterborough United,1-1,Carlisle United
+Sat Dec 10 2005,Torquay United,3-3,Oxford United
+Sat Dec 10 2005,Shrewsbury Town,1-1,Boston United
+Sat Dec 10 2005,Wrexham,1-1,Notts County
+Sat Dec 10 2005,Cheltenham,2-2,Macclesfield
+Sat Dec 10 2005,Barnet,0-1,Northampton Town
+Fri Dec 16 2005,Oxford United,0-1,Lincoln City
+Sat Dec 17 2005,Bury,2-1,Wycombe Wanderers
+Sat Dec 17 2005,Chester,1-2,Rushden & Diamonds
+Sat Dec 17 2005,Macclesfield,1-1,Barnet
+Sat Dec 17 2005,Carlisle United,2-1,Wrexham
+Sat Dec 17 2005,Notts County,2-0,Stockport County
+Sat Dec 17 2005,Rochdale,2-4,Leyton Orient
+Sat Dec 17 2005,Boston United,0-0,Cheltenham
+Sat Dec 17 2005,Northampton Town,1-0,Shrewsbury Town
+Sat Dec 17 2005,Bristol Rovers,0-1,Torquay United
+Sat Dec 17 2005,Mansfield Town,0-0,Peterborough United
+Mon Dec 26 2005,Bury,1-2,Grimsby Town
+Mon Dec 26 2005,Carlisle United,1-1,Darlington
+Mon Dec 26 2005,Northampton Town,1-0,Mansfield Town
+Mon Dec 26 2005,Oxford United,3-0,Notts County
+Mon Dec 26 2005,Torquay United,2-2,Wycombe Wanderers
+Mon Dec 26 2005,Leyton Orient,5-1,Rushden & Diamonds
+Mon Dec 26 2005,Bristol Rovers,2-1,Shrewsbury Town
+Mon Dec 26 2005,Wrexham,2-1,Rochdale
+Mon Dec 26 2005,Macclesfield,6-0,Stockport County
+Mon Dec 26 2005,Cheltenham,1-0,Chester
+Mon Dec 26 2005,Lincoln City,0-0,Boston United
+Mon Dec 26 2005,Barnet,2-1,Peterborough United
+Wed Dec 28 2005,Grimsby Town,3-0,Lincoln City
+Wed Dec 28 2005,Rushden & Diamonds,0-1,Cheltenham
+Wed Dec 28 2005,Mansfield Town,3-3,Bristol Rovers
+Wed Dec 28 2005,Darlington,2-1,Barnet
+Thu Dec 29 2005,Wycombe Wanderers,4-2,Leyton Orient
+Sat Dec 31 2005,Leyton Orient,1-0,Notts County
+Sat Dec 31 2005,Oxford United,1-2,Mansfield Town
+Sat Dec 31 2005,Carlisle United,2-1,Rochdale
+Sat Dec 31 2005,Bristol Rovers,1-2,Wycombe Wanderers
+Sat Dec 31 2005,Lincoln City,2-2,Darlington
+Sat Dec 31 2005,Torquay United,2-1,Rushden & Diamonds
+Sat Dec 31 2005,Cheltenham,1-0,Shrewsbury Town
+Sat Dec 31 2005,Northampton Town,0-1,Peterborough United
+Sat Dec 31 2005,Wrexham,1-2,Grimsby Town
+Sat Dec 31 2005,Macclesfield,1-0,Chester
+Sat Dec 31 2005,Barnet,1-0,Boston United
+Mon Jan 2 2006,Grimsby Town,1-2,Carlisle United
+Mon Jan 2 2006,Peterborough United,4-1,Bury
+Mon Jan 2 2006,Rushden & Diamonds,2-3,Bristol Rovers
+Mon Jan 2 2006,Stockport County,2-2,Cheltenham
+Mon Jan 2 2006,Mansfield Town,0-0,Lincoln City
+Mon Jan 2 2006,Notts County,1-0,Barnet
+Mon Jan 2 2006,Chester,0-1,Oxford United
+Mon Jan 2 2006,Darlington,3-2,Torquay United
+Mon Jan 2 2006,Boston United,1-2,Leyton Orient
+Mon Jan 2 2006,Rochdale,1-1,Northampton Town
+Mon Jan 2 2006,Wycombe Wanderers,4-5,Macclesfield
+Tue Jan 3 2006,Shrewsbury Town,1-0,Wrexham
+Sat Jan 7 2006,Notts County,3-2,Darlington
+Sat Jan 7 2006,Carlisle United,4-0,Bury
+Sat Jan 7 2006,Peterborough United,2-0,Rushden & Diamonds
+Sat Jan 7 2006,Oxford United,0-3,Shrewsbury Town
+Sat Jan 7 2006,Wrexham,1-1,Lincoln City
+Sat Jan 7 2006,Boston United,3-1,Macclesfield
+Tue Jan 10 2006,Peterborough United,0-0,Oxford United
+Tue Jan 10 2006,Barnet,1-1,Cheltenham
+Sat Jan 14 2006,Leyton Orient,1-2,Northampton Town
+Sat Jan 14 2006,Chester,0-1,Boston United
+Sat Jan 14 2006,Grimsby Town,2-1,Mansfield Town
+Sat Jan 14 2006,Cheltenham,2-3,Bristol Rovers
+Sat Jan 14 2006,Wycombe Wanderers,2-0,Notts County
+Sat Jan 14 2006,Macclesfield,1-1,Oxford United
+Sat Jan 14 2006,Shrewsbury Town,2-1,Carlisle United
+Sat Jan 14 2006,Rushden & Diamonds,0-2,Wrexham
+Sat Jan 14 2006,Darlington,2-1,Peterborough United
+Sat Jan 14 2006,Lincoln City,4-1,Barnet
+Sat Jan 14 2006,Bury,3-2,Torquay United
+Sat Jan 14 2006,Rochdale,0-1,Stockport County
+Tue Jan 17 2006,Darlington,0-0,Grimsby Town
+Tue Jan 17 2006,Shrewsbury Town,0-0,Mansfield Town
+Wed Jan 18 2006,Boston United,0-5,Carlisle United
+Sat Jan 21 2006,Northampton Town,5-0,Macclesfield
+Sat Jan 21 2006,Torquay United,2-2,Grimsby Town
+Sat Jan 21 2006,Boston United,3-1,Bury
+Sat Jan 21 2006,Peterborough United,1-1,Lincoln City
+Sat Jan 21 2006,Stockport County,2-2,Rushden & Diamonds
+Sat Jan 21 2006,Carlisle United,1-1,Cheltenham
+Sat Jan 21 2006,Barnet,0-0,Wycombe Wanderers
+Sat Jan 21 2006,Bristol Rovers,2-1,Chester
+Sat Jan 21 2006,Mansfield Town,1-0,Rochdale
+Sat Jan 21 2006,Oxford United,0-2,Darlington
+Sat Jan 21 2006,Wrexham,1-2,Leyton Orient
+Sat Jan 21 2006,Notts County,2-1,Shrewsbury Town
+Tue Jan 24 2006,Notts County,2-2,Northampton Town
+Tue Jan 24 2006,Torquay United,1-3,Rochdale
+Tue Jan 24 2006,Stockport County,2-1,Grimsby Town
+Tue Jan 24 2006,Mansfield Town,1-2,Chester
+Sat Jan 28 2006,Shrewsbury Town,0-1,Torquay United
+Sat Jan 28 2006,Grimsby Town,1-2,Peterborough United
+Sat Jan 28 2006,Wycombe Wanderers,1-1,Stockport County
+Sat Jan 28 2006,Rushden & Diamonds,3-0,Oxford United
+Sat Jan 28 2006,Chester,0-2,Notts County
+Sat Jan 28 2006,Darlington,4-0,Mansfield Town
+Sat Jan 28 2006,Lincoln City,1-0,Bristol Rovers
+Sat Jan 28 2006,Rochdale,1-1,Boston United
+Sat Jan 28 2006,Bury,0-2,Northampton Town
+Sun Jan 29 2006,Macclesfield,3-0,Carlisle United
+Tue Jan 31 2006,Shrewsbury Town,1-1,Macclesfield
+Tue Jan 31 2006,Northampton Town,0-0,Wycombe Wanderers
+Tue Jan 31 2006,Bristol Rovers,3-3,Leyton Orient
+Tue Jan 31 2006,Stockport County,1-1,Torquay United
+Sat Feb 4 2006,Torquay United,2-0,Leyton Orient
+Sat Feb 4 2006,Peterborough United,1-0,Cheltenham
+Sat Feb 4 2006,Barnet,1-0,Shrewsbury Town
+Sat Feb 4 2006,Northampton Town,2-0,Rushden & Diamonds
+Sat Feb 4 2006,Bristol Rovers,1-0,Bury
+Sat Feb 4 2006,Stockport County,2-3,Lincoln City
+Sat Feb 4 2006,Wrexham,2-0,Wycombe Wanderers
+Sat Feb 4 2006,Carlisle United,5-0,Chester
+Sat Feb 4 2006,Mansfield Town,1-1,Macclesfield
+Sat Feb 4 2006,Boston United,0-0,Darlington
+Sat Feb 4 2006,Notts County,0-1,Grimsby Town
+Sat Feb 4 2006,Oxford United,1-1,Rochdale
+Tue Feb 7 2006,Bury,1-1,Rushden & Diamonds
+Sat Feb 11 2006,Rushden & Diamonds,1-0,Notts County
+Sat Feb 11 2006,Grimsby Town,1-0,Boston United
+Sat Feb 11 2006,Shrewsbury Town,2-1,Peterborough United
+Sat Feb 11 2006,Darlington,1-1,Bristol Rovers
+Sat Feb 11 2006,Chester,1-2,Stockport County
+Sat Feb 11 2006,Wycombe Wanderers,2-2,Mansfield Town
+Sat Feb 11 2006,Leyton Orient,0-0,Carlisle United
+Sat Feb 11 2006,Lincoln City,2-0,Torquay United
+Sat Feb 11 2006,Cheltenham,3-1,Northampton Town
+Tue Feb 14 2006,Northampton Town,1-1,Leyton Orient
+Tue Feb 14 2006,Mansfield Town,2-1,Grimsby Town
+Tue Feb 14 2006,Peterborough United,2-1,Darlington
+Tue Feb 14 2006,Bristol Rovers,0-1,Cheltenham
+Tue Feb 14 2006,Notts County,1-2,Wycombe Wanderers
+Tue Feb 14 2006,Torquay United,0-0,Bury
+Tue Feb 14 2006,Wrexham,2-0,Rushden & Diamonds
+Tue Feb 14 2006,Carlisle United,2-2,Shrewsbury Town
+Tue Feb 14 2006,Barnet,2-3,Lincoln City
+Tue Feb 14 2006,Stockport County,3-0,Rochdale
+Wed Feb 15 2006,Oxford United,1-1,Macclesfield
+Fri Feb 17 2006,Northampton Town,1-0,Torquay United
+Sat Feb 18 2006,Darlington,0-1,Shrewsbury Town
+Sat Feb 18 2006,Notts County,1-2,Peterborough United
+Sat Feb 18 2006,Oxford United,1-1,Cheltenham
+Sat Feb 18 2006,Chester,0-2,Leyton Orient
+Sat Feb 18 2006,Macclesfield,1-1,Lincoln City
+Sat Feb 18 2006,Carlisle United,5-0,Rushden & Diamonds
+Sat Feb 18 2006,Bury,0-0,Barnet
+Sat Feb 18 2006,Mansfield Town,2-2,Wrexham
+Sat Feb 18 2006,Boston United,1-1,Wycombe Wanderers
+Sat Feb 18 2006,Bristol Rovers,2-2,Stockport County
+Sat Feb 25 2006,Rushden & Diamonds,1-0,Macclesfield
+Sat Feb 25 2006,Shrewsbury Town,0-1,Bury
+Sat Feb 25 2006,Wycombe Wanderers,2-1,Oxford United
+Sat Feb 25 2006,Wrexham,0-1,Northampton Town
+Sat Feb 25 2006,Stockport County,0-1,Boston United
+Sat Feb 25 2006,Leyton Orient,1-0,Darlington
+Sat Feb 25 2006,Barnet,1-2,Carlisle United
+Sat Feb 25 2006,Peterborough United,1-2,Bristol Rovers
+Sat Feb 25 2006,Torquay United,0-2,Mansfield Town
+Sat Feb 25 2006,Grimsby Town,1-0,Chester
+Sat Feb 25 2006,Lincoln City,2-1,Notts County
+Sat Feb 25 2006,Cheltenham,1-1,Rochdale
+Tue Feb 28 2006,Leyton Orient,0-0,Barnet
+Tue Feb 28 2006,Rochdale,1-1,Bury
+Sat Mar 4 2006,Cheltenham,2-1,Wycombe Wanderers
+Sat Mar 4 2006,Barnet,2-2,Wrexham
+Sat Mar 4 2006,Notts County,2-2,Mansfield Town
+Sat Mar 4 2006,Peterborough United,2-0,Stockport County
+Sat Mar 4 2006,Shrewsbury Town,3-3,Leyton Orient
+Sat Mar 4 2006,Rushden & Diamonds,1-1,Grimsby Town
+Tue Mar 7 2006,Chester,1-1,Torquay United
+Tue Mar 7 2006,Bury,0-1,Stockport County
+Fri Mar 10 2006,Northampton Town,0-3,Carlisle United
+Sat Mar 11 2006,Lincoln City,2-2,Rushden & Diamonds
+Sat Mar 11 2006,Bristol Rovers,1-2,Notts County
+Sat Mar 11 2006,Grimsby Town,3-0,Barnet
+Sat Mar 11 2006,Stockport County,2-1,Oxford United
+Sat Mar 11 2006,Wrexham,0-0,Bury
+Sat Mar 11 2006,Leyton Orient,1-0,Cheltenham
+Sat Mar 11 2006,Mansfield Town,5-0,Boston United
+Sat Mar 11 2006,Macclesfield,1-3,Rochdale
+Sat Mar 11 2006,Torquay United,1-0,Peterborough United
+Sat Mar 11 2006,Wycombe Wanderers,2-0,Shrewsbury Town
+Sat Mar 11 2006,Darlington,1-0,Chester
+Tue Mar 14 2006,Macclesfield,3-2,Wrexham
+Wed Mar 15 2006,Oxford United,1-0,Bristol Rovers
+Sat Mar 18 2006,Chester,0-1,Cheltenham
+Sat Mar 18 2006,Mansfield Town,1-0,Northampton Town
+Sat Mar 18 2006,Wycombe Wanderers,0-1,Torquay United
+Sat Mar 18 2006,Stockport County,2-0,Macclesfield
+Sat Mar 18 2006,Rushden & Diamonds,1-0,Leyton Orient
+Sat Mar 18 2006,Shrewsbury Town,1-0,Bristol Rovers
+Sat Mar 18 2006,Rochdale,0-1,Wrexham
+Sat Mar 18 2006,Notts County,0-0,Oxford United
+Sat Mar 18 2006,Grimsby Town,2-1,Bury
+Sat Mar 18 2006,Boston United,2-1,Lincoln City
+Sat Mar 18 2006,Peterborough United,2-2,Barnet
+Sat Mar 18 2006,Darlington,0-5,Carlisle United
+Tue Mar 21 2006,Bury,1-1,Oxford United
+Tue Mar 21 2006,Cheltenham,2-2,Wrexham
+Tue Mar 21 2006,Rochdale,2-2,Grimsby Town
+Wed Mar 22 2006,Boston United,0-1,Northampton Town
+Sat Mar 25 2006,Macclesfield,2-0,Shrewsbury Town
+Sat Mar 25 2006,Oxford United,1-0,Peterborough United
+Sat Mar 25 2006,Lincoln City,5-0,Grimsby Town
+Sat Mar 25 2006,Northampton Town,2-0,Notts County
+Sat Mar 25 2006,Bristol Rovers,2-0,Mansfield Town
+Sat Mar 25 2006,Bury,2-1,Rochdale
+Sat Mar 25 2006,Barnet,1-0,Darlington
+Sat Mar 25 2006,Carlisle United,4-2,Boston United
+Sat Mar 25 2006,Leyton Orient,1-0,Wycombe Wanderers
+Sat Mar 25 2006,Cheltenham,3-1,Rushden & Diamonds
+Sun Mar 26 2006,Wrexham,2-1,Chester
+Tue Mar 28 2006,Carlisle United,1-0,Lincoln City
+Wed Mar 29 2006,Boston United,1-3,Chester
+Sat Apr 1 2006,Shrewsbury Town,2-0,Cheltenham
+Sat Apr 1 2006,Boston United,2-1,Barnet
+Sat Apr 1 2006,Notts County,1-1,Leyton Orient
+Sat Apr 1 2006,Wycombe Wanderers,1-3,Bristol Rovers
+Sat Apr 1 2006,Darlington,4-2,Lincoln City
+Sat Apr 1 2006,Mansfield Town,1-0,Oxford United
+Sat Apr 1 2006,Chester,2-1,Macclesfield
+Sat Apr 1 2006,Grimsby Town,2-0,Wrexham
+Sat Apr 1 2006,Stockport County,0-1,Bury
+Sat Apr 1 2006,Peterborough United,0-1,Northampton Town
+Sat Apr 1 2006,Rushden & Diamonds,1-0,Torquay United
+Tue Apr 4 2006,Rochdale,0-2,Darlington
+Tue Apr 4 2006,Bury,0-0,Macclesfield
+Sat Apr 8 2006,Bury,1-3,Peterborough United
+Sat Apr 8 2006,Oxford United,0-1,Chester
+Sat Apr 8 2006,Macclesfield,2-1,Wycombe Wanderers
+Sat Apr 8 2006,Lincoln City,1-1,Mansfield Town
+Sat Apr 8 2006,Carlisle United,1-0,Grimsby Town
+Sat Apr 8 2006,Cheltenham,3-3,Stockport County
+Sat Apr 8 2006,Leyton Orient,2-0,Boston United
+Sat Apr 8 2006,Barnet,2-1,Notts County
+Sat Apr 8 2006,Torquay United,1-2,Darlington
+Sat Apr 8 2006,Bristol Rovers,0-1,Rushden & Diamonds
+Sat Apr 8 2006,Northampton Town,2-2,Rochdale
+Sun Apr 9 2006,Wrexham,1-2,Shrewsbury Town
+Wed Apr 12 2006,Chester,2-1,Wrexham
+Sat Apr 15 2006,Chester,1-0,Wycombe Wanderers
+Sat Apr 15 2006,Rushden & Diamonds,1-1,Rochdale
+Sat Apr 15 2006,Stockport County,2-1,Wrexham
+Sat Apr 15 2006,Bristol Rovers,1-1,Carlisle United
+Sat Apr 15 2006,Peterborough United,0-1,Boston United
+Sat Apr 15 2006,Darlington,0-1,Northampton Town
+Sat Apr 15 2006,Notts County,1-1,Macclesfield
+Sat Apr 15 2006,Lincoln City,1-1,Bury
+Sat Apr 15 2006,Mansfield Town,0-1,Leyton Orient
+Sat Apr 15 2006,Torquay United,1-2,Cheltenham
+Sat Apr 15 2006,Oxford United,2-0,Barnet
+Sat Apr 15 2006,Grimsby Town,1-1,Shrewsbury Town
+Mon Apr 17 2006,Wrexham,1-0,Bristol Rovers
+Mon Apr 17 2006,Barnet,1-0,Mansfield Town
+Mon Apr 17 2006,Northampton Town,2-0,Stockport County
+Mon Apr 17 2006,Rochdale,1-0,Peterborough United
+Mon Apr 17 2006,Leyton Orient,0-0,Grimsby Town
+Mon Apr 17 2006,Wycombe Wanderers,0-3,Lincoln City
+Mon Apr 17 2006,Carlisle United,2-1,Notts County
+Mon Apr 17 2006,Boston United,1-0,Oxford United
+Mon Apr 17 2006,Cheltenham,1-1,Darlington
+Mon Apr 17 2006,Macclesfield,0-2,Torquay United
+Mon Apr 17 2006,Bury,0-0,Chester
+Tue Apr 18 2006,Shrewsbury Town,4-1,Rushden & Diamonds
+Fri Apr 21 2006,Grimsby Town,1-0,Cheltenham
+Sat Apr 22 2006,Peterborough United,3-2,Macclesfield
+Sat Apr 22 2006,Notts County,1-1,Rochdale
+Sat Apr 22 2006,Stockport County,3-1,Shrewsbury Town
+Sat Apr 22 2006,Chester,0-0,Barnet
+Sat Apr 22 2006,Bristol Rovers,3-1,Boston United
+Sat Apr 22 2006,Mansfield Town,1-1,Carlisle United
+Sat Apr 22 2006,Lincoln City,1-1,Leyton Orient
+Sat Apr 22 2006,Rushden & Diamonds,1-3,Wycombe Wanderers
+Sat Apr 22 2006,Torquay United,1-0,Wrexham
+Sat Apr 22 2006,Oxford United,1-3,Northampton Town
+Sat Apr 22 2006,Darlington,2-3,Bury
+Tue Apr 25 2006,Rochdale,1-1,Barnet
+Tue Apr 25 2006,Torquay United,4-0,Stockport County
+Sat Apr 29 2006,Leyton Orient,2-1,Peterborough United
+Sat Apr 29 2006,Rochdale,2-0,Bristol Rovers
+Sat Apr 29 2006,Wrexham,1-1,Oxford United
+Sat Apr 29 2006,Shrewsbury Town,0-1,Lincoln City
+Sat Apr 29 2006,Boston United,2-0,Rushden & Diamonds
+Sat Apr 29 2006,Carlisle United,1-2,Torquay United
+Sat Apr 29 2006,Cheltenham,2-0,Notts County
+Sat Apr 29 2006,Barnet,0-0,Stockport County
+Sat Apr 29 2006,Macclesfield,1-1,Grimsby Town
+Sat Apr 29 2006,Wycombe Wanderers,0-1,Darlington
+Sat Apr 29 2006,Northampton Town,1-0,Chester
+Sat Apr 29 2006,Bury,0-0,Mansfield Town
+Tue May 2 2006,Rochdale,0-2,Carlisle United
+Sat May 6 2006,Oxford United,2-3,Leyton Orient
+Sat May 6 2006,Torquay United,0-0,Boston United
+Sat May 6 2006,Bristol Rovers,2-3,Macclesfield
+Sat May 6 2006,Darlington,1-1,Wrexham
+Sat May 6 2006,Peterborough United,0-2,Wycombe Wanderers
+Sat May 6 2006,Chester,0-1,Shrewsbury Town
+Sat May 6 2006,Lincoln City,1-1,Rochdale
+Sat May 6 2006,Mansfield Town,0-5,Cheltenham
+Sat May 6 2006,Notts County,2-2,Bury
+Sat May 6 2006,Grimsby Town,1-1,Northampton Town
+Sat May 6 2006,Stockport County,0-0,Carlisle United
+Sat May 6 2006,Rushden & Diamonds,1-2,Barnet

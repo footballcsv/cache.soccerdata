@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 14 1971,Hartlepool United,3-1,Reading
+Sat Aug 14 1971,Aldershot,2-2,Workington
+Sat Aug 14 1971,Southport,4-0,Exeter City
+Sat Aug 14 1971,Lincoln City,2-0,Colchester United
+Sat Aug 14 1971,Peterborough United,2-0,Southend United
+Sat Aug 14 1971,Crewe Alexandra,3-1,Stockport County
+Sat Aug 14 1971,Bury,0-2,Brentford
+Sat Aug 14 1971,Doncaster Rovers,4-2,Newport County
+Sat Aug 14 1971,Grimsby Town,4-1,Scunthorpe United
+Sat Aug 14 1971,Chester,1-1,Cambridge United
+Sat Aug 14 1971,Barrow,0-1,Northampton Town
+Fri Aug 20 1971,Stockport County,2-2,Bury
+Fri Aug 20 1971,Colchester United,1-0,Hartlepool United
+Fri Aug 20 1971,Southend United,3-0,Darlington
+Sat Aug 21 1971,Reading,1-0,Chester
+Sat Aug 21 1971,Workington,2-0,Doncaster Rovers
+Sat Aug 21 1971,Cambridge United,1-1,Northampton Town
+Sat Aug 21 1971,Newport County,1-1,Peterborough United
+Sat Aug 21 1971,Scunthorpe United,2-1,Lincoln City
+Sat Aug 21 1971,Exeter City,3-4,Grimsby Town
+Sat Aug 21 1971,Barrow,2-1,Crewe Alexandra
+Sat Aug 21 1971,Gillingham,2-1,Southport
+Sat Aug 21 1971,Brentford,1-1,Aldershot
+Fri Aug 27 1971,Southport,4-1,Cambridge United
+Sat Aug 28 1971,Aldershot,1-2,Reading
+Sat Aug 28 1971,Peterborough United,4-2,Stockport County
+Sat Aug 28 1971,Bury,3-0,Colchester United
+Sat Aug 28 1971,Chester,5-1,Gillingham
+Sat Aug 28 1971,Lincoln City,3-1,Newport County
+Sat Aug 28 1971,Grimsby Town,1-1,Workington
+Sat Aug 28 1971,Doncaster Rovers,0-1,Barrow
+Sat Aug 28 1971,Darlington,0-0,Brentford
+Sat Aug 28 1971,Hartlepool United,2-2,Southend United
+Sat Aug 28 1971,Northampton Town,1-1,Exeter City
+Sat Aug 28 1971,Crewe Alexandra,0-2,Scunthorpe United
+Mon Aug 30 1971,Southport,4-0,Northampton Town
+Mon Aug 30 1971,Brentford,4-0,Barrow
+Mon Aug 30 1971,Southend United,2-3,Scunthorpe United
+Mon Aug 30 1971,Peterborough United,2-0,Bury
+Mon Aug 30 1971,Stockport County,0-1,Reading
+Mon Aug 30 1971,Hartlepool United,2-3,Darlington
+Tue Aug 31 1971,Grimsby Town,3-1,Doncaster Rovers
+Tue Aug 31 1971,Newport County,2-1,Colchester United
+Wed Sep 1 1971,Crewe Alexandra,3-1,Lincoln City
+Wed Sep 1 1971,Aldershot,0-0,Chester
+Wed Sep 1 1971,Gillingham,2-0,Cambridge United
+Wed Sep 1 1971,Workington,0-0,Exeter City
+Fri Sep 3 1971,Stockport County,4-2,Lincoln City
+Fri Sep 3 1971,Colchester United,1-0,Southport
+Sat Sep 4 1971,Newport County,1-1,Northampton Town
+Sat Sep 4 1971,Cambridge United,3-2,Crewe Alexandra
+Sat Sep 4 1971,Southend United,0-0,Bury
+Sat Sep 4 1971,Scunthorpe United,0-0,Doncaster Rovers
+Sat Sep 4 1971,Barrow,0-0,Grimsby Town
+Sat Sep 4 1971,Workington,0-0,Chester
+Sat Sep 4 1971,Brentford,6-0,Hartlepool United
+Sat Sep 4 1971,Reading,2-0,Darlington
+Sat Sep 4 1971,Exeter City,3-2,Peterborough United
+Sat Sep 4 1971,Gillingham,0-1,Aldershot
+Fri Sep 10 1971,Northampton Town,2-0,Stockport County
+Fri Sep 10 1971,Southport,4-2,Newport County
+Sat Sep 11 1971,Hartlepool United,1-3,Workington
+Sat Sep 11 1971,Grimsby Town,3-1,Brentford
+Sat Sep 11 1971,Lincoln City,0-0,Reading
+Sat Sep 11 1971,Aldershot,0-0,Southend United
+Sat Sep 11 1971,Peterborough United,0-1,Scunthorpe United
+Sat Sep 11 1971,Chester,0-0,Barrow
+Sat Sep 11 1971,Crewe Alexandra,0-1,Gillingham
+Sat Sep 11 1971,Darlington,2-0,Colchester United
+Sat Sep 11 1971,Doncaster Rovers,2-1,Exeter City
+Sat Sep 11 1971,Bury,0-1,Cambridge United
+Fri Sep 17 1971,Stockport County,1-2,Doncaster Rovers
+Fri Sep 17 1971,Scunthorpe United,0-0,Northampton Town
+Fri Sep 17 1971,Colchester United,4-2,Crewe Alexandra
+Fri Sep 17 1971,Southend United,3-1,Grimsby Town
+Sat Sep 18 1971,Newport County,2-3,Aldershot
+Sat Sep 18 1971,Gillingham,1-0,Hartlepool United
+Sat Sep 18 1971,Barrow,0-2,Southport
+Sat Sep 18 1971,Exeter City,1-1,Chester
+Sat Sep 18 1971,Reading,0-2,Bury
+Sat Sep 18 1971,Workington,0-0,Lincoln City
+Sat Sep 18 1971,Brentford,5-1,Peterborough United
+Sat Sep 18 1971,Cambridge United,6-0,Darlington
+Fri Sep 24 1971,Southport,2-2,Workington
+Sat Sep 25 1971,Doncaster Rovers,0-2,Southend United
+Sat Sep 25 1971,Darlington,0-0,Newport County
+Sat Sep 25 1971,Grimsby Town,4-1,Stockport County
+Sat Sep 25 1971,Aldershot,1-1,Scunthorpe United
+Sat Sep 25 1971,Peterborough United,2-1,Gillingham
+Sat Sep 25 1971,Northampton Town,1-1,Colchester United
+Sat Sep 25 1971,Hartlepool United,4-3,Barrow
+Sat Sep 25 1971,Crewe Alexandra,2-0,Reading
+Sat Sep 25 1971,Lincoln City,3-1,Cambridge United
+Sat Sep 25 1971,Bury,4-3,Exeter City
+Sat Sep 25 1971,Chester,0-0,Brentford
+Mon Sep 27 1971,Southend United,3-1,Newport County
+Mon Sep 27 1971,Hartlepool United,1-0,Peterborough United
+Mon Sep 27 1971,Barrow,0-0,Reading
+Mon Sep 27 1971,Brentford,2-0,Stockport County
+Mon Sep 27 1971,Darlington,0-0,Bury
+Tue Sep 28 1971,Scunthorpe United,2-0,Colchester United
+Wed Sep 29 1971,Aldershot,1-1,Southport
+Wed Sep 29 1971,Crewe Alexandra,0-1,Doncaster Rovers
+Wed Sep 29 1971,Cambridge United,0-1,Exeter City
+Wed Sep 29 1971,Lincoln City,3-0,Grimsby Town
+Wed Sep 29 1971,Chester,3-2,Northampton Town
+Wed Sep 29 1971,Gillingham,0-0,Workington
+Fri Oct 1 1971,Southend United,2-1,Southport
+Fri Oct 1 1971,Colchester United,1-0,Chester
+Fri Oct 1 1971,Stockport County,2-1,Hartlepool United
+Sat Oct 2 1971,Workington,4-1,Peterborough United
+Sat Oct 2 1971,Cambridge United,1-1,Aldershot
+Sat Oct 2 1971,Scunthorpe United,3-1,Darlington
+Sat Oct 2 1971,Exeter City,3-1,Crewe Alexandra
+Sat Oct 2 1971,Newport County,2-1,Bury
+Sat Oct 2 1971,Barrow,2-2,Lincoln City
+Sat Oct 2 1971,Reading,1-3,Grimsby Town
+Sat Oct 2 1971,Gillingham,2-0,Doncaster Rovers
+Sat Oct 2 1971,Brentford,6-1,Northampton Town
+Fri Oct 8 1971,Southport,0-0,Brentford
+Sat Oct 9 1971,Peterborough United,7-0,Barrow
+Sat Oct 9 1971,Grimsby Town,2-1,Gillingham
+Sat Oct 9 1971,Bury,3-1,Scunthorpe United
+Sat Oct 9 1971,Crewe Alexandra,0-0,Workington
+Sat Oct 9 1971,Aldershot,0-2,Colchester United
+Sat Oct 9 1971,Northampton Town,5-0,Reading
+Sat Oct 9 1971,Hartlepool United,0-1,Newport County
+Sat Oct 9 1971,Darlington,1-2,Stockport County
+Sat Oct 9 1971,Doncaster Rovers,1-1,Cambridge United
+Sat Oct 9 1971,Lincoln City,4-1,Exeter City
+Sat Oct 9 1971,Chester,1-1,Southend United
+Fri Oct 15 1971,Colchester United,5-2,Lincoln City
+Fri Oct 15 1971,Northampton Town,2-0,Barrow
+Fri Oct 15 1971,Southend United,2-1,Peterborough United
+Fri Oct 15 1971,Stockport County,3-1,Crewe Alexandra
+Sat Oct 16 1971,Scunthorpe United,1-2,Grimsby Town
+Sat Oct 16 1971,Brentford,2-0,Bury
+Sat Oct 16 1971,Exeter City,1-3,Southport
+Sat Oct 16 1971,Gillingham,4-2,Darlington
+Sat Oct 16 1971,Cambridge United,2-0,Chester
+Sat Oct 16 1971,Workington,5-0,Aldershot
+Sat Oct 16 1971,Newport County,1-3,Doncaster Rovers
+Sat Oct 16 1971,Reading,3-0,Hartlepool United
+Mon Oct 18 1971,Colchester United,1-0,Southend United
+Mon Oct 18 1971,Southport,4-3,Chester
+Mon Oct 18 1971,Stockport County,1-3,Barrow
+Mon Oct 18 1971,Peterborough United,1-3,Darlington
+Tue Oct 19 1971,Grimsby Town,2-3,Crewe Alexandra
+Tue Oct 19 1971,Bury,1-1,Hartlepool United
+Tue Oct 19 1971,Doncaster Rovers,2-0,Lincoln City
+Tue Oct 19 1971,Northampton Town,2-3,Aldershot
+Wed Oct 20 1971,Reading,2-1,Brentford
+Wed Oct 20 1971,Workington,0-1,Cambridge United
+Wed Oct 20 1971,Exeter City,1-1,Gillingham
+Fri Oct 22 1971,Doncaster Rovers,1-1,Northampton Town
+Sat Oct 23 1971,Aldershot,3-0,Darlington
+Sat Oct 23 1971,Lincoln City,3-2,Peterborough United
+Sat Oct 23 1971,Chester,4-0,Hartlepool United
+Sat Oct 23 1971,Grimsby Town,0-1,Southport
+Sat Oct 23 1971,Gillingham,1-2,Newport County
+Sat Oct 23 1971,Brentford,1-2,Southend United
+Sat Oct 23 1971,Workington,5-0,Reading
+Sat Oct 23 1971,Exeter City,2-0,Stockport County
+Sat Oct 23 1971,Cambridge United,4-2,Colchester United
+Sat Oct 23 1971,Crewe Alexandra,0-0,Bury
+Sat Oct 23 1971,Barrow,0-1,Scunthorpe United
+Fri Oct 29 1971,Southend United,1-0,Barrow
+Fri Oct 29 1971,Colchester United,2-2,Gillingham
+Fri Oct 29 1971,Stockport County,1-1,Workington
+Sat Oct 30 1971,Hartlepool United,0-1,Aldershot
+Sat Oct 30 1971,Reading,3-1,Exeter City
+Sat Oct 30 1971,Peterborough United,2-0,Crewe Alexandra
+Sat Oct 30 1971,Newport County,3-0,Cambridge United
+Sat Oct 30 1971,Darlington,1-1,Chester
+Sat Oct 30 1971,Northampton Town,3-0,Grimsby Town
+Sat Oct 30 1971,Bury,0-1,Lincoln City
+Sat Oct 30 1971,Scunthorpe United,0-0,Brentford
+Sat Oct 30 1971,Southport,3-0,Doncaster Rovers
+Sat Nov 6 1971,Grimsby Town,3-2,Hartlepool United
+Sat Nov 6 1971,Chester,2-0,Bury
+Sat Nov 6 1971,Cambridge United,4-1,Reading
+Sat Nov 6 1971,Crewe Alexandra,2-1,Southport
+Sat Nov 6 1971,Brentford,3-1,Newport County
+Sat Nov 6 1971,Barrow,2-2,Colchester United
+Sat Nov 6 1971,Gillingham,3-2,Stockport County
+Sat Nov 6 1971,Lincoln City,2-0,Northampton Town
+Sat Nov 6 1971,Workington,3-1,Southend United
+Sat Nov 6 1971,Exeter City,1-0,Scunthorpe United
+Sat Nov 6 1971,Doncaster Rovers,4-0,Darlington
+Sat Nov 6 1971,Aldershot,1-1,Peterborough United
+Fri Nov 12 1971,Stockport County,3-0,Cambridge United
+Fri Nov 12 1971,Southport,1-1,Lincoln City
+Fri Nov 12 1971,Northampton Town,4-1,Crewe Alexandra
+Fri Nov 12 1971,Southend United,3-0,Exeter City
+Sat Nov 13 1971,Colchester United,1-1,Brentford
+Sat Nov 13 1971,Darlington,3-2,Grimsby Town
+Sat Nov 13 1971,Bury,3-1,Aldershot
+Sat Nov 13 1971,Hartlepool United,0-0,Doncaster Rovers
+Sat Nov 13 1971,Newport County,2-1,Barrow
+Sat Nov 13 1971,Peterborough United,2-0,Chester
+Sat Nov 13 1971,Reading,1-2,Gillingham
+Sat Nov 13 1971,Scunthorpe United,2-0,Workington
+Fri Nov 26 1971,Southend United,4-2,Stockport County
+Fri Nov 26 1971,Colchester United,3-0,Exeter City
+Sat Nov 27 1971,Hartlepool United,1-0,Crewe Alexandra
+Sat Nov 27 1971,Bury,4-2,Northampton Town
+Sat Nov 27 1971,Scunthorpe United,1-1,Reading
+Sat Nov 27 1971,Newport County,0-1,Workington
+Sat Nov 27 1971,Brentford,1-3,Gillingham
+Sat Nov 27 1971,Barrow,1-1,Cambridge United
+Sat Nov 27 1971,Chester,1-1,Doncaster Rovers
+Sat Nov 27 1971,Darlington,3-3,Lincoln City
+Sat Nov 27 1971,Peterborough United,2-0,Southport
+Sat Nov 27 1971,Aldershot,1-1,Grimsby Town
+Fri Dec 3 1971,Stockport County,2-2,Colchester United
+Sat Dec 4 1971,Crewe Alexandra,3-1,Chester
+Sat Dec 4 1971,Gillingham,0-1,Scunthorpe United
+Sat Dec 4 1971,Southport,2-1,Darlington
+Sat Dec 4 1971,Grimsby Town,4-1,Bury
+Sat Dec 4 1971,Reading,4-2,Newport County
+Sat Dec 4 1971,Exeter City,0-1,Brentford
+Sat Dec 4 1971,Northampton Town,2-1,Hartlepool United
+Sat Dec 4 1971,Lincoln City,2-2,Aldershot
+Sat Dec 4 1971,Doncaster Rovers,3-2,Peterborough United
+Sat Dec 4 1971,Cambridge United,1-1,Southend United
+Sat Dec 4 1971,Workington,0-1,Barrow
+Sat Dec 11 1971,Brentford,1-0,Southport
+Sat Dec 11 1971,Newport County,2-0,Lincoln City
+Sat Dec 11 1971,Scunthorpe United,2-0,Chester
+Sat Dec 18 1971,Chester,2-1,Workington
+Sat Dec 18 1971,Darlington,1-0,Reading
+Sat Dec 18 1971,Lincoln City,2-1,Stockport County
+Sat Dec 18 1971,Bury,2-0,Southend United
+Sat Dec 18 1971,Northampton Town,1-1,Newport County
+Sat Dec 18 1971,Crewe Alexandra,1-1,Cambridge United
+Sat Dec 18 1971,Hartlepool United,1-2,Brentford
+Sat Dec 18 1971,Southport,3-0,Colchester United
+Sat Dec 18 1971,Peterborough United,3-3,Exeter City
+Sat Dec 18 1971,Doncaster Rovers,0-2,Scunthorpe United
+Sat Dec 18 1971,Aldershot,0-2,Gillingham
+Sat Dec 18 1971,Grimsby Town,2-0,Barrow
+Mon Dec 27 1971,Cambridge United,3-1,Grimsby Town
+Mon Dec 27 1971,Gillingham,4-1,Northampton Town
+Mon Dec 27 1971,Colchester United,1-1,Peterborough United
+Mon Dec 27 1971,Brentford,1-0,Crewe Alexandra
+Mon Dec 27 1971,Stockport County,1-1,Southport
+Mon Dec 27 1971,Workington,0-0,Darlington
+Mon Dec 27 1971,Reading,3-1,Doncaster Rovers
+Mon Dec 27 1971,Scunthorpe United,2-2,Hartlepool United
+Mon Dec 27 1971,Southend United,2-1,Lincoln City
+Mon Dec 27 1971,Newport County,1-0,Chester
+Mon Dec 27 1971,Exeter City,1-0,Aldershot
+Mon Dec 27 1971,Barrow,1-1,Bury
+Sat Jan 1 1972,Southport,1-0,Barrow
+Sat Jan 1 1972,Darlington,2-1,Cambridge United
+Sat Jan 1 1972,Chester,1-2,Exeter City
+Sat Jan 1 1972,Hartlepool United,3-1,Gillingham
+Sat Jan 1 1972,Grimsby Town,4-1,Southend United
+Sat Jan 1 1972,Peterborough United,2-2,Brentford
+Sat Jan 1 1972,Lincoln City,1-0,Workington
+Sat Jan 1 1972,Crewe Alexandra,2-4,Colchester United
+Sat Jan 1 1972,Doncaster Rovers,2-2,Stockport County
+Sat Jan 1 1972,Aldershot,3-0,Newport County
+Sat Jan 1 1972,Northampton Town,0-2,Scunthorpe United
+Sat Jan 1 1972,Bury,2-1,Reading
+Fri Jan 7 1972,Southend United,3-1,Hartlepool United
+Fri Jan 7 1972,Stockport County,0-0,Peterborough United
+Sat Jan 8 1972,Workington,0-0,Grimsby Town
+Sat Jan 8 1972,Cambridge United,0-0,Southport
+Sat Jan 8 1972,Colchester United,0-0,Bury
+Sat Jan 8 1972,Scunthorpe United,2-0,Crewe Alexandra
+Sat Jan 8 1972,Gillingham,1-0,Chester
+Sat Jan 8 1972,Exeter City,1-3,Northampton Town
+Sat Jan 8 1972,Barrow,1-2,Doncaster Rovers
+Sat Jan 8 1972,Reading,2-0,Aldershot
+Sat Jan 8 1972,Brentford,6-2,Darlington
+Sat Jan 15 1972,Aldershot,1-1,Barrow
+Sat Jan 15 1972,Darlington,2-1,Exeter City
+Sat Jan 15 1972,Southport,1-1,Scunthorpe United
+Sat Jan 15 1972,Grimsby Town,4-2,Newport County
+Sat Jan 15 1972,Doncaster Rovers,2-0,Colchester United
+Sat Jan 15 1972,Chester,0-0,Stockport County
+Sat Jan 15 1972,Crewe Alexandra,1-2,Southend United
+Sat Jan 15 1972,Hartlepool United,1-2,Cambridge United
+Sat Jan 15 1972,Northampton Town,1-2,Workington
+Sat Jan 15 1972,Lincoln City,4-1,Brentford
+Fri Jan 21 1972,Doncaster Rovers,0-0,Crewe Alexandra
+Fri Jan 21 1972,Colchester United,1-1,Scunthorpe United
+Fri Jan 21 1972,Stockport County,0-1,Brentford
+Sat Jan 22 1972,Exeter City,3-4,Cambridge United
+Sat Jan 22 1972,Peterborough United,2-2,Hartlepool United
+Sat Jan 22 1972,Grimsby Town,2-2,Lincoln City
+Sat Jan 22 1972,Bury,3-2,Darlington
+Sat Jan 22 1972,Northampton Town,4-2,Chester
+Sat Jan 22 1972,Workington,1-1,Gillingham
+Sat Jan 22 1972,Southport,0-0,Aldershot
+Sat Jan 22 1972,Newport County,2-0,Southend United
+Sat Jan 22 1972,Reading,1-0,Barrow
+Fri Jan 28 1972,Southend United,1-4,Colchester United
+Fri Jan 28 1972,Barrow,3-2,Stockport County
+Sat Jan 29 1972,Brentford,1-2,Reading
+Sat Jan 29 1972,Aldershot,0-2,Northampton Town
+Sat Jan 29 1972,Hartlepool United,3-1,Bury
+Sat Jan 29 1972,Crewe Alexandra,0-1,Grimsby Town
+Sat Jan 29 1972,Gillingham,0-2,Exeter City
+Sat Jan 29 1972,Chester,1-1,Southport
+Sat Jan 29 1972,Scunthorpe United,1-0,Newport County
+Sat Jan 29 1972,Darlington,1-1,Peterborough United
+Sat Jan 29 1972,Lincoln City,2-0,Doncaster Rovers
+Sat Feb 5 1972,Lincoln City,2-1,Hartlepool United
+Sat Feb 5 1972,Grimsby Town,1-0,Chester
+Sat Feb 5 1972,Workington,1-0,Colchester United
+Sat Feb 5 1972,Stockport County,0-0,Scunthorpe United
+Sat Feb 5 1972,Crewe Alexandra,1-1,Darlington
+Sat Feb 5 1972,Northampton Town,1-1,Peterborough United
+Sat Feb 5 1972,Southport,0-1,Bury
+Sat Feb 5 1972,Exeter City,1-0,Newport County
+Sat Feb 5 1972,Cambridge United,1-1,Brentford
+Sat Feb 5 1972,Gillingham,1-1,Barrow
+Sat Feb 5 1972,Doncaster Rovers,2-1,Aldershot
+Sat Feb 12 1972,Northampton Town,1-1,Doncaster Rovers
+Sat Feb 12 1972,Peterborough United,4-4,Lincoln City
+Sat Feb 12 1972,Darlington,4-2,Aldershot
+Sat Feb 12 1972,Reading,0-0,Workington
+Sat Feb 12 1972,Newport County,1-2,Gillingham
+Sat Feb 12 1972,Scunthorpe United,2-1,Barrow
+Sat Feb 12 1972,Colchester United,1-1,Cambridge United
+Sat Feb 12 1972,Southend United,3-1,Brentford
+Sat Feb 12 1972,Southport,1-0,Grimsby Town
+Sat Feb 12 1972,Stockport County,0-4,Exeter City
+Sat Feb 12 1972,Bury,2-0,Crewe Alexandra
+Sat Feb 12 1972,Hartlepool United,2-1,Chester
+Sat Feb 19 1972,Workington,1-1,Stockport County
+Sat Feb 19 1972,Barrow,2-1,Southend United
+Sat Feb 19 1972,Doncaster Rovers,2-1,Southport
+Sat Feb 19 1972,Lincoln City,2-0,Bury
+Sat Feb 19 1972,Aldershot,2-0,Hartlepool United
+Sat Feb 19 1972,Grimsby Town,4-2,Northampton Town
+Sat Feb 19 1972,Chester,2-1,Darlington
+Sat Feb 19 1972,Exeter City,0-0,Reading
+Sat Feb 19 1972,Gillingham,0-2,Colchester United
+Sat Feb 19 1972,Brentford,0-3,Scunthorpe United
+Sat Feb 19 1972,Crewe Alexandra,2-0,Peterborough United
+Sat Feb 19 1972,Cambridge United,0-1,Newport County
+Sat Feb 26 1972,Southend United,2-0,Workington
+Sat Feb 26 1972,Reading,1-0,Cambridge United
+Sat Feb 26 1972,Darlington,4-1,Doncaster Rovers
+Sat Feb 26 1972,Newport County,0-0,Brentford
+Sat Feb 26 1972,Southport,4-2,Crewe Alexandra
+Sat Feb 26 1972,Hartlepool United,0-1,Grimsby Town
+Sat Feb 26 1972,Stockport County,2-1,Gillingham
+Sat Feb 26 1972,Peterborough United,0-0,Aldershot
+Sat Feb 26 1972,Colchester United,0-1,Barrow
+Sat Feb 26 1972,Bury,3-1,Chester
+Sat Feb 26 1972,Northampton Town,2-3,Lincoln City
+Sat Feb 26 1972,Scunthorpe United,3-0,Exeter City
+Sat Mar 4 1972,Barrow,1-0,Newport County
+Sat Mar 4 1972,Chester,1-1,Peterborough United
+Sat Mar 4 1972,Brentford,0-2,Colchester United
+Sat Mar 4 1972,Gillingham,4-2,Reading
+Sat Mar 4 1972,Cambridge United,2-0,Stockport County
+Sat Mar 4 1972,Crewe Alexandra,0-1,Northampton Town
+Sat Mar 4 1972,Lincoln City,2-1,Southport
+Sat Mar 4 1972,Aldershot,2-2,Bury
+Sat Mar 4 1972,Doncaster Rovers,2-1,Hartlepool United
+Sat Mar 4 1972,Workington,2-1,Scunthorpe United
+Sat Mar 4 1972,Grimsby Town,2-0,Darlington
+Sat Mar 4 1972,Exeter City,0-0,Southend United
+Thu Mar 9 1972,Bury,2-0,Workington
+Thu Mar 9 1972,Lincoln City,1-1,Gillingham
+Thu Mar 9 1972,Peterborough United,2-0,Cambridge United
+Fri Mar 10 1972,Newport County,0-2,Hartlepool United
+Fri Mar 10 1972,Stockport County,2-1,Darlington
+Fri Mar 10 1972,Southend United,4-2,Chester
+Sat Mar 11 1972,Cambridge United,1-1,Doncaster Rovers
+Sat Mar 11 1972,Exeter City,1-2,Lincoln City
+Sat Mar 11 1972,Reading,2-1,Northampton Town
+Sat Mar 11 1972,Gillingham,0-1,Grimsby Town
+Sat Mar 11 1972,Workington,1-0,Crewe Alexandra
+Sat Mar 11 1972,Colchester United,1-0,Aldershot
+Sat Mar 11 1972,Barrow,0-2,Peterborough United
+Sat Mar 11 1972,Scunthorpe United,3-0,Bury
+Mon Mar 13 1972,Newport County,2-1,Grimsby Town
+Mon Mar 13 1972,Southend United,4-1,Crewe Alexandra
+Mon Mar 13 1972,Colchester United,1-2,Doncaster Rovers
+Mon Mar 13 1972,Stockport County,0-0,Chester
+Mon Mar 13 1972,Brentford,2-0,Lincoln City
+Mon Mar 13 1972,Barrow,1-1,Aldershot
+Tue Mar 14 1972,Scunthorpe United,1-0,Southport
+Wed Mar 15 1972,Reading,2-1,Peterborough United
+Wed Mar 15 1972,Workington,2-0,Northampton Town
+Wed Mar 15 1972,Exeter City,3-0,Darlington
+Wed Mar 15 1972,Gillingham,2-0,Bury
+Wed Mar 15 1972,Cambridge United,2-1,Hartlepool United
+Sat Mar 18 1972,Hartlepool United,3-2,Colchester United
+Sat Mar 18 1972,Aldershot,1-2,Brentford
+Sat Mar 18 1972,Southport,1-0,Gillingham
+Sat Mar 18 1972,Bury,4-0,Stockport County
+Sat Mar 18 1972,Crewe Alexandra,1-0,Barrow
+Sat Mar 18 1972,Darlington,2-3,Southend United
+Sat Mar 18 1972,Peterborough United,3-1,Newport County
+Sat Mar 18 1972,Lincoln City,1-0,Scunthorpe United
+Sat Mar 18 1972,Chester,2-0,Reading
+Sat Mar 18 1972,Northampton Town,1-2,Cambridge United
+Sat Mar 18 1972,Doncaster Rovers,0-0,Workington
+Mon Mar 20 1972,Darlington,5-2,Northampton Town
+Mon Mar 20 1972,Barrow,0-0,Exeter City
+Mon Mar 20 1972,Cambridge United,0-0,Workington
+Tue Mar 21 1972,Grimsby Town,3-0,Colchester United
+Tue Mar 21 1972,Chester,2-1,Lincoln City
+Tue Mar 21 1972,Bury,5-0,Gillingham
+Tue Mar 21 1972,Doncaster Rovers,0-3,Brentford
+Wed Mar 22 1972,Reading,1-4,Southend United
+Fri Mar 24 1972,Colchester United,4-3,Darlington
+Fri Mar 24 1972,Stockport County,3-1,Northampton Town
+Fri Mar 24 1972,Southend United,1-0,Aldershot
+Fri Mar 24 1972,Newport County,2-2,Southport
+Sat Mar 25 1972,Exeter City,1-0,Doncaster Rovers
+Sat Mar 25 1972,Cambridge United,0-2,Bury
+Sat Mar 25 1972,Barrow,2-0,Chester
+Sat Mar 25 1972,Gillingham,2-1,Crewe Alexandra
+Sat Mar 25 1972,Scunthorpe United,0-0,Peterborough United
+Sat Mar 25 1972,Workington,0-0,Hartlepool United
+Sat Mar 25 1972,Brentford,2-0,Grimsby Town
+Sat Mar 25 1972,Reading,0-1,Lincoln City
+Mon Mar 27 1972,Brentford,2-0,Workington
+Mon Mar 27 1972,Peterborough United,0-2,Grimsby Town
+Mon Mar 27 1972,Hartlepool United,1-0,Exeter City
+Mon Mar 27 1972,Darlington,0-1,Barrow
+Fri Mar 31 1972,Brentford,1-1,Chester
+Fri Mar 31 1972,Crewe Alexandra,0-1,Exeter City
+Fri Mar 31 1972,Darlington,0-1,Scunthorpe United
+Fri Mar 31 1972,Grimsby Town,2-0,Reading
+Fri Mar 31 1972,Southend United,2-1,Doncaster Rovers
+Fri Mar 31 1972,Colchester United,2-0,Northampton Town
+Fri Mar 31 1972,Aldershot,1-1,Cambridge United
+Fri Mar 31 1972,Bury,3-0,Newport County
+Fri Mar 31 1972,Workington,0-0,Southport
+Fri Mar 31 1972,Hartlepool United,5-0,Stockport County
+Sat Apr 1 1972,Aldershot,0-0,Exeter City
+Sat Apr 1 1972,Northampton Town,6-1,Gillingham
+Sat Apr 1 1972,Lincoln City,0-0,Southend United
+Sat Apr 1 1972,Hartlepool United,1-0,Scunthorpe United
+Sat Apr 1 1972,Southport,1-0,Stockport County
+Sat Apr 1 1972,Doncaster Rovers,1-1,Reading
+Sat Apr 1 1972,Peterborough United,4-0,Colchester United
+Sat Apr 1 1972,Crewe Alexandra,2-1,Brentford
+Sat Apr 1 1972,Chester,3-0,Newport County
+Sat Apr 1 1972,Bury,4-0,Barrow
+Sat Apr 1 1972,Grimsby Town,2-1,Cambridge United
+Sat Apr 1 1972,Darlington,4-0,Workington
+Mon Apr 3 1972,Stockport County,0-2,Grimsby Town
+Mon Apr 3 1972,Reading,1-0,Crewe Alexandra
+Mon Apr 3 1972,Northampton Town,0-0,Brentford
+Mon Apr 3 1972,Southport,0-1,Southend United
+Mon Apr 3 1972,Gillingham,1-1,Peterborough United
+Mon Apr 3 1972,Exeter City,3-2,Bury
+Mon Apr 3 1972,Cambridge United,0-0,Lincoln City
+Mon Apr 3 1972,Barrow,2-0,Hartlepool United
+Mon Apr 3 1972,Chester,2-1,Colchester United
+Tue Apr 4 1972,Doncaster Rovers,1-1,Gillingham
+Tue Apr 4 1972,Peterborough United,1-1,Workington
+Tue Apr 4 1972,Newport County,4-0,Darlington
+Tue Apr 4 1972,Scunthorpe United,1-0,Aldershot
+Fri Apr 7 1972,Southend United,4-1,Reading
+Fri Apr 7 1972,Colchester United,1-0,Workington
+Sat Apr 8 1972,Chester,1-2,Grimsby Town
+Sat Apr 8 1972,Barrow,1-0,Gillingham
+Sat Apr 8 1972,Scunthorpe United,0-2,Stockport County
+Sat Apr 8 1972,Bury,2-1,Southport
+Sat Apr 8 1972,Aldershot,3-0,Doncaster Rovers
+Sat Apr 8 1972,Darlington,1-1,Crewe Alexandra
+Sat Apr 8 1972,Brentford,2-1,Cambridge United
+Sat Apr 8 1972,Peterborough United,1-0,Northampton Town
+Sat Apr 8 1972,Hartlepool United,2-1,Lincoln City
+Sat Apr 8 1972,Newport County,0-0,Exeter City
+Mon Apr 10 1972,Hartlepool United,1-0,Southport
+Mon Apr 10 1972,Colchester United,2-1,Reading
+Tue Apr 11 1972,Newport County,1-0,Stockport County
+Tue Apr 11 1972,Northampton Town,1-1,Southend United
+Tue Apr 11 1972,Scunthorpe United,2-1,Cambridge United
+Tue Apr 11 1972,Bury,3-3,Doncaster Rovers
+Wed Apr 12 1972,Aldershot,0-0,Crewe Alexandra
+Wed Apr 12 1972,Lincoln City,3-2,Barrow
+Fri Apr 14 1972,Stockport County,2-2,Southend United
+Sat Apr 15 1972,Cambridge United,1-0,Barrow
+Sat Apr 15 1972,Doncaster Rovers,0-0,Chester
+Sat Apr 15 1972,Crewe Alexandra,1-2,Hartlepool United
+Sat Apr 15 1972,Workington,3-0,Newport County
+Sat Apr 15 1972,Reading,2-0,Scunthorpe United
+Sat Apr 15 1972,Exeter City,3-3,Colchester United
+Sat Apr 15 1972,Grimsby Town,3-3,Aldershot
+Sat Apr 15 1972,Northampton Town,2-2,Bury
+Sat Apr 15 1972,Lincoln City,0-1,Darlington
+Sat Apr 15 1972,Southport,2-4,Peterborough United
+Sat Apr 15 1972,Gillingham,0-1,Brentford
+Mon Apr 17 1972,Barrow,0-4,Darlington
+Mon Apr 17 1972,Southend United,4-1,Northampton Town
+Mon Apr 17 1972,Colchester United,0-1,Grimsby Town
+Mon Apr 17 1972,Brentford,2-1,Doncaster Rovers
+Mon Apr 17 1972,Stockport County,0-0,Aldershot
+Tue Apr 18 1972,Newport County,2-0,Crewe Alexandra
+Wed Apr 19 1972,Workington,1-0,Bury
+Wed Apr 19 1972,Gillingham,3-3,Lincoln City
+Wed Apr 19 1972,Cambridge United,2-5,Peterborough United
+Wed Apr 19 1972,Reading,1-1,Southport
+Wed Apr 19 1972,Exeter City,1-0,Hartlepool United
+Wed Apr 19 1972,Chester,0-0,Scunthorpe United
+Fri Apr 21 1972,Southend United,1-2,Cambridge United
+Fri Apr 21 1972,Colchester United,3-2,Stockport County
+Sat Apr 22 1972,Darlington,0-0,Southport
+Sat Apr 22 1972,Brentford,1-0,Exeter City
+Sat Apr 22 1972,Chester,0-0,Crewe Alexandra
+Sat Apr 22 1972,Peterborough United,2-0,Doncaster Rovers
+Sat Apr 22 1972,Scunthorpe United,3-3,Gillingham
+Sat Apr 22 1972,Newport County,2-1,Reading
+Sat Apr 22 1972,Bury,1-1,Grimsby Town
+Sat Apr 22 1972,Aldershot,0-0,Lincoln City
+Sat Apr 22 1972,Barrow,2-0,Workington
+Sat Apr 22 1972,Hartlepool United,2-0,Northampton Town
+Mon Apr 24 1972,Barrow,0-3,Brentford
+Mon Apr 24 1972,Colchester United,2-3,Newport County
+Mon Apr 24 1972,Darlington,1-2,Hartlepool United
+Tue Apr 25 1972,Bury,1-1,Peterborough United
+Tue Apr 25 1972,Doncaster Rovers,2-1,Grimsby Town
+Tue Apr 25 1972,Scunthorpe United,1-1,Southend United
+Tue Apr 25 1972,Northampton Town,0-0,Southport
+Wed Apr 26 1972,Exeter City,0-2,Workington
+Wed Apr 26 1972,Lincoln City,0-0,Crewe Alexandra
+Wed Apr 26 1972,Reading,2-2,Stockport County
+Wed Apr 26 1972,Cambridge United,2-1,Gillingham
+Wed Apr 26 1972,Chester,0-0,Aldershot
+Fri Apr 28 1972,Stockport County,4-4,Newport County
+Fri Apr 28 1972,Southport,1-0,Hartlepool United
+Sat Apr 29 1972,Workington,3-0,Brentford
+Sat Apr 29 1972,Doncaster Rovers,4-1,Bury
+Sat Apr 29 1972,Northampton Town,1-2,Darlington
+Sat Apr 29 1972,Reading,2-4,Colchester United
+Sat Apr 29 1972,Lincoln City,4-0,Chester
+Sat Apr 29 1972,Cambridge United,2-0,Scunthorpe United
+Sat Apr 29 1972,Gillingham,0-0,Southend United
+Sat Apr 29 1972,Crewe Alexandra,2-1,Aldershot
+Sat Apr 29 1972,Grimsby Town,3-2,Peterborough United
+Sat Apr 29 1972,Exeter City,7-1,Barrow
+Mon May 1 1972,Peterborough United,3-2,Reading
+Mon May 1 1972,Newport County,1-0,Scunthorpe United
+Mon May 1 1972,Darlington,0-0,Gillingham
+Tue May 2 1972,Grimsby Town,3-0,Exeter City
+Wed May 3 1972,Southend United,2-2,Gillingham
+Wed May 3 1972,Crewe Alexandra,1-2,Newport County
+Wed May 3 1972,Aldershot,4-0,Stockport County
+Thu May 4 1972,Southport,5-2,Reading

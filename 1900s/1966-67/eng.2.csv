@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 20 1966,Wolverhampton Wanderers,1-2,Birmingham City
+Sat Aug 20 1966,Derby County,2-3,Blackburn Rovers
+Sat Aug 20 1966,Charlton Athletic,0-1,Bolton Wanderers
+Sat Aug 20 1966,Coventry City,1-0,Hull City
+Sat Aug 20 1966,Norwich City,0-0,Portsmouth
+Sat Aug 20 1966,Huddersfield Town,2-0,Bristol City
+Sat Aug 20 1966,Crystal Palace,4-2,Carlisle United
+Sat Aug 20 1966,Bury,1-0,Plymouth Argyle
+Sat Aug 20 1966,Rotherham United,3-1,Millwall
+Sat Aug 20 1966,Cardiff City,0-2,Ipswich Town
+Sat Aug 20 1966,Preston North End,2-1,Northampton Town
+Tue Aug 23 1966,Bristol City,0-1,Crystal Palace
+Tue Aug 23 1966,Ipswich Town,3-0,Huddersfield Town
+Tue Aug 23 1966,Carlisle United,0-0,Derby County
+Wed Aug 24 1966,Bolton Wanderers,2-2,Rotherham United
+Wed Aug 24 1966,Plymouth Argyle,4-2,Coventry City
+Wed Aug 24 1966,Blackburn Rovers,2-1,Charlton Athletic
+Wed Aug 24 1966,Portsmouth,4-5,Birmingham City
+Sat Aug 27 1966,Northampton Town,3-1,Rotherham United
+Sat Aug 27 1966,Bolton Wanderers,3-1,Derby County
+Sat Aug 27 1966,Plymouth Argyle,1-0,Preston North End
+Sat Aug 27 1966,Bristol City,1-2,Cardiff City
+Sat Aug 27 1966,Carlisle United,2-1,Huddersfield Town
+Sat Aug 27 1966,Portsmouth,0-2,Coventry City
+Sat Aug 27 1966,Birmingham City,2-1,Norwich City
+Sat Aug 27 1966,Blackburn Rovers,2-1,Crystal Palace
+Sat Aug 27 1966,Ipswich Town,3-1,Wolverhampton Wanderers
+Sat Aug 27 1966,Hull City,2-0,Bury
+Sat Aug 27 1966,Millwall,0-0,Charlton Athletic
+Tue Aug 30 1966,Charlton Athletic,0-0,Blackburn Rovers
+Tue Aug 30 1966,Northampton Town,0-0,Bury
+Tue Aug 30 1966,Coventry City,1-0,Plymouth Argyle
+Tue Aug 30 1966,Rotherham United,0-1,Bolton Wanderers
+Tue Aug 30 1966,Huddersfield Town,1-0,Ipswich Town
+Tue Aug 30 1966,Birmingham City,3-0,Portsmouth
+Wed Aug 31 1966,Norwich City,0-2,Hull City
+Wed Aug 31 1966,Cardiff City,0-3,Wolverhampton Wanderers
+Wed Aug 31 1966,Derby County,0-1,Carlisle United
+Wed Aug 31 1966,Crystal Palace,2-1,Bristol City
+Sat Sep 3 1966,Huddersfield Town,3-1,Blackburn Rovers
+Sat Sep 3 1966,Millwall,1-0,Northampton Town
+Sat Sep 3 1966,Wolverhampton Wanderers,1-1,Bristol City
+Sat Sep 3 1966,Rotherham United,4-2,Plymouth Argyle
+Sat Sep 3 1966,Preston North End,4-2,Hull City
+Sat Sep 3 1966,Cardiff City,4-2,Carlisle United
+Sat Sep 3 1966,Bury,1-3,Portsmouth
+Sat Sep 3 1966,Crystal Palace,3-2,Bolton Wanderers
+Sat Sep 3 1966,Coventry City,1-1,Birmingham City
+Sat Sep 3 1966,Norwich City,1-2,Ipswich Town
+Sat Sep 3 1966,Derby County,0-2,Charlton Athletic
+Mon Sep 5 1966,Millwall,1-0,Coventry City
+Tue Sep 6 1966,Ipswich Town,4-3,Derby County
+Tue Sep 6 1966,Bristol City,4-0,Charlton Athletic
+Tue Sep 6 1966,Bury,5-2,Rotherham United
+Tue Sep 6 1966,Northampton Town,1-2,Norwich City
+Wed Sep 7 1966,Blackburn Rovers,2-0,Preston North End
+Wed Sep 7 1966,Bolton Wanderers,3-0,Carlisle United
+Wed Sep 7 1966,Cardiff City,1-1,Huddersfield Town
+Wed Sep 7 1966,Wolverhampton Wanderers,1-1,Crystal Palace
+Wed Sep 7 1966,Portsmouth,0-1,Hull City
+Wed Sep 7 1966,Plymouth Argyle,1-1,Birmingham City
+Sat Sep 10 1966,Blackburn Rovers,4-1,Cardiff City
+Sat Sep 10 1966,Norwich City,1-1,Coventry City
+Sat Sep 10 1966,Birmingham City,1-3,Bury
+Sat Sep 10 1966,Bristol City,1-1,Ipswich Town
+Sat Sep 10 1966,Charlton Athletic,1-1,Crystal Palace
+Sat Sep 10 1966,Plymouth Argyle,3-1,Millwall
+Sat Sep 10 1966,Hull City,1-0,Rotherham United
+Sat Sep 10 1966,Portsmouth,2-0,Preston North End
+Sat Sep 10 1966,Northampton Town,0-2,Derby County
+Sat Sep 10 1966,Carlisle United,1-3,Wolverhampton Wanderers
+Sat Sep 10 1966,Bolton Wanderers,1-0,Huddersfield Town
+Sat Sep 17 1966,Rotherham United,0-1,Portsmouth
+Sat Sep 17 1966,Coventry City,1-0,Bristol City
+Sat Sep 17 1966,Crystal Palace,2-1,Derby County
+Sat Sep 17 1966,Millwall,2-1,Hull City
+Sat Sep 17 1966,Bury,2-0,Norwich City
+Sat Sep 17 1966,Ipswich Town,1-2,Carlisle United
+Sat Sep 17 1966,Preston North End,3-0,Birmingham City
+Sat Sep 17 1966,Northampton Town,2-1,Plymouth Argyle
+Sat Sep 17 1966,Cardiff City,2-5,Bolton Wanderers
+Sat Sep 17 1966,Huddersfield Town,4-1,Charlton Athletic
+Sat Sep 17 1966,Wolverhampton Wanderers,4-0,Blackburn Rovers
+Mon Sep 19 1966,Millwall,2-0,Preston North End
+Tue Sep 20 1966,Bury,1-2,Northampton Town
+Tue Sep 20 1966,Hull City,5-0,Norwich City
+Wed Sep 21 1966,Wolverhampton Wanderers,7-1,Cardiff City
+Fri Sep 23 1966,Hull City,6-1,Northampton Town
+Sat Sep 24 1966,Carlisle United,2-1,Bristol City
+Sat Sep 24 1966,Birmingham City,2-3,Rotherham United
+Sat Sep 24 1966,Norwich City,1-1,Preston North End
+Sat Sep 24 1966,Bolton Wanderers,0-0,Wolverhampton Wanderers
+Sat Sep 24 1966,Plymouth Argyle,1-0,Crystal Palace
+Sat Sep 24 1966,Derby County,4-3,Huddersfield Town
+Sat Sep 24 1966,Charlton Athletic,5-0,Cardiff City
+Sat Sep 24 1966,Coventry City,3-0,Bury
+Sat Sep 24 1966,Blackburn Rovers,1-2,Ipswich Town
+Sat Sep 24 1966,Portsmouth,0-1,Millwall
+Mon Sep 26 1966,Preston North End,3-0,Blackburn Rovers
+Tue Sep 27 1966,Carlisle United,1-0,Norwich City
+Tue Sep 27 1966,Charlton Athletic,5-0,Bristol City
+Tue Sep 27 1966,Birmingham City,0-0,Plymouth Argyle
+Wed Sep 28 1966,Derby County,2-2,Ipswich Town
+Wed Sep 28 1966,Hull City,2-0,Portsmouth
+Sat Oct 1 1966,Huddersfield Town,0-2,Crystal Palace
+Sat Oct 1 1966,Millwall,3-1,Birmingham City
+Sat Oct 1 1966,Rotherham United,2-1,Norwich City
+Sat Oct 1 1966,Bury,0-2,Carlisle United
+Sat Oct 1 1966,Wolverhampton Wanderers,1-0,Charlton Athletic
+Sat Oct 1 1966,Ipswich Town,2-2,Bolton Wanderers
+Sat Oct 1 1966,Bristol City,2-2,Blackburn Rovers
+Sat Oct 1 1966,Preston North End,3-2,Coventry City
+Sat Oct 1 1966,Northampton Town,2-4,Portsmouth
+Sat Oct 1 1966,Cardiff City,1-1,Derby County
+Sat Oct 1 1966,Plymouth Argyle,3-1,Hull City
+Sat Oct 8 1966,Ipswich Town,3-2,Birmingham City
+Sat Oct 8 1966,Cardiff City,2-4,Hull City
+Sat Oct 8 1966,Huddersfield Town,1-1,Plymouth Argyle
+Sat Oct 8 1966,Wolverhampton Wanderers,3-1,Portsmouth
+Sat Oct 8 1966,Derby County,5-1,Millwall
+Sat Oct 8 1966,Blackburn Rovers,2-1,Bury
+Sat Oct 8 1966,Bolton Wanderers,4-2,Preston North End
+Sat Oct 8 1966,Crystal Palace,5-1,Northampton Town
+Sat Oct 8 1966,Bristol City,1-0,Norwich City
+Sat Oct 8 1966,Charlton Athletic,2-0,Rotherham United
+Sat Oct 8 1966,Carlisle United,2-1,Coventry City
+Fri Oct 14 1966,Bury,2-1,Bolton Wanderers
+Sat Oct 15 1966,Northampton Town,0-1,Huddersfield Town
+Sat Oct 15 1966,Hull City,3-1,Wolverhampton Wanderers
+Sat Oct 15 1966,Norwich City,2-0,Carlisle United
+Sat Oct 15 1966,Rotherham United,0-0,Derby County
+Sat Oct 15 1966,Plymouth Argyle,7-1,Cardiff City
+Sat Oct 15 1966,Birmingham City,4-0,Bristol City
+Sat Oct 15 1966,Preston North End,2-1,Charlton Athletic
+Sat Oct 15 1966,Millwall,1-1,Crystal Palace
+Sat Oct 15 1966,Coventry City,2-0,Blackburn Rovers
+Sat Oct 15 1966,Portsmouth,4-2,Ipswich Town
+Fri Oct 21 1966,Bristol City,3-3,Portsmouth
+Sat Oct 22 1966,Charlton Athletic,4-0,Bury
+Sat Oct 22 1966,Huddersfield Town,2-0,Millwall
+Sat Oct 22 1966,Bolton Wanderers,1-1,Coventry City
+Sat Oct 22 1966,Blackburn Rovers,0-0,Norwich City
+Sat Oct 22 1966,Derby County,5-1,Preston North End
+Sat Oct 22 1966,Wolverhampton Wanderers,2-1,Plymouth Argyle
+Sat Oct 22 1966,Ipswich Town,5-4,Hull City
+Sat Oct 22 1966,Crystal Palace,1-1,Rotherham United
+Sat Oct 22 1966,Carlisle United,2-0,Birmingham City
+Mon Oct 24 1966,Preston North End,2-1,Millwall
+Sat Oct 29 1966,Rotherham United,4-2,Huddersfield Town
+Sat Oct 29 1966,Millwall,1-0,Cardiff City
+Sat Oct 29 1966,Northampton Town,0-4,Wolverhampton Wanderers
+Sat Oct 29 1966,Portsmouth,2-1,Carlisle United
+Sat Oct 29 1966,Plymouth Argyle,1-1,Ipswich Town
+Sat Oct 29 1966,Bury,2-2,Derby County
+Sat Oct 29 1966,Preston North End,1-0,Crystal Palace
+Sat Oct 29 1966,Coventry City,1-0,Charlton Athletic
+Sat Oct 29 1966,Hull City,0-2,Bristol City
+Sat Oct 29 1966,Norwich City,1-0,Bolton Wanderers
+Sat Oct 29 1966,Birmingham City,1-1,Blackburn Rovers
+Fri Nov 4 1966,Cardiff City,0-0,Rotherham United
+Sat Nov 5 1966,Bristol City,1-0,Plymouth Argyle
+Sat Nov 5 1966,Ipswich Town,6-1,Northampton Town
+Sat Nov 5 1966,Charlton Athletic,0-0,Norwich City
+Sat Nov 5 1966,Derby County,1-2,Coventry City
+Sat Nov 5 1966,Crystal Palace,3-1,Bury
+Sat Nov 5 1966,Blackburn Rovers,2-2,Portsmouth
+Sat Nov 5 1966,Huddersfield Town,1-0,Preston North End
+Sat Nov 5 1966,Bolton Wanderers,3-1,Birmingham City
+Sat Nov 5 1966,Carlisle United,2-0,Hull City
+Sat Nov 5 1966,Wolverhampton Wanderers,2-0,Millwall
+Sat Nov 12 1966,Rotherham United,2-2,Wolverhampton Wanderers
+Sat Nov 12 1966,Birmingham City,4-0,Charlton Athletic
+Sat Nov 12 1966,Norwich City,4-1,Derby County
+Sat Nov 12 1966,Bury,0-0,Huddersfield Town
+Sat Nov 12 1966,Millwall,1-0,Ipswich Town
+Sat Nov 12 1966,Plymouth Argyle,1-2,Carlisle United
+Sat Nov 12 1966,Coventry City,1-2,Crystal Palace
+Sat Nov 12 1966,Hull City,2-3,Blackburn Rovers
+Sat Nov 12 1966,Portsmouth,2-1,Bolton Wanderers
+Sat Nov 12 1966,Northampton Town,2-1,Bristol City
+Sat Nov 12 1966,Preston North End,4-0,Cardiff City
+Sat Nov 19 1966,Bristol City,1-1,Millwall
+Sat Nov 19 1966,Ipswich Town,3-2,Rotherham United
+Sat Nov 19 1966,Crystal Palace,0-0,Norwich City
+Sat Nov 19 1966,Wolverhampton Wanderers,3-2,Preston North End
+Sat Nov 19 1966,Charlton Athletic,0-2,Portsmouth
+Sat Nov 19 1966,Blackburn Rovers,3-0,Plymouth Argyle
+Sat Nov 19 1966,Cardiff City,3-0,Bury
+Sat Nov 19 1966,Derby County,1-2,Birmingham City
+Sat Nov 19 1966,Bolton Wanderers,2-1,Hull City
+Sat Nov 19 1966,Huddersfield Town,3-1,Coventry City
+Sat Nov 19 1966,Carlisle United,2-0,Northampton Town
+Sat Nov 26 1966,Preston North End,2-0,Ipswich Town
+Sat Nov 26 1966,Birmingham City,3-1,Crystal Palace
+Sat Nov 26 1966,Bury,2-1,Wolverhampton Wanderers
+Sat Nov 26 1966,Millwall,2-1,Carlisle United
+Sat Nov 26 1966,Coventry City,3-2,Cardiff City
+Sat Nov 26 1966,Northampton Town,2-1,Blackburn Rovers
+Sat Nov 26 1966,Norwich City,0-0,Huddersfield Town
+Sat Nov 26 1966,Rotherham United,3-3,Bristol City
+Sat Nov 26 1966,Plymouth Argyle,2-0,Bolton Wanderers
+Sat Nov 26 1966,Hull City,2-2,Charlton Athletic
+Sat Nov 26 1966,Portsmouth,0-3,Derby County
+Sat Dec 3 1966,Carlisle United,2-3,Rotherham United
+Sat Dec 3 1966,Bristol City,2-0,Preston North End
+Sat Dec 3 1966,Derby County,2-3,Hull City
+Sat Dec 3 1966,Crystal Palace,0-2,Portsmouth
+Sat Dec 3 1966,Bolton Wanderers,1-2,Northampton Town
+Sat Dec 3 1966,Blackburn Rovers,1-0,Millwall
+Sat Dec 3 1966,Charlton Athletic,1-0,Plymouth Argyle
+Sat Dec 3 1966,Wolverhampton Wanderers,1-3,Coventry City
+Sat Dec 3 1966,Cardiff City,2-0,Norwich City
+Sat Dec 3 1966,Ipswich Town,2-0,Bury
+Sat Dec 3 1966,Huddersfield Town,3-1,Birmingham City
+Fri Dec 9 1966,Coventry City,5-0,Ipswich Town
+Sat Dec 10 1966,Portsmouth,1-1,Huddersfield Town
+Sat Dec 10 1966,Birmingham City,1-2,Cardiff City
+Sat Dec 10 1966,Rotherham United,2-1,Blackburn Rovers
+Sat Dec 10 1966,Norwich City,1-2,Wolverhampton Wanderers
+Sat Dec 10 1966,Hull City,6-1,Crystal Palace
+Sat Dec 10 1966,Millwall,2-0,Bolton Wanderers
+Sat Dec 10 1966,Plymouth Argyle,1-2,Derby County
+Sat Dec 10 1966,Preston North End,2-3,Carlisle United
+Sat Dec 10 1966,Bury,2-1,Bristol City
+Wed Dec 14 1966,Cardiff City,4-2,Northampton Town
+Sat Dec 17 1966,Northampton Town,1-5,Preston North End
+Sat Dec 17 1966,Plymouth Argyle,4-1,Bury
+Sat Dec 17 1966,Carlisle United,3-0,Crystal Palace
+Sat Dec 17 1966,Hull City,2-2,Coventry City
+Sat Dec 17 1966,Bolton Wanderers,2-1,Charlton Athletic
+Sat Dec 17 1966,Bristol City,1-1,Huddersfield Town
+Sat Dec 17 1966,Ipswich Town,0-0,Cardiff City
+Sat Dec 17 1966,Blackburn Rovers,0-0,Derby County
+Sat Dec 17 1966,Portsmouth,3-3,Norwich City
+Sat Dec 17 1966,Millwall,2-0,Rotherham United
+Sat Dec 17 1966,Birmingham City,3-2,Wolverhampton Wanderers
+Tue Dec 20 1966,Charlton Athletic,2-1,Ipswich Town
+Sat Dec 24 1966,Wolverhampton Wanderers,5-3,Derby County
+Sat Dec 24 1966,Preston North End,2-2,Bury
+Mon Dec 26 1966,Portsmouth,2-1,Plymouth Argyle
+Mon Dec 26 1966,Ipswich Town,0-0,Charlton Athletic
+Mon Dec 26 1966,Carlisle United,1-2,Blackburn Rovers
+Mon Dec 26 1966,Hull City,2-0,Huddersfield Town
+Mon Dec 26 1966,Bristol City,1-1,Bolton Wanderers
+Mon Dec 26 1966,Coventry City,4-2,Rotherham United
+Mon Dec 26 1966,Derby County,0-3,Wolverhampton Wanderers
+Mon Dec 26 1966,Birmingham City,3-0,Northampton Town
+Mon Dec 26 1966,Cardiff City,1-2,Crystal Palace
+Mon Dec 26 1966,Millwall,2-1,Norwich City
+Tue Dec 27 1966,Bury,3-4,Preston North End
+Tue Dec 27 1966,Northampton Town,2-1,Birmingham City
+Tue Dec 27 1966,Norwich City,1-1,Millwall
+Tue Dec 27 1966,Huddersfield Town,1-0,Hull City
+Tue Dec 27 1966,Blackburn Rovers,2-0,Carlisle United
+Tue Dec 27 1966,Plymouth Argyle,0-0,Portsmouth
+Tue Dec 27 1966,Crystal Palace,3-1,Cardiff City
+Tue Dec 27 1966,Rotherham United,1-1,Coventry City
+Sat Dec 31 1966,Bury,3-2,Hull City
+Sat Dec 31 1966,Wolverhampton Wanderers,0-0,Ipswich Town
+Sat Dec 31 1966,Coventry City,5-1,Portsmouth
+Sat Dec 31 1966,Cardiff City,5-1,Bristol City
+Sat Dec 31 1966,Crystal Palace,2-1,Blackburn Rovers
+Sat Dec 31 1966,Norwich City,3-3,Birmingham City
+Sat Dec 31 1966,Huddersfield Town,1-1,Carlisle United
+Sat Dec 31 1966,Derby County,2-2,Bolton Wanderers
+Sat Dec 31 1966,Charlton Athletic,0-0,Millwall
+Sat Dec 31 1966,Rotherham United,1-2,Northampton Town
+Sat Dec 31 1966,Preston North End,2-0,Plymouth Argyle
+Sat Jan 7 1967,Plymouth Argyle,1-0,Rotherham United
+Sat Jan 7 1967,Bristol City,1-0,Wolverhampton Wanderers
+Sat Jan 7 1967,Hull City,2-2,Preston North End
+Sat Jan 7 1967,Northampton Town,1-2,Millwall
+Sat Jan 7 1967,Carlisle United,3-0,Cardiff City
+Sat Jan 7 1967,Portsmouth,1-2,Bury
+Sat Jan 7 1967,Birmingham City,1-1,Coventry City
+Sat Jan 7 1967,Charlton Athletic,3-1,Derby County
+Sat Jan 14 1967,Bury,0-2,Birmingham City
+Sat Jan 14 1967,Wolverhampton Wanderers,1-1,Carlisle United
+Sat Jan 14 1967,Derby County,4-3,Northampton Town
+Sat Jan 14 1967,Preston North End,1-0,Portsmouth
+Sat Jan 14 1967,Coventry City,2-1,Norwich City
+Sat Jan 14 1967,Millwall,1-2,Plymouth Argyle
+Sat Jan 14 1967,Huddersfield Town,2-1,Bolton Wanderers
+Sat Jan 14 1967,Crystal Palace,1-0,Charlton Athletic
+Sat Jan 14 1967,Rotherham United,1-1,Hull City
+Sat Jan 14 1967,Cardiff City,1-1,Blackburn Rovers
+Sat Jan 14 1967,Ipswich Town,0-0,Bristol City
+Tue Jan 17 1967,Northampton Town,1-1,Charlton Athletic
+Sat Jan 21 1967,Derby County,2-0,Crystal Palace
+Sat Jan 21 1967,Norwich City,2-0,Bury
+Sat Jan 21 1967,Blackburn Rovers,0-0,Wolverhampton Wanderers
+Sat Jan 21 1967,Bristol City,2-2,Coventry City
+Sat Jan 21 1967,Portsmouth,3-2,Rotherham United
+Sat Jan 21 1967,Charlton Athletic,1-2,Huddersfield Town
+Sat Jan 21 1967,Birmingham City,3-1,Preston North End
+Sat Jan 21 1967,Bolton Wanderers,3-1,Cardiff City
+Sat Jan 21 1967,Hull City,2-0,Millwall
+Sat Jan 21 1967,Carlisle United,2-1,Ipswich Town
+Sat Jan 21 1967,Plymouth Argyle,1-0,Northampton Town
+Fri Feb 3 1967,Cardiff City,4-1,Charlton Athletic
+Sat Feb 4 1967,Ipswich Town,1-1,Blackburn Rovers
+Sat Feb 4 1967,Bury,0-1,Coventry City
+Sat Feb 4 1967,Wolverhampton Wanderers,5-2,Bolton Wanderers
+Sat Feb 4 1967,Northampton Town,2-2,Hull City
+Sat Feb 4 1967,Huddersfield Town,1-0,Derby County
+Sat Feb 4 1967,Crystal Palace,2-1,Plymouth Argyle
+Sat Feb 4 1967,Bristol City,3-0,Carlisle United
+Sat Feb 4 1967,Millwall,1-1,Portsmouth
+Sat Feb 4 1967,Preston North End,3-1,Norwich City
+Sat Feb 4 1967,Rotherham United,3-2,Birmingham City
+Sat Feb 11 1967,Carlisle United,2-0,Bury
+Sat Feb 11 1967,Portsmouth,3-2,Northampton Town
+Sat Feb 11 1967,Birmingham City,2-0,Millwall
+Sat Feb 11 1967,Derby County,1-1,Cardiff City
+Sat Feb 11 1967,Norwich City,1-0,Rotherham United
+Sat Feb 11 1967,Coventry City,2-1,Preston North End
+Sat Feb 11 1967,Hull City,4-2,Plymouth Argyle
+Sat Feb 11 1967,Charlton Athletic,1-3,Wolverhampton Wanderers
+Sat Feb 11 1967,Blackburn Rovers,1-0,Bristol City
+Sat Feb 11 1967,Crystal Palace,1-1,Huddersfield Town
+Sat Feb 11 1967,Bolton Wanderers,1-1,Ipswich Town
+Sat Feb 18 1967,Blackburn Rovers,2-0,Huddersfield Town
+Sat Feb 18 1967,Charlton Athletic,1-2,Coventry City
+Sat Feb 25 1967,Norwich City,1-0,Bristol City
+Sat Feb 25 1967,Northampton Town,1-0,Crystal Palace
+Sat Feb 25 1967,Plymouth Argyle,2-3,Huddersfield Town
+Sat Feb 25 1967,Coventry City,2-1,Carlisle United
+Sat Feb 25 1967,Bury,1-2,Blackburn Rovers
+Sat Feb 25 1967,Birmingham City,2-2,Ipswich Town
+Sat Feb 25 1967,Millwall,3-2,Derby County
+Sat Feb 25 1967,Portsmouth,2-3,Wolverhampton Wanderers
+Sat Feb 25 1967,Rotherham United,2-0,Charlton Athletic
+Sat Feb 25 1967,Hull City,1-0,Cardiff City
+Sat Feb 25 1967,Preston North End,1-3,Bolton Wanderers
+Sat Mar 4 1967,Derby County,3-1,Bury
+Sat Mar 4 1967,Cardiff City,1-1,Millwall
+Sat Mar 4 1967,Carlisle United,5-1,Portsmouth
+Sat Mar 4 1967,Bristol City,2-1,Hull City
+Sat Mar 4 1967,Blackburn Rovers,1-0,Birmingham City
+Sat Mar 4 1967,Ipswich Town,1-1,Plymouth Argyle
+Sat Mar 4 1967,Bolton Wanderers,1-1,Norwich City
+Sat Mar 4 1967,Wolverhampton Wanderers,1-0,Northampton Town
+Sat Mar 4 1967,Huddersfield Town,3-0,Rotherham United
+Tue Mar 7 1967,Crystal Palace,1-0,Preston North End
+Sat Mar 11 1967,Charlton Athletic,2-0,Preston North End
+Sat Mar 11 1967,Northampton Town,0-0,Coventry City
+Sat Mar 11 1967,Bolton Wanderers,0-0,Crystal Palace
+Sat Mar 18 1967,Portsmouth,1-1,Bristol City
+Sat Mar 18 1967,Rotherham United,0-1,Crystal Palace
+Sat Mar 18 1967,Northampton Town,2-0,Cardiff City
+Sat Mar 18 1967,Birmingham City,1-2,Carlisle United
+Sat Mar 18 1967,Plymouth Argyle,0-1,Wolverhampton Wanderers
+Sat Mar 18 1967,Coventry City,1-1,Bolton Wanderers
+Sat Mar 18 1967,Millwall,1-3,Huddersfield Town
+Sat Mar 18 1967,Bury,2-1,Charlton Athletic
+Sat Mar 18 1967,Norwich City,0-1,Blackburn Rovers
+Sat Mar 18 1967,Hull City,1-1,Ipswich Town
+Sat Mar 18 1967,Preston North End,2-0,Derby County
+Wed Mar 22 1967,Cardiff City,0-0,Portsmouth
+Fri Mar 24 1967,Charlton Athletic,1-0,Carlisle United
+Fri Mar 24 1967,Millwall,2-0,Bury
+Fri Mar 24 1967,Plymouth Argyle,2-2,Norwich City
+Sat Mar 25 1967,Cardiff City,4-1,Plymouth Argyle
+Sat Mar 25 1967,Blackburn Rovers,0-1,Coventry City
+Sat Mar 25 1967,Ipswich Town,4-2,Portsmouth
+Sat Mar 25 1967,Crystal Palace,1-2,Millwall
+Sat Mar 25 1967,Bolton Wanderers,3-1,Bury
+Sat Mar 25 1967,Bristol City,3-1,Birmingham City
+Sat Mar 25 1967,Wolverhampton Wanderers,4-0,Hull City
+Sat Mar 25 1967,Huddersfield Town,0-2,Northampton Town
+Sat Mar 25 1967,Derby County,2-0,Rotherham United
+Mon Mar 27 1967,Norwich City,3-1,Plymouth Argyle
+Mon Mar 27 1967,Rotherham United,2-1,Preston North End
+Mon Mar 27 1967,Crystal Palace,0-2,Ipswich Town
+Mon Mar 27 1967,Portsmouth,1-2,Cardiff City
+Mon Mar 27 1967,Bolton Wanderers,0-1,Blackburn Rovers
+Mon Mar 27 1967,Birmingham City,2-1,Hull City
+Mon Mar 27 1967,Derby County,2-0,Bristol City
+Mon Mar 27 1967,Huddersfield Town,0-1,Wolverhampton Wanderers
+Tue Mar 28 1967,Coventry City,2-0,Northampton Town
+Tue Mar 28 1967,Preston North End,1-1,Rotherham United
+Tue Mar 28 1967,Bristol City,4-1,Derby County
+Tue Mar 28 1967,Bury,0-1,Millwall
+Tue Mar 28 1967,Ipswich Town,2-0,Crystal Palace
+Tue Mar 28 1967,Carlisle United,1-0,Charlton Athletic
+Tue Mar 28 1967,Hull City,0-2,Birmingham City
+Tue Mar 28 1967,Wolverhampton Wanderers,1-0,Huddersfield Town
+Sat Apr 1 1967,Rotherham United,4-1,Cardiff City
+Sat Apr 1 1967,Northampton Town,1-1,Ipswich Town
+Sat Apr 1 1967,Preston North End,1-2,Huddersfield Town
+Sat Apr 1 1967,Coventry City,2-2,Derby County
+Sat Apr 1 1967,Plymouth Argyle,1-2,Bristol City
+Sat Apr 1 1967,Norwich City,1-1,Charlton Athletic
+Sat Apr 1 1967,Portsmouth,1-1,Blackburn Rovers
+Sat Apr 1 1967,Birmingham City,2-2,Bolton Wanderers
+Sat Apr 1 1967,Millwall,1-1,Wolverhampton Wanderers
+Sat Apr 1 1967,Hull City,1-2,Carlisle United
+Sat Apr 1 1967,Bury,1-1,Crystal Palace
+Fri Apr 7 1967,Bristol City,1-0,Northampton Town
+Sat Apr 8 1967,Blackburn Rovers,4-1,Hull City
+Sat Apr 8 1967,Huddersfield Town,4-2,Bury
+Sat Apr 8 1967,Derby County,1-1,Norwich City
+Sat Apr 8 1967,Carlisle United,0-0,Plymouth Argyle
+Sat Apr 8 1967,Bolton Wanderers,0-1,Portsmouth
+Sat Apr 8 1967,Ipswich Town,4-1,Millwall
+Sat Apr 8 1967,Cardiff City,4-0,Preston North End
+Sat Apr 8 1967,Crystal Palace,1-1,Coventry City
+Sat Apr 8 1967,Wolverhampton Wanderers,2-0,Rotherham United
+Sat Apr 15 1967,Rotherham United,0-2,Ipswich Town
+Sat Apr 15 1967,Northampton Town,3-3,Carlisle United
+Sat Apr 15 1967,Coventry City,1-0,Huddersfield Town
+Sat Apr 15 1967,Norwich City,4-3,Crystal Palace
+Sat Apr 15 1967,Birmingham City,2-0,Derby County
+Sat Apr 15 1967,Bury,2-0,Cardiff City
+Sat Apr 15 1967,Portsmouth,1-2,Charlton Athletic
+Sat Apr 15 1967,Plymouth Argyle,4-0,Blackburn Rovers
+Sat Apr 15 1967,Millwall,3-2,Bristol City
+Sat Apr 15 1967,Hull City,1-1,Bolton Wanderers
+Sat Apr 15 1967,Preston North End,1-2,Wolverhampton Wanderers
+Tue Apr 18 1967,Ipswich Town,0-2,Norwich City
+Wed Apr 19 1967,Bolton Wanderers,0-0,Bristol City
+Sat Apr 22 1967,Charlton Athletic,1-3,Hull City
+Sat Apr 22 1967,Bolton Wanderers,1-2,Plymouth Argyle
+Sat Apr 22 1967,Derby County,0-0,Portsmouth
+Sat Apr 22 1967,Cardiff City,1-1,Coventry City
+Sat Apr 22 1967,Wolverhampton Wanderers,4-1,Bury
+Sat Apr 22 1967,Ipswich Town,0-0,Preston North End
+Sat Apr 22 1967,Crystal Palace,2-1,Birmingham City
+Sat Apr 22 1967,Huddersfield Town,0-1,Norwich City
+Sat Apr 22 1967,Blackburn Rovers,3-0,Northampton Town
+Sat Apr 22 1967,Carlisle United,2-1,Millwall
+Sat Apr 22 1967,Bristol City,1-2,Rotherham United
+Tue Apr 25 1967,Blackburn Rovers,0-0,Bolton Wanderers
+Thu Apr 27 1967,Hull City,1-3,Derby County
+Fri Apr 28 1967,Bury,1-2,Ipswich Town
+Fri Apr 28 1967,Birmingham City,0-1,Huddersfield Town
+Sat Apr 29 1967,Coventry City,3-1,Wolverhampton Wanderers
+Sat Apr 29 1967,Rotherham United,2-3,Carlisle United
+Sat Apr 29 1967,Norwich City,3-2,Cardiff City
+Sat Apr 29 1967,Millwall,1-1,Blackburn Rovers
+Sat Apr 29 1967,Northampton Town,2-1,Bolton Wanderers
+Sat Apr 29 1967,Plymouth Argyle,2-1,Charlton Athletic
+Sat Apr 29 1967,Portsmouth,1-1,Crystal Palace
+Sat Apr 29 1967,Preston North End,2-2,Bristol City
+Sat May 6 1967,Crystal Palace,4-1,Hull City
+Sat May 6 1967,Ipswich Town,1-1,Coventry City
+Sat May 6 1967,Bolton Wanderers,5-0,Millwall
+Sat May 6 1967,Carlisle United,1-1,Preston North End
+Sat May 6 1967,Blackburn Rovers,1-1,Rotherham United
+Sat May 6 1967,Derby County,1-1,Plymouth Argyle
+Sat May 6 1967,Bristol City,3-3,Bury
+Sat May 6 1967,Cardiff City,3-0,Birmingham City
+Sat May 6 1967,Huddersfield Town,1-1,Portsmouth
+Sat May 6 1967,Wolverhampton Wanderers,4-1,Norwich City
+Sat May 6 1967,Charlton Athletic,3-0,Northampton Town
+Fri May 12 1967,Charlton Athletic,1-0,Birmingham City
+Sat May 13 1967,Coventry City,3-1,Millwall
+Sat May 13 1967,Norwich City,1-0,Northampton Town
+Sat May 13 1967,Carlisle United,6-1,Bolton Wanderers
+Sat May 13 1967,Crystal Palace,4-1,Wolverhampton Wanderers
+Sat May 13 1967,Rotherham United,3-0,Bury
+Sat May 13 1967,Huddersfield Town,3-1,Cardiff City

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 19 1961,Bolton Wanderers,0-0,Ipswich Town
+Sat Aug 19 1961,Everton,2-0,Aston Villa
+Sat Aug 19 1961,Birmingham City,2-1,Fulham
+Sat Aug 19 1961,Blackpool,1-2,Tottenham Hotspur
+Sat Aug 19 1961,West Bromwich Albion,0-2,Sheffield Wednesday
+Sat Aug 19 1961,Arsenal,2-2,Burnley
+Sat Aug 19 1961,Sheffield United,2-1,Wolverhampton Wanderers
+Sat Aug 19 1961,Manchester City,3-1,Leicester City
+Sat Aug 19 1961,Chelsea,2-2,Nottingham Forest
+Sat Aug 19 1961,West Ham United,1-1,Manchester United
+Sat Aug 19 1961,Blackburn Rovers,0-0,Cardiff City
+Mon Aug 21 1961,Blackpool,2-1,Blackburn Rovers
+Tue Aug 22 1961,Nottingham Forest,2-1,Birmingham City
+Tue Aug 22 1961,Burnley,4-3,Ipswich Town
+Wed Aug 23 1961,Cardiff City,1-1,Sheffield United
+Wed Aug 23 1961,Fulham,3-4,Manchester City
+Wed Aug 23 1961,West Bromwich Albion,2-0,Everton
+Wed Aug 23 1961,Manchester United,3-2,Chelsea
+Wed Aug 23 1961,Tottenham Hotspur,2-2,West Ham United
+Wed Aug 23 1961,Leicester City,0-1,Arsenal
+Wed Aug 23 1961,Sheffield Wednesday,4-2,Bolton Wanderers
+Sat Aug 26 1961,Wolverhampton Wanderers,3-2,West Ham United
+Sat Aug 26 1961,Ipswich Town,2-4,Manchester City
+Sat Aug 26 1961,Tottenham Hotspur,4-3,Arsenal
+Sat Aug 26 1961,Manchester United,6-1,Blackburn Rovers
+Sat Aug 26 1961,Cardiff City,3-2,Blackpool
+Sat Aug 26 1961,Burnley,3-1,Bolton Wanderers
+Sat Aug 26 1961,Leicester City,1-0,West Bromwich Albion
+Sat Aug 26 1961,Aston Villa,3-1,Chelsea
+Sat Aug 26 1961,Nottingham Forest,2-0,Sheffield United
+Sat Aug 26 1961,Sheffield Wednesday,5-1,Birmingham City
+Sat Aug 26 1961,Fulham,2-1,Everton
+Mon Aug 28 1961,West Ham United,2-1,Tottenham Hotspur
+Mon Aug 28 1961,Sheffield United,1-0,Cardiff City
+Mon Aug 28 1961,Wolverhampton Wanderers,2-2,Aston Villa
+Mon Aug 28 1961,Blackburn Rovers,1-1,Blackpool
+Tue Aug 29 1961,Arsenal,4-4,Leicester City
+Tue Aug 29 1961,Ipswich Town,6-2,Burnley
+Wed Aug 30 1961,Everton,3-1,West Bromwich Albion
+Wed Aug 30 1961,Bolton Wanderers,4-3,Sheffield Wednesday
+Wed Aug 30 1961,Manchester City,2-1,Fulham
+Wed Aug 30 1961,Birmingham City,1-1,Nottingham Forest
+Wed Aug 30 1961,Chelsea,2-0,Manchester United
+Sat Sep 2 1961,Manchester City,1-3,Burnley
+Sat Sep 2 1961,Chelsea,0-0,Fulham
+Sat Sep 2 1961,West Ham United,3-2,Nottingham Forest
+Sat Sep 2 1961,Bolton Wanderers,2-1,Arsenal
+Sat Sep 2 1961,Sheffield United,0-2,Aston Villa
+Sat Sep 2 1961,Tottenham Hotspur,3-2,Cardiff City
+Sat Sep 2 1961,Birmingham City,1-5,Leicester City
+Sat Sep 2 1961,West Bromwich Albion,1-3,Ipswich Town
+Sat Sep 2 1961,Blackburn Rovers,2-1,Wolverhampton Wanderers
+Sat Sep 2 1961,Blackpool,2-3,Manchester United
+Sat Sep 2 1961,Everton,0-4,Sheffield Wednesday
+Mon Sep 4 1961,Blackpool,2-0,West Ham United
+Mon Sep 4 1961,Sheffield United,1-1,Tottenham Hotspur
+Tue Sep 5 1961,Ipswich Town,2-1,Blackburn Rovers
+Tue Sep 5 1961,Burnley,2-0,Leicester City
+Wed Sep 6 1961,Everton,0-2,Manchester City
+Wed Sep 6 1961,Cardiff City,5-2,Chelsea
+Wed Sep 6 1961,West Bromwich Albion,0-0,Birmingham City
+Wed Sep 6 1961,Fulham,2-2,Bolton Wanderers
+Sat Sep 9 1961,Arsenal,3-0,Manchester City
+Sat Sep 9 1961,Ipswich Town,4-1,Birmingham City
+Sat Sep 9 1961,Nottingham Forest,1-2,Blackburn Rovers
+Sat Sep 9 1961,Leicester City,2-0,Everton
+Sat Sep 9 1961,Burnley,3-1,West Bromwich Albion
+Sat Sep 9 1961,Cardiff City,1-2,Bolton Wanderers
+Sat Sep 9 1961,Sheffield Wednesday,1-1,Fulham
+Sat Sep 9 1961,Aston Villa,2-4,West Ham United
+Sat Sep 9 1961,Chelsea,6-1,Sheffield United
+Sat Sep 9 1961,Wolverhampton Wanderers,2-2,Blackpool
+Sat Sep 9 1961,Manchester United,1-0,Tottenham Hotspur
+Sat Sep 16 1961,Cardiff City,1-2,Manchester United
+Sat Sep 16 1961,West Bromwich Albion,4-0,Arsenal
+Sat Sep 16 1961,Manchester City,2-1,Bolton Wanderers
+Sat Sep 16 1961,Sheffield United,1-0,Sheffield Wednesday
+Sat Sep 16 1961,Everton,5-2,Ipswich Town
+Sat Sep 16 1961,Fulham,2-1,Leicester City
+Sat Sep 16 1961,Tottenham Hotspur,1-0,Wolverhampton Wanderers
+Sat Sep 16 1961,West Ham United,2-1,Chelsea
+Sat Sep 16 1961,Blackpool,1-3,Nottingham Forest
+Sat Sep 16 1961,Birmingham City,2-6,Burnley
+Sat Sep 16 1961,Blackburn Rovers,4-2,Aston Villa
+Mon Sep 18 1961,Aston Villa,1-1,Manchester United
+Mon Sep 18 1961,West Ham United,2-2,Blackpool
+Mon Sep 18 1961,Blackburn Rovers,2-2,Ipswich Town
+Tue Sep 19 1961,Nottingham Forest,3-1,Wolverhampton Wanderers
+Wed Sep 20 1961,Manchester City,1-3,Everton
+Wed Sep 20 1961,Leicester City,2-6,Burnley
+Wed Sep 20 1961,Birmingham City,1-2,West Bromwich Albion
+Wed Sep 20 1961,Bolton Wanderers,2-3,Fulham
+Wed Sep 20 1961,Chelsea,2-3,Cardiff City
+Wed Sep 20 1961,Sheffield Wednesday,1-1,Arsenal
+Sat Sep 23 1961,Wolverhampton Wanderers,1-1,Cardiff City
+Sat Sep 23 1961,Ipswich Town,2-4,Fulham
+Sat Sep 23 1961,Arsenal,1-1,Birmingham City
+Sat Sep 23 1961,Bolton Wanderers,3-2,West Bromwich Albion
+Sat Sep 23 1961,Leicester City,1-0,Sheffield Wednesday
+Sat Sep 23 1961,Burnley,2-1,Everton
+Sat Sep 23 1961,Sheffield United,1-4,West Ham United
+Sat Sep 23 1961,Aston Villa,5-0,Blackpool
+Sat Sep 23 1961,Manchester United,3-2,Manchester City
+Sat Sep 23 1961,Chelsea,1-1,Blackburn Rovers
+Sat Sep 23 1961,Nottingham Forest,2-0,Tottenham Hotspur
+Wed Sep 27 1961,Wolverhampton Wanderers,2-1,Nottingham Forest
+Sat Sep 30 1961,Everton,4-1,Arsenal
+Sat Sep 30 1961,West Bromwich Albion,2-2,Manchester City
+Sat Sep 30 1961,Blackburn Rovers,1-2,Sheffield United
+Sat Sep 30 1961,Tottenham Hotspur,1-0,Aston Villa
+Sat Sep 30 1961,Fulham,3-5,Burnley
+Sat Sep 30 1961,Manchester United,0-2,Wolverhampton Wanderers
+Sat Sep 30 1961,Sheffield Wednesday,1-4,Ipswich Town
+Sat Sep 30 1961,Birmingham City,2-1,Bolton Wanderers
+Sat Sep 30 1961,West Ham United,4-1,Leicester City
+Sat Sep 30 1961,Cardiff City,2-2,Nottingham Forest
+Sat Sep 30 1961,Blackpool,4-0,Chelsea
+Mon Oct 2 1961,Aston Villa,1-0,Wolverhampton Wanderers
+Sat Oct 7 1961,Manchester City,1-2,Cardiff City
+Sat Oct 7 1961,Everton,6-0,Nottingham Forest
+Sat Oct 7 1961,Arsenal,3-0,Blackpool
+Sat Oct 7 1961,Fulham,3-1,Aston Villa
+Sat Oct 7 1961,Birmingham City,3-6,Wolverhampton Wanderers
+Sat Oct 7 1961,West Bromwich Albion,1-1,Manchester United
+Sat Oct 7 1961,Leicester City,4-1,Sheffield United
+Sat Oct 7 1961,Ipswich Town,4-2,West Ham United
+Sat Oct 7 1961,Sheffield Wednesday,5-3,Chelsea
+Mon Oct 9 1961,Bolton Wanderers,1-2,Tottenham Hotspur
+Sat Oct 14 1961,Wolverhampton Wanderers,0-3,Everton
+Sat Oct 14 1961,Manchester United,0-2,Birmingham City
+Sat Oct 14 1961,Blackpool,2-1,Bolton Wanderers
+Sat Oct 14 1961,Tottenham Hotspur,2-0,Manchester City
+Sat Oct 14 1961,Sheffield United,2-1,Ipswich Town
+Sat Oct 14 1961,Chelsea,1-3,Leicester City
+Sat Oct 14 1961,Nottingham Forest,1-1,Fulham
+Sat Oct 14 1961,West Ham United,2-1,Burnley
+Sat Oct 14 1961,Blackburn Rovers,0-0,Arsenal
+Mon Oct 16 1961,Aston Villa,1-0,Sheffield Wednesday
+Wed Oct 18 1961,Cardiff City,2-2,West Bromwich Albion
+Sat Oct 21 1961,West Bromwich Albion,1-1,Aston Villa
+Sat Oct 21 1961,Sheffield Wednesday,1-0,Blackburn Rovers
+Sat Oct 21 1961,Bolton Wanderers,1-0,Wolverhampton Wanderers
+Sat Oct 21 1961,Ipswich Town,3-2,Tottenham Hotspur
+Sat Oct 21 1961,Fulham,2-0,West Ham United
+Sat Oct 21 1961,Arsenal,5-1,Manchester United
+Sat Oct 21 1961,Manchester City,3-0,Nottingham Forest
+Sat Oct 21 1961,Everton,1-0,Sheffield United
+Sat Oct 21 1961,Leicester City,0-2,Blackpool
+Sat Oct 21 1961,Burnley,2-1,Cardiff City
+Sat Oct 21 1961,Birmingham City,3-2,Chelsea
+Sat Oct 28 1961,Wolverhampton Wanderers,4-1,Manchester City
+Sat Oct 28 1961,Blackpool,1-1,Ipswich Town
+Sat Oct 28 1961,Nottingham Forest,4-4,West Bromwich Albion
+Sat Oct 28 1961,Blackburn Rovers,2-1,Leicester City
+Sat Oct 28 1961,Tottenham Hotspur,4-2,Burnley
+Sat Oct 28 1961,Cardiff City,1-1,Arsenal
+Sat Oct 28 1961,Aston Villa,1-3,Birmingham City
+Sat Oct 28 1961,Manchester United,0-3,Bolton Wanderers
+Sat Oct 28 1961,Sheffield United,2-2,Fulham
+Sat Oct 28 1961,Chelsea,1-1,Everton
+Sat Oct 28 1961,West Ham United,2-3,Sheffield Wednesday
+Sat Nov 4 1961,Arsenal,0-3,Chelsea
+Sat Nov 4 1961,Birmingham City,1-1,Blackpool
+Sat Nov 4 1961,Ipswich Town,1-0,Nottingham Forest
+Sat Nov 4 1961,Fulham,0-1,Cardiff City
+Sat Nov 4 1961,Manchester City,3-5,West Ham United
+Sat Nov 4 1961,West Bromwich Albion,4-0,Blackburn Rovers
+Sat Nov 4 1961,Bolton Wanderers,2-0,Sheffield United
+Sat Nov 4 1961,Everton,3-0,Tottenham Hotspur
+Sat Nov 4 1961,Leicester City,3-0,Wolverhampton Wanderers
+Sat Nov 4 1961,Sheffield Wednesday,3-1,Manchester United
+Sat Nov 4 1961,Burnley,3-0,Aston Villa
+Sat Nov 11 1961,Cardiff City,2-1,Sheffield Wednesday
+Sat Nov 11 1961,Chelsea,1-0,Bolton Wanderers
+Sat Nov 11 1961,Wolverhampton Wanderers,2-0,Ipswich Town
+Sat Nov 11 1961,West Ham United,3-3,West Bromwich Albion
+Sat Nov 11 1961,Blackpool,1-1,Everton
+Sat Nov 11 1961,Blackburn Rovers,2-0,Birmingham City
+Sat Nov 11 1961,Manchester United,2-2,Leicester City
+Sat Nov 11 1961,Sheffield United,3-1,Manchester City
+Sat Nov 11 1961,Aston Villa,3-1,Arsenal
+Sat Nov 11 1961,Nottingham Forest,3-2,Burnley
+Sat Nov 11 1961,Tottenham Hotspur,4-2,Fulham
+Tue Nov 14 1961,Arsenal,1-0,Sheffield Wednesday
+Sat Nov 18 1961,Manchester City,2-2,Chelsea
+Sat Nov 18 1961,Sheffield Wednesday,0-0,Tottenham Hotspur
+Sat Nov 18 1961,Birmingham City,4-0,West Ham United
+Sat Nov 18 1961,West Bromwich Albion,3-1,Sheffield United
+Sat Nov 18 1961,Bolton Wanderers,1-1,Aston Villa
+Sat Nov 18 1961,Fulham,0-1,Blackpool
+Sat Nov 18 1961,Burnley,3-3,Wolverhampton Wanderers
+Sat Nov 18 1961,Arsenal,2-1,Nottingham Forest
+Sat Nov 18 1961,Everton,1-0,Blackburn Rovers
+Sat Nov 18 1961,Leicester City,3-0,Cardiff City
+Sat Nov 18 1961,Ipswich Town,4-1,Manchester United
+Sat Nov 25 1961,West Ham United,3-1,Everton
+Sat Nov 25 1961,Manchester United,1-4,Burnley
+Sat Nov 25 1961,Blackburn Rovers,0-2,Fulham
+Sat Nov 25 1961,Blackpool,1-3,Sheffield Wednesday
+Sat Nov 25 1961,Sheffield United,3-1,Birmingham City
+Sat Nov 25 1961,Tottenham Hotspur,1-2,Leicester City
+Sat Nov 25 1961,Nottingham Forest,0-1,Bolton Wanderers
+Sat Nov 25 1961,Aston Villa,2-1,Manchester City
+Sat Nov 25 1961,Cardiff City,0-3,Ipswich Town
+Sat Nov 25 1961,Wolverhampton Wanderers,2-3,Arsenal
+Sat Nov 25 1961,Chelsea,4-1,West Bromwich Albion
+Sat Dec 2 1961,Ipswich Town,5-2,Chelsea
+Sat Dec 2 1961,Arsenal,2-2,West Ham United
+Sat Dec 2 1961,West Bromwich Albion,2-4,Tottenham Hotspur
+Sat Dec 2 1961,Fulham,0-1,Wolverhampton Wanderers
+Sat Dec 2 1961,Birmingham City,3-0,Cardiff City
+Sat Dec 2 1961,Manchester City,2-4,Blackpool
+Sat Dec 2 1961,Bolton Wanderers,1-1,Blackburn Rovers
+Sat Dec 2 1961,Burnley,4-2,Sheffield United
+Sat Dec 2 1961,Leicester City,0-2,Aston Villa
+Sat Dec 2 1961,Sheffield Wednesday,3-0,Nottingham Forest
+Sat Dec 2 1961,Everton,5-1,Manchester United
+Sat Dec 9 1961,Chelsea,1-2,Burnley
+Sat Dec 9 1961,Blackpool,2-2,West Bromwich Albion
+Sat Dec 9 1961,Sheffield United,2-1,Arsenal
+Sat Dec 9 1961,Manchester United,3-0,Fulham
+Sat Dec 9 1961,Wolverhampton Wanderers,3-0,Sheffield Wednesday
+Sat Dec 9 1961,West Ham United,1-0,Bolton Wanderers
+Sat Dec 9 1961,Aston Villa,3-0,Ipswich Town
+Sat Dec 9 1961,Blackburn Rovers,4-1,Manchester City
+Sat Dec 9 1961,Tottenham Hotspur,3-1,Birmingham City
+Sat Dec 9 1961,Cardiff City,0-0,Everton
+Sat Dec 9 1961,Nottingham Forest,0-0,Leicester City
+Sat Dec 16 1961,Aston Villa,1-1,Everton
+Sat Dec 16 1961,Wolverhampton Wanderers,0-1,Sheffield United
+Sat Dec 16 1961,Sheffield Wednesday,2-1,West Bromwich Albion
+Sat Dec 16 1961,Tottenham Hotspur,5-2,Blackpool
+Sat Dec 16 1961,Leicester City,2-0,Manchester City
+Sat Dec 16 1961,Burnley,0-2,Arsenal
+Sat Dec 16 1961,Nottingham Forest,3-0,Chelsea
+Sat Dec 16 1961,Manchester United,1-2,West Ham United
+Sat Dec 16 1961,Ipswich Town,2-1,Bolton Wanderers
+Sat Dec 16 1961,Fulham,0-1,Birmingham City
+Sat Dec 16 1961,Cardiff City,1-1,Blackburn Rovers
+Mon Dec 18 1961,West Ham United,4-2,Wolverhampton Wanderers
+Fri Dec 22 1961,Sheffield United,2-0,Nottingham Forest
+Sat Dec 23 1961,Chelsea,1-0,Aston Villa
+Sat Dec 23 1961,Birmingham City,1-1,Sheffield Wednesday
+Sat Dec 23 1961,Arsenal,2-1,Tottenham Hotspur
+Sat Dec 23 1961,West Bromwich Albion,2-0,Leicester City
+Sat Dec 23 1961,Manchester City,3-0,Ipswich Town
+Sat Dec 23 1961,Blackpool,3-0,Cardiff City
+Sat Dec 23 1961,Everton,3-0,Fulham
+Tue Dec 26 1961,Arsenal,1-0,Fulham
+Tue Dec 26 1961,West Bromwich Albion,1-1,Wolverhampton Wanderers
+Tue Dec 26 1961,Everton,1-0,Bolton Wanderers
+Tue Dec 26 1961,Ipswich Town,1-0,Leicester City
+Tue Dec 26 1961,Birmingham City,1-1,Manchester City
+Tue Dec 26 1961,West Ham United,2-3,Blackburn Rovers
+Tue Dec 26 1961,Cardiff City,1-0,Aston Villa
+Tue Dec 26 1961,Chelsea,0-2,Tottenham Hotspur
+Tue Dec 26 1961,Sheffield United,2-1,Blackpool
+Tue Dec 26 1961,Manchester United,6-3,Nottingham Forest
+Tue Dec 26 1961,Burnley,4-0,Sheffield Wednesday
+Sat Dec 30 1961,Tottenham Hotspur,5-2,Chelsea
+Sat Jan 13 1962,Aston Villa,0-0,Sheffield United
+Sat Jan 13 1962,Arsenal,1-2,Bolton Wanderers
+Sat Jan 13 1962,Nottingham Forest,3-0,West Ham United
+Sat Jan 13 1962,Leicester City,1-2,Birmingham City
+Sat Jan 13 1962,Burnley,6-3,Manchester City
+Sat Jan 13 1962,Cardiff City,1-1,Tottenham Hotspur
+Sat Jan 13 1962,Fulham,3-4,Chelsea
+Sat Jan 13 1962,Ipswich Town,3-0,West Bromwich Albion
+Sat Jan 13 1962,Wolverhampton Wanderers,0-2,Blackburn Rovers
+Sat Jan 13 1962,Sheffield Wednesday,3-1,Everton
+Sat Jan 13 1962,Manchester United,0-1,Blackpool
+Mon Jan 15 1962,Manchester United,2-0,Aston Villa
+Sat Jan 20 1962,Blackpool,7-2,Wolverhampton Wanderers
+Sat Jan 20 1962,Manchester City,3-2,Arsenal
+Sat Jan 20 1962,West Bromwich Albion,1-1,Burnley
+Sat Jan 20 1962,West Ham United,2-0,Aston Villa
+Sat Jan 20 1962,Blackburn Rovers,2-1,Nottingham Forest
+Sat Jan 20 1962,Everton,3-2,Leicester City
+Sat Jan 20 1962,Tottenham Hotspur,2-2,Manchester United
+Sat Jan 20 1962,Bolton Wanderers,1-1,Cardiff City
+Sat Jan 20 1962,Birmingham City,3-1,Ipswich Town
+Sat Jan 20 1962,Fulham,0-2,Sheffield Wednesday
+Sat Jan 20 1962,Sheffield United,3-1,Chelsea
+Sat Feb 3 1962,Arsenal,0-1,West Bromwich Albion
+Sat Feb 3 1962,Bolton Wanderers,0-2,Manchester City
+Sat Feb 3 1962,Burnley,7-1,Birmingham City
+Sat Feb 3 1962,Nottingham Forest,3-4,Blackpool
+Sat Feb 3 1962,Aston Villa,1-0,Blackburn Rovers
+Sat Feb 3 1962,Ipswich Town,4-2,Everton
+Sat Feb 3 1962,Chelsea,0-1,West Ham United
+Sat Feb 3 1962,Manchester United,3-0,Cardiff City
+Sat Feb 3 1962,Wolverhampton Wanderers,3-1,Tottenham Hotspur
+Sat Feb 3 1962,Sheffield Wednesday,1-2,Sheffield United
+Sat Feb 3 1962,Leicester City,4-1,Fulham
+Fri Feb 9 1962,Cardiff City,2-3,Wolverhampton Wanderers
+Sat Feb 10 1962,West Ham United,1-2,Sheffield United
+Sat Feb 10 1962,Manchester City,0-2,Manchester United
+Sat Feb 10 1962,Sheffield Wednesday,1-2,Leicester City
+Sat Feb 10 1962,Everton,2-2,Burnley
+Sat Feb 10 1962,West Bromwich Albion,6-2,Bolton Wanderers
+Sat Feb 10 1962,Tottenham Hotspur,4-2,Nottingham Forest
+Sat Feb 10 1962,Fulham,1-2,Ipswich Town
+Sat Feb 10 1962,Birmingham City,1-0,Arsenal
+Sat Feb 10 1962,Blackburn Rovers,3-0,Chelsea
+Sat Feb 10 1962,Blackpool,1-2,Aston Villa
+Fri Feb 16 1962,Chelsea,1-0,Blackpool
+Sat Feb 17 1962,Leicester City,2-2,West Ham United
+Sat Feb 17 1962,Nottingham Forest,2-1,Cardiff City
+Sat Feb 17 1962,Bolton Wanderers,3-2,Birmingham City
+Tue Feb 20 1962,Burnley,2-1,Fulham
+Tue Feb 20 1962,Sheffield United,0-0,Blackburn Rovers
+Wed Feb 21 1962,Manchester City,3-1,West Bromwich Albion
+Wed Feb 21 1962,Aston Villa,0-0,Tottenham Hotspur
+Sat Feb 24 1962,Manchester United,4-1,West Bromwich Albion
+Sat Feb 24 1962,Aston Villa,2-0,Fulham
+Sat Feb 24 1962,Blackpool,0-1,Arsenal
+Sat Feb 24 1962,Tottenham Hotspur,2-2,Bolton Wanderers
+Sat Feb 24 1962,Sheffield United,3-1,Leicester City
+Sat Feb 24 1962,West Ham United,2-2,Ipswich Town
+Sat Feb 24 1962,Wolverhampton Wanderers,2-1,Birmingham City
+Sat Feb 24 1962,Chelsea,1-0,Sheffield Wednesday
+Sat Feb 24 1962,Cardiff City,0-0,Manchester City
+Sat Feb 24 1962,Nottingham Forest,2-1,Everton
+Sat Feb 24 1962,Blackburn Rovers,2-1,Burnley
+Wed Feb 28 1962,Wolverhampton Wanderers,2-2,Manchester United
+Sat Mar 3 1962,Birmingham City,1-1,Manchester United
+Sat Mar 3 1962,Fulham,1-1,Nottingham Forest
+Sat Mar 3 1962,Arsenal,0-0,Blackburn Rovers
+Sat Mar 3 1962,Everton,4-0,Wolverhampton Wanderers
+Sat Mar 3 1962,Bolton Wanderers,0-0,Blackpool
+Sat Mar 3 1962,Ipswich Town,4-0,Sheffield United
+Sat Mar 3 1962,Burnley,6-0,West Ham United
+Sat Mar 3 1962,Manchester City,6-2,Tottenham Hotspur
+Sat Mar 3 1962,Sheffield Wednesday,3-0,Aston Villa
+Sat Mar 3 1962,West Bromwich Albion,5-1,Cardiff City
+Fri Mar 9 1962,Ipswich Town,2-1,Sheffield Wednesday
+Fri Mar 9 1962,Chelsea,1-1,Birmingham City
+Sat Mar 10 1962,Blackpool,2-1,Leicester City
+Sat Mar 10 1962,Nottingham Forest,1-2,Manchester City
+Sat Mar 10 1962,Wolverhampton Wanderers,5-1,Bolton Wanderers
+Wed Mar 14 1962,Tottenham Hotspur,1-3,Ipswich Town
+Wed Mar 14 1962,Cardiff City,1-1,Burnley
+Wed Mar 14 1962,Aston Villa,1-0,West Bromwich Albion
+Wed Mar 14 1962,Sheffield United,1-1,Everton
+Sat Mar 17 1962,Burnley,2-2,Tottenham Hotspur
+Sat Mar 17 1962,Leicester City,2-0,Blackburn Rovers
+Sat Mar 17 1962,Sheffield Wednesday,0-0,West Ham United
+Sat Mar 17 1962,Ipswich Town,1-1,Blackpool
+Sat Mar 17 1962,Birmingham City,0-2,Aston Villa
+Sat Mar 17 1962,Bolton Wanderers,1-0,Manchester United
+Sat Mar 17 1962,Arsenal,1-1,Cardiff City
+Sat Mar 17 1962,Manchester City,2-2,Wolverhampton Wanderers
+Sat Mar 17 1962,Fulham,5-2,Sheffield United
+Sat Mar 17 1962,West Bromwich Albion,2-2,Nottingham Forest
+Sat Mar 17 1962,Everton,4-0,Chelsea
+Tue Mar 20 1962,Nottingham Forest,1-0,Manchester United
+Fri Mar 23 1962,Cardiff City,0-3,Fulham
+Sat Mar 24 1962,Nottingham Forest,1-1,Ipswich Town
+Sat Mar 24 1962,Chelsea,2-3,Arsenal
+Sat Mar 24 1962,Aston Villa,0-2,Burnley
+Sat Mar 24 1962,Manchester United,1-1,Sheffield Wednesday
+Sat Mar 24 1962,Tottenham Hotspur,3-1,Everton
+Sat Mar 24 1962,Blackburn Rovers,1-1,West Bromwich Albion
+Sat Mar 24 1962,Wolverhampton Wanderers,1-1,Leicester City
+Sat Mar 24 1962,Sheffield United,3-1,Bolton Wanderers
+Sat Mar 24 1962,Blackpool,1-0,Birmingham City
+Sat Mar 24 1962,West Ham United,0-4,Manchester City
+Wed Mar 28 1962,Blackburn Rovers,1-0,West Ham United
+Wed Mar 28 1962,Wolverhampton Wanderers,1-5,West Bromwich Albion
+Wed Mar 28 1962,Leicester City,0-2,Ipswich Town
+Fri Mar 30 1962,Everton,2-2,Blackpool
+Fri Mar 30 1962,Birmingham City,2-1,Blackburn Rovers
+Sat Mar 31 1962,West Bromwich Albion,0-1,West Ham United
+Sat Mar 31 1962,Arsenal,4-5,Aston Villa
+Sat Mar 31 1962,Manchester City,1-1,Sheffield United
+Sat Mar 31 1962,Ipswich Town,3-2,Wolverhampton Wanderers
+Sat Mar 31 1962,Bolton Wanderers,4-2,Chelsea
+Tue Apr 3 1962,Blackpool,2-4,Sheffield United
+Tue Apr 3 1962,Burnley,0-0,Nottingham Forest
+Tue Apr 3 1962,Sheffield Wednesday,2-0,Cardiff City
+Wed Apr 4 1962,Leicester City,4-3,Manchester United
+Wed Apr 4 1962,Bolton Wanderers,1-1,Everton
+Fri Apr 6 1962,West Ham United,2-2,Birmingham City
+Sat Apr 7 1962,Chelsea,1-1,Manchester City
+Sat Apr 7 1962,Cardiff City,0-4,Leicester City
+Sat Apr 7 1962,Aston Villa,3-0,Bolton Wanderers
+Sat Apr 7 1962,Blackpool,2-1,Fulham
+Sat Apr 7 1962,Wolverhampton Wanderers,1-1,Burnley
+Sat Apr 7 1962,Blackburn Rovers,1-1,Everton
+Sat Apr 7 1962,Tottenham Hotspur,4-0,Sheffield Wednesday
+Sat Apr 7 1962,Nottingham Forest,0-1,Arsenal
+Sat Apr 7 1962,Sheffield United,1-1,West Bromwich Albion
+Sat Apr 7 1962,Manchester United,5-0,Ipswich Town
+Mon Apr 9 1962,Tottenham Hotspur,3-3,Sheffield United
+Tue Apr 10 1962,Blackburn Rovers,3-0,Manchester United
+Wed Apr 11 1962,Fulham,5-2,Arsenal
+Wed Apr 11 1962,Leicester City,2-0,Chelsea
+Wed Apr 11 1962,Manchester City,1-4,Birmingham City
+Wed Apr 11 1962,Bolton Wanderers,0-0,Burnley
+Sat Apr 14 1962,Burnley,1-3,Manchester United
+Sat Apr 14 1962,Arsenal,3-1,Wolverhampton Wanderers
+Sat Apr 14 1962,Everton,3-0,West Ham United
+Sat Apr 14 1962,Fulham,2-0,Blackburn Rovers
+Sat Apr 14 1962,Birmingham City,3-0,Sheffield United
+Sat Apr 14 1962,Bolton Wanderers,6-1,Nottingham Forest
+Sat Apr 14 1962,Sheffield Wednesday,3-2,Blackpool
+Sat Apr 14 1962,Ipswich Town,1-0,Cardiff City
+Sat Apr 14 1962,Manchester City,1-0,Aston Villa
+Sat Apr 14 1962,West Bromwich Albion,4-0,Chelsea
+Mon Apr 16 1962,Manchester United,2-3,Arsenal
+Tue Apr 17 1962,Fulham,1-1,Tottenham Hotspur
+Tue Apr 17 1962,Burnley,0-1,Blackburn Rovers
+Fri Apr 20 1962,Tottenham Hotspur,4-1,Blackburn Rovers
+Fri Apr 20 1962,Burnley,2-0,Blackpool
+Fri Apr 20 1962,Everton,4-1,Birmingham City
+Fri Apr 20 1962,Chelsea,4-5,Wolverhampton Wanderers
+Fri Apr 20 1962,Manchester City,3-1,Sheffield Wednesday
+Fri Apr 20 1962,West Ham United,4-1,Cardiff City
+Fri Apr 20 1962,Ipswich Town,2-2,Arsenal
+Sat Apr 21 1962,Cardiff City,3-2,Birmingham City
+Sat Apr 21 1962,West Ham United,3-3,Arsenal
+Sat Apr 21 1962,Aston Villa,8-3,Leicester City
+Sat Apr 21 1962,Wolverhampton Wanderers,1-3,Fulham
+Sat Apr 21 1962,Blackburn Rovers,2-3,Bolton Wanderers
+Sat Apr 21 1962,Tottenham Hotspur,1-2,West Bromwich Albion
+Sat Apr 21 1962,Manchester United,1-1,Everton
+Sat Apr 21 1962,Nottingham Forest,3-1,Sheffield Wednesday
+Sat Apr 21 1962,Chelsea,2-2,Ipswich Town
+Sat Apr 21 1962,Blackpool,3-1,Manchester City
+Sat Apr 21 1962,Sheffield United,2-0,Burnley
+Mon Apr 23 1962,Aston Villa,5-1,Nottingham Forest
+Mon Apr 23 1962,Blackpool,1-1,Burnley
+Mon Apr 23 1962,Bolton Wanderers,1-0,Leicester City
+Mon Apr 23 1962,Fulham,1-2,West Bromwich Albion
+Mon Apr 23 1962,Sheffield Wednesday,1-0,Manchester City
+Mon Apr 23 1962,Wolverhampton Wanderers,1-1,Chelsea
+Mon Apr 23 1962,Blackburn Rovers,0-1,Tottenham Hotspur
+Mon Apr 23 1962,Cardiff City,3-0,West Ham United
+Mon Apr 23 1962,Manchester United,0-1,Sheffield United
+Mon Apr 23 1962,Arsenal,0-3,Ipswich Town
+Tue Apr 24 1962,West Bromwich Albion,2-0,Fulham
+Tue Apr 24 1962,Sheffield United,2-3,Manchester United
+Tue Apr 24 1962,Nottingham Forest,2-0,Aston Villa
+Tue Apr 24 1962,Birmingham City,0-0,Everton
+Tue Apr 24 1962,Leicester City,1-1,Bolton Wanderers
+Thu Apr 26 1962,Blackburn Rovers,0-2,Sheffield Wednesday
+Sat Apr 28 1962,Leicester City,2-1,Nottingham Forest
+Sat Apr 28 1962,Sheffield Wednesday,3-2,Wolverhampton Wanderers
+Sat Apr 28 1962,Birmingham City,2-3,Tottenham Hotspur
+Sat Apr 28 1962,Everton,8-3,Cardiff City
+Sat Apr 28 1962,Bolton Wanderers,1-0,West Ham United
+Sat Apr 28 1962,Fulham,2-0,Manchester United
+Sat Apr 28 1962,Burnley,1-1,Chelsea
+Sat Apr 28 1962,Ipswich Town,2-0,Aston Villa
+Sat Apr 28 1962,Manchester City,3-1,Blackburn Rovers
+Sat Apr 28 1962,West Bromwich Albion,7-1,Blackpool
+Sat Apr 28 1962,Arsenal,2-0,Sheffield United
+Mon Apr 30 1962,Sheffield Wednesday,4-0,Burnley
+Mon Apr 30 1962,West Ham United,4-2,Fulham
+Mon Apr 30 1962,Leicester City,2-3,Tottenham Hotspur
+Tue May 1 1962,Aston Villa,2-2,Cardiff City
+Tue May 1 1962,Arsenal,2-3,Everton

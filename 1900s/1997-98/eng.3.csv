@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 9 1997,Oldham Athletic,3-1,York City
+Sat Aug 9 1997,Grimsby Town,1-1,Bristol City
+Sat Aug 9 1997,Blackpool,1-0,Luton Town
+Sat Aug 9 1997,Bristol Rovers,1-1,Plymouth Argyle
+Sat Aug 9 1997,Southend United,1-1,Carlisle United
+Sat Aug 9 1997,Northampton Town,0-2,AFC Bournemouth
+Sat Aug 9 1997,Watford,1-0,Burnley
+Sat Aug 9 1997,Fulham,1-0,Wrexham
+Sat Aug 9 1997,Millwall,3-0,Brentford
+Sat Aug 9 1997,Chesterfield,3-1,Walsall
+Sat Aug 9 1997,Gillingham,0-0,Preston North End
+Sat Aug 9 1997,Wigan Athletic,5-2,Wycombe Wanderers
+Sat Aug 16 1997,Plymouth Argyle,2-2,Grimsby Town
+Sat Aug 16 1997,York City,0-1,Bristol Rovers
+Sat Aug 16 1997,Burnley,0-0,Gillingham
+Sat Aug 16 1997,Walsall,1-1,Fulham
+Sat Aug 16 1997,Preston North End,2-1,Millwall
+Sat Aug 16 1997,Wrexham,3-1,Oldham Athletic
+Sat Aug 16 1997,Brentford,0-0,Chesterfield
+Sat Aug 16 1997,AFC Bournemouth,1-0,Wigan Athletic
+Sat Aug 16 1997,Carlisle United,0-2,Watford
+Sat Aug 16 1997,Bristol City,2-0,Blackpool
+Sat Aug 16 1997,Wycombe Wanderers,0-0,Northampton Town
+Mon Aug 18 1997,Luton Town,1-0,Southend United
+Sat Aug 23 1997,Gillingham,2-1,Walsall
+Sat Aug 23 1997,Blackpool,2-4,Wycombe Wanderers
+Sat Aug 23 1997,Bristol Rovers,3-1,Carlisle United
+Sat Aug 23 1997,Grimsby Town,0-0,Wrexham
+Sat Aug 23 1997,Wigan Athletic,1-1,Plymouth Argyle
+Sat Aug 23 1997,Southend United,1-0,Burnley
+Sat Aug 23 1997,Oldham Athletic,2-1,AFC Bournemouth
+Sat Aug 23 1997,Chesterfield,3-2,Preston North End
+Sat Aug 23 1997,Millwall,2-3,York City
+Sat Aug 23 1997,Fulham,0-0,Luton Town
+Sat Aug 23 1997,Northampton Town,2-1,Bristol City
+Sat Aug 23 1997,Watford,3-1,Brentford
+Sat Aug 30 1997,Burnley,0-0,Bristol Rovers
+Sat Aug 30 1997,AFC Bournemouth,2-0,Blackpool
+Sat Aug 30 1997,Brentford,3-1,Grimsby Town
+Sat Aug 30 1997,Luton Town,1-1,Oldham Athletic
+Sat Aug 30 1997,York City,2-1,Gillingham
+Sat Aug 30 1997,Walsall,3-1,Southend United
+Sat Aug 30 1997,Carlisle United,0-2,Northampton Town
+Sat Aug 30 1997,Wycombe Wanderers,2-0,Fulham
+Sat Aug 30 1997,Plymouth Argyle,1-1,Chesterfield
+Sat Aug 30 1997,Preston North End,2-0,Watford
+Sat Aug 30 1997,Bristol City,3-0,Wigan Athletic
+Tue Sep 2 1997,Wycombe Wanderers,4-1,Southend United
+Tue Sep 2 1997,Walsall,0-2,Northampton Town
+Tue Sep 2 1997,Bristol City,0-2,Fulham
+Tue Sep 2 1997,York City,0-1,Chesterfield
+Tue Sep 2 1997,Luton Town,0-2,Millwall
+Tue Sep 2 1997,AFC Bournemouth,1-1,Bristol Rovers
+Tue Sep 2 1997,Plymouth Argyle,0-1,Watford
+Tue Sep 2 1997,Brentford,2-0,Gillingham
+Tue Sep 2 1997,Wrexham,3-4,Blackpool
+Tue Sep 2 1997,Burnley,0-0,Oldham Athletic
+Tue Sep 2 1997,Carlisle United,1-0,Wigan Athletic
+Tue Sep 2 1997,Preston North End,2-0,Grimsby Town
+Fri Sep 5 1997,Southend United,3-1,Brentford
+Fri Sep 5 1997,Gillingham,2-1,AFC Bournemouth
+Sun Sep 7 1997,Watford,2-1,Wycombe Wanderers
+Sun Sep 7 1997,Blackpool,2-1,Carlisle United
+Sun Sep 7 1997,Chesterfield,1-0,Burnley
+Mon Sep 8 1997,Wigan Athletic,3-2,Wrexham
+Tue Sep 9 1997,Oldham Athletic,1-0,Preston North End
+Tue Sep 9 1997,Bristol Rovers,2-0,Walsall
+Tue Sep 9 1997,Fulham,2-0,Plymouth Argyle
+Tue Sep 9 1997,Northampton Town,1-0,Luton Town
+Tue Sep 9 1997,Grimsby Town,0-0,York City
+Sat Sep 13 1997,Watford,2-1,Chesterfield
+Sat Sep 13 1997,Wrexham,2-1,Bristol City
+Sat Sep 13 1997,Fulham,0-2,Grimsby Town
+Sat Sep 13 1997,Oldham Athletic,2-2,Northampton Town
+Sat Sep 13 1997,Bristol Rovers,1-2,Gillingham
+Sat Sep 13 1997,Wigan Athletic,3-0,Blackpool
+Sat Sep 13 1997,Preston North End,0-0,Walsall
+Sat Sep 13 1997,AFC Bournemouth,1-1,Luton Town
+Sat Sep 13 1997,York City,3-1,Burnley
+Sat Sep 13 1997,Millwall,3-1,Southend United
+Sat Sep 13 1997,Plymouth Argyle,0-0,Brentford
+Sat Sep 13 1997,Wycombe Wanderers,1-4,Carlisle United
+Fri Sep 19 1997,Brentford,1-1,Wycombe Wanderers
+Sat Sep 20 1997,Blackpool,2-2,Oldham Athletic
+Sat Sep 20 1997,Gillingham,2-2,Watford
+Sat Sep 20 1997,Chesterfield,0-0,Bristol Rovers
+Sat Sep 20 1997,Southend United,1-0,Fulham
+Sat Sep 20 1997,Northampton Town,1-0,Wigan Athletic
+Sat Sep 20 1997,Walsall,2-0,York City
+Sat Sep 20 1997,Grimsby Town,0-1,Millwall
+Sat Sep 20 1997,Burnley,1-1,Preston North End
+Sat Sep 20 1997,Carlisle United,2-2,Plymouth Argyle
+Sat Sep 20 1997,Bristol City,1-1,AFC Bournemouth
+Sat Sep 20 1997,Luton Town,2-5,Wrexham
+Sat Sep 27 1997,Wrexham,0-0,Chesterfield
+Sat Sep 27 1997,Watford,1-1,York City
+Sat Sep 27 1997,Oldham Athletic,4-4,Bristol Rovers
+Sat Sep 27 1997,Wycombe Wanderers,0-0,Preston North End
+Sat Sep 27 1997,Wigan Athletic,2-1,Fulham
+Sat Sep 27 1997,Bristol City,3-0,Luton Town
+Sat Sep 27 1997,Northampton Town,2-0,Millwall
+Sat Sep 27 1997,Plymouth Argyle,2-1,Walsall
+Sat Sep 27 1997,Brentford,2-1,Burnley
+Sat Sep 27 1997,Blackpool,3-0,Southend United
+Sat Sep 27 1997,Carlisle United,2-1,Gillingham
+Sat Sep 27 1997,AFC Bournemouth,0-1,Grimsby Town
+Sat Oct 4 1997,Gillingham,2-0,Bristol City
+Sat Oct 4 1997,Burnley,2-2,Wycombe Wanderers
+Sat Oct 4 1997,Luton Town,0-4,Watford
+Sat Oct 4 1997,Southend United,0-0,Northampton Town
+Sat Oct 4 1997,Chesterfield,1-1,AFC Bournemouth
+Sat Oct 4 1997,York City,1-0,Plymouth Argyle
+Sat Oct 4 1997,Bristol Rovers,1-0,Wrexham
+Sat Oct 4 1997,Walsall,3-1,Carlisle United
+Sat Oct 4 1997,Millwall,2-1,Blackpool
+Sat Oct 4 1997,Fulham,3-1,Oldham Athletic
+Sat Oct 4 1997,Preston North End,2-1,Brentford
+Sat Oct 4 1997,Grimsby Town,2-1,Wigan Athletic
+Sat Oct 11 1997,Grimsby Town,1-0,Northampton Town
+Sat Oct 11 1997,Millwall,2-1,Oldham Athletic
+Sat Oct 11 1997,Burnley,3-1,Carlisle United
+Sat Oct 11 1997,Fulham,1-0,Blackpool
+Sat Oct 11 1997,Gillingham,1-0,Wycombe Wanderers
+Sat Oct 11 1997,Chesterfield,2-3,Wigan Athletic
+Sat Oct 11 1997,Luton Town,3-0,Plymouth Argyle
+Sat Oct 11 1997,York City,3-1,Brentford
+Sat Oct 11 1997,Southend United,0-2,Bristol City
+Sat Oct 11 1997,Walsall,3-0,Wrexham
+Sat Oct 11 1997,Preston North End,0-1,AFC Bournemouth
+Tue Oct 14 1997,Bristol Rovers,1-2,Watford
+Fri Oct 17 1997,Bristol City,2-1,York City
+Fri Oct 17 1997,Carlisle United,0-2,Preston North End
+Sat Oct 18 1997,Plymouth Argyle,2-3,Southend United
+Sat Oct 18 1997,Watford,0-1,Millwall
+Sat Oct 18 1997,Wigan Athletic,1-1,Luton Town
+Sat Oct 18 1997,Blackpool,2-2,Grimsby Town
+Sat Oct 18 1997,AFC Bournemouth,2-1,Fulham
+Sat Oct 18 1997,Brentford,3-0,Walsall
+Sat Oct 18 1997,Wycombe Wanderers,1-0,Bristol Rovers
+Sat Oct 18 1997,Wrexham,0-0,Burnley
+Sat Oct 18 1997,Northampton Town,2-1,Gillingham
+Sat Oct 18 1997,Oldham Athletic,2-0,Chesterfield
+Tue Oct 21 1997,Wrexham,3-1,Southend United
+Tue Oct 21 1997,Oldham Athletic,2-0,Grimsby Town
+Tue Oct 21 1997,Brentford,2-3,Bristol Rovers
+Tue Oct 21 1997,Blackpool,2-1,Chesterfield
+Tue Oct 21 1997,Wycombe Wanderers,4-2,Walsall
+Tue Oct 21 1997,Wigan Athletic,1-4,Gillingham
+Tue Oct 21 1997,Carlisle United,0-1,Luton Town
+Tue Oct 21 1997,Northampton Town,1-1,York City
+Tue Oct 21 1997,AFC Bournemouth,0-0,Millwall
+Tue Oct 21 1997,Watford,2-0,Fulham
+Tue Oct 21 1997,Bristol City,2-1,Preston North End
+Tue Oct 21 1997,Plymouth Argyle,2-2,Burnley
+Sat Oct 25 1997,Preston North End,0-1,Wrexham
+Sat Oct 25 1997,Gillingham,2-1,Plymouth Argyle
+Sat Oct 25 1997,Chesterfield,1-0,Wycombe Wanderers
+Sat Oct 25 1997,York City,4-3,Carlisle United
+Sat Oct 25 1997,Bristol Rovers,0-3,Blackpool
+Sat Oct 25 1997,Luton Town,2-0,Brentford
+Sat Oct 25 1997,Fulham,1-1,Northampton Town
+Sat Oct 25 1997,Southend United,1-1,Oldham Athletic
+Sat Oct 25 1997,Walsall,0-0,Bristol City
+Sat Oct 25 1997,Burnley,2-2,AFC Bournemouth
+Sat Oct 25 1997,Grimsby Town,0-1,Watford
+Sat Oct 25 1997,Millwall,1-1,Wigan Athletic
+Wed Oct 29 1997,Millwall,0-2,Bristol City
+Sat Nov 1 1997,Grimsby Town,5-1,Southend United
+Sat Nov 1 1997,Fulham,1-1,Chesterfield
+Sat Nov 1 1997,AFC Bournemouth,0-0,Brentford
+Sat Nov 1 1997,Preston North End,0-1,Plymouth Argyle
+Sat Nov 1 1997,Wycombe Wanderers,2-2,Luton Town
+Sat Nov 1 1997,Burnley,2-1,Walsall
+Sat Nov 1 1997,Northampton Town,1-1,Bristol Rovers
+Sat Nov 1 1997,Carlisle United,2-2,Wrexham
+Sat Nov 1 1997,Bristol City,1-0,Oldham Athletic
+Sat Nov 1 1997,Wigan Athletic,1-1,York City
+Sat Nov 1 1997,Gillingham,1-3,Millwall
+Sat Nov 1 1997,Watford,4-1,Blackpool
+Tue Nov 4 1997,Blackpool,1-1,Northampton Town
+Tue Nov 4 1997,Luton Town,2-3,Burnley
+Tue Nov 4 1997,Wrexham,2-1,AFC Bournemouth
+Tue Nov 4 1997,Oldham Athletic,3-1,Wigan Athletic
+Tue Nov 4 1997,Walsall,0-0,Grimsby Town
+Tue Nov 4 1997,Southend United,0-3,Watford
+Tue Nov 4 1997,Chesterfield,1-1,Gillingham
+Tue Nov 4 1997,Brentford,0-1,Carlisle United
+Tue Nov 4 1997,Bristol Rovers,1-2,Bristol City
+Tue Nov 4 1997,Millwall,1-1,Fulham
+Tue Nov 4 1997,York City,1-0,Preston North End
+Tue Nov 4 1997,Plymouth Argyle,4-2,Wycombe Wanderers
+Fri Nov 7 1997,Oldham Athletic,3-1,Gillingham
+Sat Nov 8 1997,Plymouth Argyle,3-0,AFC Bournemouth
+Sat Nov 8 1997,York City,2-0,Wycombe Wanderers
+Sat Nov 8 1997,Millwall,1-1,Carlisle United
+Sat Nov 8 1997,Blackpool,2-1,Burnley
+Sat Nov 8 1997,Brentford,1-4,Bristol City
+Sat Nov 8 1997,Bristol Rovers,2-3,Fulham
+Sat Nov 8 1997,Chesterfield,1-0,Grimsby Town
+Sat Nov 8 1997,Walsall,0-0,Watford
+Sat Nov 8 1997,Luton Town,1-3,Preston North End
+Sat Nov 8 1997,Wrexham,1-0,Northampton Town
+Sat Nov 8 1997,Southend United,1-0,Wigan Athletic
+Tue Nov 18 1997,Burnley,1-2,Millwall
+Tue Nov 18 1997,Carlisle United,0-2,Chesterfield
+Tue Nov 18 1997,Northampton Town,4-0,Brentford
+Tue Nov 18 1997,Fulham,1-1,York City
+Tue Nov 18 1997,AFC Bournemouth,2-1,Southend United
+Tue Nov 18 1997,Gillingham,1-1,Blackpool
+Tue Nov 18 1997,Watford,2-1,Oldham Athletic
+Tue Nov 18 1997,Preston North End,1-2,Bristol Rovers
+Tue Nov 18 1997,Bristol City,2-1,Plymouth Argyle
+Tue Nov 18 1997,Wycombe Wanderers,0-0,Wrexham
+Fri Nov 21 1997,Fulham,3-0,Gillingham
+Sat Nov 22 1997,Wigan Athletic,1-4,Preston North End
+Sat Nov 22 1997,Oldham Athletic,1-1,Brentford
+Sat Nov 22 1997,AFC Bournemouth,3-2,Carlisle United
+Sat Nov 22 1997,Bristol City,3-1,Wycombe Wanderers
+Sat Nov 22 1997,Northampton Town,0-1,Watford
+Sat Nov 22 1997,Blackpool,1-0,York City
+Sat Nov 22 1997,Southend United,1-1,Bristol Rovers
+Sat Nov 22 1997,Millwall,1-1,Chesterfield
+Sat Nov 22 1997,Luton Town,0-1,Walsall
+Sat Nov 22 1997,Wrexham,1-1,Plymouth Argyle
+Sat Nov 22 1997,Grimsby Town,4-1,Burnley
+Sat Nov 29 1997,Watford,2-1,Wigan Athletic
+Sat Nov 29 1997,Chesterfield,1-0,Southend United
+Sat Nov 29 1997,York City,1-2,Luton Town
+Sat Nov 29 1997,Bristol Rovers,2-1,Millwall
+Sat Nov 29 1997,Burnley,2-1,Northampton Town
+Sat Nov 29 1997,Wycombe Wanderers,1-1,AFC Bournemouth
+Sat Nov 29 1997,Preston North End,3-1,Fulham
+Sat Nov 29 1997,Walsall,2-1,Blackpool
+Sat Nov 29 1997,Plymouth Argyle,0-2,Oldham Athletic
+Sat Nov 29 1997,Gillingham,0-2,Grimsby Town
+Sat Nov 29 1997,Carlisle United,0-3,Bristol City
+Sat Nov 29 1997,Brentford,1-1,Wrexham
+Tue Dec 2 1997,Fulham,1-1,Brentford
+Tue Dec 2 1997,Bristol City,3-1,Burnley
+Tue Dec 2 1997,Wigan Athletic,3-0,Bristol Rovers
+Tue Dec 2 1997,Southend United,3-2,Preston North End
+Tue Dec 2 1997,Oldham Athletic,3-1,Carlisle United
+Tue Dec 2 1997,AFC Bournemouth,0-0,York City
+Tue Dec 2 1997,Wrexham,1-1,Watford
+Tue Dec 2 1997,Grimsby Town,0-0,Wycombe Wanderers
+Tue Dec 2 1997,Northampton Town,0-0,Chesterfield
+Tue Dec 2 1997,Blackpool,0-0,Plymouth Argyle
+Tue Dec 2 1997,Luton Town,2-2,Gillingham
+Wed Dec 3 1997,Millwall,0-1,Walsall
+Fri Dec 12 1997,Bristol Rovers,0-4,Grimsby Town
+Sat Dec 13 1997,Walsall,2-1,AFC Bournemouth
+Sat Dec 13 1997,Brentford,3-1,Blackpool
+Sat Dec 13 1997,York City,1-0,Wrexham
+Sat Dec 13 1997,Plymouth Argyle,3-0,Millwall
+Sat Dec 13 1997,Preston North End,1-0,Northampton Town
+Sat Dec 13 1997,Carlisle United,2-0,Fulham
+Sat Dec 13 1997,Wycombe Wanderers,2-1,Oldham Athletic
+Sat Dec 13 1997,Burnley,0-2,Wigan Athletic
+Sat Dec 13 1997,Gillingham,1-2,Southend United
+Sat Dec 13 1997,Chesterfield,0-0,Luton Town
+Sat Dec 13 1997,Watford,1-1,Bristol City
+Fri Dec 19 1997,Oldham Athletic,0-0,Walsall
+Fri Dec 19 1997,Fulham,1-0,Burnley
+Fri Dec 19 1997,Southend United,4-4,York City
+Sat Dec 20 1997,Northampton Town,2-1,Plymouth Argyle
+Sat Dec 20 1997,Luton Town,2-4,Bristol Rovers
+Sat Dec 20 1997,Bristol City,1-0,Chesterfield
+Sat Dec 20 1997,AFC Bournemouth,0-1,Watford
+Sat Dec 20 1997,Wigan Athletic,4-0,Brentford
+Sat Dec 20 1997,Blackpool,2-1,Preston North End
+Sat Dec 20 1997,Millwall,1-0,Wycombe Wanderers
+Sat Dec 20 1997,Grimsby Town,1-0,Carlisle United
+Sat Dec 20 1997,Wrexham,0-0,Gillingham
+Fri Dec 26 1997,Walsall,0-1,Bristol Rovers
+Fri Dec 26 1997,AFC Bournemouth,4-0,Gillingham
+Fri Dec 26 1997,Plymouth Argyle,1-4,Fulham
+Fri Dec 26 1997,York City,0-0,Grimsby Town
+Fri Dec 26 1997,Brentford,1-1,Southend United
+Fri Dec 26 1997,Preston North End,1-1,Oldham Athletic
+Fri Dec 26 1997,Wycombe Wanderers,0-0,Watford
+Fri Dec 26 1997,Wrexham,2-2,Wigan Athletic
+Fri Dec 26 1997,Bristol City,4-1,Millwall
+Fri Dec 26 1997,Burnley,0-0,Chesterfield
+Fri Dec 26 1997,Luton Town,2-2,Northampton Town
+Fri Dec 26 1997,Carlisle United,1-1,Blackpool
+Sun Dec 28 1997,Chesterfield,1-1,York City
+Sun Dec 28 1997,Wigan Athletic,0-2,Carlisle United
+Sun Dec 28 1997,Millwall,0-2,Luton Town
+Sun Dec 28 1997,Grimsby Town,3-1,Preston North End
+Sun Dec 28 1997,Blackpool,1-2,Wrexham
+Sun Dec 28 1997,Watford,1-1,Plymouth Argyle
+Sun Dec 28 1997,Bristol Rovers,5-3,AFC Bournemouth
+Sun Dec 28 1997,Southend United,1-2,Wycombe Wanderers
+Sun Dec 28 1997,Northampton Town,3-2,Walsall
+Sun Dec 28 1997,Fulham,1-0,Bristol City
+Mon Dec 29 1997,Gillingham,3-1,Brentford
+Sat Jan 3 1998,Southend United,1-2,Luton Town
+Sat Jan 3 1998,Gillingham,2-0,Burnley
+Sat Jan 3 1998,Chesterfield,0-0,Brentford
+Sat Jan 10 1998,Wrexham,0-3,Fulham
+Sat Jan 10 1998,Walsall,3-2,Chesterfield
+Sat Jan 10 1998,Plymouth Argyle,1-2,Bristol Rovers
+Sat Jan 10 1998,Burnley,2-0,Watford
+Sat Jan 10 1998,York City,0-0,Oldham Athletic
+Sat Jan 10 1998,Brentford,2-1,Millwall
+Sat Jan 10 1998,Preston North End,1-3,Gillingham
+Sat Jan 10 1998,Luton Town,3-0,Blackpool
+Sat Jan 10 1998,AFC Bournemouth,3-0,Northampton Town
+Sat Jan 10 1998,Carlisle United,5-0,Southend United
+Sat Jan 10 1998,Bristol City,4-1,Grimsby Town
+Sat Jan 10 1998,Wycombe Wanderers,1-2,Wigan Athletic
+Sat Jan 17 1998,Wigan Athletic,0-3,Bristol City
+Sat Jan 17 1998,Gillingham,0-0,York City
+Sat Jan 17 1998,Fulham,0-0,Wycombe Wanderers
+Sat Jan 17 1998,Blackpool,1-0,AFC Bournemouth
+Sat Jan 17 1998,Oldham Athletic,2-1,Luton Town
+Sat Jan 17 1998,Northampton Town,2-1,Carlisle United
+Sat Jan 17 1998,Watford,3-1,Preston North End
+Sat Jan 17 1998,Bristol Rovers,1-0,Burnley
+Sat Jan 17 1998,Chesterfield,2-1,Plymouth Argyle
+Sat Jan 17 1998,Southend United,0-1,Walsall
+Sat Jan 17 1998,Grimsby Town,4-0,Brentford
+Sat Jan 17 1998,Millwall,0-1,Wrexham
+Sat Jan 24 1998,Wycombe Wanderers,2-1,Blackpool
+Sat Jan 24 1998,Plymouth Argyle,3-2,Wigan Athletic
+Sat Jan 24 1998,Preston North End,0-0,Chesterfield
+Sat Jan 24 1998,Brentford,1-2,Watford
+Sat Jan 24 1998,Carlisle United,3-1,Bristol Rovers
+Sat Jan 24 1998,Luton Town,1-4,Fulham
+Sat Jan 24 1998,Bristol City,0-0,Northampton Town
+Sat Jan 24 1998,York City,2-3,Millwall
+Sat Jan 24 1998,AFC Bournemouth,0-0,Oldham Athletic
+Sat Jan 24 1998,Burnley,1-0,Southend United
+Tue Jan 27 1998,Oldham Athletic,3-0,Wrexham
+Sat Jan 31 1998,Northampton Town,0-0,Oldham Athletic
+Sat Jan 31 1998,Carlisle United,0-0,Wycombe Wanderers
+Sat Jan 31 1998,Gillingham,1-1,Bristol Rovers
+Sat Jan 31 1998,Walsall,1-1,Preston North End
+Sat Jan 31 1998,Grimsby Town,1-1,Fulham
+Sat Jan 31 1998,Bristol City,1-1,Wrexham
+Sat Jan 31 1998,Chesterfield,0-1,Watford
+Sat Jan 31 1998,Burnley,7-2,York City
+Sat Jan 31 1998,Luton Town,1-2,AFC Bournemouth
+Sat Jan 31 1998,Blackpool,0-2,Wigan Athletic
+Sat Jan 31 1998,Brentford,3-1,Plymouth Argyle
+Sat Jan 31 1998,Southend United,0-0,Millwall
+Tue Feb 3 1998,Blackpool,2-2,Bristol City
+Sat Feb 7 1998,Wrexham,2-1,Luton Town
+Sat Feb 7 1998,AFC Bournemouth,1-0,Bristol City
+Sat Feb 7 1998,York City,1-0,Walsall
+Sat Feb 7 1998,Wigan Athletic,1-1,Northampton Town
+Sat Feb 7 1998,Bristol Rovers,3-1,Chesterfield
+Sat Feb 7 1998,Fulham,2-0,Southend United
+Sat Feb 7 1998,Wycombe Wanderers,0-0,Brentford
+Sat Feb 7 1998,Preston North End,2-3,Burnley
+Sat Feb 7 1998,Millwall,0-1,Grimsby Town
+Sat Feb 7 1998,Oldham Athletic,0-1,Blackpool
+Sat Feb 7 1998,Plymouth Argyle,2-1,Carlisle United
+Sun Feb 8 1998,Watford,0-2,Gillingham
+Tue Feb 10 1998,Northampton Town,2-0,Wycombe Wanderers
+Sat Feb 14 1998,Wigan Athletic,0-2,Grimsby Town
+Sat Feb 14 1998,Blackpool,3-0,Millwall
+Sat Feb 14 1998,Oldham Athletic,1-0,Fulham
+Sat Feb 14 1998,Carlisle United,1-1,Walsall
+Sat Feb 14 1998,Watford,1-1,Luton Town
+Sat Feb 14 1998,AFC Bournemouth,2-0,Chesterfield
+Sat Feb 14 1998,Brentford,0-0,Preston North End
+Sat Feb 14 1998,Plymouth Argyle,0-0,York City
+Sat Feb 14 1998,Northampton Town,3-1,Southend United
+Sat Feb 14 1998,Wrexham,1-0,Bristol Rovers
+Sat Feb 14 1998,Bristol City,0-2,Gillingham
+Sat Feb 14 1998,Wycombe Wanderers,2-1,Burnley
+Sat Feb 21 1998,Gillingham,1-0,Carlisle United
+Sat Feb 21 1998,York City,1-1,Watford
+Sat Feb 21 1998,Southend United,2-1,Blackpool
+Sat Feb 21 1998,Chesterfield,3-1,Wrexham
+Sat Feb 21 1998,Bristol Rovers,3-1,Oldham Athletic
+Sat Feb 21 1998,Preston North End,1-1,Wycombe Wanderers
+Sat Feb 21 1998,Millwall,0-0,Northampton Town
+Sat Feb 21 1998,Fulham,2-0,Wigan Athletic
+Sat Feb 21 1998,Grimsby Town,2-1,AFC Bournemouth
+Sat Feb 21 1998,Burnley,1-1,Brentford
+Sat Feb 21 1998,Walsall,0-1,Plymouth Argyle
+Sat Feb 21 1998,Luton Town,0-0,Bristol City
+Tue Feb 24 1998,Walsall,0-0,Brentford
+Tue Feb 24 1998,Southend United,3-0,Plymouth Argyle
+Tue Feb 24 1998,Chesterfield,2-1,Oldham Athletic
+Tue Feb 24 1998,Fulham,0-1,AFC Bournemouth
+Tue Feb 24 1998,Luton Town,1-1,Wigan Athletic
+Tue Feb 24 1998,Burnley,1-2,Wrexham
+Tue Feb 24 1998,Grimsby Town,1-0,Blackpool
+Tue Feb 24 1998,York City,0-1,Bristol City
+Tue Feb 24 1998,Preston North End,0-3,Carlisle United
+Tue Feb 24 1998,Bristol Rovers,3-1,Wycombe Wanderers
+Tue Feb 24 1998,Gillingham,1-0,Northampton Town
+Wed Feb 25 1998,Millwall,1-1,Watford
+Sat Feb 28 1998,Brentford,1-2,York City
+Sat Feb 28 1998,Northampton Town,2-1,Grimsby Town
+Sat Feb 28 1998,Watford,3-2,Bristol Rovers
+Sat Feb 28 1998,Blackpool,2-1,Fulham
+Sat Feb 28 1998,Oldham Athletic,1-1,Millwall
+Sat Feb 28 1998,Carlisle United,2-1,Burnley
+Sat Feb 28 1998,Bristol City,1-0,Southend United
+Sat Feb 28 1998,Wycombe Wanderers,1-0,Gillingham
+Sat Feb 28 1998,Wigan Athletic,2-1,Chesterfield
+Sat Feb 28 1998,AFC Bournemouth,0-2,Preston North End
+Sat Feb 28 1998,Wrexham,2-1,Walsall
+Sat Feb 28 1998,Plymouth Argyle,0-2,Luton Town
+Tue Mar 3 1998,Carlisle United,1-0,Millwall
+Tue Mar 3 1998,Bristol City,2-2,Brentford
+Tue Mar 3 1998,Gillingham,2-1,Oldham Athletic
+Tue Mar 3 1998,Northampton Town,0-1,Wrexham
+Tue Mar 3 1998,Preston North End,1-0,Luton Town
+Tue Mar 3 1998,Fulham,1-0,Bristol Rovers
+Tue Mar 3 1998,AFC Bournemouth,3-3,Plymouth Argyle
+Tue Mar 3 1998,Grimsby Town,0-0,Chesterfield
+Tue Mar 3 1998,Wycombe Wanderers,1-0,York City
+Tue Mar 3 1998,Watford,1-2,Walsall
+Sat Mar 7 1998,Millwall,1-0,Gillingham
+Sat Mar 7 1998,Walsall,0-0,Burnley
+Sat Mar 7 1998,Brentford,3-2,AFC Bournemouth
+Sat Mar 7 1998,Luton Town,0-0,Wycombe Wanderers
+Sat Mar 7 1998,Southend United,0-1,Grimsby Town
+Sat Mar 7 1998,Blackpool,1-1,Watford
+Sat Mar 7 1998,Plymouth Argyle,2-0,Preston North End
+Sat Mar 7 1998,York City,2-2,Wigan Athletic
+Sat Mar 7 1998,Bristol Rovers,0-2,Northampton Town
+Sat Mar 7 1998,Chesterfield,0-2,Fulham
+Sat Mar 7 1998,Wrexham,2-2,Carlisle United
+Tue Mar 10 1998,Bristol Rovers,1-2,York City
+Sat Mar 14 1998,Grimsby Town,3-0,Walsall
+Sat Mar 14 1998,Bristol City,2-0,Bristol Rovers
+Sat Mar 14 1998,Watford,1-1,Southend United
+Sat Mar 14 1998,Carlisle United,1-2,Brentford
+Sat Mar 14 1998,Burnley,1-1,Luton Town
+Sat Mar 14 1998,Fulham,1-2,Millwall
+Sat Mar 14 1998,Wycombe Wanderers,5-1,Plymouth Argyle
+Sat Mar 14 1998,Gillingham,1-0,Chesterfield
+Sat Mar 14 1998,Wigan Athletic,1-0,Oldham Athletic
+Sat Mar 14 1998,Northampton Town,2-0,Blackpool
+Sat Mar 14 1998,Preston North End,3-2,York City
+Sat Mar 14 1998,AFC Bournemouth,0-1,Wrexham
+Tue Mar 17 1998,Wrexham,1-0,Millwall
+Tue Mar 17 1998,Wigan Athletic,1-3,Southend United
+Tue Mar 17 1998,Watford,2-1,Carlisle United
+Sat Mar 21 1998,Luton Town,2-2,Grimsby Town
+Sat Mar 21 1998,Brentford,0-0,Northampton Town
+Sat Mar 21 1998,Southend United,5-3,AFC Bournemouth
+Sat Mar 21 1998,Oldham Athletic,2-2,Watford
+Sat Mar 21 1998,York City,0-1,Fulham
+Sat Mar 21 1998,Bristol Rovers,2-2,Preston North End
+Sat Mar 21 1998,Plymouth Argyle,2-0,Bristol City
+Sat Mar 21 1998,Millwall,1-0,Burnley
+Sat Mar 21 1998,Walsall,1-0,Wigan Athletic
+Sat Mar 21 1998,Chesterfield,2-1,Carlisle United
+Sat Mar 21 1998,Blackpool,2-1,Gillingham
+Sat Mar 21 1998,Wrexham,2-0,Wycombe Wanderers
+Tue Mar 24 1998,Grimsby Town,1-0,Plymouth Argyle
+Wed Mar 25 1998,Millwall,0-1,Preston North End
+Fri Mar 27 1998,Bristol Rovers,2-0,Southend United
+Sat Mar 28 1998,York City,1-1,Blackpool
+Sat Mar 28 1998,Plymouth Argyle,2-0,Wrexham
+Sat Mar 28 1998,Wycombe Wanderers,1-2,Bristol City
+Sat Mar 28 1998,Brentford,2-1,Oldham Athletic
+Sat Mar 28 1998,Gillingham,2-0,Fulham
+Sat Mar 28 1998,Burnley,2-1,Grimsby Town
+Sat Mar 28 1998,Preston North End,1-1,Wigan Athletic
+Sat Mar 28 1998,Watford,1-1,Northampton Town
+Sat Mar 28 1998,Walsall,2-3,Luton Town
+Sat Mar 28 1998,Carlisle United,0-1,AFC Bournemouth
+Sat Mar 28 1998,Chesterfield,3-1,Millwall
+Tue Mar 31 1998,Walsall,1-0,Gillingham
+Tue Mar 31 1998,Oldham Athletic,1-2,Bristol City
+Tue Mar 31 1998,Wrexham,0-0,Grimsby Town
+Fri Apr 3 1998,Southend United,0-2,Chesterfield
+Sat Apr 4 1998,Bristol City,1-0,Carlisle United
+Sat Apr 4 1998,Oldham Athletic,2-0,Plymouth Argyle
+Sat Apr 4 1998,Grimsby Town,0-0,Gillingham
+Sat Apr 4 1998,Luton Town,3-0,York City
+Sat Apr 4 1998,Wigan Athletic,3-2,Watford
+Sat Apr 4 1998,Blackpool,1-0,Walsall
+Sat Apr 4 1998,Fulham,2-1,Preston North End
+Sat Apr 4 1998,AFC Bournemouth,0-0,Wycombe Wanderers
+Sat Apr 4 1998,Northampton Town,0-1,Burnley
+Sat Apr 4 1998,Wrexham,2-2,Brentford
+Sat Apr 4 1998,Millwall,1-1,Bristol Rovers
+Tue Apr 7 1998,Fulham,1-1,Walsall
+Tue Apr 7 1998,Grimsby Town,0-1,Luton Town
+Tue Apr 7 1998,Burnley,1-2,Blackpool
+Tue Apr 7 1998,Wigan Athletic,1-0,AFC Bournemouth
+Fri Apr 10 1998,Wycombe Wanderers,1-1,Grimsby Town
+Fri Apr 10 1998,Bristol Rovers,5-0,Wigan Athletic
+Sat Apr 11 1998,Watford,1-0,Wrexham
+Sat Apr 11 1998,Carlisle United,3-1,Oldham Athletic
+Sat Apr 11 1998,Plymouth Argyle,3-1,Blackpool
+Sat Apr 11 1998,York City,0-1,AFC Bournemouth
+Sat Apr 11 1998,Brentford,0-2,Fulham
+Sat Apr 11 1998,Gillingham,2-1,Luton Town
+Sat Apr 11 1998,Preston North End,1-0,Southend United
+Sat Apr 11 1998,Chesterfield,2-1,Northampton Town
+Sat Apr 11 1998,Walsall,2-0,Millwall
+Sat Apr 11 1998,Burnley,1-0,Bristol City
+Mon Apr 13 1998,Grimsby Town,1-2,Bristol Rovers
+Mon Apr 13 1998,Southend United,0-0,Gillingham
+Mon Apr 13 1998,Blackpool,1-2,Brentford
+Mon Apr 13 1998,Wrexham,1-2,York City
+Mon Apr 13 1998,Bristol City,1-1,Watford
+Mon Apr 13 1998,Millwall,1-1,Plymouth Argyle
+Mon Apr 13 1998,Wigan Athletic,5-1,Burnley
+Mon Apr 13 1998,Oldham Athletic,0-1,Wycombe Wanderers
+Mon Apr 13 1998,Northampton Town,2-2,Preston North End
+Mon Apr 13 1998,Fulham,5-0,Carlisle United
+Tue Apr 14 1998,Luton Town,3-0,Chesterfield
+Tue Apr 14 1998,AFC Bournemouth,1-0,Walsall
+Sat Apr 18 1998,Chesterfield,1-0,Bristol City
+Sat Apr 18 1998,Burnley,2-1,Fulham
+Sat Apr 18 1998,Gillingham,1-1,Wrexham
+Sat Apr 18 1998,Brentford,0-2,Wigan Athletic
+Sat Apr 18 1998,York City,1-1,Southend United
+Sat Apr 18 1998,Preston North End,3-3,Blackpool
+Sat Apr 18 1998,Bristol Rovers,2-1,Luton Town
+Sat Apr 18 1998,Plymouth Argyle,1-3,Northampton Town
+Sat Apr 18 1998,Walsall,0-0,Oldham Athletic
+Sat Apr 18 1998,Wycombe Wanderers,0-0,Millwall
+Tue Apr 21 1998,Carlisle United,0-1,Grimsby Town
+Tue Apr 21 1998,Wigan Athletic,2-0,Walsall
+Fri Apr 24 1998,Wigan Athletic,0-0,Millwall
+Sat Apr 25 1998,Carlisle United,1-2,York City
+Sat Apr 25 1998,AFC Bournemouth,2-1,Burnley
+Sat Apr 25 1998,Wrexham,0-0,Preston North End
+Sat Apr 25 1998,Brentford,2-2,Luton Town
+Sat Apr 25 1998,Oldham Athletic,2-0,Southend United
+Sat Apr 25 1998,Plymouth Argyle,0-1,Gillingham
+Sat Apr 25 1998,Watford,0-0,Grimsby Town
+Sat Apr 25 1998,Bristol City,2-1,Walsall
+Sat Apr 25 1998,Wycombe Wanderers,1-1,Chesterfield
+Sat Apr 25 1998,Blackpool,1-0,Bristol Rovers
+Sat Apr 25 1998,Northampton Town,1-0,Fulham
+Tue Apr 28 1998,Watford,2-1,AFC Bournemouth
+Tue Apr 28 1998,Oldham Athletic,3-3,Burnley
+Sat May 2 1998,Walsall,0-1,Wycombe Wanderers
+Sat May 2 1998,Gillingham,0-0,Wigan Athletic
+Sat May 2 1998,York City,0-0,Northampton Town
+Sat May 2 1998,Bristol Rovers,2-1,Brentford
+Sat May 2 1998,Luton Town,3-2,Carlisle United
+Sat May 2 1998,Preston North End,2-1,Bristol City
+Sat May 2 1998,Millwall,1-2,AFC Bournemouth
+Sat May 2 1998,Southend United,1-3,Wrexham
+Sat May 2 1998,Fulham,1-2,Watford
+Sat May 2 1998,Grimsby Town,0-2,Oldham Athletic
+Sat May 2 1998,Burnley,2-1,Plymouth Argyle
+Sat May 2 1998,Chesterfield,1-1,Blackpool

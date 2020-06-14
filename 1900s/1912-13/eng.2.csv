@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Mon Sep 2 1912,Wolverhampton Wanderers,2-0,Lincoln City
+Mon Sep 2 1912,Preston North End,1-1,Stockport County
+Tue Sep 3 1912,Huddersfield Town,4-0,Bury
+Tue Sep 3 1912,Grimsby Town,1-1,Blackpool
+Wed Sep 4 1912,Bristol City,0-0,Bradford Park Avenue
+Sat Sep 7 1912,Barnsley,2-0,Huddersfield Town
+Sat Sep 7 1912,Bradford Park Avenue,0-0,Birmingham City
+Sat Sep 7 1912,Stockport County,2-4,Lincoln City
+Sat Sep 7 1912,Bury,4-2,Grimsby Town
+Sat Sep 7 1912,Preston North End,0-1,Leyton Orient
+Sat Sep 7 1912,Hull City,4-1,Blackpool
+Sat Sep 7 1912,Fulham,4-0,Leeds City
+Sat Sep 7 1912,Leicester City,3-1,Nottingham Forest
+Sat Sep 7 1912,Wolverhampton Wanderers,1-1,Bristol City
+Sat Sep 7 1912,Burnley,2-1,Glossop North End
+Mon Sep 9 1912,Burnley,0-0,Hull City
+Mon Sep 9 1912,Lincoln City,3-0,Leicester City
+Mon Sep 9 1912,Birmingham City,2-1,Fulham
+Mon Sep 9 1912,Blackpool,2-1,Grimsby Town
+Sat Sep 14 1912,Leyton Orient,2-0,Burnley
+Sat Sep 14 1912,Grimsby Town,2-1,Fulham
+Sat Sep 14 1912,Nottingham Forest,2-1,Stockport County
+Sat Sep 14 1912,Lincoln City,0-0,Preston North End
+Sat Sep 14 1912,Birmingham City,0-0,Wolverhampton Wanderers
+Sat Sep 14 1912,Glossop North End,0-3,Hull City
+Sat Sep 14 1912,Bristol City,1-0,Leicester City
+Sat Sep 14 1912,Blackpool,2-1,Bury
+Sat Sep 14 1912,Huddersfield Town,2-0,Bradford Park Avenue
+Sat Sep 14 1912,Leeds City,2-0,Barnsley
+Mon Sep 16 1912,Burnley,2-2,Preston North End
+Mon Sep 16 1912,Fulham,2-0,Huddersfield Town
+Mon Sep 16 1912,Wolverhampton Wanderers,2-3,Nottingham Forest
+Mon Sep 16 1912,Leyton Orient,4-1,Stockport County
+Sat Sep 21 1912,Bradford Park Avenue,0-1,Leeds City
+Sat Sep 21 1912,Hull City,2-1,Leyton Orient
+Sat Sep 21 1912,Stockport County,0-1,Bristol City
+Sat Sep 21 1912,Fulham,3-1,Bury
+Sat Sep 21 1912,Wolverhampton Wanderers,2-0,Huddersfield Town
+Sat Sep 21 1912,Preston North End,1-1,Nottingham Forest
+Sat Sep 21 1912,Burnley,3-1,Lincoln City
+Sat Sep 21 1912,Glossop North End,2-0,Blackpool
+Sat Sep 21 1912,Leicester City,1-2,Birmingham City
+Sat Sep 21 1912,Barnsley,3-0,Grimsby Town
+Thu Sep 26 1912,Hull City,0-0,Burnley
+Sat Sep 28 1912,Leeds City,2-2,Wolverhampton Wanderers
+Sat Sep 28 1912,Grimsby Town,3-0,Bradford Park Avenue
+Sat Sep 28 1912,Lincoln City,1-1,Hull City
+Sat Sep 28 1912,Nottingham Forest,2-1,Burnley
+Sat Sep 28 1912,Blackpool,2-0,Fulham
+Sat Sep 28 1912,Huddersfield Town,3-0,Leicester City
+Sat Sep 28 1912,Birmingham City,1-1,Stockport County
+Sat Sep 28 1912,Leyton Orient,1-0,Glossop North End
+Sat Sep 28 1912,Bury,2-0,Barnsley
+Sat Sep 28 1912,Bristol City,1-1,Preston North End
+Thu Oct 3 1912,Nottingham Forest,2-0,Barnsley
+Sat Oct 5 1912,Leicester City,1-1,Leeds City
+Sat Oct 5 1912,Hull City,2-1,Nottingham Forest
+Sat Oct 5 1912,Glossop North End,0-1,Lincoln City
+Sat Oct 5 1912,Stockport County,3-1,Huddersfield Town
+Sat Oct 5 1912,Burnley,2-2,Bristol City
+Sat Oct 5 1912,Preston North End,1-0,Birmingham City
+Sat Oct 5 1912,Wolverhampton Wanderers,3-0,Grimsby Town
+Sat Oct 5 1912,Bradford Park Avenue,3-1,Bury
+Sat Oct 5 1912,Leyton Orient,1-0,Blackpool
+Sat Oct 5 1912,Barnsley,2-1,Fulham
+Sat Oct 12 1912,Blackpool,0-1,Barnsley
+Sat Oct 12 1912,Lincoln City,1-1,Leyton Orient
+Sat Oct 12 1912,Bury,1-0,Wolverhampton Wanderers
+Sat Oct 12 1912,Grimsby Town,2-0,Leicester City
+Sat Oct 12 1912,Bristol City,1-1,Hull City
+Sat Oct 12 1912,Birmingham City,3-0,Burnley
+Sat Oct 12 1912,Leeds City,2-1,Stockport County
+Sat Oct 12 1912,Fulham,3-1,Bradford Park Avenue
+Sat Oct 12 1912,Huddersfield Town,1-1,Preston North End
+Sat Oct 12 1912,Nottingham Forest,3-2,Glossop North End
+Sat Oct 19 1912,Leicester City,3-0,Bury
+Sat Oct 19 1912,Stockport County,1-1,Grimsby Town
+Sat Oct 19 1912,Wolverhampton Wanderers,2-1,Fulham
+Sat Oct 19 1912,Hull City,1-2,Birmingham City
+Sat Oct 19 1912,Glossop North End,3-1,Bristol City
+Sat Oct 19 1912,Lincoln City,1-0,Blackpool
+Sat Oct 19 1912,Bradford Park Avenue,0-0,Barnsley
+Sat Oct 19 1912,Preston North End,3-2,Leeds City
+Sat Oct 19 1912,Burnley,4-0,Huddersfield Town
+Sat Oct 19 1912,Leyton Orient,2-2,Nottingham Forest
+Sat Oct 26 1912,Grimsby Town,0-0,Preston North End
+Sat Oct 26 1912,Barnsley,3-2,Wolverhampton Wanderers
+Sat Oct 26 1912,Birmingham City,0-0,Glossop North End
+Sat Oct 26 1912,Leeds City,4-1,Burnley
+Sat Oct 26 1912,Bristol City,1-0,Leyton Orient
+Sat Oct 26 1912,Bury,2-0,Stockport County
+Sat Oct 26 1912,Nottingham Forest,1-2,Lincoln City
+Sat Oct 26 1912,Fulham,1-1,Leicester City
+Sat Oct 26 1912,Huddersfield Town,5-2,Hull City
+Sat Nov 2 1912,Wolverhampton Wanderers,0-0,Bradford Park Avenue
+Sat Nov 2 1912,Stockport County,1-0,Fulham
+Sat Nov 2 1912,Leyton Orient,0-2,Birmingham City
+Sat Nov 2 1912,Nottingham Forest,1-1,Blackpool
+Sat Nov 2 1912,Hull City,6-2,Leeds City
+Sat Nov 2 1912,Burnley,3-2,Grimsby Town
+Sat Nov 2 1912,Lincoln City,2-0,Bristol City
+Sat Nov 2 1912,Preston North End,2-0,Bury
+Sat Nov 2 1912,Glossop North End,1-0,Huddersfield Town
+Sat Nov 2 1912,Leicester City,1-0,Barnsley
+Mon Nov 4 1912,Stockport County,1-2,Leicester City
+Sat Nov 9 1912,Leeds City,4-0,Glossop North End
+Sat Nov 9 1912,Bury,1-1,Burnley
+Sat Nov 9 1912,Huddersfield Town,0-0,Leyton Orient
+Sat Nov 9 1912,Barnsley,1-1,Stockport County
+Sat Nov 9 1912,Grimsby Town,2-0,Hull City
+Sat Nov 9 1912,Fulham,3-1,Preston North End
+Sat Nov 9 1912,Birmingham City,4-1,Lincoln City
+Sat Nov 9 1912,Blackpool,1-2,Wolverhampton Wanderers
+Sat Nov 9 1912,Bristol City,1-2,Nottingham Forest
+Sat Nov 9 1912,Bradford Park Avenue,2-2,Leicester City
+Sat Nov 16 1912,Bristol City,0-0,Blackpool
+Sat Nov 16 1912,Leyton Orient,2-0,Leeds City
+Sat Nov 16 1912,Preston North End,4-0,Barnsley
+Sat Nov 16 1912,Nottingham Forest,3-1,Birmingham City
+Sat Nov 16 1912,Glossop North End,2-0,Grimsby Town
+Sat Nov 16 1912,Burnley,5-0,Fulham
+Sat Nov 16 1912,Leicester City,0-1,Wolverhampton Wanderers
+Sat Nov 16 1912,Stockport County,1-0,Bradford Park Avenue
+Sat Nov 16 1912,Lincoln City,3-1,Huddersfield Town
+Sat Nov 16 1912,Hull City,2-0,Bury
+Sat Nov 23 1912,Wolverhampton Wanderers,1-0,Stockport County
+Sat Nov 23 1912,Fulham,2-0,Hull City
+Sat Nov 23 1912,Huddersfield Town,1-1,Nottingham Forest
+Sat Nov 23 1912,Blackpool,2-1,Leicester City
+Sat Nov 23 1912,Bury,4-1,Glossop North End
+Sat Nov 23 1912,Barnsley,1-4,Burnley
+Sat Nov 23 1912,Birmingham City,3-0,Bristol City
+Sat Nov 23 1912,Leeds City,2-2,Lincoln City
+Sat Nov 23 1912,Grimsby Town,1-2,Leyton Orient
+Sat Nov 23 1912,Bradford Park Avenue,0-0,Preston North End
+Wed Nov 27 1912,Blackpool,0-2,Bradford Park Avenue
+Sat Nov 30 1912,Leyton Orient,1-2,Bury
+Sat Nov 30 1912,Bristol City,0-0,Huddersfield Town
+Sat Nov 30 1912,Leicester City,1-0,Fulham
+Sat Nov 30 1912,Nottingham Forest,1-2,Leeds City
+Sat Nov 30 1912,Burnley,5-1,Bradford Park Avenue
+Sat Nov 30 1912,Birmingham City,3-2,Blackpool
+Sat Nov 30 1912,Preston North End,1-1,Wolverhampton Wanderers
+Sat Dec 7 1912,Blackpool,1-1,Stockport County
+Sat Dec 7 1912,Barnsley,2-1,Glossop North End
+Sat Dec 7 1912,Wolverhampton Wanderers,0-2,Burnley
+Sat Dec 7 1912,Huddersfield Town,0-0,Birmingham City
+Sat Dec 7 1912,Grimsby Town,0-0,Nottingham Forest
+Sat Dec 7 1912,Leeds City,1-1,Bristol City
+Sat Dec 7 1912,Leicester City,0-3,Preston North End
+Sat Dec 7 1912,Bury,0-3,Lincoln City
+Sat Dec 7 1912,Bradford Park Avenue,2-0,Hull City
+Sat Dec 7 1912,Fulham,1-1,Leyton Orient
+Sat Dec 14 1912,Leyton Orient,2-2,Barnsley
+Sat Dec 14 1912,Bristol City,2-2,Grimsby Town
+Sat Dec 14 1912,Huddersfield Town,3-0,Blackpool
+Sat Dec 14 1912,Burnley,5-1,Leicester City
+Sat Dec 14 1912,Birmingham City,2-2,Leeds City
+Sat Dec 14 1912,Preston North End,4-2,Bradford Park Avenue
+Sat Dec 14 1912,Hull City,0-1,Wolverhampton Wanderers
+Sat Dec 14 1912,Nottingham Forest,1-1,Bury
+Thu Dec 19 1912,Hull City,0-1,Barnsley
+Sat Dec 21 1912,Leeds City,0-3,Huddersfield Town
+Sat Dec 21 1912,Bury,0-1,Bristol City
+Sat Dec 21 1912,Leicester City,3-2,Hull City
+Sat Dec 21 1912,Barnsley,4-0,Lincoln City
+Sat Dec 21 1912,Blackpool,0-1,Preston North End
+Sat Dec 21 1912,Bradford Park Avenue,3-0,Leyton Orient
+Sat Dec 21 1912,Fulham,0-0,Nottingham Forest
+Sat Dec 21 1912,Stockport County,0-1,Burnley
+Sat Dec 21 1912,Wolverhampton Wanderers,3-1,Glossop North End
+Sat Dec 21 1912,Grimsby Town,2-2,Birmingham City
+Wed Dec 25 1912,Bristol City,2-1,Fulham
+Wed Dec 25 1912,Lincoln City,1-1,Bradford Park Avenue
+Wed Dec 25 1912,Nottingham Forest,2-0,Wolverhampton Wanderers
+Wed Dec 25 1912,Hull City,3-2,Stockport County
+Wed Dec 25 1912,Bury,0-2,Huddersfield Town
+Wed Dec 25 1912,Leeds City,1-2,Grimsby Town
+Wed Dec 25 1912,Preston North End,2-0,Glossop North End
+Wed Dec 25 1912,Birmingham City,3-1,Barnsley
+Wed Dec 25 1912,Burnley,4-0,Blackpool
+Wed Dec 25 1912,Leyton Orient,1-1,Leicester City
+Thu Dec 26 1912,Leicester City,1-4,Glossop North End
+Thu Dec 26 1912,Bradford Park Avenue,3-0,Lincoln City
+Thu Dec 26 1912,Wolverhampton Wanderers,1-1,Leyton Orient
+Thu Dec 26 1912,Preston North End,1-0,Hull City
+Thu Dec 26 1912,Leeds City,0-2,Blackpool
+Thu Dec 26 1912,Birmingham City,1-2,Bury
+Thu Dec 26 1912,Huddersfield Town,0-2,Grimsby Town
+Sat Dec 28 1912,Nottingham Forest,4-2,Leicester City
+Sat Dec 28 1912,Birmingham City,1-1,Bradford Park Avenue
+Sat Dec 28 1912,Grimsby Town,4-0,Bury
+Sat Dec 28 1912,Leeds City,2-3,Fulham
+Sat Dec 28 1912,Lincoln City,3-2,Stockport County
+Sat Dec 28 1912,Blackpool,1-2,Hull City
+Sat Dec 28 1912,Glossop North End,1-3,Burnley
+Sat Dec 28 1912,Leyton Orient,1-2,Preston North End
+Sat Dec 28 1912,Bristol City,3-1,Wolverhampton Wanderers
+Sat Dec 28 1912,Huddersfield Town,2-0,Barnsley
+Wed Jan 1 1913,Glossop North End,2-3,Preston North End
+Wed Jan 1 1913,Stockport County,2-0,Leyton Orient
+Wed Jan 1 1913,Barnsley,1-0,Nottingham Forest
+Wed Jan 1 1913,Bury,3-0,Birmingham City
+Wed Jan 1 1913,Bradford Park Avenue,4-1,Bristol City
+Wed Jan 1 1913,Blackpool,0-3,Leeds City
+Thu Jan 2 1913,Glossop North End,2-0,Fulham
+Sat Jan 4 1913,Bradford Park Avenue,2-1,Huddersfield Town
+Sat Jan 4 1913,Preston North End,0-0,Lincoln City
+Sat Jan 4 1913,Barnsley,2-0,Leeds City
+Sat Jan 4 1913,Fulham,0-1,Grimsby Town
+Sat Jan 4 1913,Leicester City,3-1,Bristol City
+Sat Jan 4 1913,Bury,1-1,Blackpool
+Sat Jan 4 1913,Stockport County,2-1,Nottingham Forest
+Sat Jan 4 1913,Burnley,5-0,Leyton Orient
+Sat Jan 4 1913,Wolverhampton Wanderers,2-2,Birmingham City
+Sat Jan 18 1913,Leeds City,2-0,Bradford Park Avenue
+Sat Jan 18 1913,Lincoln City,1-3,Burnley
+Sat Jan 18 1913,Birmingham City,5-1,Leicester City
+Sat Jan 18 1913,Bury,1-0,Fulham
+Sat Jan 18 1913,Grimsby Town,1-1,Barnsley
+Sat Jan 18 1913,Leyton Orient,2-1,Hull City
+Sat Jan 18 1913,Blackpool,1-1,Glossop North End
+Sat Jan 18 1913,Bristol City,7-2,Stockport County
+Sat Jan 25 1913,Hull City,2-0,Lincoln City
+Sat Jan 25 1913,Stockport County,0-1,Birmingham City
+Sat Jan 25 1913,Leicester City,0-0,Huddersfield Town
+Sat Jan 25 1913,Fulham,4-2,Blackpool
+Sat Jan 25 1913,Burnley,3-5,Nottingham Forest
+Sat Jan 25 1913,Wolverhampton Wanderers,2-2,Leeds City
+Sat Jan 25 1913,Barnsley,4-3,Bury
+Sat Jan 25 1913,Glossop North End,3-0,Leyton Orient
+Sat Jan 25 1913,Bradford Park Avenue,3-0,Grimsby Town
+Sat Jan 25 1913,Preston North End,5-1,Bristol City
+Sat Feb 1 1913,Lincoln City,3-0,Grimsby Town
+Sat Feb 1 1913,Glossop North End,2-2,Stockport County
+Tue Feb 4 1913,Glossop North End,4-3,Bradford Park Avenue
+Wed Feb 5 1913,Nottingham Forest,0-2,Preston North End
+Sat Feb 8 1913,Huddersfield Town,3-3,Stockport County
+Sat Feb 8 1913,Fulham,1-1,Barnsley
+Sat Feb 8 1913,Birmingham City,0-1,Preston North End
+Sat Feb 8 1913,Leeds City,5-1,Leicester City
+Sat Feb 8 1913,Lincoln City,0-0,Glossop North End
+Sat Feb 8 1913,Grimsby Town,2-1,Wolverhampton Wanderers
+Sat Feb 8 1913,Bristol City,3-3,Burnley
+Sat Feb 8 1913,Nottingham Forest,5-0,Hull City
+Sat Feb 8 1913,Blackpool,2-0,Leyton Orient
+Sat Feb 8 1913,Bury,2-0,Bradford Park Avenue
+Sat Feb 15 1913,Burnley,3-0,Birmingham City
+Sat Feb 15 1913,Leyton Orient,1-2,Lincoln City
+Sat Feb 15 1913,Glossop North End,4-3,Nottingham Forest
+Sat Feb 15 1913,Stockport County,6-0,Leeds City
+Sat Feb 15 1913,Barnsley,5-3,Blackpool
+Sat Feb 15 1913,Bradford Park Avenue,2-3,Fulham
+Sat Feb 15 1913,Wolverhampton Wanderers,3-1,Bury
+Sat Feb 15 1913,Hull City,3-1,Bristol City
+Sat Feb 15 1913,Preston North End,2-1,Huddersfield Town
+Sat Feb 15 1913,Leicester City,1-0,Grimsby Town
+Sat Feb 22 1913,Leeds City,5-1,Preston North End
+Sat Feb 22 1913,Bristol City,3-3,Glossop North End
+Sat Feb 22 1913,Nottingham Forest,0-0,Leyton Orient
+Sat Feb 22 1913,Fulham,4-2,Wolverhampton Wanderers
+Sat Feb 22 1913,Birmingham City,3-1,Hull City
+Sat Feb 22 1913,Grimsby Town,4-1,Stockport County
+Sat Feb 22 1913,Blackpool,1-1,Lincoln City
+Sat Feb 22 1913,Bury,2-2,Leicester City
+Wed Feb 26 1913,Huddersfield Town,1-0,Burnley
+Sat Mar 1 1913,Hull City,1-3,Huddersfield Town
+Sat Mar 1 1913,Preston North End,2-0,Grimsby Town
+Sat Mar 1 1913,Stockport County,1-2,Bury
+Sat Mar 1 1913,Burnley,2-2,Leeds City
+Sat Mar 1 1913,Leyton Orient,0-0,Bristol City
+Sat Mar 1 1913,Wolverhampton Wanderers,3-0,Barnsley
+Sat Mar 1 1913,Glossop North End,0-2,Birmingham City
+Sat Mar 1 1913,Bradford Park Avenue,4-2,Blackpool
+Sat Mar 1 1913,Lincoln City,2-1,Nottingham Forest
+Sat Mar 8 1913,Huddersfield Town,6-0,Glossop North End
+Sat Mar 8 1913,Leeds City,1-0,Hull City
+Sat Mar 8 1913,Blackpool,2-1,Nottingham Forest
+Sat Mar 8 1913,Birmingham City,1-1,Leyton Orient
+Sat Mar 8 1913,Bury,0-0,Preston North End
+Sat Mar 8 1913,Fulham,7-0,Stockport County
+Sat Mar 8 1913,Barnsley,1-0,Leicester City
+Sat Mar 8 1913,Bristol City,2-0,Lincoln City
+Tue Mar 11 1913,Grimsby Town,2-0,Burnley
+Wed Mar 12 1913,Huddersfield Town,2-1,Wolverhampton Wanderers
+Sat Mar 15 1913,Wolverhampton Wanderers,4-0,Blackpool
+Sat Mar 15 1913,Lincoln City,0-1,Birmingham City
+Sat Mar 15 1913,Hull City,5-0,Grimsby Town
+Sat Mar 15 1913,Leicester City,3-0,Bradford Park Avenue
+Sat Mar 15 1913,Burnley,3-1,Bury
+Sat Mar 15 1913,Glossop North End,2-1,Leeds City
+Sat Mar 15 1913,Preston North End,1-0,Fulham
+Sat Mar 15 1913,Nottingham Forest,4-1,Bristol City
+Sat Mar 15 1913,Stockport County,0-3,Barnsley
+Sat Mar 15 1913,Leyton Orient,1-1,Huddersfield Town
+Fri Mar 21 1913,Barnsley,7-1,Bristol City
+Fri Mar 21 1913,Leyton Orient,0-0,Wolverhampton Wanderers
+Fri Mar 21 1913,Nottingham Forest,1-2,Bradford Park Avenue
+Fri Mar 21 1913,Grimsby Town,3-2,Leeds City
+Fri Mar 21 1913,Glossop North End,3-0,Leicester City
+Fri Mar 21 1913,Lincoln City,3-0,Fulham
+Fri Mar 21 1913,Stockport County,3-3,Hull City
+Fri Mar 21 1913,Blackpool,0-2,Burnley
+Sat Mar 22 1913,Wolverhampton Wanderers,1-1,Leicester City
+Sat Mar 22 1913,Leeds City,3-1,Leyton Orient
+Sat Mar 22 1913,Fulham,4-2,Burnley
+Sat Mar 22 1913,Barnsley,1-1,Preston North End
+Sat Mar 22 1913,Grimsby Town,0-0,Glossop North End
+Sat Mar 22 1913,Bury,3-0,Hull City
+Sat Mar 22 1913,Blackpool,1-1,Bristol City
+Sat Mar 22 1913,Bradford Park Avenue,4-2,Stockport County
+Sat Mar 22 1913,Huddersfield Town,5-1,Lincoln City
+Sat Mar 22 1913,Birmingham City,2-0,Nottingham Forest
+Mon Mar 24 1913,Bristol City,3-0,Barnsley
+Mon Mar 24 1913,Stockport County,1-1,Glossop North End
+Mon Mar 24 1913,Lincoln City,2-1,Wolverhampton Wanderers
+Mon Mar 24 1913,Bradford Park Avenue,3-1,Nottingham Forest
+Mon Mar 24 1913,Hull City,2-2,Preston North End
+Mon Mar 24 1913,Fulham,3-2,Birmingham City
+Mon Mar 24 1913,Grimsby Town,0-0,Huddersfield Town
+Mon Mar 24 1913,Leicester City,1-0,Leyton Orient
+Mon Mar 24 1913,Bury,1-1,Leeds City
+Tue Mar 25 1913,Leeds City,4-2,Bury
+Tue Mar 25 1913,Huddersfield Town,5-1,Fulham
+Tue Mar 25 1913,Leicester City,1-0,Lincoln City
+Tue Mar 25 1913,Barnsley,1-0,Birmingham City
+Sat Mar 29 1913,Hull City,0-1,Fulham
+Sat Mar 29 1913,Bristol City,0-3,Birmingham City
+Sat Mar 29 1913,Nottingham Forest,0-1,Huddersfield Town
+Sat Mar 29 1913,Leicester City,5-1,Blackpool
+Sat Mar 29 1913,Leyton Orient,1-3,Grimsby Town
+Sat Mar 29 1913,Glossop North End,1-1,Bury
+Sat Mar 29 1913,Lincoln City,3-3,Leeds City
+Sat Mar 29 1913,Stockport County,5-1,Wolverhampton Wanderers
+Thu Apr 3 1913,Barnsley,4-0,Bradford Park Avenue
+Sat Apr 5 1913,Fulham,2-0,Glossop North End
+Sat Apr 5 1913,Wolverhampton Wanderers,2-0,Preston North End
+Sat Apr 5 1913,Leeds City,1-0,Nottingham Forest
+Sat Apr 5 1913,Bradford Park Avenue,2-3,Burnley
+Sat Apr 5 1913,Huddersfield Town,5-0,Bristol City
+Sat Apr 5 1913,Blackpool,2-0,Birmingham City
+Sat Apr 5 1913,Leicester City,4-1,Stockport County
+Sat Apr 5 1913,Barnsley,2-1,Hull City
+Sat Apr 5 1913,Bury,0-0,Leyton Orient
+Sat Apr 5 1913,Grimsby Town,0-0,Lincoln City
+Mon Apr 7 1913,Fulham,0-0,Bristol City
+Thu Apr 10 1913,Preston North End,1-1,Burnley
+Sat Apr 12 1913,Nottingham Forest,1-2,Grimsby Town
+Sat Apr 12 1913,Stockport County,2-0,Blackpool
+Sat Apr 12 1913,Lincoln City,0-1,Bury
+Sat Apr 12 1913,Burnley,4-2,Wolverhampton Wanderers
+Sat Apr 12 1913,Hull City,5-0,Bradford Park Avenue
+Sat Apr 12 1913,Preston North End,1-0,Leicester City
+Sat Apr 12 1913,Leyton Orient,2-1,Fulham
+Sat Apr 12 1913,Glossop North End,1-0,Barnsley
+Sat Apr 12 1913,Birmingham City,3-2,Huddersfield Town
+Sat Apr 12 1913,Bristol City,1-1,Leeds City
+Wed Apr 16 1913,Bradford Park Avenue,5-1,Wolverhampton Wanderers
+Thu Apr 17 1913,Hull City,2-0,Glossop North End
+Sat Apr 19 1913,Stockport County,1-1,Preston North End
+Sat Apr 19 1913,Fulham,3-1,Lincoln City
+Sat Apr 19 1913,Wolverhampton Wanderers,0-1,Hull City
+Sat Apr 19 1913,Leicester City,2-3,Burnley
+Sat Apr 19 1913,Bradford Park Avenue,5-0,Glossop North End
+Sat Apr 19 1913,Blackpool,2-1,Huddersfield Town
+Sat Apr 19 1913,Grimsby Town,3-0,Bristol City
+Sat Apr 19 1913,Barnsley,0-0,Leyton Orient
+Sat Apr 19 1913,Leeds City,4-0,Birmingham City
+Sat Apr 19 1913,Bury,2-0,Nottingham Forest
+Wed Apr 23 1913,Burnley,0-1,Barnsley
+Sat Apr 26 1913,Hull City,2-0,Leicester City
+Sat Apr 26 1913,Glossop North End,1-3,Wolverhampton Wanderers
+Sat Apr 26 1913,Burnley,3-2,Stockport County
+Sat Apr 26 1913,Huddersfield Town,1-0,Leeds City
+Sat Apr 26 1913,Nottingham Forest,2-4,Fulham
+Sat Apr 26 1913,Leyton Orient,1-0,Bradford Park Avenue
+Sat Apr 26 1913,Lincoln City,2-0,Barnsley
+Sat Apr 26 1913,Bristol City,1-5,Bury
+Sat Apr 26 1913,Birmingham City,2-1,Grimsby Town
+Sat Apr 26 1913,Preston North End,2-1,Blackpool

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 25 1923,Swansea City,1-0,Luton Town
+Sat Aug 25 1923,Queens Park Rangers,1-0,Brentford
+Sat Aug 25 1923,Plymouth Argyle,1-2,Portsmouth
+Sat Aug 25 1923,Watford,2-1,Reading
+Sat Aug 25 1923,Newport County,2-0,Exeter City
+Sat Aug 25 1923,Charlton Athletic,3-1,Aberdare Athletic
+Sat Aug 25 1923,Merthyr Town,3-2,Southend United
+Sat Aug 25 1923,Norwich City,1-1,Millwall
+Sat Aug 25 1923,Gillingham,1-0,Bristol Rovers
+Sat Aug 25 1923,Swindon Town,3-1,AFC Bournemouth
+Sat Aug 25 1923,Northampton Town,3-0,Brighton & Hove Albion
+Mon Aug 27 1923,Brentford,1-1,Plymouth Argyle
+Mon Aug 27 1923,Aberdare Athletic,0-0,Norwich City
+Mon Aug 27 1923,Luton Town,1-1,Northampton Town
+Mon Aug 27 1923,Millwall,1-0,Swindon Town
+Mon Aug 27 1923,Southend United,2-2,Charlton Athletic
+Mon Aug 27 1923,Bristol Rovers,2-1,Queens Park Rangers
+Wed Aug 29 1923,Exeter City,1-0,Merthyr Town
+Wed Aug 29 1923,Brighton & Hove Albion,2-2,Gillingham
+Wed Aug 29 1923,Portsmouth,5-0,Newport County
+Wed Aug 29 1923,Reading,3-4,Swansea City
+Sat Sep 1 1923,Brentford,0-1,Queens Park Rangers
+Sat Sep 1 1923,Southend United,3-1,Merthyr Town
+Sat Sep 1 1923,Brighton & Hove Albion,2-0,Northampton Town
+Sat Sep 1 1923,AFC Bournemouth,0-0,Swindon Town
+Sat Sep 1 1923,Exeter City,5-0,Newport County
+Sat Sep 1 1923,Millwall,2-1,Norwich City
+Sat Sep 1 1923,Reading,1-1,Watford
+Sat Sep 1 1923,Luton Town,1-2,Swansea City
+Sat Sep 1 1923,Bristol Rovers,2-0,Gillingham
+Sat Sep 1 1923,Aberdare Athletic,4-1,Charlton Athletic
+Sat Sep 1 1923,Portsmouth,2-1,Plymouth Argyle
+Mon Sep 3 1923,Norwich City,5-0,Aberdare Athletic
+Mon Sep 3 1923,Northampton Town,2-0,Luton Town
+Mon Sep 3 1923,Charlton Athletic,4-1,Southend United
+Mon Sep 3 1923,Swindon Town,1-0,Millwall
+Mon Sep 3 1923,Plymouth Argyle,4-1,Brentford
+Mon Sep 3 1923,Swansea City,5-1,Reading
+Wed Sep 5 1923,Queens Park Rangers,1-2,Bristol Rovers
+Wed Sep 5 1923,Gillingham,1-1,Brighton & Hove Albion
+Wed Sep 5 1923,Watford,0-0,AFC Bournemouth
+Thu Sep 6 1923,Merthyr Town,3-0,Exeter City
+Thu Sep 6 1923,Newport County,2-1,Portsmouth
+Sat Sep 8 1923,Portsmouth,1-1,Reading
+Sat Sep 8 1923,Brentford,2-1,Luton Town
+Sat Sep 8 1923,Bristol Rovers,2-0,Brighton & Hove Albion
+Sat Sep 8 1923,Aberdare Athletic,1-1,Millwall
+Sat Sep 8 1923,Norwich City,0-1,Plymouth Argyle
+Sat Sep 8 1923,Charlton Athletic,1-0,Merthyr Town
+Sat Sep 8 1923,Swansea City,2-1,Northampton Town
+Sat Sep 8 1923,Watford,1-1,Gillingham
+Sat Sep 8 1923,Exeter City,0-2,AFC Bournemouth
+Sat Sep 8 1923,Newport County,5-0,Southend United
+Sat Sep 8 1923,Swindon Town,0-0,Queens Park Rangers
+Mon Sep 10 1923,Northampton Town,0-0,Bristol Rovers
+Mon Sep 10 1923,Norwich City,0-0,Watford
+Mon Sep 10 1923,Aberdare Athletic,1-2,Brentford
+Wed Sep 12 1923,Exeter City,0-0,Portsmouth
+Wed Sep 12 1923,Queens Park Rangers,0-3,Newport County
+Sat Sep 15 1923,Southend United,2-0,Newport County
+Sat Sep 15 1923,Luton Town,2-1,Brentford
+Sat Sep 15 1923,Gillingham,0-0,Watford
+Sat Sep 15 1923,Northampton Town,2-0,Swansea City
+Sat Sep 15 1923,Reading,1-4,Portsmouth
+Sat Sep 15 1923,AFC Bournemouth,1-0,Exeter City
+Sat Sep 15 1923,Queens Park Rangers,2-2,Swindon Town
+Sat Sep 15 1923,Brighton & Hove Albion,2-1,Bristol Rovers
+Sat Sep 15 1923,Millwall,2-0,Aberdare Athletic
+Sat Sep 15 1923,Merthyr Town,2-1,Charlton Athletic
+Sat Sep 15 1923,Plymouth Argyle,2-0,Norwich City
+Wed Sep 19 1923,Southend United,0-1,Portsmouth
+Wed Sep 19 1923,AFC Bournemouth,1-1,Watford
+Sat Sep 22 1923,Aberdare Athletic,1-0,AFC Bournemouth
+Sat Sep 22 1923,Brentford,1-2,Brighton & Hove Albion
+Sat Sep 22 1923,Norwich City,2-0,Merthyr Town
+Sat Sep 22 1923,Watford,0-2,Queens Park Rangers
+Sat Sep 22 1923,Newport County,1-1,Northampton Town
+Sat Sep 22 1923,Swansea City,3-1,Gillingham
+Sat Sep 22 1923,Exeter City,3-2,Reading
+Sat Sep 22 1923,Charlton Athletic,0-1,Millwall
+Sat Sep 22 1923,Swindon Town,0-1,Plymouth Argyle
+Sat Sep 22 1923,Bristol Rovers,3-1,Southend United
+Sat Sep 22 1923,Portsmouth,3-0,Luton Town
+Sat Sep 29 1923,Northampton Town,0-0,Newport County
+Sat Sep 29 1923,Brighton & Hove Albion,2-0,Brentford
+Sat Sep 29 1923,Luton Town,4-1,Portsmouth
+Sat Sep 29 1923,AFC Bournemouth,0-1,Aberdare Athletic
+Sat Sep 29 1923,Millwall,1-0,Charlton Athletic
+Sat Sep 29 1923,Plymouth Argyle,1-3,Swindon Town
+Sat Sep 29 1923,Southend United,1-0,Bristol Rovers
+Sat Sep 29 1923,Queens Park Rangers,2-1,Watford
+Sat Sep 29 1923,Reading,1-0,Exeter City
+Sat Sep 29 1923,Gillingham,0-1,Swansea City
+Sat Sep 29 1923,Merthyr Town,2-3,Norwich City
+Sat Oct 6 1923,Aberdare Athletic,1-0,Reading
+Sat Oct 6 1923,Exeter City,2-1,Luton Town
+Sat Oct 6 1923,Swansea City,2-0,Queens Park Rangers
+Sat Oct 6 1923,Norwich City,1-1,AFC Bournemouth
+Sat Oct 6 1923,Watford,0-1,Plymouth Argyle
+Sat Oct 6 1923,Gillingham,1-1,Northampton Town
+Sat Oct 6 1923,Charlton Athletic,2-1,Newport County
+Sat Oct 6 1923,Swindon Town,3-0,Merthyr Town
+Sat Oct 6 1923,Portsmouth,1-3,Brighton & Hove Albion
+Sat Oct 6 1923,Bristol Rovers,2-0,Brentford
+Sat Oct 6 1923,Southend United,0-0,Millwall
+Sat Oct 13 1923,Northampton Town,2-0,Gillingham
+Sat Oct 13 1923,Newport County,0-1,Charlton Athletic
+Sat Oct 13 1923,Brentford,1-2,Bristol Rovers
+Sat Oct 13 1923,AFC Bournemouth,1-2,Norwich City
+Sat Oct 13 1923,Queens Park Rangers,2-2,Swansea City
+Sat Oct 13 1923,Brighton & Hove Albion,0-4,Portsmouth
+Sat Oct 13 1923,Merthyr Town,2-0,Swindon Town
+Sat Oct 13 1923,Luton Town,1-0,Exeter City
+Sat Oct 13 1923,Millwall,0-0,Southend United
+Sat Oct 13 1923,Reading,0-1,Aberdare Athletic
+Sat Oct 13 1923,Plymouth Argyle,1-0,Watford
+Sat Oct 20 1923,Northampton Town,3-0,Queens Park Rangers
+Sat Oct 20 1923,Charlton Athletic,0-0,Norwich City
+Sat Oct 20 1923,Plymouth Argyle,2-0,Swansea City
+Sat Oct 20 1923,Watford,4-0,Merthyr Town
+Sat Oct 20 1923,Southend United,3-1,Brentford
+Sat Oct 20 1923,Gillingham,2-1,Newport County
+Sat Oct 20 1923,Portsmouth,1-1,Bristol Rovers
+Sat Oct 20 1923,Brighton & Hove Albion,1-0,Exeter City
+Sat Oct 20 1923,Aberdare Athletic,0-1,Luton Town
+Sat Oct 20 1923,Swindon Town,1-0,Reading
+Sat Oct 20 1923,AFC Bournemouth,2-0,Millwall
+Sat Oct 27 1923,Newport County,2-1,Gillingham
+Sat Oct 27 1923,Reading,1-0,Swindon Town
+Sat Oct 27 1923,Exeter City,0-1,Brighton & Hove Albion
+Sat Oct 27 1923,Bristol Rovers,0-1,Portsmouth
+Sat Oct 27 1923,Queens Park Rangers,3-2,Northampton Town
+Sat Oct 27 1923,Brentford,3-1,Southend United
+Sat Oct 27 1923,Millwall,4-2,AFC Bournemouth
+Sat Oct 27 1923,Norwich City,2-2,Charlton Athletic
+Sat Oct 27 1923,Luton Town,1-0,Aberdare Athletic
+Sat Oct 27 1923,Swansea City,1-0,Plymouth Argyle
+Sat Oct 27 1923,Merthyr Town,2-1,Watford
+Sat Nov 3 1923,Charlton Athletic,3-1,Swindon Town
+Sat Nov 3 1923,Merthyr Town,0-0,Swansea City
+Sat Nov 3 1923,Luton Town,0-0,Watford
+Sat Nov 3 1923,Plymouth Argyle,0-0,Northampton Town
+Sat Nov 3 1923,Reading,2-0,Millwall
+Sat Nov 3 1923,Newport County,1-0,Norwich City
+Sat Nov 3 1923,Brighton & Hove Albion,5-0,Aberdare Athletic
+Sat Nov 3 1923,Gillingham,0-0,Queens Park Rangers
+Sat Nov 3 1923,Bristol Rovers,0-0,Exeter City
+Sat Nov 3 1923,Portsmouth,3-0,Brentford
+Sat Nov 3 1923,Southend United,1-1,AFC Bournemouth
+Sat Nov 10 1923,Watford,0-0,Luton Town
+Sat Nov 10 1923,Millwall,0-0,Reading
+Sat Nov 10 1923,Northampton Town,1-0,Plymouth Argyle
+Sat Nov 10 1923,Swindon Town,1-1,Charlton Athletic
+Sat Nov 10 1923,Queens Park Rangers,1-1,Gillingham
+Sat Nov 10 1923,Norwich City,3-1,Newport County
+Sat Nov 10 1923,AFC Bournemouth,0-1,Southend United
+Sat Nov 10 1923,Aberdare Athletic,3-1,Brighton & Hove Albion
+Sat Nov 10 1923,Exeter City,3-1,Bristol Rovers
+Sat Nov 10 1923,Brentford,1-1,Portsmouth
+Sat Nov 10 1923,Swansea City,5-1,Merthyr Town
+Sat Nov 17 1923,Gillingham,1-0,Plymouth Argyle
+Sat Nov 17 1923,Millwall,0-1,Luton Town
+Sat Nov 17 1923,Norwich City,2-0,Swindon Town
+Sat Nov 17 1923,Swansea City,1-0,Brighton & Hove Albion
+Sat Nov 17 1923,Reading,1-2,AFC Bournemouth
+Sat Nov 17 1923,Watford,1-0,Charlton Athletic
+Sat Nov 17 1923,Northampton Town,3-0,Merthyr Town
+Sat Nov 24 1923,Brighton & Hove Albion,4-1,Swansea City
+Sat Nov 24 1923,Swindon Town,4-2,Norwich City
+Sat Nov 24 1923,Brentford,1-0,Exeter City
+Sat Nov 24 1923,Charlton Athletic,1-1,Watford
+Sat Nov 24 1923,Portsmouth,3-0,Southend United
+Sat Nov 24 1923,Merthyr Town,0-0,Northampton Town
+Sat Nov 24 1923,AFC Bournemouth,0-0,Reading
+Sat Nov 24 1923,Luton Town,2-0,Millwall
+Sat Nov 24 1923,Bristol Rovers,2-0,Aberdare Athletic
+Sat Nov 24 1923,Plymouth Argyle,3-0,Gillingham
+Sat Dec 1 1923,Queens Park Rangers,3-2,Plymouth Argyle
+Sat Dec 1 1923,Luton Town,6-2,AFC Bournemouth
+Sat Dec 1 1923,Newport County,3-0,Swindon Town
+Sat Dec 1 1923,Swansea City,1-0,Charlton Athletic
+Sat Dec 1 1923,Millwall,0-0,Brighton & Hove Albion
+Sat Dec 8 1923,Bristol Rovers,1-1,Northampton Town
+Sat Dec 8 1923,Charlton Athletic,1-3,Swansea City
+Sat Dec 8 1923,Merthyr Town,0-2,Gillingham
+Sat Dec 8 1923,Plymouth Argyle,2-0,Queens Park Rangers
+Sat Dec 8 1923,Watford,0-0,Norwich City
+Sat Dec 8 1923,AFC Bournemouth,2-3,Luton Town
+Sat Dec 8 1923,Portsmouth,4-0,Exeter City
+Sat Dec 8 1923,Swindon Town,3-0,Newport County
+Sat Dec 8 1923,Southend United,2-1,Reading
+Sat Dec 8 1923,Brighton & Hove Albion,2-2,Millwall
+Sat Dec 8 1923,Brentford,1-1,Aberdare Athletic
+Sat Dec 15 1923,Millwall,1-0,Bristol Rovers
+Sat Dec 15 1923,Swindon Town,0-0,Watford
+Sat Dec 15 1923,AFC Bournemouth,1-0,Brighton & Hove Albion
+Sat Dec 15 1923,Luton Town,2-0,Reading
+Sat Dec 15 1923,Newport County,1-2,Plymouth Argyle
+Sat Dec 15 1923,Queens Park Rangers,3-0,Merthyr Town
+Sat Dec 22 1923,Watford,0-0,Swindon Town
+Sat Dec 22 1923,Plymouth Argyle,3-2,Newport County
+Sat Dec 22 1923,Charlton Athletic,0-0,Northampton Town
+Sat Dec 22 1923,Swansea City,1-0,Norwich City
+Sat Dec 22 1923,Brentford,3-2,Gillingham
+Sat Dec 22 1923,Merthyr Town,2-0,Queens Park Rangers
+Sat Dec 22 1923,Southend United,0-0,Exeter City
+Sat Dec 22 1923,Brighton & Hove Albion,5-0,AFC Bournemouth
+Sat Dec 22 1923,Portsmouth,4-0,Aberdare Athletic
+Sat Dec 22 1923,Reading,0-1,Luton Town
+Sat Dec 22 1923,Bristol Rovers,4-1,Millwall
+Tue Dec 25 1923,Reading,3-2,Bristol Rovers
+Tue Dec 25 1923,Queens Park Rangers,0-0,Charlton Athletic
+Tue Dec 25 1923,Southend United,1-1,Aberdare Athletic
+Tue Dec 25 1923,Swansea City,1-0,Watford
+Tue Dec 25 1923,AFC Bournemouth,2-4,Brentford
+Tue Dec 25 1923,Plymouth Argyle,4-0,Exeter City
+Tue Dec 25 1923,Millwall,2-0,Portsmouth
+Tue Dec 25 1923,Gillingham,3-1,Norwich City
+Tue Dec 25 1923,Luton Town,0-0,Brighton & Hove Albion
+Tue Dec 25 1923,Merthyr Town,3-3,Newport County
+Wed Dec 26 1923,Portsmouth,0-1,Millwall
+Wed Dec 26 1923,Swindon Town,2-0,Northampton Town
+Wed Dec 26 1923,Bristol Rovers,0-0,Reading
+Wed Dec 26 1923,Watford,2-2,Swansea City
+Wed Dec 26 1923,Aberdare Athletic,5-2,Southend United
+Wed Dec 26 1923,Newport County,4-4,Merthyr Town
+Wed Dec 26 1923,Brighton & Hove Albion,4-0,Luton Town
+Wed Dec 26 1923,Brentford,2-0,AFC Bournemouth
+Wed Dec 26 1923,Norwich City,1-0,Gillingham
+Wed Dec 26 1923,Charlton Athletic,3-0,Queens Park Rangers
+Wed Dec 26 1923,Exeter City,0-4,Plymouth Argyle
+Thu Dec 27 1923,Northampton Town,1-1,Swindon Town
+Sat Dec 29 1923,Queens Park Rangers,0-2,Portsmouth
+Sat Dec 29 1923,Reading,0-1,Brighton & Hove Albion
+Sat Dec 29 1923,Gillingham,0-1,Charlton Athletic
+Sat Dec 29 1923,Plymouth Argyle,1-1,Merthyr Town
+Sat Dec 29 1923,Luton Town,4-4,Southend United
+Sat Dec 29 1923,Newport County,1-0,Watford
+Sat Dec 29 1923,AFC Bournemouth,0-1,Bristol Rovers
+Sat Dec 29 1923,Swansea City,1-1,Swindon Town
+Sat Dec 29 1923,Northampton Town,1-0,Norwich City
+Sat Dec 29 1923,Millwall,4-1,Brentford
+Sat Dec 29 1923,Aberdare Athletic,0-0,Exeter City
+Tue Jan 1 1924,Newport County,2-1,Queens Park Rangers
+Sat Jan 5 1924,Swindon Town,1-0,Swansea City
+Sat Jan 5 1924,Norwich City,1-4,Northampton Town
+Sat Jan 5 1924,Charlton Athletic,0-0,Gillingham
+Sat Jan 5 1924,Southend United,1-1,Luton Town
+Sat Jan 5 1924,Brighton & Hove Albion,4-0,Reading
+Sat Jan 5 1924,Exeter City,1-1,Aberdare Athletic
+Sat Jan 5 1924,Watford,8-2,Newport County
+Sat Jan 5 1924,Merthyr Town,1-0,Plymouth Argyle
+Sat Jan 5 1924,Brentford,1-3,Millwall
+Sat Jan 5 1924,Bristol Rovers,3-4,AFC Bournemouth
+Sat Jan 5 1924,Portsmouth,7-0,Queens Park Rangers
+Sat Jan 12 1924,Reading,1-0,Southend United
+Sat Jan 19 1924,Gillingham,0-0,Luton Town
+Sat Jan 19 1924,Norwich City,3-1,Southend United
+Sat Jan 19 1924,Plymouth Argyle,2-2,Bristol Rovers
+Sat Jan 19 1924,Merthyr Town,2-2,Portsmouth
+Sat Jan 19 1924,Swindon Town,3-1,Aberdare Athletic
+Sat Jan 19 1924,Watford,1-1,Millwall
+Sat Jan 19 1924,AFC Bournemouth,0-0,Swansea City
+Sat Jan 19 1924,Queens Park Rangers,1-0,Brighton & Hove Albion
+Sat Jan 19 1924,Northampton Town,3-1,Reading
+Sat Jan 26 1924,Bristol Rovers,1-1,Plymouth Argyle
+Sat Jan 26 1924,Exeter City,0-0,Charlton Athletic
+Sat Jan 26 1924,Southend United,3-1,Norwich City
+Sat Jan 26 1924,Aberdare Athletic,2-2,Swindon Town
+Sat Jan 26 1924,Millwall,2-0,Watford
+Sat Jan 26 1924,Swansea City,1-0,AFC Bournemouth
+Sat Jan 26 1924,Luton Town,1-1,Gillingham
+Sat Jan 26 1924,Reading,1-0,Northampton Town
+Sat Jan 26 1924,Brighton & Hove Albion,3-0,Queens Park Rangers
+Sat Jan 26 1924,Portsmouth,1-0,Merthyr Town
+Sat Jan 26 1924,Brentford,0-0,Newport County
+Sat Feb 2 1924,Northampton Town,3-1,AFC Bournemouth
+Sat Feb 2 1924,Queens Park Rangers,0-2,Luton Town
+Sat Feb 2 1924,Merthyr Town,2-0,Brentford
+Sat Feb 2 1924,Gillingham,1-0,Reading
+Sat Feb 2 1924,Newport County,1-0,Bristol Rovers
+Sat Feb 9 1924,Millwall,2-1,Swansea City
+Sat Feb 9 1924,Exeter City,1-2,Norwich City
+Sat Feb 9 1924,Brighton & Hove Albion,4-1,Plymouth Argyle
+Sat Feb 9 1924,Luton Town,2-0,Queens Park Rangers
+Sat Feb 9 1924,Brentford,0-0,Merthyr Town
+Sat Feb 9 1924,Bristol Rovers,0-0,Newport County
+Sat Feb 9 1924,Southend United,0-2,Swindon Town
+Sat Feb 9 1924,AFC Bournemouth,2-1,Northampton Town
+Sat Feb 9 1924,Portsmouth,0-0,Charlton Athletic
+Sat Feb 9 1924,Aberdare Athletic,4-0,Watford
+Sat Feb 9 1924,Reading,4-0,Gillingham
+Thu Feb 14 1924,Norwich City,4-0,Exeter City
+Sat Feb 16 1924,Gillingham,1-0,AFC Bournemouth
+Sat Feb 16 1924,Millwall,4-3,Northampton Town
+Sat Feb 16 1924,Norwich City,3-1,Portsmouth
+Sat Feb 16 1924,Charlton Athletic,3-1,Brentford
+Sat Feb 16 1924,Merthyr Town,1-1,Bristol Rovers
+Sat Feb 16 1924,Swansea City,1-0,Aberdare Athletic
+Sat Feb 16 1924,Newport County,0-0,Brighton & Hove Albion
+Sat Feb 16 1924,Swindon Town,0-1,Exeter City
+Sat Feb 16 1924,Watford,4-1,Southend United
+Sat Feb 16 1924,Queens Park Rangers,1-4,Reading
+Sat Feb 16 1924,Plymouth Argyle,0-0,Luton Town
+Sat Feb 23 1924,Reading,4-0,Queens Park Rangers
+Sat Feb 23 1924,Northampton Town,2-1,Millwall
+Sat Feb 23 1924,Luton Town,0-2,Plymouth Argyle
+Sat Feb 23 1924,Brentford,0-0,Charlton Athletic
+Sat Feb 23 1924,Exeter City,2-0,Southend United
+Sat Feb 23 1924,AFC Bournemouth,0-0,Gillingham
+Sat Feb 23 1924,Portsmouth,4-0,Norwich City
+Sat Feb 23 1924,Bristol Rovers,0-0,Merthyr Town
+Sat Feb 23 1924,Aberdare Athletic,4-2,Swansea City
+Sat Mar 1 1924,Watford,4-1,Exeter City
+Sat Mar 1 1924,Swansea City,2-1,Southend United
+Sat Mar 1 1924,Queens Park Rangers,0-1,AFC Bournemouth
+Sat Mar 1 1924,Swindon Town,0-0,Portsmouth
+Sat Mar 1 1924,Charlton Athletic,1-3,Bristol Rovers
+Sat Mar 1 1924,Gillingham,0-2,Millwall
+Sat Mar 1 1924,Plymouth Argyle,2-1,Reading
+Sat Mar 1 1924,Newport County,1-0,Luton Town
+Sat Mar 1 1924,Merthyr Town,2-1,Brighton & Hove Albion
+Sat Mar 1 1924,Norwich City,2-3,Brentford
+Sat Mar 8 1924,Luton Town,2-0,Newport County
+Sat Mar 8 1924,Southend United,0-0,Swansea City
+Sat Mar 8 1924,Millwall,5-0,Gillingham
+Sat Mar 8 1924,Exeter City,1-0,Watford
+Sat Mar 8 1924,Aberdare Athletic,2-2,Northampton Town
+Sat Mar 8 1924,Brighton & Hove Albion,0-0,Merthyr Town
+Sat Mar 8 1924,Brentford,3-0,Norwich City
+Sat Mar 8 1924,AFC Bournemouth,3-1,Queens Park Rangers
+Sat Mar 8 1924,Bristol Rovers,2-0,Charlton Athletic
+Sat Mar 8 1924,Reading,1-2,Plymouth Argyle
+Mon Mar 10 1924,Charlton Athletic,1-1,Portsmouth
+Wed Mar 12 1924,Gillingham,2-1,Merthyr Town
+Thu Mar 13 1924,Swansea City,1-2,Millwall
+Thu Mar 13 1924,Northampton Town,1-0,Charlton Athletic
+Sat Mar 15 1924,Brighton & Hove Albion,3-0,Charlton Athletic
+Sat Mar 15 1924,Bristol Rovers,3-1,Norwich City
+Sat Mar 15 1924,Portsmouth,4-0,Watford
+Sat Mar 15 1924,AFC Bournemouth,0-0,Plymouth Argyle
+Sat Mar 15 1924,Exeter City,1-0,Swansea City
+Sat Mar 15 1924,Southend United,5-1,Northampton Town
+Sat Mar 15 1924,Brentford,2-2,Swindon Town
+Sat Mar 15 1924,Aberdare Athletic,1-1,Gillingham
+Sat Mar 15 1924,Luton Town,1-1,Merthyr Town
+Sat Mar 15 1924,Reading,1-1,Newport County
+Sat Mar 15 1924,Millwall,3-0,Queens Park Rangers
+Mon Mar 17 1924,Aberdare Athletic,0-0,Portsmouth
+Wed Mar 19 1924,Gillingham,6-0,Brentford
+Wed Mar 19 1924,Exeter City,3-1,Swindon Town
+Wed Mar 19 1924,Southend United,3-0,Watford
+Sat Mar 22 1924,Swindon Town,2-1,Brentford
+Sat Mar 22 1924,Norwich City,3-1,Bristol Rovers
+Sat Mar 22 1924,Watford,2-3,Portsmouth
+Sat Mar 22 1924,Northampton Town,8-0,Southend United
+Sat Mar 22 1924,Queens Park Rangers,1-1,Millwall
+Sat Mar 22 1924,Charlton Athletic,0-2,Brighton & Hove Albion
+Sat Mar 22 1924,Swansea City,1-0,Exeter City
+Sat Mar 22 1924,Merthyr Town,0-0,Luton Town
+Sat Mar 22 1924,Gillingham,3-1,Aberdare Athletic
+Sat Mar 22 1924,Newport County,2-0,Reading
+Sat Mar 22 1924,Plymouth Argyle,4-0,AFC Bournemouth
+Wed Mar 26 1924,Brighton & Hove Albion,4-0,Newport County
+Sat Mar 29 1924,Luton Town,0-1,Charlton Athletic
+Sat Mar 29 1924,Aberdare Athletic,1-1,Queens Park Rangers
+Sat Mar 29 1924,Reading,3-0,Merthyr Town
+Sat Mar 29 1924,Brighton & Hove Albion,3-0,Norwich City
+Sat Mar 29 1924,Millwall,1-0,Plymouth Argyle
+Sat Mar 29 1924,Brentford,4-1,Watford
+Sat Mar 29 1924,Newport County,2-0,AFC Bournemouth
+Sat Mar 29 1924,Southend United,3-2,Gillingham
+Sat Mar 29 1924,Bristol Rovers,0-1,Swindon Town
+Sat Mar 29 1924,Exeter City,2-1,Northampton Town
+Sat Mar 29 1924,Portsmouth,3-0,Swansea City
+Mon Mar 31 1924,Aberdare Athletic,2-0,Bristol Rovers
+Wed Apr 2 1924,Swindon Town,3-0,Southend United
+Wed Apr 2 1924,Exeter City,1-0,Brentford
+Sat Apr 5 1924,Merthyr Town,1-1,Reading
+Sat Apr 5 1924,Queens Park Rangers,3-0,Aberdare Athletic
+Sat Apr 5 1924,Watford,0-1,Brentford
+Sat Apr 5 1924,Northampton Town,1-0,Exeter City
+Sat Apr 5 1924,Swansea City,0-0,Portsmouth
+Sat Apr 5 1924,AFC Bournemouth,0-1,Newport County
+Sat Apr 5 1924,Norwich City,1-0,Brighton & Hove Albion
+Sat Apr 5 1924,Swindon Town,0-0,Bristol Rovers
+Sat Apr 5 1924,Charlton Athletic,1-1,Luton Town
+Sat Apr 5 1924,Plymouth Argyle,1-1,Millwall
+Sat Apr 5 1924,Gillingham,3-2,Southend United
+Mon Apr 7 1924,Northampton Town,1-2,Aberdare Athletic
+Mon Apr 7 1924,Charlton Athletic,1-0,Exeter City
+Sat Apr 12 1924,AFC Bournemouth,3-3,Merthyr Town
+Sat Apr 12 1924,Brentford,2-2,Swansea City
+Sat Apr 12 1924,Bristol Rovers,4-2,Watford
+Sat Apr 12 1924,Southend United,4-2,Queens Park Rangers
+Sat Apr 12 1924,Portsmouth,1-3,Northampton Town
+Sat Apr 12 1924,Exeter City,2-1,Gillingham
+Sat Apr 12 1924,Aberdare Athletic,1-2,Plymouth Argyle
+Sat Apr 12 1924,Luton Town,2-1,Norwich City
+Sat Apr 12 1924,Brighton & Hove Albion,1-1,Swindon Town
+Sat Apr 12 1924,Reading,3-1,Charlton Athletic
+Sat Apr 12 1924,Millwall,2-1,Newport County
+Fri Apr 18 1924,Luton Town,0-0,Bristol Rovers
+Fri Apr 18 1924,Gillingham,1-0,Swindon Town
+Fri Apr 18 1924,Queens Park Rangers,2-1,Norwich City
+Fri Apr 18 1924,Portsmouth,3-0,AFC Bournemouth
+Fri Apr 18 1924,Plymouth Argyle,1-1,Charlton Athletic
+Fri Apr 18 1924,Watford,2-0,Aberdare Athletic
+Fri Apr 18 1924,Millwall,3-1,Exeter City
+Fri Apr 18 1924,Reading,1-0,Brentford
+Fri Apr 18 1924,Swansea City,2-1,Newport County
+Fri Apr 18 1924,Brighton & Hove Albion,2-0,Southend United
+Sat Apr 19 1924,Plymouth Argyle,2-0,Aberdare Athletic
+Sat Apr 19 1924,Merthyr Town,4-2,AFC Bournemouth
+Sat Apr 19 1924,Charlton Athletic,0-0,Reading
+Sat Apr 19 1924,Swansea City,4-0,Brentford
+Sat Apr 19 1924,Watford,4-0,Bristol Rovers
+Sat Apr 19 1924,Newport County,2-1,Millwall
+Sat Apr 19 1924,Swindon Town,4-0,Brighton & Hove Albion
+Sat Apr 19 1924,Queens Park Rangers,0-0,Southend United
+Sat Apr 19 1924,Norwich City,2-0,Luton Town
+Sat Apr 19 1924,Northampton Town,0-4,Portsmouth
+Sat Apr 19 1924,Gillingham,1-1,Exeter City
+Mon Apr 21 1924,Exeter City,2-0,Millwall
+Mon Apr 21 1924,Norwich City,5-0,Queens Park Rangers
+Mon Apr 21 1924,Watford,0-2,Northampton Town
+Mon Apr 21 1924,Bristol Rovers,1-1,Luton Town
+Mon Apr 21 1924,Swindon Town,4-1,Gillingham
+Mon Apr 21 1924,AFC Bournemouth,0-0,Portsmouth
+Mon Apr 21 1924,Merthyr Town,0-0,Aberdare Athletic
+Mon Apr 21 1924,Newport County,4-1,Swansea City
+Mon Apr 21 1924,Brentford,4-1,Reading
+Mon Apr 21 1924,Charlton Athletic,0-1,Plymouth Argyle
+Mon Apr 21 1924,Southend United,1-0,Brighton & Hove Albion
+Tue Apr 22 1924,Northampton Town,1-2,Watford
+Tue Apr 22 1924,Aberdare Athletic,0-0,Merthyr Town
+Tue Apr 22 1924,Newport County,3-2,Brentford
+Sat Apr 26 1924,Portsmouth,3-0,Gillingham
+Sat Apr 26 1924,Millwall,6-0,Merthyr Town
+Sat Apr 26 1924,Brighton & Hove Albion,3-0,Watford
+Sat Apr 26 1924,AFC Bournemouth,1-0,Charlton Athletic
+Sat Apr 26 1924,Reading,3-0,Norwich City
+Sat Apr 26 1924,Southend United,0-2,Plymouth Argyle
+Sat Apr 26 1924,Luton Town,3-2,Swindon Town
+Sat Apr 26 1924,Aberdare Athletic,2-0,Newport County
+Sat Apr 26 1924,Bristol Rovers,2-0,Swansea City
+Sat Apr 26 1924,Brentford,1-0,Northampton Town
+Sat Apr 26 1924,Exeter City,3-0,Queens Park Rangers
+Mon Apr 28 1924,Norwich City,2-0,Swansea City
+Wed Apr 30 1924,Portsmouth,4-1,Swindon Town
+Wed Apr 30 1924,Plymouth Argyle,3-0,Brighton & Hove Albion
+Sat May 3 1924,Merthyr Town,1-0,Millwall
+Sat May 3 1924,Charlton Athletic,1-2,AFC Bournemouth
+Sat May 3 1924,Norwich City,2-2,Reading
+Sat May 3 1924,Watford,0-0,Brighton & Hove Albion
+Sat May 3 1924,Swindon Town,3-2,Luton Town
+Sat May 3 1924,Newport County,0-0,Aberdare Athletic
+Sat May 3 1924,Gillingham,0-2,Portsmouth
+Sat May 3 1924,Plymouth Argyle,7-1,Southend United
+Sat May 3 1924,Queens Park Rangers,2-0,Exeter City
+Sat May 3 1924,Northampton Town,2-3,Brentford
+Sat May 3 1924,Swansea City,3-1,Bristol Rovers

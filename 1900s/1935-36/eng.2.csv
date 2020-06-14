@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 31 1935,Charlton Athletic,4-0,Burnley
+Sat Aug 31 1935,Nottingham Forest,2-2,Bury
+Sat Aug 31 1935,Norwich City,4-3,West Ham United
+Sat Aug 31 1935,Hull City,1-1,Fulham
+Sat Aug 31 1935,Plymouth Argyle,3-1,Manchester United
+Sat Aug 31 1935,Blackpool,5-2,Doncaster Rovers
+Sat Aug 31 1935,Southampton,4-3,Swansea City
+Sat Aug 31 1935,Bradford City,0-1,Tottenham Hotspur
+Sat Aug 31 1935,Sheffield United,1-2,Leicester City
+Sat Aug 31 1935,Newcastle United,3-3,Bradford Park Avenue
+Sat Aug 31 1935,Barnsley,4-2,Port Vale
+Mon Sep 2 1935,Bradford Park Avenue,2-0,West Ham United
+Mon Sep 2 1935,Doncaster Rovers,0-1,Southampton
+Mon Sep 2 1935,Port Vale,1-1,Burnley
+Mon Sep 2 1935,Sheffield United,3-0,Bury
+Mon Sep 2 1935,Fulham,6-0,Nottingham Forest
+Mon Sep 2 1935,Plymouth Argyle,0-1,Bradford City
+Mon Sep 2 1935,Swansea City,2-0,Leicester City
+Mon Sep 2 1935,Tottenham Hotspur,3-1,Hull City
+Wed Sep 4 1935,Blackpool,2-1,Norwich City
+Wed Sep 4 1935,Newcastle United,3-0,Barnsley
+Wed Sep 4 1935,Manchester United,3-0,Charlton Athletic
+Sat Sep 7 1935,Burnley,2-0,Hull City
+Sat Sep 7 1935,Doncaster Rovers,2-0,Charlton Athletic
+Sat Sep 7 1935,Bradford Park Avenue,3-3,Sheffield United
+Sat Sep 7 1935,Leicester City,1-1,Southampton
+Sat Sep 7 1935,Bury,1-1,Blackpool
+Sat Sep 7 1935,West Ham United,5-2,Nottingham Forest
+Sat Sep 7 1935,Tottenham Hotspur,1-2,Newcastle United
+Sat Sep 7 1935,Port Vale,2-0,Plymouth Argyle
+Sat Sep 7 1935,Fulham,1-1,Barnsley
+Sat Sep 7 1935,Swansea City,4-3,Norwich City
+Mon Sep 9 1935,Leicester City,4-1,Swansea City
+Mon Sep 9 1935,Hull City,1-0,Tottenham Hotspur
+Mon Sep 9 1935,Barnsley,3-2,Newcastle United
+Mon Sep 9 1935,Burnley,5-1,Port Vale
+Mon Sep 9 1935,Southampton,1-0,Doncaster Rovers
+Mon Sep 9 1935,West Ham United,1-0,Bradford Park Avenue
+Mon Sep 9 1935,Bradford City,2-2,Plymouth Argyle
+Mon Sep 9 1935,Charlton Athletic,0-0,Manchester United
+Mon Sep 9 1935,Bury,3-2,Sheffield United
+Wed Sep 11 1935,Nottingham Forest,1-1,Fulham
+Wed Sep 11 1935,Norwich City,0-1,Blackpool
+Sat Sep 14 1935,Nottingham Forest,2-2,Swansea City
+Sat Sep 14 1935,Doncaster Rovers,1-0,Bury
+Sat Sep 14 1935,Blackpool,4-1,West Ham United
+Sat Sep 14 1935,Hull City,2-4,Charlton Athletic
+Sat Sep 14 1935,Southampton,3-0,Bradford Park Avenue
+Sat Sep 14 1935,Bradford City,1-1,Port Vale
+Sat Sep 14 1935,Norwich City,1-2,Leicester City
+Sat Sep 14 1935,Sheffield United,1-1,Tottenham Hotspur
+Sat Sep 14 1935,Newcastle United,0-2,Manchester United
+Sat Sep 14 1935,Barnsley,3-1,Burnley
+Sat Sep 14 1935,Plymouth Argyle,2-0,Fulham
+Mon Sep 16 1935,Doncaster Rovers,3-0,Norwich City
+Mon Sep 16 1935,Leicester City,2-1,Bradford City
+Mon Sep 16 1935,Tottenham Hotspur,3-0,Barnsley
+Mon Sep 16 1935,Blackpool,1-4,Nottingham Forest
+Mon Sep 16 1935,Port Vale,2-1,Charlton Athletic
+Mon Sep 16 1935,West Ham United,3-2,Sheffield United
+Mon Sep 16 1935,Southampton,0-0,Bury
+Mon Sep 16 1935,Bradford Park Avenue,1-1,Swansea City
+Tue Sep 17 1935,Manchester United,3-1,Bradford City
+Wed Sep 18 1935,Manchester United,2-0,Hull City
+Wed Sep 18 1935,Fulham,2-2,Burnley
+Sat Sep 21 1935,Bradford Park Avenue,1-0,Norwich City
+Sat Sep 21 1935,Swansea City,1-0,Blackpool
+Sat Sep 21 1935,Charlton Athletic,3-0,Barnsley
+Sat Sep 21 1935,Fulham,5-1,Bradford City
+Sat Sep 21 1935,Manchester United,0-0,Tottenham Hotspur
+Sat Sep 21 1935,Sheffield United,2-1,Southampton
+Sat Sep 21 1935,Port Vale,3-0,Newcastle United
+Sat Sep 21 1935,Burnley,0-1,Plymouth Argyle
+Sat Sep 21 1935,Bury,3-1,Hull City
+Sat Sep 21 1935,West Ham United,1-2,Doncaster Rovers
+Sat Sep 21 1935,Leicester City,2-1,Nottingham Forest
+Sat Sep 28 1935,Bradford City,0-0,Burnley
+Sat Sep 28 1935,Newcastle United,6-2,Fulham
+Sat Sep 28 1935,Bury,3-0,West Ham United
+Sat Sep 28 1935,Tottenham Hotspur,5-2,Port Vale
+Sat Sep 28 1935,Nottingham Forest,2-0,Bradford Park Avenue
+Sat Sep 28 1935,Doncaster Rovers,1-1,Swansea City
+Sat Sep 28 1935,Norwich City,0-1,Sheffield United
+Sat Sep 28 1935,Southampton,2-1,Manchester United
+Sat Sep 28 1935,Blackpool,3-5,Leicester City
+Sat Sep 28 1935,Plymouth Argyle,4-2,Charlton Athletic
+Sat Sep 28 1935,Barnsley,5-1,Hull City
+Thu Oct 3 1935,Nottingham Forest,2-2,Blackpool
+Sat Oct 5 1935,Port Vale,0-3,Manchester United
+Sat Oct 5 1935,West Ham United,2-0,Barnsley
+Sat Oct 5 1935,Swansea City,4-1,Bury
+Sat Oct 5 1935,Southampton,1-1,Norwich City
+Sat Oct 5 1935,Fulham,1-2,Tottenham Hotspur
+Sat Oct 5 1935,Charlton Athletic,2-1,Bradford City
+Sat Oct 5 1935,Bradford Park Avenue,3-2,Blackpool
+Sat Oct 5 1935,Burnley,1-2,Newcastle United
+Sat Oct 5 1935,Hull City,2-1,Plymouth Argyle
+Sat Oct 5 1935,Leicester City,6-0,Doncaster Rovers
+Sat Oct 5 1935,Sheffield United,1-0,Nottingham Forest
+Sat Oct 12 1935,Norwich City,4-2,Port Vale
+Sat Oct 12 1935,Plymouth Argyle,7-1,Barnsley
+Sat Oct 12 1935,Bradford City,1-1,Hull City
+Sat Oct 12 1935,Newcastle United,1-2,Charlton Athletic
+Sat Oct 12 1935,Doncaster Rovers,3-2,Bradford Park Avenue
+Sat Oct 12 1935,Nottingham Forest,2-0,Southampton
+Sat Oct 12 1935,Blackpool,3-0,Sheffield United
+Sat Oct 12 1935,Tottenham Hotspur,5-1,Burnley
+Sat Oct 12 1935,West Ham United,4-0,Swansea City
+Sat Oct 12 1935,Manchester United,1-0,Fulham
+Sat Oct 12 1935,Bury,3-0,Leicester City
+Sat Oct 19 1935,Port Vale,0-2,Southampton
+Sat Oct 19 1935,Manchester United,3-1,Sheffield United
+Sat Oct 19 1935,Barnsley,1-1,Bury
+Sat Oct 19 1935,Burnley,1-0,Nottingham Forest
+Sat Oct 19 1935,Newcastle United,3-1,Leicester City
+Sat Oct 19 1935,Bradford City,2-2,Swansea City
+Sat Oct 19 1935,Plymouth Argyle,4-1,West Ham United
+Sat Oct 19 1935,Charlton Athletic,1-1,Blackpool
+Sat Oct 19 1935,Fulham,1-1,Norwich City
+Sat Oct 19 1935,Tottenham Hotspur,4-0,Bradford Park Avenue
+Sat Oct 19 1935,Hull City,2-3,Doncaster Rovers
+Sat Oct 26 1935,Bury,2-0,Plymouth Argyle
+Sat Oct 26 1935,Blackpool,4-1,Hull City
+Sat Oct 26 1935,Nottingham Forest,0-0,Charlton Athletic
+Sat Oct 26 1935,Bradford Park Avenue,1-0,Manchester United
+Sat Oct 26 1935,Norwich City,2-0,Burnley
+Sat Oct 26 1935,Southampton,1-2,Fulham
+Sat Oct 26 1935,Leicester City,4-1,Tottenham Hotspur
+Sat Oct 26 1935,Doncaster Rovers,1-1,Barnsley
+Sat Oct 26 1935,Sheffield United,4-0,Port Vale
+Sat Oct 26 1935,West Ham United,1-1,Bradford City
+Sat Oct 26 1935,Swansea City,1-2,Newcastle United
+Sat Nov 2 1935,Manchester United,0-1,Leicester City
+Sat Nov 2 1935,Hull City,2-1,Nottingham Forest
+Sat Nov 2 1935,Bradford City,2-0,Bury
+Sat Nov 2 1935,Burnley,2-0,Southampton
+Sat Nov 2 1935,Port Vale,3-2,Bradford Park Avenue
+Sat Nov 2 1935,Newcastle United,3-3,West Ham United
+Sat Nov 2 1935,Charlton Athletic,4-1,Norwich City
+Sat Nov 2 1935,Tottenham Hotspur,7-2,Swansea City
+Sat Nov 2 1935,Fulham,3-1,Sheffield United
+Sat Nov 2 1935,Plymouth Argyle,1-3,Doncaster Rovers
+Sat Nov 2 1935,Barnsley,1-2,Blackpool
+Sat Nov 9 1935,Bradford Park Avenue,1-1,Fulham
+Sat Nov 9 1935,Swansea City,2-1,Manchester United
+Sat Nov 9 1935,Nottingham Forest,6-0,Barnsley
+Sat Nov 9 1935,Norwich City,3-0,Hull City
+Sat Nov 9 1935,Bury,3-4,Newcastle United
+Sat Nov 9 1935,Blackpool,3-1,Plymouth Argyle
+Sat Nov 9 1935,Doncaster Rovers,2-1,Bradford City
+Sat Nov 9 1935,Southampton,2-5,Charlton Athletic
+Sat Nov 9 1935,Sheffield United,2-0,Burnley
+Sat Nov 9 1935,Leicester City,2-0,Port Vale
+Sat Nov 9 1935,West Ham United,2-2,Tottenham Hotspur
+Sat Nov 16 1935,Hull City,2-2,Southampton
+Sat Nov 16 1935,Port Vale,0-1,Swansea City
+Sat Nov 16 1935,Bradford City,2-1,Blackpool
+Sat Nov 16 1935,Newcastle United,2-1,Doncaster Rovers
+Sat Nov 16 1935,Burnley,1-1,Bradford Park Avenue
+Sat Nov 16 1935,Manchester United,2-3,West Ham United
+Sat Nov 16 1935,Tottenham Hotspur,4-3,Bury
+Sat Nov 16 1935,Barnsley,2-3,Norwich City
+Sat Nov 16 1935,Fulham,2-0,Leicester City
+Sat Nov 16 1935,Plymouth Argyle,3-1,Nottingham Forest
+Sat Nov 16 1935,Charlton Athletic,1-1,Sheffield United
+Sat Nov 23 1935,Nottingham Forest,9-2,Port Vale
+Sat Nov 23 1935,Sheffield United,5-1,Newcastle United
+Sat Nov 23 1935,Southampton,2-0,Tottenham Hotspur
+Sat Nov 23 1935,Doncaster Rovers,1-0,Burnley
+Sat Nov 23 1935,Swansea City,0-0,Barnsley
+Sat Nov 23 1935,Norwich City,3-5,Manchester United
+Sat Nov 23 1935,Bradford Park Avenue,1-1,Bradford City
+Sat Nov 23 1935,West Ham United,4-1,Hull City
+Sat Nov 23 1935,Blackpool,1-1,Fulham
+Sat Nov 23 1935,Bury,1-1,Charlton Athletic
+Sat Nov 23 1935,Leicester City,2-0,Plymouth Argyle
+Sat Nov 30 1935,Charlton Athletic,1-0,Leicester City
+Sat Nov 30 1935,Tottenham Hotspur,3-1,Blackpool
+Sat Nov 30 1935,Manchester United,0-0,Doncaster Rovers
+Sat Nov 30 1935,Newcastle United,5-1,Nottingham Forest
+Sat Nov 30 1935,Barnsley,3-2,Sheffield United
+Sat Nov 30 1935,Plymouth Argyle,0-0,Southampton
+Sat Nov 30 1935,Bradford City,0-1,Norwich City
+Sat Nov 30 1935,Port Vale,2-2,Bury
+Sat Nov 30 1935,Hull City,1-1,Bradford Park Avenue
+Sat Nov 30 1935,Fulham,4-2,West Ham United
+Sat Nov 30 1935,Burnley,5-2,Swansea City
+Sat Dec 7 1935,Swansea City,1-2,Charlton Athletic
+Sat Dec 7 1935,Blackpool,4-1,Manchester United
+Sat Dec 7 1935,Leicester City,2-2,Hull City
+Sat Dec 7 1935,Bury,0-0,Fulham
+Sat Dec 7 1935,Bradford Park Avenue,3-0,Barnsley
+Sat Dec 7 1935,Doncaster Rovers,2-0,Port Vale
+Sat Dec 7 1935,Sheffield United,0-0,Plymouth Argyle
+Sat Dec 7 1935,Southampton,0-0,Bradford City
+Sat Dec 7 1935,Nottingham Forest,4-1,Tottenham Hotspur
+Sat Dec 7 1935,Norwich City,1-0,Newcastle United
+Sat Dec 14 1935,Charlton Athletic,2-2,West Ham United
+Sat Dec 14 1935,Port Vale,2-2,Blackpool
+Sat Dec 14 1935,Manchester United,5-0,Nottingham Forest
+Sat Dec 14 1935,Bradford City,2-1,Sheffield United
+Sat Dec 14 1935,Barnsley,3-3,Leicester City
+Sat Dec 14 1935,Tottenham Hotspur,2-1,Norwich City
+Sat Dec 14 1935,Newcastle United,4-1,Southampton
+Sat Dec 14 1935,Fulham,1-3,Doncaster Rovers
+Sat Dec 14 1935,Burnley,1-1,Bury
+Sat Dec 14 1935,Hull City,3-2,Swansea City
+Sat Dec 14 1935,Plymouth Argyle,2-0,Bradford Park Avenue
+Sat Dec 21 1935,West Ham United,4-0,Port Vale
+Sat Dec 21 1935,Nottingham Forest,1-0,Bradford City
+Sat Dec 21 1935,Doncaster Rovers,2-1,Tottenham Hotspur
+Sat Dec 21 1935,Southampton,0-1,Barnsley
+Sat Dec 21 1935,Sheffield United,7-0,Hull City
+Sat Dec 21 1935,Bradford Park Avenue,3-0,Charlton Athletic
+Sat Dec 21 1935,Leicester City,2-0,Burnley
+Sat Dec 21 1935,Swansea City,0-2,Fulham
+Sat Dec 21 1935,Norwich City,0-0,Plymouth Argyle
+Wed Dec 25 1935,West Ham United,0-0,Southampton
+Wed Dec 25 1935,Leicester City,5-0,Bradford Park Avenue
+Wed Dec 25 1935,Tottenham Hotspur,1-2,Plymouth Argyle
+Wed Dec 25 1935,Doncaster Rovers,0-0,Nottingham Forest
+Wed Dec 25 1935,Burnley,3-2,Blackpool
+Wed Dec 25 1935,Bury,0-1,Norwich City
+Wed Dec 25 1935,Fulham,0-0,Charlton Athletic
+Wed Dec 25 1935,Swansea City,1-3,Sheffield United
+Thu Dec 26 1935,Newcastle United,3-2,Bradford City
+Thu Dec 26 1935,Manchester United,1-1,Barnsley
+Thu Dec 26 1935,Norwich City,5-3,Bury
+Thu Dec 26 1935,Southampton,2-4,West Ham United
+Thu Dec 26 1935,Blackpool,2-0,Burnley
+Thu Dec 26 1935,Sheffield United,4-1,Swansea City
+Thu Dec 26 1935,Nottingham Forest,6-2,Doncaster Rovers
+Thu Dec 26 1935,Plymouth Argyle,2-1,Tottenham Hotspur
+Thu Dec 26 1935,Charlton Athletic,2-1,Fulham
+Thu Dec 26 1935,Hull City,1-2,Port Vale
+Sat Dec 28 1935,Swansea City,0-0,Southampton
+Sat Dec 28 1935,Leicester City,1-3,Sheffield United
+Sat Dec 28 1935,Fulham,3-0,Hull City
+Sat Dec 28 1935,West Ham United,3-2,Norwich City
+Sat Dec 28 1935,Burnley,0-2,Charlton Athletic
+Sat Dec 28 1935,Bury,2-6,Nottingham Forest
+Sat Dec 28 1935,Tottenham Hotspur,4-0,Bradford City
+Sat Dec 28 1935,Doncaster Rovers,0-3,Blackpool
+Sat Dec 28 1935,Bradford Park Avenue,3-2,Newcastle United
+Sat Dec 28 1935,Port Vale,0-4,Barnsley
+Sat Dec 28 1935,Manchester United,3-2,Plymouth Argyle
+Wed Jan 1 1936,Barnsley,0-3,Manchester United
+Wed Jan 1 1936,Bradford Park Avenue,3-1,Leicester City
+Wed Jan 1 1936,Newcastle United,5-0,Plymouth Argyle
+Wed Jan 1 1936,Sheffield United,3-0,Doncaster Rovers
+Wed Jan 1 1936,Bury,0-0,Southampton
+Sat Jan 4 1936,Hull City,1-2,Burnley
+Sat Jan 4 1936,Nottingham Forest,0-2,West Ham United
+Sat Jan 4 1936,Newcastle United,1-4,Tottenham Hotspur
+Sat Jan 4 1936,Charlton Athletic,3-0,Doncaster Rovers
+Sat Jan 4 1936,Sheffield United,2-1,Bradford Park Avenue
+Sat Jan 4 1936,Norwich City,0-1,Swansea City
+Sat Jan 4 1936,Southampton,1-0,Leicester City
+Sat Jan 4 1936,Barnsley,2-0,Fulham
+Sat Jan 4 1936,Bradford City,1-0,Manchester United
+Sat Jan 4 1936,Blackpool,2-3,Bury
+Sat Jan 4 1936,Plymouth Argyle,4-1,Port Vale
+Sat Jan 18 1936,Leicester City,1-1,Norwich City
+Sat Jan 18 1936,Manchester United,3-1,Newcastle United
+Sat Jan 18 1936,Fulham,2-2,Plymouth Argyle
+Sat Jan 18 1936,Burnley,3-0,Barnsley
+Sat Jan 18 1936,West Ham United,2-1,Blackpool
+Sat Jan 18 1936,Bradford Park Avenue,2-1,Southampton
+Sat Jan 18 1936,Port Vale,2-1,Bradford City
+Sat Jan 18 1936,Charlton Athletic,4-1,Hull City
+Sat Jan 18 1936,Bury,5-1,Doncaster Rovers
+Sat Jan 18 1936,Swansea City,2-1,Nottingham Forest
+Sat Jan 18 1936,Tottenham Hotspur,1-1,Sheffield United
+Sat Jan 25 1936,Doncaster Rovers,0-2,West Ham United
+Mon Jan 27 1936,Barnsley,1-2,Charlton Athletic
+Wed Jan 29 1936,Blackpool,1-1,Swansea City
+Wed Jan 29 1936,Plymouth Argyle,2-0,Burnley
+Thu Jan 30 1936,Nottingham Forest,0-1,Leicester City
+Sat Feb 1 1936,Bradford Park Avenue,1-4,Nottingham Forest
+Sat Feb 1 1936,Swansea City,2-0,Doncaster Rovers
+Sat Feb 1 1936,Leicester City,4-1,Blackpool
+Sat Feb 1 1936,Charlton Athletic,1-1,Plymouth Argyle
+Sat Feb 1 1936,Hull City,1-3,Barnsley
+Sat Feb 1 1936,Fulham,3-1,Newcastle United
+Sat Feb 1 1936,Manchester United,4-0,Southampton
+Sat Feb 1 1936,Sheffield United,3-2,Norwich City
+Sat Feb 1 1936,Burnley,3-0,Bradford City
+Sat Feb 1 1936,West Ham United,6-0,Bury
+Sat Feb 1 1936,Port Vale,1-5,Tottenham Hotspur
+Mon Feb 3 1936,West Ham United,0-0,Burnley
+Wed Feb 5 1936,Newcastle United,2-2,Port Vale
+Wed Feb 5 1936,Tottenham Hotspur,0-0,Manchester United
+Wed Feb 5 1936,Southampton,0-1,Sheffield United
+Sat Feb 8 1936,Bury,2-1,Swansea City
+Sat Feb 8 1936,Plymouth Argyle,0-1,Hull City
+Sat Feb 8 1936,Newcastle United,1-1,Burnley
+Sat Feb 8 1936,Bradford City,2-1,Charlton Athletic
+Sat Feb 8 1936,Doncaster Rovers,1-0,Leicester City
+Sat Feb 8 1936,Norwich City,5-1,Southampton
+Sat Feb 8 1936,Tottenham Hotspur,2-2,Fulham
+Sat Feb 8 1936,Blackpool,4-2,Bradford Park Avenue
+Sat Feb 8 1936,Manchester United,7-2,Port Vale
+Sat Feb 8 1936,Nottingham Forest,0-1,Sheffield United
+Sat Feb 8 1936,Barnsley,1-2,West Ham United
+Sat Feb 15 1936,Swansea City,0-1,West Ham United
+Sat Feb 15 1936,Southampton,7-2,Nottingham Forest
+Sat Feb 15 1936,Hull City,2-3,Bury
+Sat Feb 15 1936,Port Vale,3-1,Norwich City
+Wed Feb 19 1936,Barnsley,1-2,Plymouth Argyle
+Thu Feb 20 1936,Leicester City,1-2,Bury
+Thu Feb 20 1936,Sheffield United,1-0,Blackpool
+Thu Feb 20 1936,Hull City,2-5,Bradford City
+Sat Feb 22 1936,West Ham United,4-2,Plymouth Argyle
+Sat Feb 22 1936,Swansea City,8-1,Bradford City
+Sat Feb 22 1936,Norwich City,1-0,Fulham
+Sat Feb 22 1936,Bradford Park Avenue,2-5,Tottenham Hotspur
+Sat Feb 22 1936,Doncaster Rovers,6-1,Hull City
+Sat Feb 22 1936,Bury,3-0,Barnsley
+Sat Feb 22 1936,Blackpool,6-2,Charlton Athletic
+Sat Feb 22 1936,Sheffield United,1-1,Manchester United
+Sat Feb 22 1936,Nottingham Forest,2-0,Burnley
+Wed Feb 26 1936,Bradford Park Avenue,3-1,Doncaster Rovers
+Wed Feb 26 1936,Charlton Athletic,4-2,Newcastle United
+Sat Feb 29 1936,Manchester United,3-2,Blackpool
+Sat Feb 29 1936,Charlton Athletic,4-1,Swansea City
+Sat Feb 29 1936,Newcastle United,1-1,Norwich City
+Sat Feb 29 1936,Port Vale,2-0,Doncaster Rovers
+Sat Feb 29 1936,Burnley,1-0,West Ham United
+Sat Feb 29 1936,Bradford City,2-1,Southampton
+Sat Feb 29 1936,Hull City,3-3,Leicester City
+Mon Mar 2 1936,Port Vale,4-0,Hull City
+Wed Mar 4 1936,Fulham,7-0,Bury
+Wed Mar 4 1936,Barnsley,5-1,Bradford Park Avenue
+Wed Mar 4 1936,Tottenham Hotspur,1-1,Nottingham Forest
+Sat Mar 7 1936,Bury,1-1,Tottenham Hotspur
+Sat Mar 7 1936,Sheffield United,2-2,Charlton Athletic
+Sat Mar 7 1936,Bradford Park Avenue,2-0,Burnley
+Sat Mar 7 1936,West Ham United,1-2,Manchester United
+Sat Mar 7 1936,Leicester City,5-2,Fulham
+Sat Mar 7 1936,Norwich City,3-1,Barnsley
+Sat Mar 7 1936,Southampton,1-0,Hull City
+Sat Mar 7 1936,Blackpool,3-3,Bradford City
+Sat Mar 7 1936,Swansea City,3-2,Port Vale
+Sat Mar 7 1936,Nottingham Forest,0-1,Plymouth Argyle
+Sat Mar 7 1936,Doncaster Rovers,2-2,Newcastle United
+Wed Mar 11 1936,Plymouth Argyle,1-1,Sheffield United
+Sat Mar 14 1936,Hull City,0-0,Norwich City
+Sat Mar 14 1936,Fulham,4-1,Bradford Park Avenue
+Sat Mar 14 1936,Charlton Athletic,2-0,Southampton
+Sat Mar 14 1936,Bradford City,3-1,Doncaster Rovers
+Sat Mar 14 1936,Tottenham Hotspur,1-3,West Ham United
+Sat Mar 14 1936,Barnsley,0-2,Nottingham Forest
+Sat Mar 14 1936,Plymouth Argyle,3-2,Blackpool
+Sat Mar 14 1936,Burnley,1-1,Sheffield United
+Sat Mar 14 1936,Manchester United,3-0,Swansea City
+Sat Mar 14 1936,Newcastle United,3-0,Bury
+Sat Mar 14 1936,Port Vale,1-1,Leicester City
+Thu Mar 19 1936,Leicester City,1-0,Newcastle United
+Sat Mar 21 1936,Norwich City,3-1,Charlton Athletic
+Sat Mar 21 1936,Doncaster Rovers,1-2,Plymouth Argyle
+Sat Mar 21 1936,Blackpool,3-0,Barnsley
+Sat Mar 21 1936,Bury,1-1,Bradford City
+Sat Mar 21 1936,Bradford Park Avenue,3-0,Port Vale
+Sat Mar 21 1936,Leicester City,1-1,Manchester United
+Sat Mar 21 1936,West Ham United,4-1,Newcastle United
+Sat Mar 21 1936,Swansea City,1-1,Tottenham Hotspur
+Sat Mar 21 1936,Nottingham Forest,0-0,Hull City
+Sat Mar 21 1936,Southampton,1-0,Burnley
+Thu Mar 26 1936,Sheffield United,0-1,Fulham
+Sat Mar 28 1936,Bradford City,2-1,Bradford Park Avenue
+Sat Mar 28 1936,Port Vale,2-0,Nottingham Forest
+Sat Mar 28 1936,Tottenham Hotspur,8-0,Southampton
+Sat Mar 28 1936,Plymouth Argyle,2-1,Leicester City
+Sat Mar 28 1936,Barnsley,0-0,Swansea City
+Sat Mar 28 1936,Charlton Athletic,5-2,Bury
+Sat Mar 28 1936,Hull City,2-3,West Ham United
+Sat Mar 28 1936,Burnley,1-1,Doncaster Rovers
+Sat Mar 28 1936,Fulham,4-2,Blackpool
+Sat Mar 28 1936,Newcastle United,3-0,Sheffield United
+Sat Mar 28 1936,Manchester United,2-1,Norwich City
+Mon Mar 30 1936,Southampton,0-1,Port Vale
+Wed Apr 1 1936,Bradford City,3-2,Newcastle United
+Wed Apr 1 1936,Fulham,2-2,Manchester United
+Sat Apr 4 1936,West Ham United,0-0,Fulham
+Sat Apr 4 1936,Bury,5-0,Port Vale
+Sat Apr 4 1936,Southampton,2-0,Plymouth Argyle
+Sat Apr 4 1936,Nottingham Forest,1-2,Newcastle United
+Sat Apr 4 1936,Swansea City,1-3,Burnley
+Sat Apr 4 1936,Bradford Park Avenue,2-1,Hull City
+Sat Apr 4 1936,Blackpool,2-4,Tottenham Hotspur
+Sat Apr 4 1936,Leicester City,4-1,Charlton Athletic
+Sat Apr 4 1936,Doncaster Rovers,0-0,Manchester United
+Sat Apr 4 1936,Norwich City,1-1,Bradford City
+Sat Apr 4 1936,Sheffield United,2-0,Barnsley
+Fri Apr 10 1936,Blackpool,2-1,Southampton
+Fri Apr 10 1936,Nottingham Forest,2-2,Norwich City
+Fri Apr 10 1936,Bury,1-0,Bradford Park Avenue
+Fri Apr 10 1936,Newcastle United,4-1,Hull City
+Fri Apr 10 1936,Doncaster Rovers,0-0,Sheffield United
+Fri Apr 10 1936,Port Vale,1-0,Fulham
+Fri Apr 10 1936,Burnley,2-2,Manchester United
+Fri Apr 10 1936,Tottenham Hotspur,1-1,Charlton Athletic
+Fri Apr 10 1936,West Ham United,3-2,Leicester City
+Fri Apr 10 1936,Plymouth Argyle,1-2,Swansea City
+Sat Apr 11 1936,Manchester United,4-0,Bradford Park Avenue
+Sat Apr 11 1936,Newcastle United,2-0,Swansea City
+Sat Apr 11 1936,Bradford City,3-1,West Ham United
+Sat Apr 11 1936,Plymouth Argyle,3-0,Bury
+Sat Apr 11 1936,Tottenham Hotspur,1-1,Leicester City
+Sat Apr 11 1936,Barnsley,2-1,Doncaster Rovers
+Sat Apr 11 1936,Fulham,0-2,Southampton
+Sat Apr 11 1936,Port Vale,1-1,Sheffield United
+Sat Apr 11 1936,Charlton Athletic,4-0,Nottingham Forest
+Sat Apr 11 1936,Hull City,0-3,Blackpool
+Sat Apr 11 1936,Burnley,1-1,Norwich City
+Mon Apr 13 1936,Swansea City,2-0,Plymouth Argyle
+Mon Apr 13 1936,Barnsley,0-1,Bradford City
+Mon Apr 13 1936,Charlton Athletic,2-1,Tottenham Hotspur
+Mon Apr 13 1936,Fulham,7-0,Port Vale
+Mon Apr 13 1936,Bradford Park Avenue,1-1,Bury
+Mon Apr 13 1936,Norwich City,4-0,Nottingham Forest
+Mon Apr 13 1936,Southampton,1-0,Blackpool
+Mon Apr 13 1936,Manchester United,4-0,Burnley
+Mon Apr 13 1936,Hull City,2-3,Newcastle United
+Mon Apr 13 1936,Leicester City,1-1,West Ham United
+Tue Apr 14 1936,Bradford City,1-1,Barnsley
+Sat Apr 18 1936,Nottingham Forest,1-1,Manchester United
+Sat Apr 18 1936,Doncaster Rovers,0-0,Fulham
+Sat Apr 18 1936,Sheffield United,3-0,Bradford City
+Sat Apr 18 1936,Bradford Park Avenue,2-2,Plymouth Argyle
+Sat Apr 18 1936,Swansea City,6-1,Hull City
+Sat Apr 18 1936,Bury,0-4,Burnley
+Sat Apr 18 1936,West Ham United,1-3,Charlton Athletic
+Sat Apr 18 1936,Leicester City,2-0,Barnsley
+Sat Apr 18 1936,Southampton,1-3,Newcastle United
+Sat Apr 18 1936,Blackpool,3-1,Port Vale
+Sat Apr 18 1936,Norwich City,1-0,Tottenham Hotspur
+Mon Apr 20 1936,Burnley,0-0,Tottenham Hotspur
+Wed Apr 22 1936,Blackpool,6-0,Newcastle United
+Sat Apr 25 1936,Manchester United,2-1,Bury
+Sat Apr 25 1936,Tottenham Hotspur,3-1,Doncaster Rovers
+Sat Apr 25 1936,Burnley,2-2,Leicester City
+Sat Apr 25 1936,Newcastle United,1-0,Blackpool
+Sat Apr 25 1936,Charlton Athletic,3-1,Bradford Park Avenue
+Sat Apr 25 1936,Port Vale,2-3,West Ham United
+Sat Apr 25 1936,Fulham,0-1,Swansea City
+Sat Apr 25 1936,Bradford City,0-0,Nottingham Forest
+Sat Apr 25 1936,Barnsley,3-1,Southampton
+Sat Apr 25 1936,Plymouth Argyle,5-1,Norwich City
+Wed Apr 29 1936,Bradford City,1-0,Fulham
+Wed Apr 29 1936,Bury,2-3,Manchester United
+Thu Apr 30 1936,Norwich City,4-1,Bradford Park Avenue
+Thu Apr 30 1936,Hull City,2-2,Sheffield United
+Sat May 2 1936,Charlton Athletic,1-1,Port Vale
+Sat May 2 1936,Norwich City,2-1,Doncaster Rovers
+Sat May 2 1936,Barnsley,0-0,Tottenham Hotspur
+Sat May 2 1936,Swansea City,1-2,Bradford Park Avenue
+Sat May 2 1936,Bradford City,2-0,Leicester City
+Sat May 2 1936,Sheffield United,4-2,West Ham United
+Sat May 2 1936,Burnley,0-2,Fulham
+Sat May 2 1936,Hull City,1-1,Manchester United
+Sat May 2 1936,Plymouth Argyle,1-0,Newcastle United

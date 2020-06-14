@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 21 1965,West Bromwich Albion,3-0,West Ham United
+Sat Aug 21 1965,Everton,5-2,Northampton Town
+Sat Aug 21 1965,Arsenal,2-1,Stoke City
+Sat Aug 21 1965,Newcastle United,2-2,Nottingham Forest
+Sat Aug 21 1965,Manchester United,1-0,Sheffield Wednesday
+Sat Aug 21 1965,Blackpool,2-2,Fulham
+Sat Aug 21 1965,Sheffield United,1-0,Aston Villa
+Sat Aug 21 1965,Chelsea,1-1,Burnley
+Sat Aug 21 1965,Leeds United,1-0,Sunderland
+Sat Aug 21 1965,Leicester City,1-3,Liverpool
+Mon Aug 23 1965,West Ham United,1-1,Sunderland
+Mon Aug 23 1965,Aston Villa,0-2,Leeds United
+Tue Aug 24 1965,Nottingham Forest,4-2,Manchester United
+Tue Aug 24 1965,Burnley,3-1,Blackpool
+Wed Aug 25 1965,Stoke City,2-2,Chelsea
+Wed Aug 25 1965,Tottenham Hotspur,4-2,Leicester City
+Wed Aug 25 1965,Fulham,5-2,Blackburn Rovers
+Wed Aug 25 1965,Sheffield Wednesday,3-1,Everton
+Wed Aug 25 1965,Northampton Town,1-1,Arsenal
+Wed Aug 25 1965,Newcastle United,0-1,West Bromwich Albion
+Wed Aug 25 1965,Liverpool,0-1,Sheffield United
+Fri Aug 27 1965,Tottenham Hotspur,4-0,Blackpool
+Sat Aug 28 1965,Northampton Town,1-1,Manchester United
+Sat Aug 28 1965,Sunderland,4-1,Sheffield United
+Sat Aug 28 1965,Fulham,0-3,Chelsea
+Sat Aug 28 1965,Nottingham Forest,3-2,West Bromwich Albion
+Sat Aug 28 1965,Burnley,2-2,Arsenal
+Sat Aug 28 1965,West Ham United,2-1,Leeds United
+Sat Aug 28 1965,Sheffield Wednesday,1-0,Newcastle United
+Sat Aug 28 1965,Aston Villa,2-2,Leicester City
+Sat Aug 28 1965,Stoke City,1-1,Everton
+Mon Aug 30 1965,Blackpool,1-3,Burnley
+Tue Aug 31 1965,Everton,5-1,Sheffield Wednesday
+Wed Sep 1 1965,Manchester United,0-0,Nottingham Forest
+Wed Sep 1 1965,Blackburn Rovers,3-2,Fulham
+Wed Sep 1 1965,Leeds United,2-0,Aston Villa
+Wed Sep 1 1965,Sheffield United,0-0,Liverpool
+Wed Sep 1 1965,Chelsea,1-2,Stoke City
+Wed Sep 1 1965,Leicester City,2-2,Tottenham Hotspur
+Wed Sep 1 1965,West Bromwich Albion,1-2,Newcastle United
+Wed Sep 1 1965,Sunderland,2-1,West Ham United
+Sat Sep 4 1965,Newcastle United,2-0,Northampton Town
+Sat Sep 4 1965,Fulham,0-2,Tottenham Hotspur
+Sat Sep 4 1965,Blackburn Rovers,0-2,Aston Villa
+Sat Sep 4 1965,Everton,1-0,Burnley
+Sat Sep 4 1965,Sheffield United,5-3,West Ham United
+Sat Sep 4 1965,Leicester City,4-1,Sunderland
+Sat Sep 4 1965,Arsenal,1-3,Chelsea
+Sat Sep 4 1965,West Bromwich Albion,4-2,Sheffield Wednesday
+Sat Sep 4 1965,Leeds United,2-1,Nottingham Forest
+Sat Sep 4 1965,Blackpool,2-3,Liverpool
+Sat Sep 4 1965,Manchester United,1-1,Stoke City
+Mon Sep 6 1965,West Ham United,1-5,Liverpool
+Mon Sep 6 1965,Aston Villa,3-1,Sunderland
+Mon Sep 6 1965,Blackpool,4-0,Leicester City
+Tue Sep 7 1965,Everton,2-3,West Bromwich Albion
+Tue Sep 7 1965,Nottingham Forest,0-1,Arsenal
+Tue Sep 7 1965,Burnley,4-1,Northampton Town
+Wed Sep 8 1965,Tottenham Hotspur,3-2,Leeds United
+Wed Sep 8 1965,Fulham,0-0,Sheffield United
+Wed Sep 8 1965,Newcastle United,1-2,Manchester United
+Wed Sep 8 1965,Stoke City,3-2,Blackburn Rovers
+Fri Sep 10 1965,Northampton Town,3-4,West Bromwich Albion
+Sat Sep 11 1965,Stoke City,4-0,Newcastle United
+Sat Sep 11 1965,Sheffield Wednesday,3-1,Nottingham Forest
+Sat Sep 11 1965,Burnley,3-0,Manchester United
+Sat Sep 11 1965,Tottenham Hotspur,2-2,Arsenal
+Sat Sep 11 1965,West Ham United,2-5,Leicester City
+Sat Sep 11 1965,Sunderland,1-0,Blackburn Rovers
+Sat Sep 11 1965,Chelsea,3-1,Everton
+Sat Sep 11 1965,Leeds United,2-2,Sheffield United
+Sat Sep 11 1965,Liverpool,2-1,Fulham
+Sat Sep 11 1965,Aston Villa,3-0,Blackpool
+Tue Sep 14 1965,Leicester City,0-3,Blackpool
+Tue Sep 14 1965,Arsenal,1-0,Nottingham Forest
+Wed Sep 15 1965,Blackburn Rovers,0-1,Stoke City
+Wed Sep 15 1965,Leeds United,2-0,Tottenham Hotspur
+Wed Sep 15 1965,Chelsea,1-1,Sheffield Wednesday
+Wed Sep 15 1965,Northampton Town,1-2,Burnley
+Wed Sep 15 1965,Sheffield United,2-0,Fulham
+Wed Sep 15 1965,Sunderland,2-0,Aston Villa
+Wed Sep 15 1965,West Bromwich Albion,1-1,Everton
+Wed Sep 15 1965,Liverpool,1-1,West Ham United
+Wed Sep 15 1965,Manchester United,1-1,Newcastle United
+Sat Sep 18 1965,Leicester City,3-3,Leeds United
+Sat Sep 18 1965,Manchester United,4-1,Chelsea
+Sat Sep 18 1965,West Bromwich Albion,6-2,Stoke City
+Sat Sep 18 1965,Blackpool,1-2,Sunderland
+Sat Sep 18 1965,Newcastle United,3-2,Burnley
+Sat Sep 18 1965,Nottingham Forest,1-1,Northampton Town
+Sat Sep 18 1965,Fulham,3-6,Aston Villa
+Sat Sep 18 1965,Tottenham Hotspur,2-1,Liverpool
+Sat Sep 18 1965,Sheffield United,1-0,Sheffield Wednesday
+Sat Sep 18 1965,Everton,3-1,Arsenal
+Sat Sep 18 1965,Blackburn Rovers,1-2,West Ham United
+Sat Sep 25 1965,Aston Villa,3-2,Tottenham Hotspur
+Sat Sep 25 1965,Leeds United,3-0,Blackburn Rovers
+Sat Sep 25 1965,Sunderland,2-2,Fulham
+Sat Sep 25 1965,Arsenal,4-2,Manchester United
+Sat Sep 25 1965,Sheffield United,2-2,Leicester City
+Sat Sep 25 1965,West Ham United,1-1,Blackpool
+Sat Sep 25 1965,Liverpool,5-0,Everton
+Sat Sep 25 1965,Chelsea,1-1,Newcastle United
+Sat Sep 25 1965,Burnley,2-0,West Bromwich Albion
+Sat Sep 25 1965,Northampton Town,0-0,Sheffield Wednesday
+Sat Sep 25 1965,Stoke City,1-0,Nottingham Forest
+Tue Sep 28 1965,Arsenal,1-1,Northampton Town
+Sat Oct 2 1965,Fulham,3-0,West Ham United
+Sat Oct 2 1965,West Bromwich Albion,1-2,Chelsea
+Sat Oct 2 1965,Liverpool,3-1,Aston Villa
+Sat Oct 2 1965,Blackburn Rovers,0-0,Sheffield United
+Sat Oct 2 1965,Newcastle United,0-1,Arsenal
+Sat Oct 2 1965,Leicester City,1-1,Northampton Town
+Tue Oct 5 1965,Everton,2-2,Blackburn Rovers
+Wed Oct 6 1965,Tottenham Hotspur,3-0,Sunderland
+Sat Oct 9 1965,Chelsea,0-1,Blackpool
+Sat Oct 9 1965,Newcastle United,1-0,Aston Villa
+Sat Oct 9 1965,West Bromwich Albion,4-1,Sunderland
+Sat Oct 9 1965,Stoke City,1-0,Leicester City
+Sat Oct 9 1965,Nottingham Forest,5-0,West Ham United
+Sat Oct 9 1965,Sheffield Wednesday,0-0,Leeds United
+Sat Oct 9 1965,Arsenal,2-1,Fulham
+Sat Oct 9 1965,Burnley,1-4,Blackburn Rovers
+Sat Oct 9 1965,Manchester United,2-0,Liverpool
+Sat Oct 9 1965,Northampton Town,0-1,Sheffield United
+Sat Oct 9 1965,Everton,3-1,Tottenham Hotspur
+Sat Oct 16 1965,Sheffield United,3-2,Stoke City
+Sat Oct 16 1965,Blackpool,5-3,Arsenal
+Sat Oct 16 1965,Sunderland,3-2,Nottingham Forest
+Sat Oct 16 1965,Fulham,3-2,Everton
+Sat Oct 16 1965,Tottenham Hotspur,5-1,Manchester United
+Sat Oct 16 1965,Blackburn Rovers,0-1,Chelsea
+Sat Oct 16 1965,West Ham United,4-2,Sheffield Wednesday
+Sat Oct 16 1965,Liverpool,2-0,Newcastle United
+Sat Oct 16 1965,Aston Villa,1-1,West Bromwich Albion
+Sat Oct 16 1965,Leicester City,0-1,Burnley
+Sat Oct 16 1965,Leeds United,6-1,Northampton Town
+Sat Oct 23 1965,Burnley,2-0,Sheffield United
+Sat Oct 23 1965,Nottingham Forest,1-2,Aston Villa
+Sat Oct 23 1965,Manchester United,4-1,Fulham
+Sat Oct 23 1965,Chelsea,0-2,Leicester City
+Sat Oct 23 1965,Northampton Town,2-1,West Ham United
+Sat Oct 23 1965,Stoke City,1-2,Leeds United
+Sat Oct 23 1965,Sheffield Wednesday,3-1,Sunderland
+Sat Oct 23 1965,Everton,0-0,Blackpool
+Sat Oct 23 1965,Arsenal,2-2,Blackburn Rovers
+Sat Oct 23 1965,West Bromwich Albion,3-0,Liverpool
+Sat Oct 23 1965,Newcastle United,0-0,Tottenham Hotspur
+Sat Oct 30 1965,Aston Villa,2-0,Sheffield Wednesday
+Sat Oct 30 1965,Leeds United,1-1,Burnley
+Sat Oct 30 1965,Leicester City,3-1,Arsenal
+Sat Oct 30 1965,Tottenham Hotspur,2-1,West Bromwich Albion
+Sat Oct 30 1965,Blackburn Rovers,1-2,Everton
+Sat Oct 30 1965,Sunderland,3-0,Northampton Town
+Sat Oct 30 1965,West Ham United,0-0,Stoke City
+Sat Oct 30 1965,Liverpool,4-0,Nottingham Forest
+Sat Oct 30 1965,Sheffield United,1-2,Chelsea
+Sat Oct 30 1965,Blackpool,1-2,Manchester United
+Sat Oct 30 1965,Fulham,2-0,Newcastle United
+Sat Nov 6 1965,Sheffield Wednesday,0-2,Liverpool
+Sat Nov 6 1965,Manchester United,2-2,Blackburn Rovers
+Sat Nov 6 1965,Chelsea,1-0,Leeds United
+Sat Nov 6 1965,Nottingham Forest,1-0,Tottenham Hotspur
+Sat Nov 6 1965,Stoke City,1-1,Sunderland
+Sat Nov 6 1965,Newcastle United,2-0,Blackpool
+Sat Nov 6 1965,Everton,1-2,Leicester City
+Sat Nov 6 1965,West Bromwich Albion,6-2,Fulham
+Sat Nov 6 1965,Arsenal,6-2,Sheffield United
+Sat Nov 6 1965,Burnley,3-1,West Ham United
+Sat Nov 6 1965,Northampton Town,2-1,Aston Villa
+Sat Nov 13 1965,Sunderland,0-4,Burnley
+Sat Nov 13 1965,Aston Villa,0-1,Stoke City
+Sat Nov 13 1965,Leeds United,2-0,Arsenal
+Sat Nov 13 1965,Blackburn Rovers,4-2,Newcastle United
+Sat Nov 13 1965,Tottenham Hotspur,2-3,Sheffield Wednesday
+Sat Nov 13 1965,Leicester City,0-5,Manchester United
+Sat Nov 13 1965,Sheffield United,2-0,Everton
+Sat Nov 13 1965,West Ham United,2-1,Chelsea
+Sat Nov 13 1965,Fulham,1-1,Nottingham Forest
+Sat Nov 13 1965,Blackpool,1-1,West Bromwich Albion
+Sat Nov 13 1965,Liverpool,5-0,Northampton Town
+Wed Nov 17 1965,Liverpool,5-2,Blackburn Rovers
+Sat Nov 20 1965,Nottingham Forest,2-1,Blackpool
+Sat Nov 20 1965,Newcastle United,1-5,Leicester City
+Sat Nov 20 1965,Arsenal,3-2,West Ham United
+Sat Nov 20 1965,Burnley,3-1,Aston Villa
+Sat Nov 20 1965,West Bromwich Albion,2-1,Blackburn Rovers
+Sat Nov 20 1965,Everton,0-0,Leeds United
+Sat Nov 20 1965,Northampton Town,0-2,Tottenham Hotspur
+Sat Nov 20 1965,Stoke City,0-0,Liverpool
+Sat Nov 20 1965,Sheffield Wednesday,1-0,Fulham
+Sat Nov 20 1965,Manchester United,3-1,Sheffield United
+Sat Nov 27 1965,Sheffield United,3-2,Newcastle United
+Sat Nov 27 1965,Leicester City,2-1,West Bromwich Albion
+Sat Nov 27 1965,Tottenham Hotspur,2-2,Stoke City
+Sat Nov 27 1965,Aston Villa,2-4,Chelsea
+Sat Nov 27 1965,Liverpool,2-1,Burnley
+Sat Nov 27 1965,Blackburn Rovers,5-0,Nottingham Forest
+Sat Nov 27 1965,West Ham United,3-0,Everton
+Sat Nov 27 1965,Blackpool,2-1,Sheffield Wednesday
+Sat Nov 27 1965,Fulham,1-4,Northampton Town
+Sat Dec 4 1965,Stoke City,3-2,Fulham
+Sat Dec 4 1965,Burnley,1-1,Tottenham Hotspur
+Sat Dec 4 1965,Nottingham Forest,2-0,Leicester City
+Sat Dec 4 1965,West Bromwich Albion,1-1,Sheffield United
+Sat Dec 4 1965,Sheffield Wednesday,2-1,Blackburn Rovers
+Sat Dec 4 1965,Chelsea,0-1,Liverpool
+Sat Dec 4 1965,Manchester United,0-0,West Ham United
+Sat Dec 4 1965,Northampton Town,2-1,Blackpool
+Sat Dec 4 1965,Everton,2-0,Sunderland
+Sat Dec 4 1965,Arsenal,3-3,Aston Villa
+Sat Dec 11 1965,Liverpool,4-2,Arsenal
+Sat Dec 11 1965,Blackpool,1-1,Stoke City
+Sat Dec 11 1965,Leicester City,4-1,Sheffield Wednesday
+Sat Dec 11 1965,West Ham United,4-3,Newcastle United
+Sat Dec 11 1965,Sheffield United,1-1,Nottingham Forest
+Sat Dec 11 1965,Tottenham Hotspur,4-2,Chelsea
+Sat Dec 11 1965,Blackburn Rovers,6-1,Northampton Town
+Sat Dec 11 1965,Leeds United,4-0,West Bromwich Albion
+Sat Dec 11 1965,Fulham,2-5,Burnley
+Sat Dec 11 1965,Sunderland,2-3,Manchester United
+Sat Dec 11 1965,Aston Villa,3-2,Everton
+Wed Dec 15 1965,Manchester United,3-0,Everton
+Sat Dec 18 1965,Burnley,4-2,Leicester City
+Sat Dec 18 1965,Newcastle United,0-0,Liverpool
+Sat Dec 18 1965,Sheffield Wednesday,0-0,West Ham United
+Sat Dec 18 1965,Nottingham Forest,0-0,Sunderland
+Sat Dec 18 1965,Manchester United,5-1,Tottenham Hotspur
+Sat Dec 18 1965,Everton,2-0,Fulham
+Sat Dec 25 1965,Blackpool,4-2,Blackburn Rovers
+Mon Dec 27 1965,Manchester United,1-1,West Bromwich Albion
+Mon Dec 27 1965,Liverpool,0-1,Leeds United
+Mon Dec 27 1965,Stoke City,3-1,Burnley
+Mon Dec 27 1965,Tottenham Hotspur,1-0,Sheffield United
+Mon Dec 27 1965,Nottingham Forest,1-0,Everton
+Mon Dec 27 1965,Northampton Town,2-3,Chelsea
+Mon Dec 27 1965,Sheffield Wednesday,4-0,Arsenal
+Tue Dec 28 1965,Leeds United,0-1,Liverpool
+Tue Dec 28 1965,Arsenal,5-2,Sheffield Wednesday
+Tue Dec 28 1965,Leicester City,5-0,Fulham
+Tue Dec 28 1965,Chelsea,1-0,Northampton Town
+Tue Dec 28 1965,Sheffield United,1-3,Tottenham Hotspur
+Tue Dec 28 1965,Burnley,4-1,Stoke City
+Sat Jan 1 1966,Leeds United,3-0,Sheffield Wednesday
+Sat Jan 1 1966,Tottenham Hotspur,2-2,Everton
+Sat Jan 1 1966,Fulham,1-0,Arsenal
+Sat Jan 1 1966,Leicester City,1-0,Stoke City
+Sat Jan 1 1966,West Ham United,0-3,Nottingham Forest
+Sat Jan 1 1966,Liverpool,2-1,Manchester United
+Sat Jan 1 1966,Blackpool,1-2,Chelsea
+Sat Jan 1 1966,Sheffield United,2-2,Northampton Town
+Sat Jan 1 1966,Sunderland,1-5,West Bromwich Albion
+Sat Jan 1 1966,Aston Villa,4-2,Newcastle United
+Sat Jan 1 1966,Blackburn Rovers,0-2,Burnley
+Mon Jan 3 1966,Sunderland,2-0,Newcastle United
+Sat Jan 8 1966,Nottingham Forest,1-0,Sheffield United
+Sat Jan 8 1966,Stoke City,4-1,Blackpool
+Sat Jan 8 1966,Manchester United,1-1,Sunderland
+Sat Jan 8 1966,Everton,2-0,Aston Villa
+Sat Jan 8 1966,West Bromwich Albion,1-2,Leeds United
+Sat Jan 8 1966,Newcastle United,2-1,West Ham United
+Sat Jan 8 1966,Burnley,1-0,Fulham
+Sat Jan 8 1966,Northampton Town,2-1,Blackburn Rovers
+Sat Jan 8 1966,Chelsea,2-1,Tottenham Hotspur
+Sat Jan 8 1966,Arsenal,0-1,Liverpool
+Sat Jan 8 1966,Sheffield Wednesday,1-2,Leicester City
+Tue Jan 11 1966,Everton,2-2,West Ham United
+Wed Jan 12 1966,Leeds United,1-1,Manchester United
+Sat Jan 15 1966,Leeds United,2-2,Stoke City
+Sat Jan 15 1966,Tottenham Hotspur,2-2,Newcastle United
+Sat Jan 15 1966,Liverpool,2-2,West Bromwich Albion
+Sat Jan 15 1966,Blackpool,2-0,Everton
+Sat Jan 15 1966,Fulham,0-1,Manchester United
+Sat Jan 15 1966,West Ham United,1-1,Northampton Town
+Sat Jan 15 1966,Sheffield United,2-1,Burnley
+Sat Jan 15 1966,Aston Villa,3-0,Nottingham Forest
+Sat Jan 15 1966,Blackburn Rovers,2-1,Arsenal
+Wed Jan 26 1966,Sunderland,0-2,Sheffield Wednesday
+Sat Jan 29 1966,Sheffield Wednesday,0-0,Manchester United
+Sat Jan 29 1966,Northampton Town,0-2,Everton
+Sat Jan 29 1966,Aston Villa,0-2,Sheffield United
+Sat Jan 29 1966,Stoke City,1-3,Arsenal
+Sat Jan 29 1966,Burnley,1-2,Chelsea
+Sat Jan 29 1966,Tottenham Hotspur,4-0,Blackburn Rovers
+Sat Jan 29 1966,Sunderland,2-0,Leeds United
+Sat Jan 29 1966,Fulham,0-0,Blackpool
+Sat Jan 29 1966,Liverpool,1-0,Leicester City
+Sat Jan 29 1966,Nottingham Forest,1-2,Newcastle United
+Sat Jan 29 1966,West Ham United,4-0,West Bromwich Albion
+Sat Feb 5 1966,Everton,2-1,Stoke City
+Sat Feb 5 1966,Newcastle United,2-0,Sheffield Wednesday
+Sat Feb 5 1966,Manchester United,6-2,Northampton Town
+Sat Feb 5 1966,Blackburn Rovers,1-4,Liverpool
+Sat Feb 5 1966,Blackpool,0-0,Tottenham Hotspur
+Sat Feb 5 1966,Sheffield United,2-2,Sunderland
+Sat Feb 5 1966,Leeds United,5-0,West Ham United
+Sat Feb 5 1966,Chelsea,2-1,Fulham
+Sat Feb 5 1966,Leicester City,2-1,Aston Villa
+Sat Feb 5 1966,West Bromwich Albion,5-3,Nottingham Forest
+Sat Feb 5 1966,Arsenal,1-1,Burnley
+Mon Feb 7 1966,Aston Villa,1-2,West Ham United
+Fri Feb 11 1966,West Bromwich Albion,2-2,Aston Villa
+Sat Feb 12 1966,Stoke City,6-2,Northampton Town
+Sat Feb 12 1966,Liverpool,4-0,Sunderland
+Sat Feb 19 1966,Nottingham Forest,0-4,Leeds United
+Sat Feb 19 1966,Liverpool,4-1,Blackpool
+Sat Feb 19 1966,Tottenham Hotspur,4-3,Fulham
+Sat Feb 19 1966,West Ham United,4-0,Sheffield United
+Sat Feb 19 1966,Sheffield Wednesday,1-2,West Bromwich Albion
+Sat Feb 19 1966,Aston Villa,3-1,Blackburn Rovers
+Sat Feb 19 1966,Sunderland,0-3,Leicester City
+Sat Feb 19 1966,Stoke City,2-2,Manchester United
+Sat Feb 19 1966,Northampton Town,3-1,Newcastle United
+Sat Feb 19 1966,Chelsea,0-0,Arsenal
+Sat Feb 19 1966,Burnley,1-1,Everton
+Tue Feb 22 1966,Chelsea,3-2,Sunderland
+Sat Feb 26 1966,Sheffield United,1-1,Leeds United
+Sat Feb 26 1966,Newcastle United,3-1,Stoke City
+Sat Feb 26 1966,Blackburn Rovers,2-0,Sunderland
+Sat Feb 26 1966,Fulham,2-0,Liverpool
+Sat Feb 26 1966,Manchester United,4-2,Burnley
+Sat Feb 26 1966,Blackpool,0-1,Aston Villa
+Sat Feb 26 1966,Everton,2-1,Chelsea
+Sat Feb 26 1966,West Bromwich Albion,1-1,Northampton Town
+Sat Mar 5 1966,Newcastle United,2-0,Sunderland
+Sat Mar 5 1966,Arsenal,0-0,Blackpool
+Sat Mar 5 1966,West Ham United,4-2,Aston Villa
+Sat Mar 5 1966,Northampton Town,2-1,Leeds United
+Tue Mar 8 1966,Nottingham Forest,1-0,Burnley
+Tue Mar 8 1966,Arsenal,1-1,Tottenham Hotspur
+Sat Mar 12 1966,Liverpool,1-0,Tottenham Hotspur
+Sat Mar 12 1966,Sheffield Wednesday,2-2,Sheffield United
+Sat Mar 12 1966,Aston Villa,2-5,Fulham
+Sat Mar 12 1966,Northampton Town,3-3,Nottingham Forest
+Sat Mar 12 1966,Leeds United,3-2,Leicester City
+Sat Mar 12 1966,Stoke City,1-1,West Bromwich Albion
+Sat Mar 12 1966,West Ham United,4-1,Blackburn Rovers
+Sat Mar 12 1966,Arsenal,0-1,Everton
+Sat Mar 12 1966,Chelsea,2-0,Manchester United
+Sat Mar 12 1966,Burnley,1-0,Newcastle United
+Sat Mar 12 1966,Sunderland,2-1,Blackpool
+Tue Mar 15 1966,Everton,3-0,Nottingham Forest
+Sat Mar 19 1966,Fulham,3-0,Sunderland
+Sat Mar 19 1966,West Bromwich Albion,1-2,Burnley
+Sat Mar 19 1966,Everton,0-0,Liverpool
+Sat Mar 19 1966,Blackburn Rovers,2-3,Leeds United
+Sat Mar 19 1966,Tottenham Hotspur,5-5,Aston Villa
+Sat Mar 19 1966,Blackpool,2-1,West Ham United
+Sat Mar 19 1966,Leicester City,1-0,Sheffield United
+Sat Mar 19 1966,Sheffield Wednesday,3-1,Northampton Town
+Sat Mar 19 1966,Nottingham Forest,4-3,Stoke City
+Sat Mar 19 1966,Newcastle United,0-1,Chelsea
+Sat Mar 19 1966,Manchester United,2-1,Arsenal
+Mon Mar 21 1966,Leicester City,1-1,Chelsea
+Fri Mar 25 1966,Stoke City,2-0,Sheffield United
+Sat Mar 26 1966,Arsenal,1-3,Newcastle United
+Sat Mar 26 1966,Northampton Town,2-2,Leicester City
+Sat Mar 26 1966,Leeds United,1-2,Blackpool
+Sat Mar 26 1966,Sunderland,2-0,Tottenham Hotspur
+Sat Mar 26 1966,West Ham United,1-3,Fulham
+Sat Mar 26 1966,Aston Villa,0-3,Liverpool
+Sat Mar 26 1966,Burnley,4-1,Nottingham Forest
+Mon Mar 28 1966,Blackpool,1-0,Leeds United
+Tue Mar 29 1966,Sheffield United,2-0,Blackburn Rovers
+Wed Mar 30 1966,Sheffield Wednesday,4-1,Stoke City
+Sat Apr 2 1966,Sunderland,2-0,Stoke City
+Sat Apr 2 1966,Tottenham Hotspur,2-3,Nottingham Forest
+Sat Apr 2 1966,West Ham United,1-1,Burnley
+Sat Apr 2 1966,Aston Villa,1-2,Northampton Town
+Sat Apr 2 1966,Fulham,2-1,West Bromwich Albion
+Mon Apr 4 1966,Sheffield Wednesday,3-0,Blackpool
+Mon Apr 4 1966,Leeds United,2-0,Chelsea
+Tue Apr 5 1966,Arsenal,1-1,West Bromwich Albion
+Wed Apr 6 1966,Aston Villa,1-1,Manchester United
+Wed Apr 6 1966,Liverpool,1-0,Sheffield Wednesday
+Fri Apr 8 1966,Fulham,1-3,Leeds United
+Fri Apr 8 1966,Newcastle United,0-0,Everton
+Fri Apr 8 1966,Blackpool,2-1,Sheffield United
+Fri Apr 8 1966,Tottenham Hotspur,1-4,West Ham United
+Fri Apr 8 1966,Blackburn Rovers,0-2,Leicester City
+Sat Apr 9 1966,Manchester United,1-2,Leicester City
+Sat Apr 9 1966,Burnley,1-0,Sunderland
+Sat Apr 9 1966,Northampton Town,0-0,Liverpool
+Sat Apr 9 1966,Everton,1-3,Sheffield United
+Sat Apr 9 1966,Newcastle United,2-1,Blackburn Rovers
+Sat Apr 9 1966,Stoke City,2-0,Aston Villa
+Sat Apr 9 1966,Sheffield Wednesday,1-1,Tottenham Hotspur
+Sat Apr 9 1966,Chelsea,6-2,West Ham United
+Sat Apr 9 1966,West Bromwich Albion,2-1,Blackpool
+Mon Apr 11 1966,Chelsea,1-0,Nottingham Forest
+Mon Apr 11 1966,Burnley,2-1,Sheffield Wednesday
+Mon Apr 11 1966,Sunderland,2-2,Liverpool
+Mon Apr 11 1966,Sheffield United,0-1,Blackpool
+Mon Apr 11 1966,Everton,1-0,Newcastle United
+Mon Apr 11 1966,West Bromwich Albion,4-4,Arsenal
+Tue Apr 12 1966,Nottingham Forest,1-2,Chelsea
+Tue Apr 12 1966,Leeds United,0-1,Fulham
+Tue Apr 12 1966,Leicester City,2-0,Blackburn Rovers
+Tue Apr 12 1966,Northampton Town,1-0,Stoke City
+Sat Apr 16 1966,Leeds United,4-1,Everton
+Sat Apr 16 1966,Blackburn Rovers,0-1,West Bromwich Albion
+Sat Apr 16 1966,Fulham,4-2,Sheffield Wednesday
+Sat Apr 16 1966,Leicester City,1-2,Newcastle United
+Sat Apr 16 1966,Tottenham Hotspur,1-1,Northampton Town
+Sat Apr 16 1966,Liverpool,2-0,Stoke City
+Sat Apr 16 1966,Aston Villa,2-1,Burnley
+Sat Apr 16 1966,Sunderland,2-0,Chelsea
+Sat Apr 16 1966,West Ham United,2-1,Arsenal
+Sat Apr 16 1966,Blackpool,0-3,Nottingham Forest
+Sat Apr 16 1966,Sheffield United,3-1,Manchester United
+Mon Apr 18 1966,Fulham,0-4,Leicester City
+Wed Apr 20 1966,Sunderland,0-2,Arsenal
+Wed Apr 20 1966,Blackpool,1-1,Newcastle United
+Fri Apr 22 1966,West Bromwich Albion,5-1,Leicester City
+Sat Apr 23 1966,Newcastle United,0-2,Sheffield United
+Sat Apr 23 1966,Burnley,2-0,Liverpool
+Sat Apr 23 1966,Arsenal,1-1,Sunderland
+Sat Apr 23 1966,Nottingham Forest,0-3,Blackburn Rovers
+Sat Apr 23 1966,Northampton Town,2-4,Fulham
+Sat Apr 23 1966,Stoke City,0-1,Tottenham Hotspur
+Mon Apr 25 1966,Chelsea,2-3,West Bromwich Albion
+Mon Apr 25 1966,West Ham United,2-0,Tottenham Hotspur
+Mon Apr 25 1966,Northampton Town,2-1,Sunderland
+Mon Apr 25 1966,Everton,0-0,Manchester United
+Mon Apr 25 1966,Sheffield United,3-0,Arsenal
+Tue Apr 26 1966,Nottingham Forest,1-2,Fulham
+Wed Apr 27 1966,Manchester United,2-1,Blackpool
+Wed Apr 27 1966,Sheffield Wednesday,2-0,Aston Villa
+Sat Apr 30 1966,Fulham,1-1,Stoke City
+Sat Apr 30 1966,West Ham United,3-2,Manchester United
+Sat Apr 30 1966,Tottenham Hotspur,0-1,Burnley
+Sat Apr 30 1966,Leeds United,3-0,Newcastle United
+Sat Apr 30 1966,Blackburn Rovers,1-2,Sheffield Wednesday
+Sat Apr 30 1966,Leicester City,2-1,Nottingham Forest
+Sat Apr 30 1966,Sunderland,2-0,Everton
+Sat Apr 30 1966,Aston Villa,3-0,Arsenal
+Sat Apr 30 1966,Liverpool,2-1,Chelsea
+Sat Apr 30 1966,Blackpool,3-0,Northampton Town
+Sat Apr 30 1966,Sheffield United,0-2,West Bromwich Albion
+Mon May 2 1966,Blackburn Rovers,1-3,Blackpool
+Mon May 2 1966,Sheffield Wednesday,1-1,Chelsea
+Wed May 4 1966,Leicester City,3-0,Everton
+Wed May 4 1966,Stoke City,3-1,Sheffield Wednesday
+Wed May 4 1966,Chelsea,1-0,Blackburn Rovers
+Wed May 4 1966,West Bromwich Albion,3-3,Manchester United
+Thu May 5 1966,Arsenal,0-3,Leeds United
+Sat May 7 1966,Nottingham Forest,1-0,Sheffield Wednesday
+Sat May 7 1966,Chelsea,2-0,Sheffield United
+Sat May 7 1966,Newcastle United,1-1,Fulham
+Sat May 7 1966,Stoke City,1-0,West Ham United
+Sat May 7 1966,Burnley,0-1,Leeds United
+Sat May 7 1966,West Bromwich Albion,2-1,Tottenham Hotspur
+Sat May 7 1966,Arsenal,1-0,Leicester City
+Sat May 7 1966,Blackburn Rovers,1-4,Manchester United
+Mon May 9 1966,Manchester United,6-1,Aston Villa
+Mon May 9 1966,Leicester City,2-1,West Ham United
+Mon May 9 1966,Blackburn Rovers,0-1,Tottenham Hotspur
+Mon May 9 1966,Sheffield Wednesday,0-2,Burnley
+Tue May 10 1966,Nottingham Forest,1-1,Liverpool
+Mon May 16 1966,Newcastle United,2-0,Leeds United
+Mon May 16 1966,Chelsea,0-2,Aston Villa
+Thu May 19 1966,Manchester United,1-1,Leeds United

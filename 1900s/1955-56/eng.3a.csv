@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 20 1955,York City,1-3,Wrexham
+Sat Aug 20 1955,Chester,0-0,Tranmere Rovers
+Sat Aug 20 1955,Crewe Alexandra,3-1,Stockport County
+Sat Aug 20 1955,Bradford Park Avenue,2-0,Scunthorpe United
+Sat Aug 20 1955,Derby County,4-0,Mansfield Town
+Sat Aug 20 1955,Grimsby Town,1-1,Rochdale
+Sat Aug 20 1955,Hartlepool United,3-0,Darlington
+Sat Aug 20 1955,Oldham Athletic,1-1,Bradford City
+Sat Aug 20 1955,Workington,2-0,Halifax Town
+Sat Aug 20 1955,Accrington Stanley,2-2,Gateshead
+Sat Aug 20 1955,Barrow,0-2,Southport
+Sat Aug 20 1955,Carlisle United,1-1,Chesterfield
+Mon Aug 22 1955,Gateshead,3-3,Tranmere Rovers
+Mon Aug 22 1955,Mansfield Town,3-2,Scunthorpe United
+Mon Aug 22 1955,Stockport County,0-0,Oldham Athletic
+Mon Aug 22 1955,Halifax Town,2-2,Carlisle United
+Tue Aug 23 1955,Southport,2-5,Derby County
+Tue Aug 23 1955,Grimsby Town,6-1,Chester
+Wed Aug 24 1955,Crewe Alexandra,1-2,York City
+Wed Aug 24 1955,Accrington Stanley,3-0,Rochdale
+Wed Aug 24 1955,Workington,5-1,Hartlepool United
+Wed Aug 24 1955,Bradford City,4-3,Wrexham
+Wed Aug 24 1955,Chesterfield,2-1,Darlington
+Thu Aug 25 1955,Barrow,2-2,Bradford Park Avenue
+Sat Aug 27 1955,Tranmere Rovers,0-1,Carlisle United
+Sat Aug 27 1955,Chesterfield,1-0,Grimsby Town
+Sat Aug 27 1955,Scunthorpe United,2-1,Oldham Athletic
+Sat Aug 27 1955,Gateshead,3-2,Barrow
+Sat Aug 27 1955,Stockport County,4-0,Hartlepool United
+Sat Aug 27 1955,Rochdale,4-2,Bradford Park Avenue
+Sat Aug 27 1955,Darlington,2-0,Accrington Stanley
+Sat Aug 27 1955,Halifax Town,2-4,York City
+Sat Aug 27 1955,Southport,1-0,Chester
+Sat Aug 27 1955,Mansfield Town,1-1,Crewe Alexandra
+Sat Aug 27 1955,Bradford City,2-0,Workington
+Sat Aug 27 1955,Wrexham,3-1,Derby County
+Mon Aug 29 1955,Hartlepool United,1-0,Workington
+Mon Aug 29 1955,Bradford Park Avenue,3-2,Barrow
+Mon Aug 29 1955,York City,1-1,Crewe Alexandra
+Mon Aug 29 1955,Rochdale,1-1,Accrington Stanley
+Tue Aug 30 1955,Tranmere Rovers,1-1,Gateshead
+Tue Aug 30 1955,Carlisle United,2-2,Halifax Town
+Tue Aug 30 1955,Oldham Athletic,3-2,Stockport County
+Wed Aug 31 1955,Scunthorpe United,3-0,Mansfield Town
+Wed Aug 31 1955,Derby County,2-0,Southport
+Wed Aug 31 1955,Darlington,2-1,Chesterfield
+Wed Aug 31 1955,Chester,2-0,Grimsby Town
+Wed Aug 31 1955,Wrexham,2-1,Bradford City
+Sat Sep 3 1955,Chester,3-0,Gateshead
+Sat Sep 3 1955,Derby County,4-1,Halifax Town
+Sat Sep 3 1955,Accrington Stanley,3-1,Stockport County
+Sat Sep 3 1955,Bradford Park Avenue,0-5,Chesterfield
+Sat Sep 3 1955,Rochdale,4-4,Oldham Athletic
+Sat Sep 3 1955,Barrow,0-1,Darlington
+Sat Sep 3 1955,Workington,1-2,Scunthorpe United
+Sat Sep 3 1955,Hartlepool United,4-2,Mansfield Town
+Sat Sep 3 1955,Crewe Alexandra,1-2,Wrexham
+Sat Sep 3 1955,York City,0-2,Bradford City
+Sat Sep 3 1955,Carlisle United,4-0,Southport
+Sat Sep 3 1955,Grimsby Town,1-0,Tranmere Rovers
+Mon Sep 5 1955,Hartlepool United,0-1,York City
+Mon Sep 5 1955,Rochdale,5-1,Barrow
+Mon Sep 5 1955,Crewe Alexandra,2-1,Derby County
+Mon Sep 5 1955,Stockport County,4-5,Workington
+Mon Sep 5 1955,Mansfield Town,2-0,Oldham Athletic
+Tue Sep 6 1955,Southport,2-0,Gateshead
+Tue Sep 6 1955,Grimsby Town,1-0,Carlisle United
+Tue Sep 6 1955,Tranmere Rovers,0-1,Darlington
+Wed Sep 7 1955,Chester,0-0,Bradford Park Avenue
+Wed Sep 7 1955,Scunthorpe United,1-1,Wrexham
+Wed Sep 7 1955,Bradford City,2-0,Halifax Town
+Wed Sep 7 1955,Chesterfield,0-1,Accrington Stanley
+Sat Sep 10 1955,Bradford City,2-1,Derby County
+Sat Sep 10 1955,Tranmere Rovers,4-1,Bradford Park Avenue
+Sat Sep 10 1955,Darlington,0-1,Chester
+Sat Sep 10 1955,Wrexham,1-3,Hartlepool United
+Sat Sep 10 1955,Chesterfield,7-2,Rochdale
+Sat Sep 10 1955,Gateshead,2-3,Carlisle United
+Sat Sep 10 1955,Southport,2-0,Grimsby Town
+Sat Sep 10 1955,Halifax Town,2-0,Crewe Alexandra
+Sat Sep 10 1955,Mansfield Town,2-2,Stockport County
+Sat Sep 10 1955,Oldham Athletic,0-1,Workington
+Sat Sep 10 1955,Scunthorpe United,1-1,York City
+Sat Sep 10 1955,Accrington Stanley,2-0,Barrow
+Mon Sep 12 1955,Halifax Town,3-2,Bradford City
+Mon Sep 12 1955,Gateshead,2-0,Southport
+Mon Sep 12 1955,Bradford Park Avenue,1-1,Chester
+Mon Sep 12 1955,York City,3-0,Hartlepool United
+Mon Sep 12 1955,Oldham Athletic,1-1,Mansfield Town
+Tue Sep 13 1955,Carlisle United,1-2,Grimsby Town
+Wed Sep 14 1955,Derby County,3-3,Crewe Alexandra
+Wed Sep 14 1955,Darlington,6-2,Tranmere Rovers
+Wed Sep 14 1955,Workington,0-1,Stockport County
+Wed Sep 14 1955,Wrexham,0-1,Scunthorpe United
+Wed Sep 14 1955,Accrington Stanley,5-1,Chesterfield
+Thu Sep 15 1955,Barrow,2-0,Rochdale
+Sat Sep 17 1955,York City,2-0,Oldham Athletic
+Sat Sep 17 1955,Chester,1-1,Accrington Stanley
+Sat Sep 17 1955,Barrow,4-1,Mansfield Town
+Sat Sep 17 1955,Carlisle United,2-0,Darlington
+Sat Sep 17 1955,Bradford Park Avenue,0-3,Southport
+Sat Sep 17 1955,Stockport County,4-0,Wrexham
+Sat Sep 17 1955,Grimsby Town,3-1,Gateshead
+Sat Sep 17 1955,Chesterfield,2-4,Workington
+Sat Sep 17 1955,Derby County,2-2,Scunthorpe United
+Sat Sep 17 1955,Crewe Alexandra,1-4,Bradford City
+Sat Sep 17 1955,Hartlepool United,3-2,Halifax Town
+Sat Sep 17 1955,Rochdale,1-3,Tranmere Rovers
+Mon Sep 19 1955,York City,1-0,Stockport County
+Mon Sep 19 1955,Hartlepool United,2-0,Derby County
+Mon Sep 19 1955,Mansfield Town,0-0,Workington
+Tue Sep 20 1955,Southport,0-1,Darlington
+Tue Sep 20 1955,Tranmere Rovers,4-1,Accrington Stanley
+Wed Sep 21 1955,Scunthorpe United,1-0,Halifax Town
+Wed Sep 21 1955,Crewe Alexandra,1-0,Gateshead
+Wed Sep 21 1955,Wrexham,1-1,Oldham Athletic
+Wed Sep 21 1955,Rochdale,4-2,Chester
+Wed Sep 21 1955,Bradford City,0-2,Grimsby Town
+Wed Sep 21 1955,Chesterfield,2-0,Barrow
+Sat Sep 24 1955,Oldham Athletic,1-1,Derby County
+Sat Sep 24 1955,Bradford City,2-0,Hartlepool United
+Sat Sep 24 1955,Gateshead,3-0,Bradford Park Avenue
+Sat Sep 24 1955,Barrow,1-2,Chester
+Sat Sep 24 1955,Workington,0-0,York City
+Sat Sep 24 1955,Tranmere Rovers,0-1,Chesterfield
+Sat Sep 24 1955,Southport,2-0,Rochdale
+Sat Sep 24 1955,Scunthorpe United,1-1,Crewe Alexandra
+Sat Sep 24 1955,Wrexham,2-0,Mansfield Town
+Sat Sep 24 1955,Accrington Stanley,1-0,Carlisle United
+Sat Sep 24 1955,Halifax Town,1-0,Stockport County
+Sat Sep 24 1955,Darlington,0-1,Grimsby Town
+Mon Sep 26 1955,Gateshead,3-3,Chesterfield
+Mon Sep 26 1955,Mansfield Town,0-0,Bradford City
+Mon Sep 26 1955,Accrington Stanley,7-0,Bradford Park Avenue
+Mon Sep 26 1955,Halifax Town,1-1,Wrexham
+Mon Sep 26 1955,Stockport County,3-2,Scunthorpe United
+Tue Sep 27 1955,Southport,1-0,Tranmere Rovers
+Tue Sep 27 1955,Oldham Athletic,3-2,Hartlepool United
+Tue Sep 27 1955,Grimsby Town,3-0,Barrow
+Wed Sep 28 1955,Derby County,3-2,York City
+Wed Sep 28 1955,Darlington,2-0,Rochdale
+Wed Sep 28 1955,Workington,1-0,Crewe Alexandra
+Wed Sep 28 1955,Chester,3-3,Carlisle United
+Sat Oct 1 1955,Chester,2-1,Wrexham
+Sat Oct 1 1955,Derby County,2-2,Workington
+Sat Oct 1 1955,Rochdale,1-1,Gateshead
+Sat Oct 1 1955,Carlisle United,2-0,Barrow
+Sat Oct 1 1955,Grimsby Town,3-0,Accrington Stanley
+Sat Oct 1 1955,Mansfield Town,3-1,Halifax Town
+Sat Oct 1 1955,Bradford Park Avenue,3-0,Darlington
+Sat Oct 1 1955,Stockport County,1-0,Bradford City
+Sat Oct 1 1955,Tranmere Rovers,2-1,York City
+Sat Oct 1 1955,Crewe Alexandra,1-2,Oldham Athletic
+Sat Oct 1 1955,Hartlepool United,0-2,Scunthorpe United
+Sat Oct 1 1955,Chesterfield,5-1,Southport
+Sat Oct 8 1955,Bradford City,1-1,Chester
+Sat Oct 8 1955,Halifax Town,1-0,Barrow
+Sat Oct 8 1955,Oldham Athletic,1-1,Grimsby Town
+Sat Oct 8 1955,Hartlepool United,1-0,Southport
+Sat Oct 8 1955,Mansfield Town,3-3,Darlington
+Sat Oct 8 1955,Workington,4-0,Bradford Park Avenue
+Sat Oct 8 1955,Derby County,3-0,Chesterfield
+Sat Oct 8 1955,Crewe Alexandra,4-0,Tranmere Rovers
+Sat Oct 8 1955,York City,1-2,Rochdale
+Sat Oct 8 1955,Stockport County,1-2,Gateshead
+Sat Oct 8 1955,Scunthorpe United,4-0,Carlisle United
+Sat Oct 8 1955,Wrexham,1-4,Accrington Stanley
+Sat Oct 15 1955,Grimsby Town,4-0,Halifax Town
+Sat Oct 15 1955,Darlington,4-1,Crewe Alexandra
+Sat Oct 15 1955,Southport,3-3,York City
+Sat Oct 15 1955,Tranmere Rovers,2-0,Workington
+Sat Oct 15 1955,Bradford Park Avenue,1-1,Bradford City
+Sat Oct 15 1955,Chesterfield,1-0,Oldham Athletic
+Sat Oct 15 1955,Rochdale,3-2,Scunthorpe United
+Sat Oct 15 1955,Gateshead,2-4,Derby County
+Sat Oct 15 1955,Barrow,2-0,Stockport County
+Sat Oct 15 1955,Carlisle United,0-1,Wrexham
+Sat Oct 15 1955,Chester,4-3,Mansfield Town
+Sat Oct 15 1955,Accrington Stanley,1-0,Hartlepool United
+Sat Oct 22 1955,York City,3-4,Grimsby Town
+Sat Oct 22 1955,Derby County,4-0,Bradford Park Avenue
+Sat Oct 22 1955,Mansfield Town,0-1,Southport
+Sat Oct 22 1955,Scunthorpe United,2-0,Barrow
+Sat Oct 22 1955,Crewe Alexandra,2-0,Rochdale
+Sat Oct 22 1955,Hartlepool United,3-0,Chesterfield
+Sat Oct 22 1955,Wrexham,1-1,Gateshead
+Sat Oct 22 1955,Workington,4-0,Carlisle United
+Sat Oct 22 1955,Oldham Athletic,4-1,Chester
+Sat Oct 22 1955,Stockport County,7-0,Tranmere Rovers
+Sat Oct 22 1955,Bradford City,2-1,Accrington Stanley
+Sat Oct 22 1955,Halifax Town,3-0,Darlington
+Sat Oct 29 1955,Darlington,1-1,Bradford City
+Sat Oct 29 1955,Carlisle United,3-1,York City
+Sat Oct 29 1955,Gateshead,1-1,Halifax Town
+Sat Oct 29 1955,Accrington Stanley,2-0,Scunthorpe United
+Sat Oct 29 1955,Barrow,4-1,Oldham Athletic
+Sat Oct 29 1955,Tranmere Rovers,1-0,Mansfield Town
+Sat Oct 29 1955,Chester,1-0,Workington
+Sat Oct 29 1955,Rochdale,1-4,Hartlepool United
+Sat Oct 29 1955,Bradford Park Avenue,2-0,Crewe Alexandra
+Sat Oct 29 1955,Chesterfield,2-3,Stockport County
+Sat Oct 29 1955,Southport,1-1,Wrexham
+Sat Oct 29 1955,Grimsby Town,2-1,Derby County
+Sat Nov 5 1955,Halifax Town,0-1,Southport
+Sat Nov 5 1955,Crewe Alexandra,0-0,Grimsby Town
+Sat Nov 5 1955,Mansfield Town,0-1,Chesterfield
+Sat Nov 5 1955,Bradford City,3-1,Gateshead
+Sat Nov 5 1955,York City,3-0,Chester
+Sat Nov 5 1955,Wrexham,3-1,Tranmere Rovers
+Sat Nov 5 1955,Workington,6-1,Barrow
+Sat Nov 5 1955,Scunthorpe United,0-1,Darlington
+Sat Nov 5 1955,Derby County,3-0,Carlisle United
+Sat Nov 5 1955,Stockport County,0-0,Rochdale
+Sat Nov 5 1955,Oldham Athletic,1-3,Accrington Stanley
+Sat Nov 5 1955,Hartlepool United,3-1,Bradford Park Avenue
+Sat Nov 12 1955,Chester,2-5,Derby County
+Sat Nov 12 1955,Tranmere Rovers,2-1,Halifax Town
+Sat Nov 12 1955,Rochdale,1-1,Mansfield Town
+Sat Nov 12 1955,Southport,3-1,Bradford City
+Sat Nov 12 1955,Darlington,2-1,Oldham Athletic
+Sat Nov 12 1955,Bradford Park Avenue,2-0,Stockport County
+Sat Nov 12 1955,Barrow,0-1,York City
+Sat Nov 12 1955,Carlisle United,4-1,Crewe Alexandra
+Sat Nov 12 1955,Accrington Stanley,5-1,Workington
+Sat Nov 12 1955,Gateshead,1-0,Scunthorpe United
+Sat Nov 12 1955,Grimsby Town,1-0,Hartlepool United
+Sat Nov 12 1955,Chesterfield,2-0,Wrexham
+Sat Nov 26 1955,Gateshead,4-3,Workington
+Sat Nov 26 1955,Tranmere Rovers,2-1,Scunthorpe United
+Sat Nov 26 1955,Darlington,1-4,York City
+Sat Nov 26 1955,Southport,1-1,Oldham Athletic
+Sat Nov 26 1955,Accrington Stanley,2-0,Derby County
+Sat Nov 26 1955,Rochdale,2-1,Halifax Town
+Sat Nov 26 1955,Bradford Park Avenue,4-2,Wrexham
+Sat Nov 26 1955,Barrow,5-0,Crewe Alexandra
+Sat Nov 26 1955,Chester,0-1,Hartlepool United
+Sat Nov 26 1955,Carlisle United,4-1,Stockport County
+Sat Nov 26 1955,Grimsby Town,2-0,Mansfield Town
+Sat Nov 26 1955,Chesterfield,1-1,Bradford City
+Sat Dec 3 1955,Workington,2-3,Southport
+Sat Dec 3 1955,Derby County,6-2,Darlington
+Sat Dec 3 1955,Halifax Town,6-0,Bradford Park Avenue
+Sat Dec 3 1955,Bradford City,2-2,Rochdale
+Sat Dec 3 1955,Hartlepool United,1-0,Barrow
+Sat Dec 3 1955,Wrexham,1-0,Grimsby Town
+Sat Dec 3 1955,York City,1-0,Gateshead
+Sat Dec 3 1955,Stockport County,2-1,Chester
+Sat Dec 3 1955,Scunthorpe United,2-0,Chesterfield
+Sat Dec 3 1955,Mansfield Town,0-1,Carlisle United
+Sat Dec 3 1955,Oldham Athletic,4-1,Tranmere Rovers
+Sat Dec 3 1955,Crewe Alexandra,0-3,Accrington Stanley
+Sat Dec 17 1955,Stockport County,2-1,Crewe Alexandra
+Sat Dec 17 1955,Wrexham,4-5,York City
+Sat Dec 17 1955,Tranmere Rovers,4-0,Chester
+Sat Dec 17 1955,Chesterfield,2-1,Carlisle United
+Sat Dec 17 1955,Mansfield Town,1-1,Derby County
+Sat Dec 17 1955,Gateshead,4-0,Accrington Stanley
+Sat Dec 17 1955,Halifax Town,2-0,Workington
+Sat Dec 17 1955,Rochdale,2-0,Grimsby Town
+Sat Dec 17 1955,Southport,2-1,Barrow
+Sat Dec 17 1955,Darlington,0-0,Hartlepool United
+Sat Dec 17 1955,Bradford City,0-0,Oldham Athletic
+Sat Dec 17 1955,Scunthorpe United,4-2,Bradford Park Avenue
+Sat Dec 24 1955,Bradford Park Avenue,3-3,Rochdale
+Sat Dec 24 1955,Hartlepool United,0-0,Stockport County
+Sat Dec 24 1955,Chester,1-3,Southport
+Sat Dec 24 1955,Accrington Stanley,2-1,Darlington
+Sat Dec 24 1955,York City,5-0,Halifax Town
+Sat Dec 24 1955,Oldham Athletic,2-1,Scunthorpe United
+Sat Dec 24 1955,Workington,2-1,Bradford City
+Sat Dec 24 1955,Grimsby Town,3-0,Chesterfield
+Sat Dec 24 1955,Barrow,4-0,Gateshead
+Sat Dec 24 1955,Crewe Alexandra,2-1,Mansfield Town
+Sat Dec 24 1955,Derby County,2-0,Wrexham
+Sat Dec 24 1955,Carlisle United,0-3,Tranmere Rovers
+Mon Dec 26 1955,Mansfield Town,3-1,York City
+Mon Dec 26 1955,Tranmere Rovers,1-1,Barrow
+Mon Dec 26 1955,Gateshead,0-1,Darlington
+Mon Dec 26 1955,Chesterfield,2-1,Chester
+Mon Dec 26 1955,Rochdale,5-2,Carlisle United
+Mon Dec 26 1955,Halifax Town,5-1,Oldham Athletic
+Mon Dec 26 1955,Wrexham,0-1,Workington
+Mon Dec 26 1955,Southport,1-1,Accrington Stanley
+Mon Dec 26 1955,Bradford City,4-3,Scunthorpe United
+Mon Dec 26 1955,Grimsby Town,2-0,Bradford Park Avenue
+Mon Dec 26 1955,Hartlepool United,6-1,Crewe Alexandra
+Mon Dec 26 1955,Stockport County,2-1,Derby County
+Tue Dec 27 1955,Chester,2-1,Chesterfield
+Tue Dec 27 1955,Barrow,1-1,Tranmere Rovers
+Tue Dec 27 1955,Bradford Park Avenue,2-1,Grimsby Town
+Tue Dec 27 1955,Scunthorpe United,2-0,Bradford City
+Tue Dec 27 1955,York City,1-1,Mansfield Town
+Tue Dec 27 1955,Workington,3-1,Wrexham
+Tue Dec 27 1955,Crewe Alexandra,1-3,Hartlepool United
+Tue Dec 27 1955,Derby County,2-0,Stockport County
+Tue Dec 27 1955,Carlisle United,1-2,Rochdale
+Tue Dec 27 1955,Oldham Athletic,1-3,Halifax Town
+Tue Dec 27 1955,Darlington,0-0,Gateshead
+Sat Dec 31 1955,Bradford City,3-1,York City
+Sat Dec 31 1955,Stockport County,1-2,Accrington Stanley
+Sat Dec 31 1955,Southport,3-0,Carlisle United
+Sat Dec 31 1955,Mansfield Town,5-1,Hartlepool United
+Sat Dec 31 1955,Chesterfield,5-1,Bradford Park Avenue
+Sat Dec 31 1955,Wrexham,4-2,Crewe Alexandra
+Sat Dec 31 1955,Oldham Athletic,2-2,Rochdale
+Sat Dec 31 1955,Scunthorpe United,3-1,Workington
+Sat Dec 31 1955,Halifax Town,2-2,Derby County
+Sat Dec 31 1955,Darlington,4-2,Barrow
+Sat Dec 31 1955,Tranmere Rovers,0-1,Grimsby Town
+Sat Dec 31 1955,Gateshead,1-1,Chester
+Mon Jan 2 1956,Chesterfield,3-0,Gateshead
+Mon Jan 2 1956,Barrow,0-0,Grimsby Town
+Mon Jan 2 1956,Carlisle United,4-1,Bradford Park Avenue
+Mon Jan 2 1956,Hartlepool United,1-0,Oldham Athletic
+Mon Jan 2 1956,Tranmere Rovers,1-2,Southport
+Sat Jan 7 1956,Halifax Town,3-0,Chesterfield
+Sat Jan 7 1956,Oldham Athletic,1-2,Gateshead
+Sat Jan 7 1956,Bradford City,5-0,Tranmere Rovers
+Sat Jan 7 1956,Wrexham,0-0,Rochdale
+Sat Jan 7 1956,Workington,2-0,Darlington
+Sat Jan 14 1956,Hartlepool United,3-2,Wrexham
+Sat Jan 14 1956,Derby County,4-1,Bradford City
+Sat Jan 14 1956,Barrow,3-1,Accrington Stanley
+Sat Jan 14 1956,Crewe Alexandra,1-4,Halifax Town
+Sat Jan 14 1956,Carlisle United,2-1,Gateshead
+Sat Jan 14 1956,Chester,2-1,Darlington
+Sat Jan 14 1956,Stockport County,7-2,Mansfield Town
+Sat Jan 14 1956,Workington,4-3,Oldham Athletic
+Sat Jan 21 1956,Southport,3-0,Bradford Park Avenue
+Sat Jan 21 1956,Mansfield Town,4-0,Barrow
+Sat Jan 21 1956,Tranmere Rovers,2-1,Rochdale
+Sat Jan 21 1956,Wrexham,0-1,Stockport County
+Sat Jan 21 1956,Darlington,3-5,Carlisle United
+Sat Jan 21 1956,Scunthorpe United,0-2,Derby County
+Sat Jan 21 1956,Accrington Stanley,4-0,Chester
+Sat Jan 21 1956,Workington,0-1,Chesterfield
+Sat Jan 21 1956,Gateshead,2-0,Grimsby Town
+Sat Jan 21 1956,Oldham Athletic,2-2,York City
+Sat Jan 21 1956,Bradford City,3-1,Crewe Alexandra
+Sat Jan 21 1956,Halifax Town,0-2,Hartlepool United
+Sat Jan 28 1956,Tranmere Rovers,2-2,Hartlepool United
+Sat Jan 28 1956,Gateshead,3-0,Mansfield Town
+Sat Jan 28 1956,Carlisle United,3-1,Oldham Athletic
+Sat Jan 28 1956,Southport,1-1,Stockport County
+Sat Jan 28 1956,Chesterfield,8-0,Crewe Alexandra
+Sat Jan 28 1956,Grimsby Town,1-2,Workington
+Sat Jan 28 1956,Accrington Stanley,2-2,Halifax Town
+Sat Jan 28 1956,Barrow,3-1,Bradford City
+Sat Jan 28 1956,Rochdale,0-5,Derby County
+Sat Jan 28 1956,Darlington,2-2,Wrexham
+Sat Feb 4 1956,Stockport County,3-1,Halifax Town
+Sat Feb 4 1956,Crewe Alexandra,1-2,Scunthorpe United
+Sat Feb 4 1956,Chester,1-0,Barrow
+Sat Feb 4 1956,Chesterfield,2-0,Tranmere Rovers
+Sat Feb 4 1956,Carlisle United,0-4,Accrington Stanley
+Sat Feb 4 1956,Mansfield Town,6-1,Wrexham
+Sat Feb 4 1956,Bradford Park Avenue,3-1,Gateshead
+Sat Feb 4 1956,York City,1-1,Workington
+Sat Feb 4 1956,Rochdale,1-3,Southport
+Sat Feb 4 1956,Hartlepool United,1-0,Bradford City
+Sat Feb 11 1956,Southport,1-0,Chesterfield
+Sat Feb 11 1956,Halifax Town,1-1,Mansfield Town
+Sat Feb 11 1956,Workington,0-3,Derby County
+Sat Feb 11 1956,Accrington Stanley,0-1,Grimsby Town
+Sat Feb 11 1956,Oldham Athletic,1-1,Crewe Alexandra
+Sat Feb 11 1956,York City,2-4,Tranmere Rovers
+Sat Feb 11 1956,Gateshead,4-1,Rochdale
+Sat Feb 11 1956,Bradford City,4-1,Stockport County
+Sat Feb 11 1956,Darlington,4-1,Bradford Park Avenue
+Sat Feb 11 1956,Scunthorpe United,5-1,Hartlepool United
+Sat Feb 11 1956,Barrow,0-0,Carlisle United
+Sat Feb 11 1956,Wrexham,0-0,Chester
+Wed Feb 15 1956,Stockport County,0-0,Grimsby Town
+Sat Feb 18 1956,Chesterfield,2-0,Derby County
+Sat Feb 18 1956,Southport,0-0,Hartlepool United
+Sat Feb 18 1956,Darlington,3-1,Mansfield Town
+Sat Feb 18 1956,Chester,1-1,Bradford City
+Sat Feb 18 1956,Gateshead,2-1,Stockport County
+Sat Feb 18 1956,Bradford Park Avenue,4-0,Workington
+Sat Feb 18 1956,Tranmere Rovers,2-1,Crewe Alexandra
+Sat Feb 18 1956,Accrington Stanley,3-1,Wrexham
+Sat Feb 18 1956,Barrow,2-2,Halifax Town
+Sat Feb 18 1956,Rochdale,3-1,York City
+Sat Feb 18 1956,Carlisle United,1-2,Scunthorpe United
+Sat Feb 18 1956,Grimsby Town,5-1,Oldham Athletic
+Sat Feb 25 1956,York City,0-1,Southport
+Sat Feb 25 1956,Wrexham,5-2,Carlisle United
+Sat Feb 25 1956,Workington,3-0,Tranmere Rovers
+Sat Feb 25 1956,Derby County,4-1,Gateshead
+Sat Feb 25 1956,Crewe Alexandra,1-1,Darlington
+Sat Feb 25 1956,Oldham Athletic,2-2,Chesterfield
+Sat Feb 25 1956,Stockport County,4-1,Barrow
+Sat Feb 25 1956,Mansfield Town,3-0,Chester
+Sat Mar 3 1956,Chesterfield,2-3,Hartlepool United
+Sat Mar 3 1956,Carlisle United,2-4,Workington
+Sat Mar 3 1956,Tranmere Rovers,2-1,Stockport County
+Sat Mar 3 1956,Gateshead,2-1,Wrexham
+Sat Mar 3 1956,Accrington Stanley,2-0,Bradford City
+Sat Mar 3 1956,Rochdale,1-0,Crewe Alexandra
+Sat Mar 3 1956,Darlington,1-2,Halifax Town
+Sat Mar 3 1956,Southport,1-1,Mansfield Town
+Sat Mar 3 1956,Grimsby Town,2-1,York City
+Sat Mar 3 1956,Chester,3-2,Oldham Athletic
+Sat Mar 3 1956,Barrow,2-2,Scunthorpe United
+Sat Mar 3 1956,Bradford Park Avenue,2-4,Derby County
+Wed Mar 7 1956,Derby County,2-1,Barrow
+Sat Mar 10 1956,Derby County,1-3,Grimsby Town
+Sat Mar 10 1956,Stockport County,2-1,Chesterfield
+Sat Mar 10 1956,Workington,0-0,Chester
+Sat Mar 10 1956,York City,3-1,Carlisle United
+Sat Mar 10 1956,Mansfield Town,6-0,Tranmere Rovers
+Sat Mar 10 1956,Hartlepool United,1-0,Rochdale
+Sat Mar 10 1956,Crewe Alexandra,4-2,Bradford Park Avenue
+Sat Mar 10 1956,Oldham Athletic,6-1,Barrow
+Sat Mar 10 1956,Halifax Town,3-3,Gateshead
+Sat Mar 10 1956,Scunthorpe United,2-3,Accrington Stanley
+Sat Mar 10 1956,Wrexham,2-1,Southport
+Sat Mar 10 1956,Bradford City,3-0,Darlington
+Wed Mar 14 1956,Bradford Park Avenue,2-1,York City
+Sat Mar 17 1956,Rochdale,1-0,Wrexham
+Sat Mar 17 1956,Darlington,2-2,Workington
+Sat Mar 17 1956,Tranmere Rovers,1-1,Bradford City
+Sat Mar 17 1956,Grimsby Town,3-0,Stockport County
+Sat Mar 17 1956,Bradford Park Avenue,0-3,Mansfield Town
+Sat Mar 17 1956,Accrington Stanley,1-3,York City
+Sat Mar 17 1956,Chesterfield,3-0,Halifax Town
+Sat Mar 17 1956,Barrow,1-2,Derby County
+Sat Mar 17 1956,Chester,0-0,Crewe Alexandra
+Sat Mar 17 1956,Gateshead,1-3,Oldham Athletic
+Sat Mar 17 1956,Carlisle United,0-3,Hartlepool United
+Sat Mar 17 1956,Southport,2-2,Scunthorpe United
+Mon Mar 19 1956,Derby County,2-0,Oldham Athletic
+Thu Mar 22 1956,Scunthorpe United,1-2,Rochdale
+Sat Mar 24 1956,Crewe Alexandra,3-1,Carlisle United
+Sat Mar 24 1956,Scunthorpe United,1-1,Gateshead
+Sat Mar 24 1956,Mansfield Town,6-0,Rochdale
+Sat Mar 24 1956,Bradford City,2-0,Southport
+Sat Mar 24 1956,Hartlepool United,1-2,Grimsby Town
+Sat Mar 24 1956,Wrexham,3-0,Chesterfield
+Sat Mar 24 1956,York City,3-2,Barrow
+Sat Mar 24 1956,Stockport County,0-0,Bradford Park Avenue
+Sat Mar 24 1956,Halifax Town,0-2,Tranmere Rovers
+Sat Mar 24 1956,Workington,0-0,Accrington Stanley
+Sat Mar 24 1956,Derby County,3-1,Chester
+Sat Mar 24 1956,Oldham Athletic,3-3,Darlington
+Fri Mar 30 1956,Tranmere Rovers,0-1,Derby County
+Fri Mar 30 1956,York City,3-1,Chesterfield
+Fri Mar 30 1956,Barrow,0-3,Wrexham
+Fri Mar 30 1956,Carlisle United,0-0,Bradford City
+Fri Mar 30 1956,Crewe Alexandra,1-1,Southport
+Fri Mar 30 1956,Gateshead,2-1,Hartlepool United
+Fri Mar 30 1956,Mansfield Town,3-2,Accrington Stanley
+Fri Mar 30 1956,Rochdale,1-0,Workington
+Fri Mar 30 1956,Chester,1-0,Halifax Town
+Fri Mar 30 1956,Grimsby Town,0-1,Scunthorpe United
+Fri Mar 30 1956,Stockport County,2-1,Darlington
+Sat Mar 31 1956,Rochdale,0-0,Stockport County
+Sat Mar 31 1956,Accrington Stanley,2-2,Oldham Athletic
+Sat Mar 31 1956,Gateshead,4-1,Bradford City
+Sat Mar 31 1956,Southport,2-0,Halifax Town
+Sat Mar 31 1956,Chester,2-2,York City
+Sat Mar 31 1956,Darlington,1-0,Scunthorpe United
+Sat Mar 31 1956,Tranmere Rovers,0-2,Wrexham
+Sat Mar 31 1956,Carlisle United,0-3,Derby County
+Sat Mar 31 1956,Chesterfield,2-1,Mansfield Town
+Sat Mar 31 1956,Grimsby Town,5-1,Crewe Alexandra
+Sat Mar 31 1956,Bradford Park Avenue,1-3,Hartlepool United
+Sat Mar 31 1956,Barrow,2-0,Workington
+Mon Apr 2 1956,Oldham Athletic,5-1,Bradford Park Avenue
+Mon Apr 2 1956,Wrexham,0-0,Barrow
+Mon Apr 2 1956,Southport,5-0,Crewe Alexandra
+Mon Apr 2 1956,Hartlepool United,3-1,Gateshead
+Mon Apr 2 1956,Chesterfield,3-1,York City
+Mon Apr 2 1956,Darlington,0-0,Stockport County
+Mon Apr 2 1956,Derby County,0-0,Tranmere Rovers
+Mon Apr 2 1956,Workington,0-1,Rochdale
+Mon Apr 2 1956,Scunthorpe United,0-1,Grimsby Town
+Mon Apr 2 1956,Accrington Stanley,3-1,Mansfield Town
+Mon Apr 2 1956,Halifax Town,0-1,Chester
+Mon Apr 2 1956,Bradford City,0-0,Carlisle United
+Tue Apr 3 1956,Bradford Park Avenue,4-1,Oldham Athletic
+Sat Apr 7 1956,York City,4-0,Darlington
+Sat Apr 7 1956,Wrexham,1-0,Bradford Park Avenue
+Sat Apr 7 1956,Oldham Athletic,1-1,Southport
+Sat Apr 7 1956,Halifax Town,1-1,Rochdale
+Sat Apr 7 1956,Mansfield Town,0-2,Grimsby Town
+Sat Apr 7 1956,Stockport County,8-1,Carlisle United
+Sat Apr 7 1956,Scunthorpe United,2-1,Tranmere Rovers
+Sat Apr 7 1956,Bradford City,3-5,Chesterfield
+Sat Apr 7 1956,Hartlepool United,3-1,Chester
+Sat Apr 7 1956,Workington,6-1,Gateshead
+Sat Apr 7 1956,Crewe Alexandra,0-1,Barrow
+Sat Apr 7 1956,Derby County,6-2,Accrington Stanley
+Mon Apr 9 1956,York City,0-0,Scunthorpe United
+Mon Apr 9 1956,Mansfield Town,5-0,Bradford Park Avenue
+Wed Apr 11 1956,Crewe Alexandra,0-0,Chester
+Thu Apr 12 1956,Carlisle United,5-2,Mansfield Town
+Sat Apr 14 1956,Accrington Stanley,5-1,Crewe Alexandra
+Sat Apr 14 1956,Chester,1-4,Stockport County
+Sat Apr 14 1956,Chesterfield,2-0,Scunthorpe United
+Sat Apr 14 1956,Bradford Park Avenue,1-1,Halifax Town
+Sat Apr 14 1956,Tranmere Rovers,0-3,Oldham Athletic
+Sat Apr 14 1956,Darlington,1-0,Derby County
+Sat Apr 14 1956,Gateshead,3-2,York City
+Sat Apr 14 1956,Rochdale,3-1,Bradford City
+Sat Apr 14 1956,Southport,0-0,Workington
+Sat Apr 14 1956,Barrow,3-2,Hartlepool United
+Sat Apr 14 1956,Grimsby Town,1-0,Wrexham
+Mon Apr 16 1956,York City,0-1,Accrington Stanley
+Mon Apr 16 1956,Bradford City,5-0,Bradford Park Avenue
+Tue Apr 17 1956,Grimsby Town,1-0,Darlington
+Wed Apr 18 1956,Rochdale,1-5,Chesterfield
+Wed Apr 18 1956,Bradford Park Avenue,4-5,Tranmere Rovers
+Wed Apr 18 1956,Scunthorpe United,0-1,Southport
+Sat Apr 21 1956,Crewe Alexandra,0-3,Chesterfield
+Sat Apr 21 1956,Stockport County,4-0,Southport
+Sat Apr 21 1956,Wrexham,2-1,Darlington
+Sat Apr 21 1956,Hartlepool United,4-0,Tranmere Rovers
+Sat Apr 21 1956,York City,5-0,Bradford Park Avenue
+Sat Apr 21 1956,Mansfield Town,3-1,Gateshead
+Sat Apr 21 1956,Bradford City,1-1,Barrow
+Sat Apr 21 1956,Halifax Town,2-0,Accrington Stanley
+Sat Apr 21 1956,Workington,0-0,Grimsby Town
+Sat Apr 21 1956,Oldham Athletic,2-2,Carlisle United
+Sat Apr 21 1956,Scunthorpe United,2-1,Chester
+Sat Apr 21 1956,Derby County,2-0,Rochdale
+Mon Apr 23 1956,Bradford Park Avenue,1-0,Accrington Stanley
+Mon Apr 23 1956,York City,1-0,Derby County
+Tue Apr 24 1956,Carlisle United,4-1,Chester
+Tue Apr 24 1956,Rochdale,1-0,Darlington
+Wed Apr 25 1956,Crewe Alexandra,2-1,Workington
+Wed Apr 25 1956,Grimsby Town,2-0,Southport
+Wed Apr 25 1956,Bradford City,4-2,Mansfield Town
+Wed Apr 25 1956,Wrexham,1-2,Halifax Town
+Thu Apr 26 1956,Scunthorpe United,1-5,Stockport County
+Sat Apr 28 1956,Grimsby Town,2-0,Bradford City
+Sat Apr 28 1956,Halifax Town,0-3,Scunthorpe United
+Sat Apr 28 1956,Darlington,0-1,Southport
+Sat Apr 28 1956,Derby County,3-2,Hartlepool United
+Sat Apr 28 1956,Workington,2-1,Mansfield Town
+Sat Apr 28 1956,Barrow,3-1,Chesterfield
+Sat Apr 28 1956,Accrington Stanley,0-0,Tranmere Rovers
+Sat Apr 28 1956,Bradford Park Avenue,2-1,Carlisle United
+Sat Apr 28 1956,Gateshead,4-1,Crewe Alexandra
+Sat Apr 28 1956,Stockport County,4-1,York City
+Sat Apr 28 1956,Chester,0-0,Rochdale
+Sat Apr 28 1956,Oldham Athletic,1-1,Wrexham
+Mon Apr 30 1956,Hartlepool United,3-0,Carlisle United
+Mon Apr 30 1956,Halifax Town,0-1,Grimsby Town
+Mon Apr 30 1956,Accrington Stanley,4-2,Southport
+Wed May 2 1956,Chester,3-5,Scunthorpe United
+Thu May 3 1956,Hartlepool United,0-0,Accrington Stanley

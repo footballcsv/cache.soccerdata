@@ -1,0 +1,241 @@
+Date,Team 1,FT,Team 2
+Wed Sep 1 1897,Manchester City,3-0,Gainsborough Trinity
+Wed Sep 1 1897,Arsenal,4-1,Grimsby Town
+Sat Sep 4 1897,Manchester United,5-0,Lincoln City
+Sat Sep 4 1897,Darwen,2-4,Manchester City
+Sat Sep 4 1897,Newcastle United,4-1,Arsenal
+Sat Sep 4 1897,Burnley,5-1,Blackpool
+Sat Sep 4 1897,Leicester City,1-1,Luton Town
+Sat Sep 4 1897,Burton Swifts,1-3,Birmingham City
+Sat Sep 4 1897,Loughborough,2-1,Walsall
+Sat Sep 4 1897,Grimsby Town,4-2,Gainsborough Trinity
+Mon Sep 6 1897,Burnley,5-0,Arsenal
+Sat Sep 11 1897,Grimsby Town,5-0,Darwen
+Sat Sep 11 1897,Arsenal,2-2,Lincoln City
+Sat Sep 11 1897,Manchester City,3-0,Loughborough
+Sat Sep 11 1897,Blackpool,1-1,Burnley
+Sat Sep 11 1897,Birmingham City,2-1,Leicester City
+Sat Sep 11 1897,Burton Swifts,0-4,Manchester United
+Sat Sep 11 1897,Walsall,2-3,Newcastle United
+Sat Sep 11 1897,Luton Town,4-0,Gainsborough Trinity
+Sat Sep 18 1897,Blackpool,0-2,Manchester City
+Sat Sep 18 1897,Manchester United,1-2,Luton Town
+Sat Sep 18 1897,Newcastle United,3-1,Burton Swifts
+Sat Sep 18 1897,Arsenal,4-0,Gainsborough Trinity
+Sat Sep 18 1897,Loughborough,0-2,Birmingham City
+Sat Sep 18 1897,Grimsby Town,0-0,Leicester City
+Sat Sep 18 1897,Burnley,4-1,Walsall
+Sat Sep 18 1897,Darwen,3-2,Lincoln City
+Sat Sep 25 1897,Lincoln City,2-3,Newcastle United
+Sat Sep 25 1897,Manchester City,4-1,Arsenal
+Sat Sep 25 1897,Birmingham City,2-1,Burton Swifts
+Sat Sep 25 1897,Walsall,1-2,Burnley
+Sat Sep 25 1897,Blackpool,0-1,Manchester United
+Sat Sep 25 1897,Darwen,2-1,Loughborough
+Sat Sep 25 1897,Gainsborough Trinity,2-0,Grimsby Town
+Mon Sep 27 1897,Walsall,5-0,Darwen
+Sat Oct 2 1897,Burnley,3-0,Newcastle United
+Sat Oct 2 1897,Loughborough,0-3,Manchester City
+Sat Oct 2 1897,Grimsby Town,4-2,Lincoln City
+Sat Oct 2 1897,Gainsborough Trinity,4-1,Blackpool
+Sat Oct 2 1897,Luton Town,0-2,Arsenal
+Sat Oct 2 1897,Darwen,1-1,Birmingham City
+Sat Oct 2 1897,Manchester United,2-0,Leicester City
+Sat Oct 2 1897,Burton Swifts,3-2,Walsall
+Sat Oct 9 1897,Arsenal,3-0,Luton Town
+Sat Oct 9 1897,Birmingham City,4-3,Gainsborough Trinity
+Sat Oct 9 1897,Lincoln City,2-2,Darwen
+Sat Oct 9 1897,Manchester City,3-0,Grimsby Town
+Sat Oct 9 1897,Newcastle United,2-0,Manchester United
+Sat Oct 9 1897,Walsall,3-0,Loughborough
+Sat Oct 9 1897,Leicester City,0-1,Burnley
+Sat Oct 9 1897,Blackpool,2-1,Burton Swifts
+Sat Oct 16 1897,Arsenal,0-0,Newcastle United
+Sat Oct 16 1897,Burnley,2-0,Burton Swifts
+Sat Oct 16 1897,Darwen,1-0,Grimsby Town
+Sat Oct 16 1897,Manchester United,1-1,Manchester City
+Sat Oct 16 1897,Blackpool,4-1,Birmingham City
+Sat Oct 16 1897,Leicester City,3-1,Walsall
+Sat Oct 16 1897,Gainsborough Trinity,4-0,Lincoln City
+Sat Oct 16 1897,Loughborough,2-0,Luton Town
+Sat Oct 23 1897,Manchester City,5-0,Darwen
+Sat Oct 23 1897,Grimsby Town,2-1,Burnley
+Sat Oct 23 1897,Walsall,4-0,Burton Swifts
+Sat Oct 23 1897,Arsenal,0-3,Leicester City
+Sat Oct 23 1897,Newcastle United,2-0,Blackpool
+Sat Oct 23 1897,Lincoln City,2-3,Loughborough
+Sat Oct 23 1897,Birmingham City,2-1,Manchester United
+Sat Oct 30 1897,Manchester United,6-0,Walsall
+Sat Oct 30 1897,Burnley,3-1,Manchester City
+Sat Nov 6 1897,Darwen,0-1,Burnley
+Sat Nov 6 1897,Leicester City,4-1,Blackpool
+Sat Nov 6 1897,Lincoln City,1-0,Manchester United
+Sat Nov 6 1897,Grimsby Town,2-0,Newcastle United
+Sat Nov 6 1897,Walsall,3-2,Arsenal
+Sat Nov 6 1897,Birmingham City,1-0,Loughborough
+Sat Nov 6 1897,Luton Town,1-1,Burton Swifts
+Sat Nov 13 1897,Arsenal,4-0,Walsall
+Sat Nov 13 1897,Manchester United,0-1,Newcastle United
+Sat Nov 13 1897,Darwen,3-1,Blackpool
+Sat Nov 13 1897,Loughborough,1-1,Leicester City
+Sat Nov 13 1897,Lincoln City,2-1,Gainsborough Trinity
+Sat Nov 13 1897,Burnley,4-0,Luton Town
+Sat Nov 13 1897,Grimsby Town,3-1,Birmingham City
+Sat Nov 20 1897,Manchester City,1-1,Burnley
+Sat Nov 20 1897,Walsall,1-1,Grimsby Town
+Sat Nov 20 1897,Leicester City,1-1,Manchester United
+Sat Nov 27 1897,Burton Swifts,2-3,Leicester City
+Sat Nov 27 1897,Gainsborough Trinity,3-3,Luton Town
+Sat Nov 27 1897,Arsenal,2-1,Blackpool
+Sat Nov 27 1897,Newcastle United,4-0,Birmingham City
+Sat Nov 27 1897,Loughborough,4-2,Lincoln City
+Sat Nov 27 1897,Manchester United,2-1,Grimsby Town
+Sat Nov 27 1897,Burnley,6-1,Darwen
+Mon Nov 29 1897,Luton Town,3-1,Blackpool
+Wed Dec 1 1897,Burton Swifts,4-0,Grimsby Town
+Sat Dec 4 1897,Lincoln City,4-2,Luton Town
+Sat Dec 4 1897,Birmingham City,6-0,Walsall
+Sat Dec 4 1897,Grimsby Town,7-0,Loughborough
+Sat Dec 4 1897,Gainsborough Trinity,1-3,Newcastle United
+Sat Dec 4 1897,Leicester City,2-1,Arsenal
+Sat Dec 11 1897,Walsall,1-1,Manchester United
+Sat Dec 11 1897,Burnley,6-0,Grimsby Town
+Sat Dec 11 1897,Manchester City,2-1,Leicester City
+Sat Dec 18 1897,Darwen,1-2,Leicester City
+Sat Dec 18 1897,Burton Swifts,3-1,Newcastle United
+Sat Dec 18 1897,Loughborough,1-3,Arsenal
+Sat Dec 18 1897,Grimsby Town,3-4,Manchester City
+Sat Dec 18 1897,Luton Town,9-3,Lincoln City
+Sat Dec 18 1897,Blackpool,5-0,Gainsborough Trinity
+Sat Dec 18 1897,Walsall,1-2,Birmingham City
+Fri Dec 24 1897,Gainsborough Trinity,3-1,Darwen
+Sat Dec 25 1897,Blackpool,2-3,Newcastle United
+Sat Dec 25 1897,Manchester City,0-1,Manchester United
+Sat Dec 25 1897,Leicester City,4-0,Loughborough
+Sat Dec 25 1897,Birmingham City,5-1,Darwen
+Sat Dec 25 1897,Lincoln City,1-1,Grimsby Town
+Sat Dec 25 1897,Burton Swifts,2-1,Luton Town
+Mon Dec 27 1897,Loughborough,3-2,Burton Swifts
+Mon Dec 27 1897,Birmingham City,0-1,Manchester City
+Mon Dec 27 1897,Walsall,6-0,Blackpool
+Mon Dec 27 1897,Gainsborough Trinity,2-1,Manchester United
+Mon Dec 27 1897,Lincoln City,2-3,Arsenal
+Mon Dec 27 1897,Luton Town,6-0,Grimsby Town
+Mon Dec 27 1897,Newcastle United,0-1,Burnley
+Sat Jan 1 1898,Darwen,2-4,Gainsborough Trinity
+Sat Jan 1 1898,Burnley,2-1,Lincoln City
+Sat Jan 1 1898,Manchester United,4-0,Burton Swifts
+Sat Jan 1 1898,Blackpool,3-3,Arsenal
+Sat Jan 1 1898,Luton Town,3-0,Manchester City
+Sat Jan 1 1898,Newcastle United,2-1,Walsall
+Mon Jan 3 1898,Newcastle United,3-1,Loughborough
+Mon Jan 3 1898,Manchester City,3-2,Walsall
+Sat Jan 8 1898,Burton Swifts,1-1,Lincoln City
+Sat Jan 8 1898,Walsall,5-0,Luton Town
+Sat Jan 8 1898,Blackpool,2-1,Leicester City
+Sat Jan 8 1898,Birmingham City,2-2,Burnley
+Sat Jan 8 1898,Manchester City,1-1,Newcastle United
+Sat Jan 8 1898,Loughborough,0-1,Darwen
+Sat Jan 8 1898,Arsenal,5-1,Manchester United
+Wed Jan 12 1898,Manchester United,0-0,Burnley
+Sat Jan 15 1898,Burnley,4-0,Leicester City
+Sat Jan 15 1898,Lincoln City,1-2,Birmingham City
+Sat Jan 15 1898,Luton Town,7-0,Loughborough
+Sat Jan 15 1898,Walsall,2-2,Manchester City
+Sat Jan 15 1898,Burton Swifts,1-2,Arsenal
+Sat Jan 15 1898,Newcastle United,1-0,Darwen
+Sat Jan 15 1898,Manchester United,4-0,Blackpool
+Sat Jan 22 1898,Gainsborough Trinity,1-1,Walsall
+Sat Jan 22 1898,Newcastle United,4-2,Leicester City
+Sat Jan 22 1898,Grimsby Town,1-3,Luton Town
+Sat Jan 22 1898,Loughborough,0-2,Burnley
+Mon Jan 24 1898,Manchester City,3-1,Lincoln City
+Sat Jan 29 1898,Birmingham City,2-3,Blackpool
+Sat Jan 29 1898,Lincoln City,3-0,Burton Swifts
+Sat Feb 5 1898,Loughborough,0-5,Gainsborough Trinity
+Sat Feb 5 1898,Burnley,4-1,Birmingham City
+Sat Feb 5 1898,Lincoln City,3-2,Blackpool
+Sat Feb 5 1898,Luton Town,6-0,Walsall
+Sat Feb 5 1898,Arsenal,2-2,Manchester City
+Sat Feb 5 1898,Grimsby Town,7-2,Burton Swifts
+Sat Feb 5 1898,Leicester City,0-1,Darwen
+Sat Feb 12 1898,Grimsby Town,1-4,Arsenal
+Sat Feb 12 1898,Birmingham City,4-2,Luton Town
+Sat Feb 12 1898,Leicester City,3-1,Lincoln City
+Sat Feb 12 1898,Darwen,1-2,Walsall
+Sat Feb 19 1898,Burton Swifts,2-0,Darwen
+Sat Feb 19 1898,Luton Town,3-1,Newcastle United
+Sat Feb 19 1898,Blackpool,5-0,Lincoln City
+Sat Feb 19 1898,Gainsborough Trinity,0-0,Birmingham City
+Sat Feb 26 1898,Manchester United,5-1,Arsenal
+Sat Feb 26 1898,Newcastle United,3-0,Lincoln City
+Sat Feb 26 1898,Walsall,2-1,Leicester City
+Sat Feb 26 1898,Burton Swifts,2-1,Blackpool
+Sat Feb 26 1898,Gainsborough Trinity,1-0,Manchester City
+Sat Feb 26 1898,Darwen,0-2,Luton Town
+Sat Mar 5 1898,Gainsborough Trinity,4-0,Loughborough
+Sat Mar 5 1898,Arsenal,4-2,Birmingham City
+Sat Mar 5 1898,Lincoln City,1-4,Leicester City
+Sat Mar 5 1898,Burton Swifts,0-2,Burnley
+Sat Mar 5 1898,Grimsby Town,1-2,Walsall
+Sat Mar 5 1898,Darwen,1-3,Newcastle United
+Mon Mar 7 1898,Burnley,6-3,Manchester United
+Sat Mar 12 1898,Burnley,1-1,Gainsborough Trinity
+Sat Mar 12 1898,Darwen,1-4,Arsenal
+Sat Mar 12 1898,Birmingham City,0-2,Grimsby Town
+Sat Mar 12 1898,Walsall,3-1,Lincoln City
+Sat Mar 12 1898,Newcastle United,4-1,Luton Town
+Sat Mar 12 1898,Leicester City,1-1,Burton Swifts
+Wed Mar 16 1898,Newcastle United,2-0,Manchester City
+Sat Mar 19 1898,Gainsborough Trinity,1-0,Leicester City
+Sat Mar 19 1898,Arsenal,4-0,Loughborough
+Sat Mar 19 1898,Darwen,2-3,Manchester United
+Sat Mar 19 1898,Grimsby Town,3-0,Blackpool
+Sat Mar 19 1898,Luton Town,2-0,Burnley
+Sat Mar 19 1898,Lincoln City,2-1,Manchester City
+Mon Mar 21 1898,Luton Town,2-2,Manchester United
+Wed Mar 23 1898,Gainsborough Trinity,3-2,Burton Swifts
+Sat Mar 26 1898,Loughborough,0-2,Blackpool
+Sat Mar 26 1898,Newcastle United,4-0,Grimsby Town
+Sat Mar 26 1898,Manchester City,2-1,Luton Town
+Sat Mar 26 1898,Gainsborough Trinity,1-0,Arsenal
+Sat Mar 26 1898,Darwen,1-2,Burton Swifts
+Sat Mar 26 1898,Leicester City,2-0,Birmingham City
+Mon Mar 28 1898,Burnley,9-3,Loughborough
+Tue Mar 29 1898,Manchester United,5-1,Loughborough
+Wed Mar 30 1898,Manchester City,3-3,Blackpool
+Sat Apr 2 1898,Luton Town,1-2,Birmingham City
+Sat Apr 2 1898,Newcastle United,5-2,Gainsborough Trinity
+Sat Apr 2 1898,Arsenal,1-1,Burnley
+Sat Apr 2 1898,Grimsby Town,1-3,Manchester United
+Sat Apr 2 1898,Leicester City,0-0,Manchester City
+Sat Apr 2 1898,Blackpool,1-1,Walsall
+Fri Apr 8 1898,Lincoln City,1-1,Burnley
+Fri Apr 8 1898,Luton Town,0-1,Leicester City
+Fri Apr 8 1898,Manchester United,1-0,Gainsborough Trinity
+Fri Apr 8 1898,Blackpool,1-0,Darwen
+Fri Apr 8 1898,Burton Swifts,3-0,Loughborough
+Sat Apr 9 1898,Loughborough,2-1,Grimsby Town
+Sat Apr 9 1898,Leicester City,1-1,Newcastle United
+Sat Apr 9 1898,Arsenal,3-1,Darwen
+Sat Apr 9 1898,Burton Swifts,0-0,Manchester City
+Sat Apr 9 1898,Lincoln City,0-2,Walsall
+Sat Apr 9 1898,Gainsborough Trinity,0-0,Burnley
+Sat Apr 9 1898,Manchester United,3-1,Birmingham City
+Mon Apr 11 1898,Manchester City,3-3,Birmingham City
+Mon Apr 11 1898,Luton Town,3-0,Darwen
+Mon Apr 11 1898,Arsenal,3-0,Burton Swifts
+Mon Apr 11 1898,Walsall,3-0,Gainsborough Trinity
+Mon Apr 11 1898,Leicester City,1-0,Grimsby Town
+Mon Apr 11 1898,Loughborough,0-1,Newcastle United
+Tue Apr 12 1898,Birmingham City,1-0,Newcastle United
+Sat Apr 16 1898,Blackpool,1-1,Grimsby Town
+Sat Apr 16 1898,Loughborough,0-0,Manchester United
+Sat Apr 16 1898,Leicester City,3-1,Gainsborough Trinity
+Sat Apr 16 1898,Birmingham City,4-0,Lincoln City
+Sat Apr 16 1898,Manchester City,9-0,Burton Swifts
+Sat Apr 23 1898,Blackpool,4-0,Loughborough
+Sat Apr 23 1898,Burton Swifts,1-1,Gainsborough Trinity
+Sat Apr 23 1898,Manchester United,3-2,Darwen
+Sat Apr 23 1898,Birmingham City,2-1,Arsenal
+Sat Apr 30 1898,Blackpool,1-0,Luton Town

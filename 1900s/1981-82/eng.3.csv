@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 29 1981,Gillingham,3-1,Burnley
+Sat Aug 29 1981,Doncaster Rovers,0-1,Reading
+Sat Aug 29 1981,Plymouth Argyle,0-1,Oxford United
+Sat Aug 29 1981,Fulham,1-2,Brentford
+Sat Aug 29 1981,Huddersfield Town,1-1,Exeter City
+Sat Aug 29 1981,Carlisle United,2-2,Bristol City
+Sat Aug 29 1981,Bristol Rovers,2-2,Chester
+Sat Aug 29 1981,Newport County,1-0,Chesterfield
+Sat Aug 29 1981,Millwall,2-1,Preston North End
+Sat Aug 29 1981,Swindon Town,4-1,Wimbledon
+Sat Aug 29 1981,Walsall,0-1,Southend United
+Sat Aug 29 1981,Portsmouth,1-1,Lincoln City
+Fri Sep 4 1981,Southend United,0-4,Newport County
+Sat Sep 5 1981,Bristol City,2-2,Doncaster Rovers
+Sat Sep 5 1981,Reading,3-2,Gillingham
+Sat Sep 5 1981,Oxford United,1-0,Huddersfield Town
+Sat Sep 5 1981,Wimbledon,1-3,Millwall
+Sat Sep 5 1981,Burnley,1-0,Plymouth Argyle
+Sat Sep 5 1981,Preston North End,1-0,Portsmouth
+Sat Sep 5 1981,Chesterfield,2-0,Bristol Rovers
+Sat Sep 5 1981,Chester,0-0,Swindon Town
+Sat Sep 5 1981,Brentford,0-0,Walsall
+Sat Sep 5 1981,Exeter City,2-1,Carlisle United
+Sat Sep 5 1981,Lincoln City,1-1,Fulham
+Fri Sep 11 1981,Doncaster Rovers,3-0,Exeter City
+Sat Sep 12 1981,Walsall,1-1,Chesterfield
+Sat Sep 12 1981,Swindon Town,4-0,Preston North End
+Sat Sep 12 1981,Fulham,2-1,Bristol City
+Sat Sep 12 1981,Bristol Rovers,2-1,Burnley
+Sat Sep 12 1981,Portsmouth,2-2,Brentford
+Sat Sep 12 1981,Huddersfield Town,1-1,Wimbledon
+Sat Sep 12 1981,Gillingham,0-1,Chester
+Sat Sep 12 1981,Plymouth Argyle,0-2,Lincoln City
+Sat Sep 12 1981,Newport County,3-2,Oxford United
+Sat Sep 12 1981,Carlisle United,3-2,Southend United
+Sun Sep 13 1981,Millwall,0-1,Reading
+Sat Sep 19 1981,Bristol City,2-1,Newport County
+Sat Sep 19 1981,Chesterfield,3-0,Fulham
+Sat Sep 19 1981,Burnley,0-0,Huddersfield Town
+Sat Sep 19 1981,Southend United,2-0,Portsmouth
+Sat Sep 19 1981,Lincoln City,0-0,Carlisle United
+Sat Sep 19 1981,Chester,0-0,Millwall
+Sat Sep 19 1981,Reading,0-3,Bristol Rovers
+Sat Sep 19 1981,Brentford,0-0,Plymouth Argyle
+Sat Sep 19 1981,Wimbledon,0-1,Doncaster Rovers
+Sat Sep 19 1981,Oxford United,0-1,Walsall
+Sat Sep 19 1981,Preston North End,1-1,Gillingham
+Sat Sep 19 1981,Exeter City,1-2,Swindon Town
+Mon Sep 21 1981,Brentford,0-1,Gillingham
+Mon Sep 21 1981,Southend United,0-0,Swindon Town
+Tue Sep 22 1981,Burnley,0-1,Doncaster Rovers
+Tue Sep 22 1981,Preston North End,1-1,Huddersfield Town
+Tue Sep 22 1981,Bristol City,3-2,Plymouth Argyle
+Tue Sep 22 1981,Wimbledon,1-3,Fulham
+Tue Sep 22 1981,Chesterfield,1-0,Carlisle United
+Wed Sep 23 1981,Reading,2-1,Newport County
+Wed Sep 23 1981,Lincoln City,0-1,Millwall
+Wed Sep 23 1981,Chester,0-0,Walsall
+Wed Sep 23 1981,Exeter City,1-3,Bristol Rovers
+Wed Sep 23 1981,Oxford United,0-2,Portsmouth
+Sat Sep 26 1981,Millwall,4-3,Burnley
+Sat Sep 26 1981,Carlisle United,2-1,Oxford United
+Sat Sep 26 1981,Huddersfield Town,3-2,Southend United
+Sat Sep 26 1981,Plymouth Argyle,0-2,Chesterfield
+Sat Sep 26 1981,Gillingham,2-3,Exeter City
+Sat Sep 26 1981,Swindon Town,0-2,Reading
+Sat Sep 26 1981,Bristol Rovers,0-2,Lincoln City
+Sat Sep 26 1981,Doncaster Rovers,1-0,Brentford
+Sat Sep 26 1981,Walsall,1-0,Wimbledon
+Sat Sep 26 1981,Fulham,2-0,Chester
+Sat Sep 26 1981,Newport County,1-1,Preston North End
+Sat Sep 26 1981,Portsmouth,2-0,Bristol City
+Tue Sep 29 1981,Carlisle United,1-0,Burnley
+Tue Sep 29 1981,Fulham,2-1,Southend United
+Tue Sep 29 1981,Newport County,0-1,Brentford
+Tue Sep 29 1981,Gillingham,1-1,Bristol City
+Tue Sep 29 1981,Millwall,1-2,Oxford United
+Tue Sep 29 1981,Swindon Town,1-2,Chesterfield
+Tue Sep 29 1981,Huddersfield Town,1-2,Chester
+Tue Sep 29 1981,Bristol Rovers,2-2,Wimbledon
+Tue Sep 29 1981,Portsmouth,2-0,Exeter City
+Tue Sep 29 1981,Doncaster Rovers,1-0,Preston North End
+Tue Sep 29 1981,Plymouth Argyle,1-1,Reading
+Tue Sep 29 1981,Walsall,2-1,Lincoln City
+Sat Oct 3 1981,Bristol City,0-1,Walsall
+Sat Oct 3 1981,Chesterfield,2-2,Portsmouth
+Sat Oct 3 1981,Oxford United,2-0,Fulham
+Sat Oct 3 1981,Exeter City,5-4,Millwall
+Sat Oct 3 1981,Lincoln City,2-2,Newport County
+Sat Oct 3 1981,Burnley,0-2,Swindon Town
+Sat Oct 3 1981,Wimbledon,0-2,Gillingham
+Sat Oct 3 1981,Preston North End,0-1,Bristol Rovers
+Sat Oct 3 1981,Brentford,1-2,Carlisle United
+Sat Oct 3 1981,Reading,1-2,Huddersfield Town
+Sat Oct 3 1981,Southend United,3-0,Plymouth Argyle
+Wed Oct 7 1981,Doncaster Rovers,1-0,Millwall
+Fri Oct 9 1981,Southend United,1-0,Bristol Rovers
+Sat Oct 10 1981,Lincoln City,5-1,Wimbledon
+Sat Oct 10 1981,Huddersfield Town,1-0,Fulham
+Sat Oct 10 1981,Exeter City,3-1,Brentford
+Sat Oct 10 1981,Newport County,1-0,Doncaster Rovers
+Sat Oct 10 1981,Reading,0-2,Chesterfield
+Sat Oct 10 1981,Plymouth Argyle,1-2,Gillingham
+Sat Oct 10 1981,Swindon Town,2-1,Carlisle United
+Sat Oct 10 1981,Portsmouth,1-2,Burnley
+Sat Oct 10 1981,Chester,2-2,Oxford United
+Sat Oct 10 1981,Bristol City,0-0,Preston North End
+Sun Oct 11 1981,Millwall,2-0,Walsall
+Sat Oct 17 1981,Brentford,3-1,Lincoln City
+Sat Oct 17 1981,Bristol Rovers,1-4,Swindon Town
+Sat Oct 17 1981,Chesterfield,1-2,Southend United
+Sat Oct 17 1981,Carlisle United,3-1,Plymouth Argyle
+Sat Oct 17 1981,Burnley,3-3,Exeter City
+Sat Oct 17 1981,Oxford United,1-0,Bristol City
+Sat Oct 17 1981,Gillingham,3-2,Huddersfield Town
+Sat Oct 17 1981,Preston North End,0-0,Reading
+Sat Oct 17 1981,Fulham,3-1,Newport County
+Sat Oct 17 1981,Wimbledon,1-0,Chester
+Sat Oct 17 1981,Walsall,3-1,Portsmouth
+Mon Oct 19 1981,Brentford,0-1,Southend United
+Tue Oct 20 1981,Doncaster Rovers,4-1,Lincoln City
+Tue Oct 20 1981,Newport County,1-1,Millwall
+Tue Oct 20 1981,Walsall,5-0,Swindon Town
+Tue Oct 20 1981,Huddersfield Town,2-1,Carlisle United
+Tue Oct 20 1981,Fulham,4-1,Exeter City
+Tue Oct 20 1981,Preston North End,1-1,Burnley
+Tue Oct 20 1981,Wimbledon,2-1,Plymouth Argyle
+Tue Oct 20 1981,Bristol City,2-0,Reading
+Tue Oct 20 1981,Gillingham,4-2,Portsmouth
+Wed Oct 21 1981,Oxford United,1-1,Bristol Rovers
+Wed Oct 21 1981,Chester,0-2,Chesterfield
+Sat Oct 24 1981,Burnley,2-2,Fulham
+Sat Oct 24 1981,Swindon Town,2-2,Doncaster Rovers
+Sat Oct 24 1981,Millwall,1-2,Gillingham
+Sat Oct 24 1981,Bristol Rovers,3-2,Huddersfield Town
+Sat Oct 24 1981,Carlisle United,2-1,Walsall
+Sat Oct 24 1981,Lincoln City,1-2,Bristol City
+Sat Oct 24 1981,Plymouth Argyle,5-1,Chester
+Sat Oct 24 1981,Chesterfield,0-2,Brentford
+Sat Oct 24 1981,Exeter City,4-3,Preston North End
+Sat Oct 24 1981,Portsmouth,0-0,Newport County
+Sat Oct 24 1981,Southend United,0-1,Oxford United
+Sat Oct 24 1981,Reading,2-1,Wimbledon
+Sat Oct 31 1981,Newport County,2-0,Carlisle United
+Sat Oct 31 1981,Walsall,0-1,Plymouth Argyle
+Sat Oct 31 1981,Brentford,0-0,Burnley
+Sat Oct 31 1981,Doncaster Rovers,4-2,Bristol Rovers
+Sat Oct 31 1981,Fulham,1-1,Portsmouth
+Sat Oct 31 1981,Gillingham,1-0,Swindon Town
+Sat Oct 31 1981,Bristol City,0-0,Chesterfield
+Sat Oct 31 1981,Wimbledon,1-1,Exeter City
+Sat Oct 31 1981,Huddersfield Town,1-2,Millwall
+Sat Oct 31 1981,Oxford United,1-1,Lincoln City
+Sat Oct 31 1981,Preston North End,1-0,Southend United
+Sat Oct 31 1981,Chester,2-3,Reading
+Mon Nov 2 1981,Southend United,3-0,Gillingham
+Tue Nov 3 1981,Plymouth Argyle,3-1,Fulham
+Tue Nov 3 1981,Millwall,2-0,Bristol City
+Tue Nov 3 1981,Portsmouth,1-0,Wimbledon
+Tue Nov 3 1981,Chesterfield,1-0,Huddersfield Town
+Tue Nov 3 1981,Bristol Rovers,2-0,Newport County
+Tue Nov 3 1981,Carlisle United,2-0,Doncaster Rovers
+Tue Nov 3 1981,Burnley,1-0,Chester
+Tue Nov 3 1981,Swindon Town,0-3,Brentford
+Wed Nov 4 1981,Reading,0-0,Walsall
+Wed Nov 4 1981,Lincoln City,1-2,Preston North End
+Wed Nov 4 1981,Exeter City,1-2,Oxford United
+Fri Nov 6 1981,Doncaster Rovers,1-2,Huddersfield Town
+Sat Nov 7 1981,Exeter City,4-3,Reading
+Sat Nov 7 1981,Walsall,3-1,Newport County
+Sat Nov 7 1981,Swindon Town,1-2,Millwall
+Sat Nov 7 1981,Brentford,0-1,Bristol City
+Sat Nov 7 1981,Chesterfield,2-2,Oxford United
+Sat Nov 7 1981,Southend United,0-2,Lincoln City
+Sat Nov 7 1981,Bristol Rovers,2-0,Gillingham
+Sat Nov 7 1981,Preston North End,0-1,Chester
+Sat Nov 7 1981,Carlisle United,1-2,Fulham
+Sat Nov 7 1981,Burnley,2-2,Wimbledon
+Sat Nov 7 1981,Plymouth Argyle,0-0,Portsmouth
+Sat Nov 14 1981,Portsmouth,1-2,Carlisle United
+Sat Nov 14 1981,Newport County,0-1,Plymouth Argyle
+Sat Nov 14 1981,Reading,1-1,Burnley
+Sat Nov 14 1981,Chester,0-2,Exeter City
+Sat Nov 14 1981,Millwall,0-0,Bristol Rovers
+Sat Nov 14 1981,Bristol City,0-2,Southend United
+Sat Nov 14 1981,Lincoln City,2-1,Chesterfield
+Sat Nov 14 1981,Fulham,1-1,Walsall
+Sat Nov 14 1981,Huddersfield Town,3-0,Swindon Town
+Sat Nov 14 1981,Wimbledon,3-2,Preston North End
+Sat Nov 14 1981,Gillingham,3-0,Doncaster Rovers
+Sat Nov 14 1981,Oxford United,1-2,Brentford
+Fri Nov 27 1981,Southend United,2-0,Reading
+Sat Nov 28 1981,Portsmouth,2-1,Huddersfield Town
+Sat Nov 28 1981,Brentford,1-0,Chester
+Sat Nov 28 1981,Oxford United,3-0,Preston North End
+Sat Nov 28 1981,Fulham,0-0,Millwall
+Sat Nov 28 1981,Lincoln City,2-0,Swindon Town
+Sat Nov 28 1981,Bristol City,2-3,Burnley
+Sat Nov 28 1981,Carlisle United,2-0,Gillingham
+Sat Nov 28 1981,Plymouth Argyle,4-2,Doncaster Rovers
+Sat Nov 28 1981,Chesterfield,2-0,Wimbledon
+Sat Nov 28 1981,Walsall,2-1,Bristol Rovers
+Sat Nov 28 1981,Newport County,1-1,Exeter City
+Wed Dec 2 1981,Chester,1-1,Doncaster Rovers
+Sat Dec 5 1981,Chester,1-1,Southend United
+Sat Dec 5 1981,Doncaster Rovers,0-0,Portsmouth
+Sat Dec 5 1981,Millwall,1-2,Carlisle United
+Sat Dec 5 1981,Bristol Rovers,1-2,Fulham
+Sat Dec 5 1981,Reading,3-2,Lincoln City
+Sat Dec 5 1981,Burnley,2-1,Oxford United
+Sat Dec 5 1981,Swindon Town,0-0,Bristol City
+Sat Dec 5 1981,Exeter City,0-3,Chesterfield
+Sat Dec 5 1981,Huddersfield Town,0-0,Plymouth Argyle
+Sat Dec 5 1981,Gillingham,1-4,Walsall
+Sat Dec 5 1981,Wimbledon,2-3,Newport County
+Sat Dec 5 1981,Preston North End,1-3,Brentford
+Sat Dec 19 1981,Bristol Rovers,0-1,Carlisle United
+Sat Dec 26 1981,Portsmouth,0-0,Bristol Rovers
+Sat Dec 26 1981,Newport County,0-1,Chester
+Sat Dec 26 1981,Plymouth Argyle,2-1,Swindon Town
+Mon Dec 28 1981,Exeter City,1-1,Plymouth Argyle
+Mon Dec 28 1981,Millwall,0-1,Brentford
+Mon Dec 28 1981,Gillingham,1-1,Newport County
+Tue Dec 29 1981,Bristol Rovers,1-0,Bristol City
+Wed Dec 30 1981,Swindon Town,1-4,Fulham
+Fri Jan 1 1982,Southend United,2-1,Exeter City
+Sat Jan 2 1982,Brentford,0-1,Huddersfield Town
+Sat Jan 2 1982,Plymouth Argyle,4-0,Bristol Rovers
+Sat Jan 2 1982,Bristol City,1-3,Wimbledon
+Sat Jan 2 1982,Newport County,3-1,Reading
+Tue Jan 5 1982,Chesterfield,0-0,Preston North End
+Wed Jan 6 1982,Reading,2-1,Portsmouth
+Sat Jan 9 1982,Huddersfield Town,2-0,Oxford United
+Sat Jan 9 1982,Plymouth Argyle,1-1,Burnley
+Sat Jan 16 1982,Preston North End,1-0,Plymouth Argyle
+Sat Jan 16 1982,Southend United,1-1,Doncaster Rovers
+Sat Jan 16 1982,Lincoln City,2-0,Gillingham
+Sat Jan 16 1982,Exeter City,2-0,Walsall
+Sat Jan 16 1982,Burnley,2-1,Newport County
+Sat Jan 16 1982,Bristol City,0-0,Huddersfield Town
+Tue Jan 19 1982,Walsall,3-0,Brentford
+Tue Jan 19 1982,Bristol Rovers,1-0,Chesterfield
+Tue Jan 19 1982,Chester,3-2,Portsmouth
+Wed Jan 20 1982,Reading,0-3,Fulham
+Sat Jan 23 1982,Preston North End,1-0,Millwall
+Sat Jan 23 1982,Chesterfield,1-0,Newport County
+Sat Jan 23 1982,Lincoln City,1-1,Portsmouth
+Sat Jan 23 1982,Chester,1-1,Bristol Rovers
+Sat Jan 23 1982,Southend United,3-2,Walsall
+Sat Jan 23 1982,Wimbledon,1-1,Swindon Town
+Sat Jan 23 1982,Brentford,0-1,Fulham
+Sat Jan 23 1982,Reading,2-2,Plymouth Argyle
+Wed Jan 27 1982,Reading,4-1,Brentford
+Fri Jan 29 1982,Doncaster Rovers,1-3,Wimbledon
+Sat Jan 30 1982,Fulham,1-0,Chesterfield
+Sat Jan 30 1982,Plymouth Argyle,1-0,Brentford
+Sat Jan 30 1982,Huddersfield Town,1-2,Burnley
+Sat Jan 30 1982,Walsall,1-3,Oxford United
+Sat Jan 30 1982,Millwall,2-1,Chester
+Sat Jan 30 1982,Carlisle United,1-0,Lincoln City
+Sat Jan 30 1982,Bristol Rovers,1-1,Reading
+Sat Jan 30 1982,Gillingham,0-2,Preston North End
+Sat Jan 30 1982,Portsmouth,0-0,Southend United
+Sat Jan 30 1982,Newport County,1-1,Bristol City
+Sun Jan 31 1982,Swindon Town,3-2,Exeter City
+Mon Feb 1 1982,Southend United,2-2,Millwall
+Tue Feb 2 1982,Carlisle United,1-0,Preston North End
+Tue Feb 2 1982,Chesterfield,3-1,Doncaster Rovers
+Tue Feb 2 1982,Burnley,1-0,Gillingham
+Wed Feb 3 1982,Oxford United,1-0,Reading
+Wed Feb 3 1982,Lincoln City,3-0,Chester
+Sat Feb 6 1982,Chester,0-0,Gillingham
+Sat Feb 6 1982,Oxford United,1-1,Newport County
+Sat Feb 6 1982,Chesterfield,1-0,Walsall
+Sat Feb 6 1982,Preston North End,0-0,Swindon Town
+Sat Feb 6 1982,Reading,4-0,Millwall
+Sat Feb 6 1982,Southend United,1-1,Carlisle United
+Sat Feb 6 1982,Bristol City,0-0,Fulham
+Sat Feb 6 1982,Brentford,2-2,Portsmouth
+Sat Feb 6 1982,Lincoln City,2-0,Plymouth Argyle
+Sat Feb 6 1982,Wimbledon,2-0,Huddersfield Town
+Sat Feb 6 1982,Exeter City,2-1,Doncaster Rovers
+Sat Feb 6 1982,Burnley,4-0,Bristol Rovers
+Tue Feb 9 1982,Walsall,2-1,Chester
+Tue Feb 9 1982,Bristol Rovers,3-2,Exeter City
+Tue Feb 9 1982,Fulham,4-1,Wimbledon
+Tue Feb 9 1982,Carlisle United,3-0,Chesterfield
+Tue Feb 9 1982,Gillingham,1-1,Brentford
+Tue Feb 9 1982,Huddersfield Town,2-3,Preston North End
+Tue Feb 9 1982,Portsmouth,1-1,Oxford United
+Tue Feb 9 1982,Doncaster Rovers,0-1,Burnley
+Tue Feb 9 1982,Plymouth Argyle,2-1,Bristol City
+Tue Feb 9 1982,Millwall,1-1,Lincoln City
+Tue Feb 9 1982,Swindon Town,0-0,Southend United
+Sat Feb 13 1982,Doncaster Rovers,4-3,Chester
+Sat Feb 13 1982,Newport County,0-0,Lincoln City
+Sat Feb 13 1982,Plymouth Argyle,0-0,Southend United
+Sat Feb 13 1982,Swindon Town,1-2,Burnley
+Sat Feb 13 1982,Portsmouth,5-1,Chesterfield
+Sat Feb 13 1982,Huddersfield Town,6-1,Reading
+Sat Feb 13 1982,Walsall,0-1,Bristol City
+Sat Feb 13 1982,Gillingham,6-1,Wimbledon
+Sat Feb 13 1982,Bristol Rovers,2-0,Preston North End
+Sat Feb 13 1982,Carlisle United,1-0,Brentford
+Sun Feb 14 1982,Millwall,5-1,Exeter City
+Tue Feb 16 1982,Walsall,1-1,Huddersfield Town
+Wed Feb 17 1982,Reading,3-3,Doncaster Rovers
+Fri Feb 19 1982,Southend United,0-0,Fulham
+Sat Feb 20 1982,Chester,3-1,Huddersfield Town
+Sat Feb 20 1982,Chesterfield,2-2,Plymouth Argyle
+Sat Feb 20 1982,Oxford United,2-1,Carlisle United
+Sat Feb 20 1982,Wimbledon,1-0,Bristol Rovers
+Sat Feb 20 1982,Reading,1-1,Swindon Town
+Sat Feb 20 1982,Bristol City,0-1,Portsmouth
+Sat Feb 20 1982,Preston North End,3-1,Doncaster Rovers
+Sat Feb 20 1982,Lincoln City,1-1,Walsall
+Sat Feb 20 1982,Burnley,1-1,Millwall
+Sat Feb 20 1982,Brentford,2-0,Newport County
+Sat Feb 20 1982,Exeter City,1-1,Gillingham
+Tue Feb 23 1982,Fulham,0-0,Oxford United
+Tue Feb 23 1982,Swindon Town,2-0,Portsmouth
+Tue Feb 23 1982,Bristol City,3-2,Exeter City
+Wed Feb 24 1982,Millwall,2-1,Wimbledon
+Sat Feb 27 1982,Preston North End,1-3,Bristol City
+Sat Feb 27 1982,Walsall,1-1,Millwall
+Sat Feb 27 1982,Doncaster Rovers,0-2,Newport County
+Sat Feb 27 1982,Burnley,3-0,Portsmouth
+Sat Feb 27 1982,Carlisle United,1-1,Swindon Town
+Sat Feb 27 1982,Oxford United,3-1,Chester
+Sat Feb 27 1982,Gillingham,3-2,Plymouth Argyle
+Sat Feb 27 1982,Bristol Rovers,2-1,Southend United
+Sat Feb 27 1982,Chesterfield,2-1,Reading
+Sat Feb 27 1982,Wimbledon,1-1,Lincoln City
+Sat Feb 27 1982,Fulham,2-2,Huddersfield Town
+Sat Feb 27 1982,Brentford,2-0,Exeter City
+Tue Mar 2 1982,Walsall,1-1,Burnley
+Tue Mar 2 1982,Huddersfield Town,0-2,Lincoln City
+Fri Mar 5 1982,Southend United,0-2,Chesterfield
+Sat Mar 6 1982,Exeter City,2-1,Burnley
+Sat Mar 6 1982,Reading,2-1,Preston North End
+Sat Mar 6 1982,Huddersfield Town,2-0,Gillingham
+Sat Mar 6 1982,Swindon Town,5-2,Bristol Rovers
+Sat Mar 6 1982,Lincoln City,1-0,Brentford
+Sat Mar 6 1982,Plymouth Argyle,1-0,Carlisle United
+Sat Mar 6 1982,Bristol City,0-2,Oxford United
+Sat Mar 6 1982,Millwall,0-2,Doncaster Rovers
+Sat Mar 6 1982,Portsmouth,1-0,Walsall
+Sun Mar 7 1982,Newport County,1-3,Fulham
+Mon Mar 8 1982,Southend United,1-1,Brentford
+Tue Mar 9 1982,Millwall,1-0,Newport County
+Tue Mar 9 1982,Portsmouth,1-0,Gillingham
+Tue Mar 9 1982,Chesterfield,3-5,Chester
+Tue Mar 9 1982,Carlisle United,2-2,Huddersfield Town
+Tue Mar 9 1982,Swindon Town,2-2,Walsall
+Wed Mar 10 1982,Lincoln City,5-0,Doncaster Rovers
+Wed Mar 10 1982,Reading,3-1,Bristol City
+Wed Mar 10 1982,Exeter City,1-0,Fulham
+Fri Mar 12 1982,Gillingham,1-1,Millwall
+Fri Mar 12 1982,Doncaster Rovers,0-0,Swindon Town
+Sat Mar 13 1982,Preston North End,1-0,Exeter City
+Sat Mar 13 1982,Chester,0-3,Plymouth Argyle
+Sat Mar 13 1982,Bristol City,0-1,Lincoln City
+Sat Mar 13 1982,Huddersfield Town,0-2,Bristol Rovers
+Sat Mar 13 1982,Fulham,1-1,Burnley
+Sat Mar 13 1982,Walsall,1-1,Carlisle United
+Sat Mar 13 1982,Brentford,2-0,Chesterfield
+Sat Mar 13 1982,Wimbledon,0-0,Reading
+Sat Mar 13 1982,Newport County,1-1,Portsmouth
+Sat Mar 13 1982,Oxford United,0-2,Southend United
+Tue Mar 16 1982,Walsall,1-2,Reading
+Tue Mar 16 1982,Preston North End,1-1,Lincoln City
+Tue Mar 16 1982,Gillingham,2-0,Southend United
+Tue Mar 16 1982,Newport County,1-1,Bristol Rovers
+Tue Mar 16 1982,Doncaster Rovers,1-1,Carlisle United
+Tue Mar 16 1982,Fulham,1-3,Plymouth Argyle
+Wed Mar 17 1982,Oxford United,0-0,Exeter City
+Wed Mar 17 1982,Chester,0-1,Burnley
+Fri Mar 19 1982,Southend United,2-2,Preston North End
+Sat Mar 20 1982,Chesterfield,1-0,Bristol City
+Sat Mar 20 1982,Portsmouth,1-1,Fulham
+Sat Mar 20 1982,Carlisle United,2-2,Newport County
+Sat Mar 20 1982,Burnley,0-0,Brentford
+Sat Mar 20 1982,Lincoln City,2-1,Oxford United
+Sat Mar 20 1982,Swindon Town,0-1,Gillingham
+Sat Mar 20 1982,Exeter City,2-1,Wimbledon
+Sat Mar 20 1982,Bristol Rovers,3-0,Doncaster Rovers
+Sat Mar 20 1982,Plymouth Argyle,4-1,Walsall
+Sat Mar 20 1982,Reading,4-1,Chester
+Mon Mar 22 1982,Brentford,1-0,Bristol Rovers
+Tue Mar 23 1982,Huddersfield Town,1-1,Chesterfield
+Tue Mar 23 1982,Carlisle United,2-1,Reading
+Tue Mar 23 1982,Wimbledon,3-0,Southend United
+Tue Mar 23 1982,Doncaster Rovers,1-1,Oxford United
+Wed Mar 24 1982,Exeter City,1-2,Lincoln City
+Sat Mar 27 1982,Fulham,4-1,Carlisle United
+Sat Mar 27 1982,Chester,0-1,Preston North End
+Sat Mar 27 1982,Newport County,2-2,Walsall
+Sat Mar 27 1982,Huddersfield Town,1-2,Doncaster Rovers
+Sat Mar 27 1982,Wimbledon,0-0,Burnley
+Sat Mar 27 1982,Bristol City,0-1,Brentford
+Sat Mar 27 1982,Gillingham,2-0,Bristol Rovers
+Sat Mar 27 1982,Portsmouth,1-0,Plymouth Argyle
+Sat Mar 27 1982,Oxford United,1-1,Chesterfield
+Sat Mar 27 1982,Lincoln City,1-1,Southend United
+Sat Mar 27 1982,Reading,4-0,Exeter City
+Sun Mar 28 1982,Millwall,0-0,Swindon Town
+Tue Mar 30 1982,Huddersfield Town,2-0,Newport County
+Wed Mar 31 1982,Chester,1-1,Wimbledon
+Wed Mar 31 1982,Lincoln City,1-1,Burnley
+Wed Mar 31 1982,Oxford United,1-1,Gillingham
+Fri Apr 2 1982,Plymouth Argyle,1-2,Newport County
+Sat Apr 3 1982,Brentford,1-2,Oxford United
+Sat Apr 3 1982,Burnley,3-0,Reading
+Sat Apr 3 1982,Doncaster Rovers,1-1,Gillingham
+Sat Apr 3 1982,Swindon Town,1-5,Huddersfield Town
+Sat Apr 3 1982,Exeter City,3-0,Chester
+Sat Apr 3 1982,Southend United,3-0,Bristol City
+Sat Apr 3 1982,Chesterfield,0-2,Lincoln City
+Sat Apr 3 1982,Preston North End,3-2,Wimbledon
+Sat Apr 3 1982,Walsall,1-1,Fulham
+Sat Apr 3 1982,Carlisle United,2-0,Portsmouth
+Sat Apr 3 1982,Bristol Rovers,0-1,Millwall
+Tue Apr 6 1982,Millwall,1-3,Huddersfield Town
+Tue Apr 6 1982,Bristol City,1-1,Carlisle United
+Tue Apr 6 1982,Gillingham,3-2,Chesterfield
+Tue Apr 6 1982,Portsmouth,1-1,Preston North End
+Tue Apr 6 1982,Fulham,3-1,Doncaster Rovers
+Wed Apr 7 1982,Oxford United,5-0,Swindon Town
+Fri Apr 9 1982,Brentford,4-1,Millwall
+Fri Apr 9 1982,Southend United,2-0,Wimbledon
+Fri Apr 9 1982,Plymouth Argyle,2-1,Exeter City
+Sat Apr 10 1982,Preston North End,0-1,Carlisle United
+Sat Apr 10 1982,Swindon Town,0-2,Plymouth Argyle
+Sat Apr 10 1982,Bristol Rovers,1-1,Portsmouth
+Sat Apr 10 1982,Doncaster Rovers,0-0,Chesterfield
+Sat Apr 10 1982,Huddersfield Town,2-1,Walsall
+Sat Apr 10 1982,Gillingham,2-0,Fulham
+Sat Apr 10 1982,Exeter City,4-0,Bristol City
+Sat Apr 10 1982,Reading,0-3,Oxford United
+Sat Apr 10 1982,Burnley,1-0,Lincoln City
+Sat Apr 10 1982,Chester,0-2,Newport County
+Mon Apr 12 1982,Wimbledon,1-2,Brentford
+Mon Apr 12 1982,Bristol City,1-2,Bristol Rovers
+Mon Apr 12 1982,Millwall,1-1,Southend United
+Mon Apr 12 1982,Portsmouth,3-0,Reading
+Mon Apr 12 1982,Newport County,4-2,Gillingham
+Mon Apr 12 1982,Oxford United,3-1,Doncaster Rovers
+Mon Apr 12 1982,Chesterfield,1-2,Burnley
+Mon Apr 12 1982,Lincoln City,2-0,Huddersfield Town
+Tue Apr 13 1982,Walsall,0-3,Preston North End
+Tue Apr 13 1982,Carlisle United,3-0,Chester
+Tue Apr 13 1982,Fulham,2-0,Swindon Town
+Wed Apr 14 1982,Plymouth Argyle,2-0,Wimbledon
+Sat Apr 17 1982,Chesterfield,2-1,Exeter City
+Sat Apr 17 1982,Carlisle United,2-1,Millwall
+Sat Apr 17 1982,Oxford United,0-0,Burnley
+Sat Apr 17 1982,Newport County,0-0,Wimbledon
+Sat Apr 17 1982,Brentford,0-0,Preston North End
+Sat Apr 17 1982,Plymouth Argyle,1-1,Huddersfield Town
+Sat Apr 17 1982,Fulham,4-2,Bristol Rovers
+Sat Apr 17 1982,Walsall,1-0,Gillingham
+Sat Apr 17 1982,Bristol City,0-3,Swindon Town
+Sat Apr 17 1982,Southend United,2-0,Chester
+Sat Apr 17 1982,Lincoln City,2-1,Reading
+Sat Apr 17 1982,Portsmouth,0-0,Doncaster Rovers
+Mon Apr 19 1982,Brentford,4-2,Swindon Town
+Tue Apr 20 1982,Millwall,2-1,Plymouth Argyle
+Tue Apr 20 1982,Doncaster Rovers,1-0,Walsall
+Tue Apr 20 1982,Wimbledon,2-3,Oxford United
+Tue Apr 20 1982,Preston North End,1-3,Fulham
+Tue Apr 20 1982,Burnley,3-5,Southend United
+Tue Apr 20 1982,Carlisle United,3-2,Exeter City
+Wed Apr 21 1982,Chester,0-0,Bristol City
+Sat Apr 24 1982,Preston North End,2-2,Oxford United
+Sat Apr 24 1982,Burnley,2-0,Bristol City
+Sat Apr 24 1982,Exeter City,1-0,Newport County
+Sat Apr 24 1982,Gillingham,0-0,Carlisle United
+Sat Apr 24 1982,Huddersfield Town,0-1,Portsmouth
+Sat Apr 24 1982,Swindon Town,1-0,Lincoln City
+Sat Apr 24 1982,Bristol Rovers,2-1,Walsall
+Sat Apr 24 1982,Reading,0-2,Southend United
+Sat Apr 24 1982,Wimbledon,3-1,Chesterfield
+Sat Apr 24 1982,Doncaster Rovers,2-2,Plymouth Argyle
+Sat Apr 24 1982,Chester,1-2,Brentford
+Sun Apr 25 1982,Millwall,4-3,Fulham
+Mon Apr 26 1982,Brentford,2-3,Wimbledon
+Tue Apr 27 1982,Preston North End,1-0,Walsall
+Tue Apr 27 1982,Swindon Town,3-0,Chester
+Tue Apr 27 1982,Chesterfield,0-1,Millwall
+Wed Apr 28 1982,Oxford United,1-0,Plymouth Argyle
+Sat May 1 1982,Southend United,4-0,Huddersfield Town
+Sat May 1 1982,Plymouth Argyle,0-3,Preston North End
+Sat May 1 1982,Portsmouth,2-0,Chester
+Sat May 1 1982,Newport County,0-0,Burnley
+Sat May 1 1982,Bristol City,2-1,Gillingham
+Sat May 1 1982,Brentford,2-2,Doncaster Rovers
+Sat May 1 1982,Carlisle United,2-1,Wimbledon
+Sat May 1 1982,Fulham,2-2,Reading
+Sat May 1 1982,Oxford United,0-0,Millwall
+Sat May 1 1982,Walsall,2-1,Exeter City
+Sat May 1 1982,Lincoln City,1-0,Bristol Rovers
+Sat May 1 1982,Chesterfield,2-1,Swindon Town
+Mon May 3 1982,Bristol Rovers,1-2,Brentford
+Tue May 4 1982,Wimbledon,2-0,Walsall
+Tue May 4 1982,Preston North End,2-1,Newport County
+Tue May 4 1982,Burnley,1-0,Carlisle United
+Tue May 4 1982,Millwall,3-2,Chesterfield
+Tue May 4 1982,Huddersfield Town,5-0,Bristol City
+Tue May 4 1982,Doncaster Rovers,1-1,Southend United
+Tue May 4 1982,Swindon Town,3-2,Oxford United
+Tue May 4 1982,Gillingham,1-0,Lincoln City
+Wed May 5 1982,Chester,0-2,Fulham
+Wed May 5 1982,Exeter City,3-3,Portsmouth
+Sat May 8 1982,Swindon Town,1-1,Newport County
+Sat May 8 1982,Millwall,1-0,Portsmouth
+Sat May 8 1982,Chester,1-2,Lincoln City
+Sat May 8 1982,Exeter City,1-1,Southend United
+Sat May 8 1982,Burnley,2-1,Walsall
+Sat May 8 1982,Preston North End,2-0,Chesterfield
+Sat May 8 1982,Wimbledon,0-0,Bristol City
+Sat May 8 1982,Doncaster Rovers,2-1,Fulham
+Sat May 8 1982,Bristol Rovers,2-3,Plymouth Argyle
+Sat May 8 1982,Gillingham,2-1,Oxford United
+Sat May 8 1982,Huddersfield Town,1-1,Brentford
+Sat May 8 1982,Reading,2-2,Carlisle United
+Tue May 11 1982,Fulham,0-0,Gillingham
+Tue May 11 1982,Wimbledon,3-1,Carlisle United
+Tue May 11 1982,Newport County,3-2,Southend United
+Tue May 11 1982,Bristol Rovers,1-0,Oxford United
+Tue May 11 1982,Burnley,2-0,Preston North End
+Wed May 12 1982,Exeter City,1-0,Huddersfield Town
+Wed May 12 1982,Bristol City,4-1,Millwall
+Fri May 14 1982,Southend United,1-4,Burnley
+Sat May 15 1982,Lincoln City,2-0,Exeter City
+Sat May 15 1982,Walsall,0-0,Doncaster Rovers
+Sat May 15 1982,Bristol City,1-0,Chester
+Sat May 15 1982,Plymouth Argyle,2-1,Millwall
+Sat May 15 1982,Oxford United,0-3,Wimbledon
+Sat May 15 1982,Brentford,1-2,Reading
+Sat May 15 1982,Fulham,3-0,Preston North End
+Sat May 15 1982,Chesterfield,1-3,Gillingham
+Sat May 15 1982,Portsmouth,3-0,Swindon Town
+Sat May 15 1982,Carlisle United,1-2,Bristol Rovers
+Sat May 15 1982,Newport County,1-0,Huddersfield Town
+Tue May 18 1982,Fulham,1-1,Lincoln City
+Tue May 18 1982,Burnley,1-1,Chesterfield
+Tue May 18 1982,Wimbledon,3-2,Portsmouth
+Tue May 18 1982,Doncaster Rovers,2-2,Bristol City
+Tue May 18 1982,Newport County,1-0,Swindon Town
+Tue May 18 1982,Gillingham,2-1,Reading
+Wed May 19 1982,Chester,0-1,Carlisle United
+Fri May 21 1982,Portsmouth,2-2,Millwall

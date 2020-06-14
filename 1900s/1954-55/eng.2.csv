@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 21 1954,Fulham,5-1,Blackburn Rovers
+Sat Aug 21 1954,Hull City,0-2,Leeds United
+Sat Aug 21 1954,Stoke City,2-1,Birmingham City
+Sat Aug 21 1954,Rotherham United,3-2,Ipswich Town
+Sat Aug 21 1954,Notts County,2-3,Derby County
+Sat Aug 21 1954,Lincoln City,3-2,Bury
+Sat Aug 21 1954,Plymouth Argyle,2-2,Middlesbrough
+Sat Aug 21 1954,Bristol Rovers,1-0,Port Vale
+Sat Aug 21 1954,Liverpool,3-2,Doncaster Rovers
+Sat Aug 21 1954,Luton Town,3-0,Nottingham Forest
+Sat Aug 21 1954,Swansea City,5-2,West Ham United
+Mon Aug 23 1954,Port Vale,1-1,Notts County
+Mon Aug 23 1954,Plymouth Argyle,1-0,Liverpool
+Mon Aug 23 1954,Blackburn Rovers,5-2,West Ham United
+Tue Aug 24 1954,Bury,2-1,Luton Town
+Wed Aug 25 1954,Birmingham City,2-1,Bristol Rovers
+Wed Aug 25 1954,Middlesbrough,0-1,Ipswich Town
+Wed Aug 25 1954,Derby County,3-4,Fulham
+Wed Aug 25 1954,Doncaster Rovers,2-1,Swansea City
+Wed Aug 25 1954,Leeds United,2-4,Rotherham United
+Wed Aug 25 1954,Lincoln City,0-1,Hull City
+Wed Aug 25 1954,Nottingham Forest,0-3,Stoke City
+Sat Aug 28 1954,Bury,1-3,Fulham
+Sat Aug 28 1954,Ipswich Town,3-1,Luton Town
+Sat Aug 28 1954,Doncaster Rovers,2-2,Bristol Rovers
+Sat Aug 28 1954,Middlesbrough,1-2,Stoke City
+Sat Aug 28 1954,Birmingham City,3-1,Rotherham United
+Sat Aug 28 1954,Nottingham Forest,0-1,Hull City
+Sat Aug 28 1954,Leeds United,2-3,Lincoln City
+Sat Aug 28 1954,Derby County,3-2,Liverpool
+Sat Aug 28 1954,Blackburn Rovers,4-1,Swansea City
+Sat Aug 28 1954,Port Vale,1-0,Plymouth Argyle
+Sat Aug 28 1954,West Ham United,3-0,Notts County
+Mon Aug 30 1954,West Ham United,2-5,Blackburn Rovers
+Mon Aug 30 1954,Stoke City,2-0,Nottingham Forest
+Mon Aug 30 1954,Rotherham United,3-0,Leeds United
+Mon Aug 30 1954,Hull City,4-0,Lincoln City
+Mon Aug 30 1954,Bristol Rovers,1-1,Birmingham City
+Wed Sep 1 1954,Ipswich Town,6-1,Middlesbrough
+Wed Sep 1 1954,Luton Town,3-2,Bury
+Wed Sep 1 1954,Fulham,2-0,Derby County
+Wed Sep 1 1954,Liverpool,3-3,Plymouth Argyle
+Thu Sep 2 1954,Swansea City,3-0,Doncaster Rovers
+Thu Sep 2 1954,Notts County,1-1,Port Vale
+Sat Sep 4 1954,Luton Town,1-0,Birmingham City
+Sat Sep 4 1954,Bristol Rovers,4-1,Derby County
+Sat Sep 4 1954,Rotherham United,3-0,Middlesbrough
+Sat Sep 4 1954,Stoke City,0-0,Port Vale
+Sat Sep 4 1954,Lincoln City,2-1,Nottingham Forest
+Sat Sep 4 1954,Liverpool,1-2,West Ham United
+Sat Sep 4 1954,Plymouth Argyle,1-2,Doncaster Rovers
+Sat Sep 4 1954,Hull City,4-2,Ipswich Town
+Sat Sep 4 1954,Notts County,3-1,Blackburn Rovers
+Sat Sep 4 1954,Swansea City,2-2,Fulham
+Sat Sep 4 1954,Bury,5-3,Leeds United
+Mon Sep 6 1954,Port Vale,1-0,Swansea City
+Mon Sep 6 1954,Rotherham United,4-2,Bury
+Mon Sep 6 1954,West Ham United,1-1,Hull City
+Mon Sep 6 1954,Bristol Rovers,3-0,Liverpool
+Wed Sep 8 1954,Middlesbrough,1-4,Nottingham Forest
+Wed Sep 8 1954,Birmingham City,4-0,Ipswich Town
+Wed Sep 8 1954,Lincoln City,1-2,Luton Town
+Wed Sep 8 1954,Leeds United,0-1,Stoke City
+Wed Sep 8 1954,Fulham,5-2,Doncaster Rovers
+Wed Sep 8 1954,Derby County,0-3,Blackburn Rovers
+Thu Sep 9 1954,Notts County,2-0,Plymouth Argyle
+Sat Sep 11 1954,Derby County,2-2,Plymouth Argyle
+Sat Sep 11 1954,Nottingham Forest,2-3,Bury
+Sat Sep 11 1954,Fulham,3-1,Notts County
+Sat Sep 11 1954,Ipswich Town,1-2,Lincoln City
+Sat Sep 11 1954,Stoke City,1-2,Rotherham United
+Sat Sep 11 1954,Blackburn Rovers,4-3,Liverpool
+Sat Sep 11 1954,Birmingham City,0-0,Hull City
+Sat Sep 11 1954,West Ham United,5-2,Bristol Rovers
+Sat Sep 11 1954,Middlesbrough,0-2,Luton Town
+Sat Sep 11 1954,Leeds United,5-2,Swansea City
+Mon Sep 13 1954,Stoke City,0-1,Leeds United
+Mon Sep 13 1954,Hull City,0-1,West Ham United
+Mon Sep 13 1954,Blackburn Rovers,5-2,Derby County
+Wed Sep 15 1954,Nottingham Forest,4-2,Middlesbrough
+Wed Sep 15 1954,Plymouth Argyle,1-3,Notts County
+Wed Sep 15 1954,Ipswich Town,1-2,Birmingham City
+Wed Sep 15 1954,Luton Town,2-1,Lincoln City
+Wed Sep 15 1954,Doncaster Rovers,4-0,Fulham
+Wed Sep 15 1954,Liverpool,5-3,Bristol Rovers
+Thu Sep 16 1954,Swansea City,7-1,Port Vale
+Sat Sep 18 1954,Lincoln City,1-1,Birmingham City
+Sat Sep 18 1954,Plymouth Argyle,1-1,West Ham United
+Sat Sep 18 1954,Leeds United,1-1,Nottingham Forest
+Sat Sep 18 1954,Liverpool,4-1,Fulham
+Sat Sep 18 1954,Port Vale,3-0,Derby County
+Sat Sep 18 1954,Rotherham United,2-3,Doncaster Rovers
+Sat Sep 18 1954,Notts County,2-1,Swansea City
+Sat Sep 18 1954,Luton Town,3-1,Stoke City
+Sat Sep 18 1954,Bristol Rovers,2-1,Blackburn Rovers
+Sat Sep 18 1954,Hull City,1-0,Middlesbrough
+Sat Sep 18 1954,Bury,2-1,Ipswich Town
+Mon Sep 20 1954,Bury,2-2,Rotherham United
+Wed Sep 22 1954,Ipswich Town,0-1,Stoke City
+Sat Sep 25 1954,Stoke City,0-0,Hull City
+Sat Sep 25 1954,Middlesbrough,2-1,Lincoln City
+Sat Sep 25 1954,West Ham United,2-0,Port Vale
+Sat Sep 25 1954,Blackburn Rovers,2-2,Plymouth Argyle
+Sat Sep 25 1954,Ipswich Town,1-2,Leeds United
+Sat Sep 25 1954,Rotherham United,2-0,Luton Town
+Sat Sep 25 1954,Derby County,5-0,Doncaster Rovers
+Sat Sep 25 1954,Birmingham City,1-3,Bury
+Sat Sep 25 1954,Swansea City,3-2,Liverpool
+Sat Sep 25 1954,Fulham,2-3,Bristol Rovers
+Sat Sep 25 1954,Nottingham Forest,0-1,Notts County
+Mon Sep 27 1954,Doncaster Rovers,1-0,Port Vale
+Sat Oct 2 1954,Plymouth Argyle,3-2,Fulham
+Sat Oct 2 1954,Port Vale,0-3,Blackburn Rovers
+Sat Oct 2 1954,Hull City,1-2,Rotherham United
+Sat Oct 2 1954,Leeds United,1-0,Birmingham City
+Sat Oct 2 1954,Luton Town,2-0,Derby County
+Sat Oct 2 1954,Nottingham Forest,2-0,Ipswich Town
+Sat Oct 2 1954,Doncaster Rovers,2-1,West Ham United
+Sat Oct 2 1954,Bury,0-1,Middlesbrough
+Sat Oct 2 1954,Lincoln City,1-4,Stoke City
+Sat Oct 2 1954,Liverpool,3-1,Notts County
+Sat Oct 2 1954,Bristol Rovers,7-0,Swansea City
+Sat Oct 9 1954,Bristol Rovers,3-2,Luton Town
+Sat Oct 9 1954,Plymouth Argyle,1-2,Hull City
+Sat Oct 9 1954,Liverpool,3-1,Rotherham United
+Sat Oct 9 1954,Blackburn Rovers,4-1,Ipswich Town
+Sat Oct 9 1954,Fulham,2-1,Birmingham City
+Sat Oct 9 1954,Notts County,1-0,Stoke City
+Sat Oct 9 1954,Doncaster Rovers,1-0,Bury
+Sat Oct 9 1954,West Ham United,2-0,Nottingham Forest
+Sat Oct 9 1954,Port Vale,1-3,Lincoln City
+Sat Oct 9 1954,Derby County,2-4,Leeds United
+Sat Oct 9 1954,Swansea City,2-0,Middlesbrough
+Sat Oct 16 1954,Lincoln City,5-1,Doncaster Rovers
+Sat Oct 16 1954,Luton Town,3-1,Plymouth Argyle
+Sat Oct 16 1954,Leeds United,2-1,West Ham United
+Sat Oct 16 1954,Bury,2-2,Derby County
+Sat Oct 16 1954,Middlesbrough,2-0,Notts County
+Sat Oct 16 1954,Birmingham City,2-0,Swansea City
+Sat Oct 16 1954,Hull City,2-1,Port Vale
+Sat Oct 16 1954,Stoke City,2-0,Liverpool
+Sat Oct 16 1954,Ipswich Town,2-4,Fulham
+Sat Oct 16 1954,Rotherham United,6-2,Bristol Rovers
+Sat Oct 16 1954,Nottingham Forest,1-2,Blackburn Rovers
+Sat Oct 23 1954,Bristol Rovers,5-1,Leeds United
+Sat Oct 23 1954,Notts County,2-1,Lincoln City
+Sat Oct 23 1954,Port Vale,3-3,Ipswich Town
+Sat Oct 23 1954,Plymouth Argyle,1-2,Nottingham Forest
+Sat Oct 23 1954,Swansea City,1-0,Hull City
+Sat Oct 23 1954,Fulham,3-1,Luton Town
+Sat Oct 23 1954,Derby County,1-2,Middlesbrough
+Sat Oct 23 1954,Blackburn Rovers,4-1,Rotherham United
+Sat Oct 23 1954,Liverpool,1-1,Bury
+Sat Oct 23 1954,West Ham United,3-0,Stoke City
+Sat Oct 30 1954,Leeds United,3-2,Plymouth Argyle
+Sat Oct 30 1954,Birmingham City,1-1,Derby County
+Sat Oct 30 1954,Bury,3-1,Bristol Rovers
+Sat Oct 30 1954,Ipswich Town,5-1,Doncaster Rovers
+Sat Oct 30 1954,Nottingham Forest,2-3,Port Vale
+Sat Oct 30 1954,Rotherham United,2-3,Fulham
+Sat Oct 30 1954,Stoke City,1-1,Blackburn Rovers
+Sat Oct 30 1954,Hull City,5-2,Notts County
+Sat Oct 30 1954,Middlesbrough,6-0,West Ham United
+Sat Oct 30 1954,Luton Town,1-2,Swansea City
+Sat Oct 30 1954,Lincoln City,3-3,Liverpool
+Sat Nov 6 1954,Liverpool,2-1,Hull City
+Sat Nov 6 1954,Doncaster Rovers,0-3,Nottingham Forest
+Sat Nov 6 1954,Port Vale,0-1,Leeds United
+Sat Nov 6 1954,Bristol Rovers,2-2,Lincoln City
+Sat Nov 6 1954,West Ham United,2-2,Birmingham City
+Sat Nov 6 1954,Swansea City,2-1,Rotherham United
+Sat Nov 6 1954,Plymouth Argyle,2-4,Bury
+Sat Nov 6 1954,Derby County,2-0,Ipswich Town
+Sat Nov 6 1954,Blackburn Rovers,9-0,Middlesbrough
+Sat Nov 6 1954,Notts County,3-3,Luton Town
+Sat Nov 6 1954,Fulham,2-2,Stoke City
+Sat Nov 13 1954,Birmingham City,3-1,Blackburn Rovers
+Sat Nov 13 1954,Nottingham Forest,3-0,Derby County
+Sat Nov 13 1954,Leeds United,1-0,Doncaster Rovers
+Sat Nov 13 1954,Bury,2-2,Port Vale
+Sat Nov 13 1954,Ipswich Town,0-3,West Ham United
+Sat Nov 13 1954,Stoke City,4-1,Swansea City
+Sat Nov 13 1954,Lincoln City,3-2,Plymouth Argyle
+Sat Nov 13 1954,Middlesbrough,4-2,Fulham
+Sat Nov 13 1954,Hull City,0-1,Bristol Rovers
+Sat Nov 13 1954,Luton Town,3-2,Liverpool
+Sat Nov 13 1954,Rotherham United,2-0,Notts County
+Sat Nov 20 1954,Bristol Rovers,4-0,Ipswich Town
+Sat Nov 20 1954,Swansea City,1-1,Bury
+Sat Nov 20 1954,Notts County,1-2,Leeds United
+Sat Nov 20 1954,Blackburn Rovers,4-0,Hull City
+Sat Nov 20 1954,Fulham,3-2,Lincoln City
+Sat Nov 20 1954,Plymouth Argyle,1-0,Birmingham City
+Sat Nov 20 1954,Port Vale,1-1,Middlesbrough
+Sat Nov 20 1954,West Ham United,2-1,Luton Town
+Sat Nov 20 1954,Derby County,2-3,Rotherham United
+Sat Nov 20 1954,Liverpool,1-0,Nottingham Forest
+Sat Nov 27 1954,Rotherham United,2-2,West Ham United
+Sat Nov 27 1954,Luton Town,7-3,Blackburn Rovers
+Sat Nov 27 1954,Leeds United,2-2,Liverpool
+Sat Nov 27 1954,Middlesbrough,3-1,Doncaster Rovers
+Sat Nov 27 1954,Ipswich Town,2-1,Plymouth Argyle
+Sat Nov 27 1954,Hull City,0-0,Fulham
+Sat Nov 27 1954,Lincoln City,2-2,Swansea City
+Sat Nov 27 1954,Bury,1-2,Notts County
+Sat Nov 27 1954,Nottingham Forest,1-0,Bristol Rovers
+Sat Nov 27 1954,Stoke City,3-1,Derby County
+Sat Nov 27 1954,Birmingham City,7-2,Port Vale
+Sat Dec 4 1954,Plymouth Argyle,2-1,Rotherham United
+Sat Dec 4 1954,Derby County,3-0,Lincoln City
+Sat Dec 4 1954,Port Vale,1-1,Luton Town
+Sat Dec 4 1954,Fulham,1-1,Nottingham Forest
+Sat Dec 4 1954,West Ham United,3-3,Bury
+Sat Dec 4 1954,Doncaster Rovers,2-2,Hull City
+Sat Dec 4 1954,Liverpool,3-1,Middlesbrough
+Sat Dec 4 1954,Blackburn Rovers,1-2,Leeds United
+Sat Dec 4 1954,Bristol Rovers,1-1,Stoke City
+Sat Dec 4 1954,Swansea City,6-1,Ipswich Town
+Sat Dec 4 1954,Notts County,3-2,Birmingham City
+Sat Dec 11 1954,Bury,2-1,Blackburn Rovers
+Sat Dec 11 1954,Rotherham United,3-0,Port Vale
+Sat Dec 11 1954,Leeds United,1-1,Fulham
+Sat Dec 11 1954,Lincoln City,2-1,West Ham United
+Sat Dec 11 1954,Middlesbrough,1-0,Bristol Rovers
+Sat Dec 11 1954,Birmingham City,9-1,Liverpool
+Sat Dec 11 1954,Ipswich Town,0-1,Notts County
+Sat Dec 11 1954,Hull City,1-1,Derby County
+Sat Dec 11 1954,Nottingham Forest,0-0,Swansea City
+Sat Dec 11 1954,Stoke City,3-1,Plymouth Argyle
+Sat Dec 11 1954,Luton Town,3-0,Doncaster Rovers
+Sat Dec 18 1954,Middlesbrough,4-1,Plymouth Argyle
+Sat Dec 18 1954,Bury,3-1,Lincoln City
+Sat Dec 18 1954,Ipswich Town,2-2,Rotherham United
+Sat Dec 18 1954,Blackburn Rovers,3-1,Fulham
+Sat Dec 18 1954,Birmingham City,2-0,Stoke City
+Sat Dec 18 1954,Derby County,1-1,Notts County
+Sat Dec 18 1954,Port Vale,1-0,Bristol Rovers
+Sat Dec 18 1954,Nottingham Forest,1-5,Luton Town
+Sat Dec 18 1954,Doncaster Rovers,4-1,Liverpool
+Sat Dec 18 1954,Leeds United,3-0,Hull City
+Sat Dec 18 1954,West Ham United,3-3,Swansea City
+Sat Dec 25 1954,West Ham United,1-0,Derby County
+Sat Dec 25 1954,Stoke City,3-2,Bury
+Sat Dec 25 1954,Fulham,3-1,Port Vale
+Sat Dec 25 1954,Liverpool,6-2,Ipswich Town
+Sat Dec 25 1954,Luton Town,1-1,Hull City
+Sat Dec 25 1954,Doncaster Rovers,1-3,Blackburn Rovers
+Sat Dec 25 1954,Birmingham City,0-1,Nottingham Forest
+Sat Dec 25 1954,Rotherham United,3-0,Lincoln City
+Sat Dec 25 1954,Plymouth Argyle,2-2,Swansea City
+Sat Dec 25 1954,Leeds United,1-1,Middlesbrough
+Sat Dec 25 1954,Notts County,2-0,Bristol Rovers
+Mon Dec 27 1954,Lincoln City,2-3,Rotherham United
+Mon Dec 27 1954,Middlesbrough,1-0,Leeds United
+Mon Dec 27 1954,Derby County,0-0,West Ham United
+Mon Dec 27 1954,Bury,1-1,Stoke City
+Mon Dec 27 1954,Port Vale,4-0,Fulham
+Mon Dec 27 1954,Blackburn Rovers,7-2,Doncaster Rovers
+Mon Dec 27 1954,Nottingham Forest,0-2,Birmingham City
+Mon Dec 27 1954,Bristol Rovers,1-4,Notts County
+Mon Dec 27 1954,Swansea City,4-2,Plymouth Argyle
+Mon Dec 27 1954,Hull City,0-4,Luton Town
+Mon Dec 27 1954,Ipswich Town,2-0,Liverpool
+Sat Jan 1 1955,Bristol Rovers,1-0,Doncaster Rovers
+Sat Jan 1 1955,Notts County,5-1,West Ham United
+Sat Jan 1 1955,Luton Town,3-2,Ipswich Town
+Sat Jan 1 1955,Hull City,2-3,Nottingham Forest
+Sat Jan 1 1955,Plymouth Argyle,0-0,Port Vale
+Sat Jan 1 1955,Rotherham United,0-2,Birmingham City
+Sat Jan 1 1955,Stoke City,1-2,Middlesbrough
+Sat Jan 1 1955,Swansea City,2-3,Blackburn Rovers
+Sat Jan 1 1955,Lincoln City,2-0,Leeds United
+Sat Jan 1 1955,Liverpool,2-0,Derby County
+Sat Jan 1 1955,Fulham,0-0,Bury
+Sat Jan 15 1955,Blackburn Rovers,4-5,Notts County
+Sat Jan 15 1955,Leeds United,1-0,Bury
+Sat Jan 15 1955,Middlesbrough,5-1,Rotherham United
+Sat Jan 15 1955,Doncaster Rovers,3-2,Plymouth Argyle
+Sat Jan 15 1955,Nottingham Forest,1-1,Lincoln City
+Sat Jan 22 1955,Liverpool,4-1,Blackburn Rovers
+Sat Jan 22 1955,Port Vale,1-1,Doncaster Rovers
+Sat Jan 22 1955,Plymouth Argyle,1-0,Derby County
+Sat Jan 22 1955,Swansea City,2-0,Leeds United
+Sat Jan 22 1955,Bristol Rovers,2-4,West Ham United
+Sat Jan 22 1955,Luton Town,2-0,Middlesbrough
+Sat Feb 5 1955,Blackburn Rovers,8-3,Bristol Rovers
+Sat Feb 5 1955,Stoke City,0-0,Luton Town
+Sat Feb 5 1955,Derby County,6-1,Port Vale
+Sat Feb 5 1955,Fulham,1-2,Liverpool
+Sat Feb 5 1955,Nottingham Forest,1-1,Leeds United
+Sat Feb 5 1955,West Ham United,6-1,Plymouth Argyle
+Sat Feb 5 1955,Swansea City,3-0,Notts County
+Sat Feb 5 1955,Birmingham City,3-3,Lincoln City
+Sat Feb 5 1955,Middlesbrough,1-2,Hull City
+Sat Feb 5 1955,Ipswich Town,2-3,Bury
+Sat Feb 5 1955,Doncaster Rovers,0-4,Rotherham United
+Sat Feb 12 1955,Plymouth Argyle,0-2,Blackburn Rovers
+Sat Feb 12 1955,Leeds United,4-1,Ipswich Town
+Sat Feb 12 1955,Hull City,1-1,Stoke City
+Sat Feb 12 1955,Lincoln City,3-3,Middlesbrough
+Sat Feb 12 1955,Notts County,4-1,Nottingham Forest
+Sat Feb 12 1955,Liverpool,1-1,Swansea City
+Sat Feb 12 1955,Doncaster Rovers,2-0,Derby County
+Sat Feb 12 1955,Bristol Rovers,4-1,Fulham
+Sat Feb 12 1955,Luton Town,4-0,Rotherham United
+Sat Feb 12 1955,Bury,0-1,Birmingham City
+Sat Feb 12 1955,Port Vale,1-1,West Ham United
+Sat Feb 19 1955,Rotherham United,2-0,Hull City
+Sat Feb 19 1955,Blackburn Rovers,2-1,Port Vale
+Sat Feb 19 1955,Fulham,2-3,Plymouth Argyle
+Sat Feb 19 1955,Stoke City,4-2,Lincoln City
+Sat Feb 19 1955,Derby County,1-1,Bristol Rovers
+Thu Feb 24 1955,West Ham United,0-1,Doncaster Rovers
+Sat Feb 26 1955,Hull City,0-2,Plymouth Argyle
+Sat Feb 26 1955,Bury,1-4,Doncaster Rovers
+Sat Feb 26 1955,Middlesbrough,4-2,Swansea City
+Sat Feb 26 1955,Leeds United,1-0,Derby County
+Sat Feb 26 1955,Ipswich Town,1-1,Blackburn Rovers
+Wed Mar 2 1955,Derby County,0-0,Luton Town
+Wed Mar 2 1955,Birmingham City,2-0,Leeds United
+Thu Mar 3 1955,Notts County,0-3,Liverpool
+Sat Mar 5 1955,Doncaster Rovers,1-1,Lincoln City
+Sat Mar 5 1955,Swansea City,0-3,Birmingham City
+Sat Mar 5 1955,Port Vale,3-0,Hull City
+Sat Mar 5 1955,Fulham,4-1,Ipswich Town
+Sat Mar 5 1955,Derby County,2-3,Bury
+Sat Mar 5 1955,West Ham United,2-1,Leeds United
+Sat Mar 5 1955,Liverpool,2-4,Stoke City
+Sat Mar 5 1955,Notts County,1-3,Middlesbrough
+Sat Mar 5 1955,Plymouth Argyle,2-1,Luton Town
+Sat Mar 5 1955,Bristol Rovers,1-0,Rotherham United
+Sat Mar 5 1955,Blackburn Rovers,0-1,Nottingham Forest
+Wed Mar 9 1955,Ipswich Town,2-1,Nottingham Forest
+Sat Mar 12 1955,Hull City,4-3,Swansea City
+Sat Mar 12 1955,Ipswich Town,1-0,Port Vale
+Sat Mar 12 1955,Nottingham Forest,2-0,Plymouth Argyle
+Sat Mar 12 1955,Leeds United,2-0,Bristol Rovers
+Sat Mar 12 1955,Stoke City,0-2,West Ham United
+Sat Mar 12 1955,Rotherham United,5-1,Blackburn Rovers
+Sat Mar 12 1955,Luton Town,3-0,Fulham
+Sat Mar 12 1955,Middlesbrough,3-1,Derby County
+Sat Mar 12 1955,Bury,3-4,Liverpool
+Wed Mar 16 1955,Birmingham City,4-1,Doncaster Rovers
+Wed Mar 16 1955,Lincoln City,1-2,Notts County
+Sat Mar 19 1955,Notts County,3-1,Hull City
+Sat Mar 19 1955,Plymouth Argyle,3-1,Leeds United
+Sat Mar 19 1955,Blackburn Rovers,2-0,Stoke City
+Sat Mar 19 1955,Swansea City,2-1,Luton Town
+Sat Mar 19 1955,Bristol Rovers,2-1,Bury
+Sat Mar 19 1955,Port Vale,1-2,Nottingham Forest
+Sat Mar 19 1955,West Ham United,2-1,Middlesbrough
+Sat Mar 19 1955,Fulham,1-1,Rotherham United
+Sat Mar 19 1955,Derby County,0-0,Birmingham City
+Sat Mar 19 1955,Doncaster Rovers,1-1,Ipswich Town
+Sat Mar 19 1955,Liverpool,2-4,Lincoln City
+Sat Mar 26 1955,Hull City,2-2,Liverpool
+Sat Mar 26 1955,Bury,3-1,Plymouth Argyle
+Sat Mar 26 1955,Middlesbrough,4-3,Blackburn Rovers
+Sat Mar 26 1955,Birmingham City,1-2,West Ham United
+Sat Mar 26 1955,Lincoln City,0-2,Bristol Rovers
+Sat Mar 26 1955,Leeds United,3-0,Port Vale
+Sat Mar 26 1955,Ipswich Town,2-1,Derby County
+Sat Mar 26 1955,Nottingham Forest,3-1,Doncaster Rovers
+Sat Mar 26 1955,Stoke City,1-1,Fulham
+Sat Mar 26 1955,Luton Town,3-1,Notts County
+Mon Mar 28 1955,Stoke City,3-0,Notts County
+Wed Mar 30 1955,Birmingham City,3-2,Fulham
+Thu Mar 31 1955,Swansea City,1-1,Bristol Rovers
+Sat Apr 2 1955,Fulham,1-2,Middlesbrough
+Sat Apr 2 1955,Blackburn Rovers,3-3,Birmingham City
+Sat Apr 2 1955,Doncaster Rovers,0-1,Leeds United
+Sat Apr 2 1955,Liverpool,4-4,Luton Town
+Sat Apr 2 1955,Derby County,1-2,Nottingham Forest
+Sat Apr 2 1955,Notts County,3-2,Rotherham United
+Sat Apr 2 1955,Bristol Rovers,1-0,Hull City
+Sat Apr 2 1955,West Ham United,4-0,Ipswich Town
+Sat Apr 2 1955,Swansea City,3-5,Stoke City
+Sat Apr 2 1955,Port Vale,1-0,Bury
+Sat Apr 2 1955,Plymouth Argyle,1-0,Lincoln City
+Fri Apr 8 1955,Middlesbrough,2-5,Birmingham City
+Fri Apr 8 1955,Luton Town,0-0,Leeds United
+Fri Apr 8 1955,Nottingham Forest,0-2,Rotherham United
+Fri Apr 8 1955,Doncaster Rovers,4-2,Notts County
+Fri Apr 8 1955,Bury,4-1,Hull City
+Fri Apr 8 1955,Port Vale,4-3,Liverpool
+Fri Apr 8 1955,Bristol Rovers,3-1,Plymouth Argyle
+Fri Apr 8 1955,Derby County,1-4,Swansea City
+Fri Apr 8 1955,Blackburn Rovers,1-0,Lincoln City
+Fri Apr 8 1955,West Ham United,2-1,Fulham
+Sat Apr 9 1955,Hull City,1-4,Blackburn Rovers
+Sat Apr 9 1955,Bury,2-1,Swansea City
+Sat Apr 9 1955,Birmingham City,3-1,Plymouth Argyle
+Sat Apr 9 1955,Nottingham Forest,3-1,Liverpool
+Sat Apr 9 1955,Rotherham United,2-1,Derby County
+Sat Apr 9 1955,Lincoln City,2-2,Fulham
+Sat Apr 9 1955,Ipswich Town,1-0,Bristol Rovers
+Sat Apr 9 1955,Leeds United,2-0,Notts County
+Sat Apr 9 1955,Luton Town,2-0,West Ham United
+Sat Apr 9 1955,Middlesbrough,2-0,Port Vale
+Sat Apr 9 1955,Stoke City,3-0,Doncaster Rovers
+Mon Apr 11 1955,Notts County,4-0,Doncaster Rovers
+Mon Apr 11 1955,Lincoln City,2-1,Blackburn Rovers
+Mon Apr 11 1955,Rotherham United,3-2,Nottingham Forest
+Mon Apr 11 1955,Leeds United,4-0,Luton Town
+Mon Apr 11 1955,Swansea City,3-0,Derby County
+Mon Apr 11 1955,Hull City,1-0,Bury
+Mon Apr 11 1955,Plymouth Argyle,0-1,Bristol Rovers
+Mon Apr 11 1955,Stoke City,3-0,Ipswich Town
+Mon Apr 11 1955,Fulham,0-0,West Ham United
+Mon Apr 11 1955,Birmingham City,3-0,Middlesbrough
+Mon Apr 11 1955,Liverpool,1-1,Port Vale
+Sat Apr 16 1955,Bristol Rovers,2-1,Nottingham Forest
+Sat Apr 16 1955,Liverpool,2-2,Leeds United
+Sat Apr 16 1955,Derby County,1-2,Stoke City
+Sat Apr 16 1955,Notts County,2-1,Bury
+Sat Apr 16 1955,Fulham,0-1,Hull City
+Sat Apr 16 1955,West Ham United,1-2,Rotherham United
+Sat Apr 16 1955,Plymouth Argyle,2-0,Ipswich Town
+Sat Apr 16 1955,Swansea City,3-1,Lincoln City
+Sat Apr 16 1955,Port Vale,2-0,Birmingham City
+Sat Apr 16 1955,Blackburn Rovers,0-0,Luton Town
+Sat Apr 16 1955,Doncaster Rovers,3-1,Middlesbrough
+Mon Apr 18 1955,Ipswich Town,2-0,Hull City
+Mon Apr 18 1955,Rotherham United,2-1,Stoke City
+Wed Apr 20 1955,Birmingham City,2-1,Luton Town
+Wed Apr 20 1955,Fulham,5-1,Swansea City
+Wed Apr 20 1955,Doncaster Rovers,1-1,Stoke City
+Wed Apr 20 1955,Bury,1-1,Nottingham Forest
+Sat Apr 23 1955,Hull City,1-1,Doncaster Rovers
+Sat Apr 23 1955,Stoke City,2-0,Bristol Rovers
+Sat Apr 23 1955,Nottingham Forest,2-0,Fulham
+Sat Apr 23 1955,Bury,4-1,West Ham United
+Sat Apr 23 1955,Lincoln City,3-0,Derby County
+Sat Apr 23 1955,Ipswich Town,1-1,Swansea City
+Sat Apr 23 1955,Leeds United,2-0,Blackburn Rovers
+Sat Apr 23 1955,Rotherham United,2-0,Plymouth Argyle
+Sat Apr 23 1955,Middlesbrough,1-2,Liverpool
+Sat Apr 23 1955,Birmingham City,1-1,Notts County
+Sat Apr 23 1955,Luton Town,4-2,Port Vale
+Mon Apr 25 1955,Port Vale,0-1,Stoke City
+Mon Apr 25 1955,Hull City,0-3,Birmingham City
+Mon Apr 25 1955,Rotherham United,2-0,Swansea City
+Tue Apr 26 1955,West Ham United,0-3,Liverpool
+Wed Apr 27 1955,Middlesbrough,1-1,Bury
+Wed Apr 27 1955,Notts County,0-0,Fulham
+Wed Apr 27 1955,Luton Town,2-0,Bristol Rovers
+Wed Apr 27 1955,Lincoln City,1-1,Ipswich Town
+Sat Apr 30 1955,Swansea City,3-2,Nottingham Forest
+Sat Apr 30 1955,Derby County,3-0,Hull City
+Sat Apr 30 1955,Blackburn Rovers,1-1,Bury
+Sat Apr 30 1955,Notts County,2-1,Ipswich Town
+Sat Apr 30 1955,West Ham United,0-1,Lincoln City
+Sat Apr 30 1955,Plymouth Argyle,2-0,Stoke City
+Sat Apr 30 1955,Doncaster Rovers,0-3,Luton Town
+Sat Apr 30 1955,Bristol Rovers,2-2,Middlesbrough
+Sat Apr 30 1955,Fulham,1-3,Leeds United
+Sat Apr 30 1955,Port Vale,1-0,Rotherham United
+Sat Apr 30 1955,Liverpool,2-2,Birmingham City
+Mon May 2 1955,Nottingham Forest,1-1,West Ham United
+Mon May 2 1955,Rotherham United,6-1,Liverpool
+Wed May 4 1955,Lincoln City,0-1,Port Vale
+Wed May 4 1955,Doncaster Rovers,1-5,Birmingham City

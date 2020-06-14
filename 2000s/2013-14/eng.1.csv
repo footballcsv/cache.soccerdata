@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Sat Aug 17 2013,Arsenal,1-3,Aston Villa
+Sat Aug 17 2013,Norwich City,2-2,Everton
+Sat Aug 17 2013,West Bromwich Albion,0-1,Southampton
+Sat Aug 17 2013,Sunderland,0-1,Fulham
+Sat Aug 17 2013,Swansea City,1-4,Manchester United
+Sat Aug 17 2013,West Ham United,2-0,Cardiff City
+Sat Aug 17 2013,Liverpool,1-0,Stoke City
+Sun Aug 18 2013,Chelsea,2-0,Hull City
+Sun Aug 18 2013,Crystal Palace,0-1,Tottenham Hotspur
+Mon Aug 19 2013,Manchester City,4-0,Newcastle United
+Wed Aug 21 2013,Chelsea,2-1,Aston Villa
+Sat Aug 24 2013,Hull City,1-0,Norwich City
+Sat Aug 24 2013,Newcastle United,0-0,West Ham United
+Sat Aug 24 2013,Aston Villa,0-1,Liverpool
+Sat Aug 24 2013,Everton,0-0,West Bromwich Albion
+Sat Aug 24 2013,Southampton,1-1,Sunderland
+Sat Aug 24 2013,Fulham,1-3,Arsenal
+Sat Aug 24 2013,Stoke City,2-1,Crystal Palace
+Sun Aug 25 2013,Cardiff City,3-2,Manchester City
+Sun Aug 25 2013,Tottenham Hotspur,1-0,Swansea City
+Mon Aug 26 2013,Manchester United,0-0,Chelsea
+Sat Aug 31 2013,Crystal Palace,3-1,Sunderland
+Sat Aug 31 2013,West Ham United,0-1,Stoke City
+Sat Aug 31 2013,Norwich City,1-0,Southampton
+Sat Aug 31 2013,Cardiff City,0-0,Everton
+Sat Aug 31 2013,Newcastle United,1-0,Fulham
+Sat Aug 31 2013,Manchester City,2-0,Hull City
+Sun Sep 1 2013,Liverpool,1-0,Manchester United
+Sun Sep 1 2013,Arsenal,1-0,Tottenham Hotspur
+Sun Sep 1 2013,West Bromwich Albion,0-2,Swansea City
+Sat Sep 14 2013,Fulham,1-1,West Bromwich Albion
+Sat Sep 14 2013,Sunderland,1-3,Arsenal
+Sat Sep 14 2013,Stoke City,0-0,Manchester City
+Sat Sep 14 2013,Everton,1-0,Chelsea
+Sat Sep 14 2013,Aston Villa,1-2,Newcastle United
+Sat Sep 14 2013,Tottenham Hotspur,2-0,Norwich City
+Sat Sep 14 2013,Hull City,1-1,Cardiff City
+Sat Sep 14 2013,Manchester United,2-0,Crystal Palace
+Sun Sep 15 2013,Southampton,0-0,West Ham United
+Mon Sep 16 2013,Swansea City,2-2,Liverpool
+Sat Sep 21 2013,Newcastle United,2-3,Hull City
+Sat Sep 21 2013,Norwich City,0-1,Aston Villa
+Sat Sep 21 2013,Liverpool,0-1,Southampton
+Sat Sep 21 2013,West Ham United,2-3,Everton
+Sat Sep 21 2013,Chelsea,2-0,Fulham
+Sat Sep 21 2013,West Bromwich Albion,3-0,Sunderland
+Sun Sep 22 2013,Arsenal,3-1,Stoke City
+Sun Sep 22 2013,Cardiff City,0-1,Tottenham Hotspur
+Sun Sep 22 2013,Crystal Palace,0-2,Swansea City
+Sun Sep 22 2013,Manchester City,4-1,Manchester United
+Sat Sep 28 2013,Southampton,2-0,Crystal Palace
+Sat Sep 28 2013,Tottenham Hotspur,1-1,Chelsea
+Sat Sep 28 2013,Fulham,1-2,Cardiff City
+Sat Sep 28 2013,Swansea City,1-2,Arsenal
+Sat Sep 28 2013,Hull City,1-0,West Ham United
+Sat Sep 28 2013,Aston Villa,3-2,Manchester City
+Sat Sep 28 2013,Manchester United,1-2,West Bromwich Albion
+Sun Sep 29 2013,Stoke City,0-1,Norwich City
+Sun Sep 29 2013,Sunderland,1-3,Liverpool
+Mon Sep 30 2013,Everton,3-2,Newcastle United
+Sat Oct 5 2013,Sunderland,1-2,Manchester United
+Sat Oct 5 2013,Hull City,0-0,Aston Villa
+Sat Oct 5 2013,Cardiff City,1-2,Newcastle United
+Sat Oct 5 2013,Manchester City,3-1,Everton
+Sat Oct 5 2013,Liverpool,3-1,Crystal Palace
+Sat Oct 5 2013,Fulham,1-0,Stoke City
+Sun Oct 6 2013,West Bromwich Albion,1-1,Arsenal
+Sun Oct 6 2013,Norwich City,1-3,Chelsea
+Sun Oct 6 2013,Tottenham Hotspur,0-3,West Ham United
+Sun Oct 6 2013,Southampton,2-0,Swansea City
+Sat Oct 19 2013,Chelsea,4-1,Cardiff City
+Sat Oct 19 2013,Swansea City,4-0,Sunderland
+Sat Oct 19 2013,Newcastle United,2-2,Liverpool
+Sat Oct 19 2013,Arsenal,4-1,Norwich City
+Sat Oct 19 2013,West Ham United,1-3,Manchester City
+Sat Oct 19 2013,Stoke City,0-0,West Bromwich Albion
+Sat Oct 19 2013,Manchester United,1-1,Southampton
+Sat Oct 19 2013,Everton,2-1,Hull City
+Sun Oct 20 2013,Aston Villa,0-2,Tottenham Hotspur
+Mon Oct 21 2013,Crystal Palace,1-4,Fulham
+Sat Oct 26 2013,Crystal Palace,0-2,Arsenal
+Sat Oct 26 2013,Manchester United,3-2,Stoke City
+Sat Oct 26 2013,Southampton,2-0,Fulham
+Sat Oct 26 2013,Liverpool,4-1,West Bromwich Albion
+Sat Oct 26 2013,Norwich City,0-0,Cardiff City
+Sat Oct 26 2013,Aston Villa,0-2,Everton
+Sun Oct 27 2013,Swansea City,0-0,West Ham United
+Sun Oct 27 2013,Sunderland,2-1,Newcastle United
+Sun Oct 27 2013,Tottenham Hotspur,1-0,Hull City
+Sun Oct 27 2013,Chelsea,2-1,Manchester City
+Sat Nov 2 2013,Newcastle United,2-0,Chelsea
+Sat Nov 2 2013,West Bromwich Albion,2-0,Crystal Palace
+Sat Nov 2 2013,Hull City,1-0,Sunderland
+Sat Nov 2 2013,Stoke City,1-1,Southampton
+Sat Nov 2 2013,Fulham,1-3,Manchester United
+Sat Nov 2 2013,Arsenal,2-0,Liverpool
+Sat Nov 2 2013,West Ham United,0-0,Aston Villa
+Sat Nov 2 2013,Manchester City,7-0,Norwich City
+Sun Nov 3 2013,Cardiff City,1-0,Swansea City
+Sun Nov 3 2013,Everton,0-0,Tottenham Hotspur
+Sat Nov 9 2013,Liverpool,4-0,Fulham
+Sat Nov 9 2013,Southampton,4-1,Hull City
+Sat Nov 9 2013,Norwich City,3-1,West Ham United
+Sat Nov 9 2013,Chelsea,2-2,West Bromwich Albion
+Sat Nov 9 2013,Aston Villa,2-0,Cardiff City
+Sat Nov 9 2013,Crystal Palace,0-0,Everton
+Sun Nov 10 2013,Tottenham Hotspur,0-1,Newcastle United
+Sun Nov 10 2013,Swansea City,3-3,Stoke City
+Sun Nov 10 2013,Manchester United,1-0,Arsenal
+Sun Nov 10 2013,Sunderland,1-0,Manchester City
+Sat Nov 23 2013,West Ham United,0-3,Chelsea
+Sat Nov 23 2013,Arsenal,2-0,Southampton
+Sat Nov 23 2013,Stoke City,2-0,Sunderland
+Sat Nov 23 2013,Newcastle United,2-1,Norwich City
+Sat Nov 23 2013,Everton,3-3,Liverpool
+Sat Nov 23 2013,Hull City,0-1,Crystal Palace
+Sat Nov 23 2013,Fulham,1-2,Swansea City
+Sun Nov 24 2013,Manchester City,6-0,Tottenham Hotspur
+Sun Nov 24 2013,Cardiff City,2-2,Manchester United
+Mon Nov 25 2013,West Bromwich Albion,2-2,Aston Villa
+Sat Nov 30 2013,Everton,4-0,Stoke City
+Sat Nov 30 2013,West Ham United,3-0,Fulham
+Sat Nov 30 2013,Newcastle United,2-1,West Bromwich Albion
+Sat Nov 30 2013,Aston Villa,0-0,Sunderland
+Sat Nov 30 2013,Norwich City,1-0,Crystal Palace
+Sat Nov 30 2013,Cardiff City,0-3,Arsenal
+Sun Dec 1 2013,Hull City,3-1,Liverpool
+Sun Dec 1 2013,Manchester City,3-0,Swansea City
+Sun Dec 1 2013,Tottenham Hotspur,2-2,Manchester United
+Sun Dec 1 2013,Chelsea,3-1,Southampton
+Tue Dec 3 2013,Crystal Palace,1-0,West Ham United
+Wed Dec 4 2013,Fulham,1-2,Tottenham Hotspur
+Wed Dec 4 2013,Southampton,2-3,Aston Villa
+Wed Dec 4 2013,Liverpool,5-1,Norwich City
+Wed Dec 4 2013,Stoke City,0-0,Cardiff City
+Wed Dec 4 2013,Arsenal,2-0,Hull City
+Wed Dec 4 2013,Swansea City,3-0,Newcastle United
+Wed Dec 4 2013,Sunderland,3-4,Chelsea
+Wed Dec 4 2013,West Bromwich Albion,2-3,Manchester City
+Wed Dec 4 2013,Manchester United,0-1,Everton
+Sat Dec 7 2013,West Bromwich Albion,0-2,Norwich City
+Sat Dec 7 2013,Manchester United,0-1,Newcastle United
+Sat Dec 7 2013,Southampton,1-1,Manchester City
+Sat Dec 7 2013,Crystal Palace,2-0,Cardiff City
+Sat Dec 7 2013,Stoke City,3-2,Chelsea
+Sat Dec 7 2013,Sunderland,1-2,Tottenham Hotspur
+Sat Dec 7 2013,Liverpool,4-1,West Ham United
+Sun Dec 8 2013,Fulham,2-0,Aston Villa
+Sun Dec 8 2013,Arsenal,1-1,Everton
+Mon Dec 9 2013,Swansea City,1-1,Hull City
+Sat Dec 14 2013,Everton,4-1,Fulham
+Sat Dec 14 2013,West Ham United,0-0,Sunderland
+Sat Dec 14 2013,Hull City,0-0,Stoke City
+Sat Dec 14 2013,Manchester City,6-3,Arsenal
+Sat Dec 14 2013,Newcastle United,1-1,Southampton
+Sat Dec 14 2013,Cardiff City,1-0,West Bromwich Albion
+Sat Dec 14 2013,Chelsea,2-1,Crystal Palace
+Sun Dec 15 2013,Norwich City,1-1,Swansea City
+Sun Dec 15 2013,Tottenham Hotspur,0-5,Liverpool
+Sun Dec 15 2013,Aston Villa,0-3,Manchester United
+Sat Dec 21 2013,Stoke City,2-1,Aston Villa
+Sat Dec 21 2013,Liverpool,3-1,Cardiff City
+Sat Dec 21 2013,Sunderland,0-0,Norwich City
+Sat Dec 21 2013,Crystal Palace,0-3,Newcastle United
+Sat Dec 21 2013,Manchester United,3-1,West Ham United
+Sat Dec 21 2013,West Bromwich Albion,1-1,Hull City
+Sat Dec 21 2013,Fulham,2-4,Manchester City
+Sun Dec 22 2013,Southampton,2-3,Tottenham Hotspur
+Sun Dec 22 2013,Swansea City,1-2,Everton
+Mon Dec 23 2013,Arsenal,0-0,Chelsea
+Thu Dec 26 2013,Norwich City,1-2,Fulham
+Thu Dec 26 2013,Tottenham Hotspur,1-1,West Bromwich Albion
+Thu Dec 26 2013,West Ham United,1-3,Arsenal
+Thu Dec 26 2013,Everton,0-1,Sunderland
+Thu Dec 26 2013,Chelsea,1-0,Swansea City
+Thu Dec 26 2013,Cardiff City,0-3,Southampton
+Thu Dec 26 2013,Hull City,2-3,Manchester United
+Thu Dec 26 2013,Aston Villa,0-1,Crystal Palace
+Thu Dec 26 2013,Newcastle United,5-1,Stoke City
+Thu Dec 26 2013,Manchester City,2-1,Liverpool
+Sat Dec 28 2013,Aston Villa,1-1,Swansea City
+Sat Dec 28 2013,Manchester City,1-0,Crystal Palace
+Sat Dec 28 2013,Norwich City,0-1,Manchester United
+Sat Dec 28 2013,Hull City,6-0,Fulham
+Sat Dec 28 2013,Cardiff City,2-2,Sunderland
+Sat Dec 28 2013,West Ham United,3-3,West Bromwich Albion
+Sun Dec 29 2013,Tottenham Hotspur,3-0,Stoke City
+Sun Dec 29 2013,Chelsea,2-1,Liverpool
+Sun Dec 29 2013,Newcastle United,0-1,Arsenal
+Sun Dec 29 2013,Everton,2-1,Southampton
+Wed Jan 1 2014,Stoke City,1-1,Everton
+Wed Jan 1 2014,Liverpool,2-0,Hull City
+Wed Jan 1 2014,Swansea City,2-3,Manchester City
+Wed Jan 1 2014,West Bromwich Albion,1-0,Newcastle United
+Wed Jan 1 2014,Manchester United,1-2,Tottenham Hotspur
+Wed Jan 1 2014,Arsenal,2-0,Cardiff City
+Wed Jan 1 2014,Southampton,0-3,Chelsea
+Wed Jan 1 2014,Crystal Palace,1-1,Norwich City
+Wed Jan 1 2014,Sunderland,0-1,Aston Villa
+Wed Jan 1 2014,Fulham,2-1,West Ham United
+Sat Jan 11 2014,Tottenham Hotspur,2-0,Crystal Palace
+Sat Jan 11 2014,Hull City,0-2,Chelsea
+Sat Jan 11 2014,Fulham,1-4,Sunderland
+Sat Jan 11 2014,Cardiff City,0-2,West Ham United
+Sat Jan 11 2014,Southampton,1-0,West Bromwich Albion
+Sat Jan 11 2014,Manchester United,2-0,Swansea City
+Sat Jan 11 2014,Everton,2-0,Norwich City
+Sun Jan 12 2014,Stoke City,3-5,Liverpool
+Sun Jan 12 2014,Newcastle United,0-2,Manchester City
+Mon Jan 13 2014,Aston Villa,1-2,Arsenal
+Sat Jan 18 2014,Sunderland,2-2,Southampton
+Sat Jan 18 2014,Liverpool,2-2,Aston Villa
+Sat Jan 18 2014,Crystal Palace,1-0,Stoke City
+Sat Jan 18 2014,Norwich City,1-0,Hull City
+Sat Jan 18 2014,Arsenal,2-0,Fulham
+Sat Jan 18 2014,West Ham United,1-3,Newcastle United
+Sat Jan 18 2014,Manchester City,4-2,Cardiff City
+Sun Jan 19 2014,Swansea City,1-3,Tottenham Hotspur
+Sun Jan 19 2014,Chelsea,3-1,Manchester United
+Mon Jan 20 2014,West Bromwich Albion,1-1,Everton
+Tue Jan 28 2014,Liverpool,4-0,Everton
+Tue Jan 28 2014,Southampton,2-2,Arsenal
+Tue Jan 28 2014,Norwich City,0-0,Newcastle United
+Tue Jan 28 2014,Manchester United,2-0,Cardiff City
+Tue Jan 28 2014,Crystal Palace,1-0,Hull City
+Tue Jan 28 2014,Swansea City,2-0,Fulham
+Wed Jan 29 2014,Sunderland,1-0,Stoke City
+Wed Jan 29 2014,Aston Villa,4-3,West Bromwich Albion
+Wed Jan 29 2014,Tottenham Hotspur,1-5,Manchester City
+Wed Jan 29 2014,Chelsea,0-0,West Ham United
+Sat Feb 1 2014,Everton,2-1,Aston Villa
+Sat Feb 1 2014,Newcastle United,0-3,Sunderland
+Sat Feb 1 2014,Stoke City,2-1,Manchester United
+Sat Feb 1 2014,Fulham,0-3,Southampton
+Sat Feb 1 2014,Hull City,1-1,Tottenham Hotspur
+Sat Feb 1 2014,West Ham United,2-0,Swansea City
+Sat Feb 1 2014,Cardiff City,2-1,Norwich City
+Sun Feb 2 2014,West Bromwich Albion,1-1,Liverpool
+Sun Feb 2 2014,Arsenal,2-0,Crystal Palace
+Mon Feb 3 2014,Manchester City,0-1,Chelsea
+Sat Feb 8 2014,Chelsea,3-0,Newcastle United
+Sat Feb 8 2014,Aston Villa,0-2,West Ham United
+Sat Feb 8 2014,Sunderland,0-2,Hull City
+Sat Feb 8 2014,Swansea City,3-0,Cardiff City
+Sat Feb 8 2014,Crystal Palace,3-1,West Bromwich Albion
+Sat Feb 8 2014,Norwich City,0-0,Manchester City
+Sat Feb 8 2014,Liverpool,5-1,Arsenal
+Sat Feb 8 2014,Southampton,2-2,Stoke City
+Sun Feb 9 2014,Manchester United,2-2,Fulham
+Sun Feb 9 2014,Tottenham Hotspur,1-0,Everton
+Tue Feb 11 2014,Cardiff City,0-0,Aston Villa
+Tue Feb 11 2014,West Ham United,2-0,Norwich City
+Tue Feb 11 2014,West Bromwich Albion,1-1,Chelsea
+Tue Feb 11 2014,Hull City,0-1,Southampton
+Wed Feb 12 2014,Newcastle United,0-4,Tottenham Hotspur
+Wed Feb 12 2014,Arsenal,0-0,Manchester United
+Wed Feb 12 2014,Fulham,2-3,Liverpool
+Wed Feb 12 2014,Stoke City,1-1,Swansea City
+Sat Feb 22 2014,Crystal Palace,0-2,Manchester United
+Sat Feb 22 2014,West Ham United,3-1,Southampton
+Sat Feb 22 2014,Arsenal,4-1,Sunderland
+Sat Feb 22 2014,Cardiff City,0-4,Hull City
+Sat Feb 22 2014,Chelsea,1-0,Everton
+Sat Feb 22 2014,Manchester City,1-0,Stoke City
+Sat Feb 22 2014,West Bromwich Albion,1-1,Fulham
+Sun Feb 23 2014,Liverpool,4-3,Swansea City
+Sun Feb 23 2014,Norwich City,1-0,Tottenham Hotspur
+Sun Feb 23 2014,Newcastle United,1-0,Aston Villa
+Sat Mar 1 2014,Fulham,1-3,Chelsea
+Sat Mar 1 2014,Stoke City,1-0,Arsenal
+Sat Mar 1 2014,Hull City,1-4,Newcastle United
+Sat Mar 1 2014,Everton,1-0,West Ham United
+Sat Mar 1 2014,Southampton,0-3,Liverpool
+Sun Mar 2 2014,Tottenham Hotspur,1-0,Cardiff City
+Sun Mar 2 2014,Aston Villa,4-1,Norwich City
+Sun Mar 2 2014,Swansea City,1-1,Crystal Palace
+Sat Mar 8 2014,Norwich City,1-1,Stoke City
+Sat Mar 8 2014,Chelsea,4-0,Tottenham Hotspur
+Sat Mar 8 2014,Cardiff City,3-1,Fulham
+Sat Mar 8 2014,West Bromwich Albion,0-3,Manchester United
+Sat Mar 8 2014,Crystal Palace,0-1,Southampton
+Sat Mar 15 2014,Southampton,4-2,Norwich City
+Sat Mar 15 2014,Fulham,1-0,Newcastle United
+Sat Mar 15 2014,Swansea City,1-2,West Bromwich Albion
+Sat Mar 15 2014,Stoke City,3-1,West Ham United
+Sat Mar 15 2014,Everton,2-1,Cardiff City
+Sat Mar 15 2014,Aston Villa,1-0,Chelsea
+Sat Mar 15 2014,Hull City,0-2,Manchester City
+Sat Mar 15 2014,Sunderland,0-0,Crystal Palace
+Sun Mar 16 2014,Tottenham Hotspur,0-1,Arsenal
+Sun Mar 16 2014,Manchester United,0-3,Liverpool
+Sat Mar 22 2014,Cardiff City,3-6,Liverpool
+Sat Mar 22 2014,Norwich City,2-0,Sunderland
+Sat Mar 22 2014,Chelsea,6-0,Arsenal
+Sat Mar 22 2014,Hull City,2-0,West Bromwich Albion
+Sat Mar 22 2014,Newcastle United,1-0,Crystal Palace
+Sat Mar 22 2014,West Ham United,0-2,Manchester United
+Sat Mar 22 2014,Manchester City,5-0,Fulham
+Sat Mar 22 2014,Everton,3-2,Swansea City
+Sun Mar 23 2014,Tottenham Hotspur,3-2,Southampton
+Sun Mar 23 2014,Aston Villa,1-4,Stoke City
+Tue Mar 25 2014,Manchester United,0-3,Manchester City
+Tue Mar 25 2014,Arsenal,2-2,Swansea City
+Tue Mar 25 2014,Newcastle United,0-3,Everton
+Wed Mar 26 2014,Liverpool,2-1,Sunderland
+Wed Mar 26 2014,West Ham United,2-1,Hull City
+Sat Mar 29 2014,Stoke City,1-0,Hull City
+Sat Mar 29 2014,Crystal Palace,1-0,Chelsea
+Sat Mar 29 2014,Arsenal,1-1,Manchester City
+Sat Mar 29 2014,Swansea City,3-0,Norwich City
+Sat Mar 29 2014,West Bromwich Albion,3-3,Cardiff City
+Sat Mar 29 2014,Manchester United,4-1,Aston Villa
+Sat Mar 29 2014,Southampton,4-0,Newcastle United
+Sun Mar 30 2014,Fulham,1-3,Everton
+Sun Mar 30 2014,Liverpool,4-0,Tottenham Hotspur
+Mon Mar 31 2014,Sunderland,1-2,West Ham United
+Sat Apr 5 2014,Chelsea,3-0,Stoke City
+Sat Apr 5 2014,Aston Villa,1-2,Fulham
+Sat Apr 5 2014,Hull City,1-0,Swansea City
+Sat Apr 5 2014,Norwich City,0-1,West Bromwich Albion
+Sat Apr 5 2014,Cardiff City,0-3,Crystal Palace
+Sat Apr 5 2014,Newcastle United,0-4,Manchester United
+Sat Apr 5 2014,Manchester City,4-1,Southampton
+Sun Apr 6 2014,West Ham United,1-2,Liverpool
+Sun Apr 6 2014,Everton,3-0,Arsenal
+Mon Apr 7 2014,Tottenham Hotspur,5-1,Sunderland
+Sat Apr 12 2014,Crystal Palace,1-0,Aston Villa
+Sat Apr 12 2014,West Bromwich Albion,3-3,Tottenham Hotspur
+Sat Apr 12 2014,Stoke City,1-0,Newcastle United
+Sat Apr 12 2014,Fulham,1-0,Norwich City
+Sat Apr 12 2014,Sunderland,0-1,Everton
+Sat Apr 12 2014,Southampton,0-1,Cardiff City
+Sun Apr 13 2014,Swansea City,0-1,Chelsea
+Sun Apr 13 2014,Liverpool,3-2,Manchester City
+Tue Apr 15 2014,Arsenal,3-1,West Ham United
+Wed Apr 16 2014,Everton,2-3,Crystal Palace
+Wed Apr 16 2014,Manchester City,2-2,Sunderland
+Sat Apr 19 2014,West Ham United,0-1,Crystal Palace
+Sat Apr 19 2014,Newcastle United,1-2,Swansea City
+Sat Apr 19 2014,Aston Villa,0-0,Southampton
+Sat Apr 19 2014,Cardiff City,1-1,Stoke City
+Sat Apr 19 2014,Chelsea,1-2,Sunderland
+Sat Apr 19 2014,Tottenham Hotspur,3-1,Fulham
+Sun Apr 20 2014,Hull City,0-3,Arsenal
+Sun Apr 20 2014,Norwich City,2-3,Liverpool
+Sun Apr 20 2014,Everton,2-0,Manchester United
+Mon Apr 21 2014,Manchester City,3-1,West Bromwich Albion
+Sat Apr 26 2014,Swansea City,4-1,Aston Villa
+Sat Apr 26 2014,Fulham,2-2,Hull City
+Sat Apr 26 2014,Stoke City,0-1,Tottenham Hotspur
+Sat Apr 26 2014,West Bromwich Albion,1-0,West Ham United
+Sat Apr 26 2014,Manchester United,4-0,Norwich City
+Sat Apr 26 2014,Southampton,2-0,Everton
+Sun Apr 27 2014,Liverpool,0-2,Chelsea
+Sun Apr 27 2014,Crystal Palace,0-2,Manchester City
+Sun Apr 27 2014,Sunderland,4-0,Cardiff City
+Mon Apr 28 2014,Arsenal,3-0,Newcastle United
+Sat May 3 2014,Stoke City,4-1,Fulham
+Sat May 3 2014,Everton,2-3,Manchester City
+Sat May 3 2014,Swansea City,0-1,Southampton
+Sat May 3 2014,Newcastle United,3-0,Cardiff City
+Sat May 3 2014,Aston Villa,3-1,Hull City
+Sat May 3 2014,Manchester United,0-1,Sunderland
+Sat May 3 2014,West Ham United,2-0,Tottenham Hotspur
+Sun May 4 2014,Chelsea,0-0,Norwich City
+Sun May 4 2014,Arsenal,1-0,West Bromwich Albion
+Mon May 5 2014,Crystal Palace,3-3,Liverpool
+Tue May 6 2014,Manchester United,3-1,Hull City
+Wed May 7 2014,Manchester City,4-0,Aston Villa
+Wed May 7 2014,Sunderland,2-0,West Bromwich Albion
+Sun May 11 2014,West Bromwich Albion,1-2,Stoke City
+Sun May 11 2014,Sunderland,1-3,Swansea City
+Sun May 11 2014,Tottenham Hotspur,3-0,Aston Villa
+Sun May 11 2014,Liverpool,2-1,Newcastle United
+Sun May 11 2014,Hull City,0-2,Everton
+Sun May 11 2014,Manchester City,2-0,West Ham United
+Sun May 11 2014,Cardiff City,1-2,Chelsea
+Sun May 11 2014,Southampton,1-1,Manchester United
+Sun May 11 2014,Norwich City,0-2,Arsenal
+Sun May 11 2014,Fulham,2-2,Crystal Palace

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 17 1985,Charlton Athletic,2-1,Barnsley
+Sat Aug 17 1985,Huddersfield Town,4-3,Millwall
+Sat Aug 17 1985,Brighton & Hove Albion,2-2,Grimsby Town
+Sat Aug 17 1985,Carlisle United,1-2,Bradford City
+Sat Aug 17 1985,Stoke City,1-3,Sheffield United
+Sat Aug 17 1985,Hull City,2-2,Portsmouth
+Sat Aug 17 1985,Wimbledon,3-0,Middlesbrough
+Sat Aug 17 1985,Fulham,3-1,Leeds United
+Sat Aug 17 1985,Sunderland,0-2,Blackburn Rovers
+Sat Aug 17 1985,Norwich City,1-0,Oldham Athletic
+Sun Aug 18 1985,Shrewsbury Town,0-2,Crystal Palace
+Tue Aug 20 1985,Oldham Athletic,4-3,Shrewsbury Town
+Tue Aug 20 1985,Barnsley,3-2,Brighton & Hove Albion
+Tue Aug 20 1985,Portsmouth,3-0,Sunderland
+Tue Aug 20 1985,Grimsby Town,1-1,Huddersfield Town
+Tue Aug 20 1985,Blackburn Rovers,2-1,Norwich City
+Wed Aug 21 1985,Leeds United,0-0,Wimbledon
+Sat Aug 24 1985,Barnsley,0-0,Stoke City
+Sat Aug 24 1985,Brighton & Hove Albion,2-1,Bradford City
+Sat Aug 24 1985,Blackburn Rovers,1-1,Shrewsbury Town
+Sat Aug 24 1985,Portsmouth,4-0,Carlisle United
+Sat Aug 24 1985,Leeds United,1-1,Hull City
+Sat Aug 24 1985,Crystal Palace,1-0,Sunderland
+Sat Aug 24 1985,Sheffield United,4-0,Wimbledon
+Sat Aug 24 1985,Middlesbrough,1-0,Fulham
+Sat Aug 24 1985,Millwall,4-2,Norwich City
+Sat Aug 24 1985,Oldham Athletic,1-1,Huddersfield Town
+Sat Aug 24 1985,Grimsby Town,2-2,Charlton Athletic
+Mon Aug 26 1985,Hull City,2-2,Blackburn Rovers
+Mon Aug 26 1985,Sunderland,0-3,Oldham Athletic
+Mon Aug 26 1985,Huddersfield Town,1-2,Portsmouth
+Mon Aug 26 1985,Stoke City,6-2,Leeds United
+Mon Aug 26 1985,Wimbledon,1-0,Bradford City
+Mon Aug 26 1985,Fulham,2-1,Grimsby Town
+Mon Aug 26 1985,Norwich City,1-1,Barnsley
+Tue Aug 27 1985,Shrewsbury Town,1-1,Millwall
+Tue Aug 27 1985,Charlton Athletic,2-0,Middlesbrough
+Tue Aug 27 1985,Brighton & Hove Albion,0-0,Sheffield United
+Tue Aug 27 1985,Carlisle United,2-2,Crystal Palace
+Sat Aug 31 1985,Portsmouth,2-0,Norwich City
+Sat Aug 31 1985,Millwall,1-0,Sunderland
+Sat Aug 31 1985,Grimsby Town,0-1,Wimbledon
+Sat Aug 31 1985,Crystal Palace,2-3,Huddersfield Town
+Sat Aug 31 1985,Sheffield United,1-1,Shrewsbury Town
+Sat Aug 31 1985,Barnsley,2-0,Fulham
+Sat Aug 31 1985,Middlesbrough,0-1,Brighton & Hove Albion
+Sat Aug 31 1985,Oldham Athletic,3-1,Hull City
+Sat Aug 31 1985,Blackburn Rovers,2-0,Carlisle United
+Sat Aug 31 1985,Leeds United,1-2,Charlton Athletic
+Sun Sep 1 1985,Bradford City,3-1,Stoke City
+Tue Sep 3 1985,Shrewsbury Town,1-1,Portsmouth
+Tue Sep 3 1985,Huddersfield Town,0-0,Blackburn Rovers
+Tue Sep 3 1985,Wimbledon,1-0,Barnsley
+Wed Sep 4 1985,Brighton & Hove Albion,0-1,Leeds United
+Wed Sep 4 1985,Stoke City,1-1,Grimsby Town
+Sat Sep 7 1985,Carlisle United,1-1,Barnsley
+Sat Sep 7 1985,Charlton Athletic,3-1,Crystal Palace
+Sat Sep 7 1985,Fulham,0-1,Portsmouth
+Sat Sep 7 1985,Wimbledon,0-0,Oldham Athletic
+Sat Sep 7 1985,Hull City,0-0,Middlesbrough
+Sat Sep 7 1985,Norwich City,4-0,Sheffield United
+Sat Sep 7 1985,Shrewsbury Town,1-3,Leeds United
+Sat Sep 7 1985,Huddersfield Town,2-0,Bradford City
+Sat Sep 7 1985,Stoke City,0-0,Millwall
+Sat Sep 7 1985,Brighton & Hove Albion,3-1,Blackburn Rovers
+Sat Sep 7 1985,Sunderland,3-3,Grimsby Town
+Tue Sep 10 1985,Middlesbrough,1-1,Stoke City
+Fri Sep 13 1985,Grimsby Town,1-0,Carlisle United
+Fri Sep 13 1985,Oldham Athletic,2-1,Charlton Athletic
+Sat Sep 14 1985,Leeds United,1-1,Sunderland
+Sat Sep 14 1985,Middlesbrough,1-1,Norwich City
+Sat Sep 14 1985,Millwall,0-1,Brighton & Hove Albion
+Sat Sep 14 1985,Blackburn Rovers,2-0,Wimbledon
+Sat Sep 14 1985,Sheffield United,1-1,Huddersfield Town
+Sat Sep 14 1985,Barnsley,2-0,Shrewsbury Town
+Sat Sep 14 1985,Portsmouth,3-0,Stoke City
+Sat Sep 14 1985,Crystal Palace,0-0,Fulham
+Sat Sep 14 1985,Bradford City,4-2,Hull City
+Tue Sep 17 1985,Carlisle United,3-1,Oldham Athletic
+Tue Sep 17 1985,Hull City,3-0,Millwall
+Tue Sep 17 1985,Fulham,2-3,Sheffield United
+Wed Sep 18 1985,Norwich City,4-3,Crystal Palace
+Sat Sep 21 1985,Huddersfield Town,0-0,Norwich City
+Sat Sep 21 1985,Brighton & Hove Albion,2-0,Wimbledon
+Sat Sep 21 1985,Crystal Palace,2-1,Millwall
+Sat Sep 21 1985,Leeds United,2-1,Bradford City
+Sat Sep 21 1985,Shrewsbury Town,1-2,Sunderland
+Sat Sep 21 1985,Hull City,4-0,Carlisle United
+Sat Sep 21 1985,Barnsley,1-0,Grimsby Town
+Sat Sep 21 1985,Sheffield United,0-1,Middlesbrough
+Sat Sep 21 1985,Oldham Athletic,2-0,Portsmouth
+Sat Sep 21 1985,Blackburn Rovers,1-0,Fulham
+Sat Sep 21 1985,Charlton Athletic,2-0,Stoke City
+Sat Sep 28 1985,Millwall,0-1,Oldham Athletic
+Sat Sep 28 1985,Fulham,1-0,Brighton & Hove Albion
+Sat Sep 28 1985,Stoke City,0-0,Crystal Palace
+Sat Sep 28 1985,Leeds United,1-1,Sheffield United
+Sat Sep 28 1985,Grimsby Town,2-0,Bradford City
+Sat Sep 28 1985,Portsmouth,3-0,Blackburn Rovers
+Sat Sep 28 1985,Wimbledon,3-1,Charlton Athletic
+Sat Sep 28 1985,Norwich City,2-0,Hull City
+Sat Sep 28 1985,Carlisle United,0-2,Shrewsbury Town
+Sat Sep 28 1985,Middlesbrough,0-0,Barnsley
+Sat Sep 28 1985,Sunderland,1-0,Huddersfield Town
+Tue Oct 1 1985,Sheffield United,1-1,Charlton Athletic
+Tue Oct 1 1985,Crystal Palace,0-2,Hull City
+Sat Oct 5 1985,Fulham,2-1,Shrewsbury Town
+Sat Oct 5 1985,Middlesbrough,0-2,Crystal Palace
+Sat Oct 5 1985,Huddersfield Town,3-1,Leeds United
+Sat Oct 5 1985,Brighton & Hove Albion,6-1,Carlisle United
+Sat Oct 5 1985,Oldham Athletic,2-1,Grimsby Town
+Sat Oct 5 1985,Blackburn Rovers,3-0,Bradford City
+Sat Oct 5 1985,Barnsley,0-1,Portsmouth
+Sat Oct 5 1985,Charlton Athletic,2-1,Sunderland
+Sat Oct 5 1985,Norwich City,1-2,Wimbledon
+Sat Oct 5 1985,Hull City,0-2,Stoke City
+Sat Oct 5 1985,Sheffield United,1-3,Millwall
+Sat Oct 12 1985,Bradford City,2-0,Barnsley
+Sat Oct 12 1985,Sunderland,1-1,Hull City
+Sat Oct 12 1985,Shrewsbury Town,3-0,Huddersfield Town
+Sat Oct 12 1985,Carlisle United,0-4,Norwich City
+Sat Oct 12 1985,Stoke City,1-1,Brighton & Hove Albion
+Sat Oct 12 1985,Grimsby Town,0-1,Sheffield United
+Sat Oct 12 1985,Portsmouth,1-0,Charlton Athletic
+Sat Oct 12 1985,Crystal Palace,3-2,Oldham Athletic
+Sat Oct 12 1985,Leeds United,1-0,Middlesbrough
+Sat Oct 12 1985,Wimbledon,1-0,Fulham
+Sat Oct 12 1985,Millwall,0-1,Blackburn Rovers
+Tue Oct 15 1985,Charlton Athletic,1-1,Bradford City
+Sat Oct 19 1985,Sheffield United,3-1,Barnsley
+Sat Oct 19 1985,Middlesbrough,1-1,Bradford City
+Sat Oct 19 1985,Wimbledon,1-1,Millwall
+Sat Oct 19 1985,Portsmouth,1-0,Crystal Palace
+Sat Oct 19 1985,Brighton & Hove Albion,3-5,Charlton Athletic
+Sat Oct 19 1985,Norwich City,3-1,Shrewsbury Town
+Sat Oct 19 1985,Leeds United,1-1,Grimsby Town
+Sat Oct 19 1985,Blackburn Rovers,0-0,Oldham Athletic
+Sat Oct 19 1985,Fulham,1-0,Stoke City
+Sat Oct 19 1985,Carlisle United,1-2,Sunderland
+Sat Oct 19 1985,Hull City,3-1,Huddersfield Town
+Tue Oct 22 1985,Millwall,3-1,Carlisle United
+Tue Oct 22 1985,Sunderland,1-0,Middlesbrough
+Fri Oct 25 1985,Stoke City,0-0,Wimbledon
+Sat Oct 26 1985,Millwall,0-4,Portsmouth
+Sat Oct 26 1985,Oldham Athletic,4-0,Brighton & Hove Albion
+Sat Oct 26 1985,Grimsby Town,3-2,Middlesbrough
+Sat Oct 26 1985,Shrewsbury Town,0-0,Hull City
+Sat Oct 26 1985,Huddersfield Town,3-3,Carlisle United
+Sat Oct 26 1985,Sunderland,0-2,Norwich City
+Sat Oct 26 1985,Crystal Palace,2-0,Blackburn Rovers
+Sat Oct 26 1985,Bradford City,1-4,Sheffield United
+Sun Oct 27 1985,Barnsley,3-0,Leeds United
+Sat Nov 2 1985,Stoke City,3-0,Huddersfield Town
+Sat Nov 2 1985,Grimsby Town,5-1,Millwall
+Sat Nov 2 1985,Sheffield United,3-1,Hull City
+Sat Nov 2 1985,Bradford City,1-0,Crystal Palace
+Sat Nov 2 1985,Charlton Athletic,4-1,Shrewsbury Town
+Sat Nov 2 1985,Brighton & Hove Albion,1-1,Norwich City
+Sat Nov 2 1985,Leeds United,2-1,Portsmouth
+Sat Nov 2 1985,Fulham,1-2,Sunderland
+Sat Nov 2 1985,Middlesbrough,0-0,Blackburn Rovers
+Sat Nov 2 1985,Barnsley,1-0,Oldham Athletic
+Sun Nov 3 1985,Wimbledon,4-1,Carlisle United
+Sat Nov 9 1985,Sunderland,2-1,Wimbledon
+Sat Nov 9 1985,Carlisle United,3-0,Stoke City
+Sat Nov 9 1985,Oldham Athletic,1-5,Sheffield United
+Sat Nov 9 1985,Millwall,3-1,Leeds United
+Sat Nov 9 1985,Blackburn Rovers,0-3,Barnsley
+Sat Nov 9 1985,Shrewsbury Town,2-1,Brighton & Hove Albion
+Sat Nov 9 1985,Crystal Palace,2-1,Grimsby Town
+Sat Nov 9 1985,Norwich City,0-0,Bradford City
+Sat Nov 9 1985,Hull City,5-0,Fulham
+Sat Nov 9 1985,Huddersfield Town,0-2,Charlton Athletic
+Sat Nov 16 1985,Wimbledon,2-1,Shrewsbury Town
+Sat Nov 16 1985,Sheffield United,3-3,Blackburn Rovers
+Sat Nov 16 1985,Charlton Athletic,1-2,Hull City
+Sat Nov 16 1985,Stoke City,1-1,Norwich City
+Sat Nov 16 1985,Barnsley,1-1,Sunderland
+Sat Nov 16 1985,Grimsby Town,1-0,Portsmouth
+Sat Nov 16 1985,Leeds United,1-3,Crystal Palace
+Sat Nov 16 1985,Brighton & Hove Albion,4-3,Huddersfield Town
+Sat Nov 16 1985,Middlesbrough,3-2,Oldham Athletic
+Sat Nov 23 1985,Crystal Palace,1-0,Barnsley
+Sat Nov 23 1985,Oldham Athletic,2-4,Stoke City
+Sat Nov 23 1985,Shrewsbury Town,2-0,Bradford City
+Sat Nov 23 1985,Sunderland,2-1,Brighton & Hove Albion
+Sat Nov 23 1985,Portsmouth,0-3,Sheffield United
+Sat Nov 23 1985,Hull City,1-1,Wimbledon
+Sat Nov 23 1985,Carlisle United,1-2,Leeds United
+Sat Nov 23 1985,Millwall,3-0,Middlesbrough
+Sat Nov 23 1985,Huddersfield Town,1-3,Fulham
+Sat Nov 23 1985,Norwich City,3-2,Grimsby Town
+Sat Nov 23 1985,Blackburn Rovers,0-0,Charlton Athletic
+Sat Nov 30 1985,Stoke City,1-0,Sunderland
+Sat Nov 30 1985,Middlesbrough,3-1,Shrewsbury Town
+Sat Nov 30 1985,Sheffield United,0-0,Crystal Palace
+Sat Nov 30 1985,Grimsby Town,5-2,Blackburn Rovers
+Sat Nov 30 1985,Brighton & Hove Albion,3-1,Hull City
+Sat Nov 30 1985,Charlton Athletic,3-0,Carlisle United
+Sat Nov 30 1985,Fulham,2-2,Oldham Athletic
+Sat Nov 30 1985,Barnsley,2-1,Millwall
+Sat Nov 30 1985,Wimbledon,2-2,Huddersfield Town
+Sat Nov 30 1985,Leeds United,0-2,Norwich City
+Tue Dec 3 1985,Bradford City,2-1,Portsmouth
+Sat Dec 7 1985,Brighton & Hove Albion,0-1,Barnsley
+Sat Dec 7 1985,Carlisle United,1-0,Millwall
+Sat Dec 7 1985,Huddersfield Town,2-2,Grimsby Town
+Sat Dec 7 1985,Shrewsbury Town,2-0,Oldham Athletic
+Sat Dec 7 1985,Norwich City,3-0,Blackburn Rovers
+Sat Dec 7 1985,Fulham,4-1,Bradford City
+Sat Dec 7 1985,Sunderland,1-3,Portsmouth
+Sat Dec 7 1985,Wimbledon,0-3,Leeds United
+Sat Dec 7 1985,Hull City,1-2,Crystal Palace
+Sat Dec 7 1985,Stoke City,3-2,Middlesbrough
+Sat Dec 7 1985,Charlton Athletic,2-0,Sheffield United
+Fri Dec 13 1985,Bradford City,1-0,Carlisle United
+Sat Dec 14 1985,Middlesbrough,1-0,Wimbledon
+Sat Dec 14 1985,Oldham Athletic,1-3,Norwich City
+Sat Dec 14 1985,Blackburn Rovers,2-0,Sunderland
+Sat Dec 14 1985,Grimsby Town,0-2,Brighton & Hove Albion
+Sat Dec 14 1985,Sheffield United,1-2,Stoke City
+Sat Dec 14 1985,Barnsley,2-1,Charlton Athletic
+Sat Dec 14 1985,Leeds United,1-0,Fulham
+Sat Dec 14 1985,Millwall,2-1,Huddersfield Town
+Sat Dec 14 1985,Portsmouth,1-1,Hull City
+Sun Dec 15 1985,Crystal Palace,0-1,Shrewsbury Town
+Fri Dec 20 1985,Shrewsbury Town,2-0,Blackburn Rovers
+Fri Dec 20 1985,Bradford City,3-2,Brighton & Hove Albion
+Sat Dec 21 1985,Norwich City,6-1,Millwall
+Sat Dec 21 1985,Fulham,0-3,Middlesbrough
+Sat Dec 21 1985,Charlton Athletic,2-0,Grimsby Town
+Sat Dec 21 1985,Wimbledon,5-0,Sheffield United
+Sat Dec 21 1985,Huddersfield Town,2-0,Oldham Athletic
+Sat Dec 21 1985,Stoke City,0-0,Barnsley
+Sun Dec 22 1985,Hull City,2-1,Leeds United
+Sun Dec 22 1985,Sunderland,1-1,Crystal Palace
+Sun Dec 22 1985,Carlisle United,0-1,Portsmouth
+Thu Dec 26 1985,Crystal Palace,1-3,Wimbledon
+Thu Dec 26 1985,Oldham Athletic,0-1,Bradford City
+Thu Dec 26 1985,Sunderland,2-1,Sheffield United
+Thu Dec 26 1985,Shrewsbury Town,1-0,Stoke City
+Thu Dec 26 1985,Norwich City,3-1,Charlton Athletic
+Thu Dec 26 1985,Carlisle United,1-0,Middlesbrough
+Thu Dec 26 1985,Huddersfield Town,1-1,Barnsley
+Thu Dec 26 1985,Hull City,2-0,Grimsby Town
+Thu Dec 26 1985,Portsmouth,1-2,Brighton & Hove Albion
+Thu Dec 26 1985,Blackburn Rovers,2-0,Leeds United
+Sat Dec 28 1985,Barnsley,0-1,Wimbledon
+Sat Dec 28 1985,Middlesbrough,2-0,Sunderland
+Sat Dec 28 1985,Portsmouth,4-0,Shrewsbury Town
+Sat Dec 28 1985,Sheffield United,2-1,Fulham
+Sat Dec 28 1985,Leeds United,2-3,Brighton & Hove Albion
+Sat Dec 28 1985,Millwall,5-0,Hull City
+Wed Jan 1 1986,Fulham,0-1,Norwich City
+Wed Jan 1 1986,Barnsley,1-4,Hull City
+Wed Jan 1 1986,Leeds United,3-1,Oldham Athletic
+Wed Jan 1 1986,Sheffield United,1-0,Carlisle United
+Wed Jan 1 1986,Stoke City,2-2,Blackburn Rovers
+Wed Jan 1 1986,Grimsby Town,3-1,Shrewsbury Town
+Wed Jan 1 1986,Wimbledon,1-3,Portsmouth
+Wed Jan 1 1986,Bradford City,2-0,Sunderland
+Wed Jan 1 1986,Middlesbrough,0-1,Huddersfield Town
+Wed Jan 1 1986,Brighton & Hove Albion,2-0,Crystal Palace
+Sat Jan 11 1986,Sunderland,4-2,Leeds United
+Sat Jan 11 1986,Crystal Palace,2-1,Charlton Athletic
+Sat Jan 11 1986,Carlisle United,1-2,Grimsby Town
+Sat Jan 11 1986,Shrewsbury Town,3-0,Barnsley
+Sat Jan 11 1986,Norwich City,2-0,Middlesbrough
+Sat Jan 11 1986,Oldham Athletic,2-1,Wimbledon
+Sat Jan 11 1986,Millwall,2-3,Stoke City
+Sat Jan 11 1986,Hull City,1-0,Bradford City
+Sat Jan 11 1986,Huddersfield Town,3-1,Sheffield United
+Sat Jan 11 1986,Portsmouth,1-1,Fulham
+Sat Jan 18 1986,Fulham,2-0,Barnsley
+Sat Jan 18 1986,Charlton Athletic,4-0,Leeds United
+Sat Jan 18 1986,Stoke City,3-1,Bradford City
+Sat Jan 18 1986,Carlisle United,2-1,Blackburn Rovers
+Sat Jan 18 1986,Shrewsbury Town,3-1,Sheffield United
+Sat Jan 18 1986,Norwich City,2-0,Portsmouth
+Sat Jan 18 1986,Brighton & Hove Albion,3-3,Middlesbrough
+Sat Jan 18 1986,Huddersfield Town,0-0,Crystal Palace
+Sat Jan 18 1986,Hull City,4-2,Oldham Athletic
+Sat Jan 18 1986,Wimbledon,3-0,Grimsby Town
+Sat Jan 18 1986,Sunderland,1-2,Millwall
+Sat Jan 25 1986,Crystal Palace,1-2,Norwich City
+Sat Jan 25 1986,Portsmouth,1-0,Middlesbrough
+Sat Jan 25 1986,Grimsby Town,3-3,Stoke City
+Sat Feb 1 1986,Grimsby Town,1-0,Fulham
+Sat Feb 1 1986,Barnsley,2-2,Norwich City
+Sat Feb 1 1986,Oldham Athletic,2-2,Sunderland
+Sat Feb 1 1986,Millwall,2-0,Shrewsbury Town
+Sat Feb 1 1986,Middlesbrough,1-3,Charlton Athletic
+Sat Feb 1 1986,Sheffield United,3-0,Brighton & Hove Albion
+Sat Feb 1 1986,Crystal Palace,1-1,Carlisle United
+Sat Feb 1 1986,Leeds United,4-0,Stoke City
+Sat Feb 1 1986,Portsmouth,4-1,Huddersfield Town
+Sat Feb 1 1986,Blackburn Rovers,2-2,Hull City
+Tue Feb 4 1986,Charlton Athletic,2-2,Brighton & Hove Albion
+Sat Feb 8 1986,Oldham Athletic,3-1,Blackburn Rovers
+Sat Feb 8 1986,Shrewsbury Town,0-3,Norwich City
+Sat Feb 8 1986,Sunderland,2-2,Carlisle United
+Sat Feb 8 1986,Grimsby Town,1-0,Leeds United
+Sat Feb 15 1986,Leeds United,0-2,Barnsley
+Sat Feb 15 1986,Blackburn Rovers,1-2,Crystal Palace
+Tue Feb 18 1986,Stoke City,1-0,Fulham
+Sat Feb 22 1986,Stoke City,0-0,Charlton Athletic
+Sat Feb 22 1986,Wimbledon,0-0,Brighton & Hove Albion
+Sat Feb 22 1986,Portsmouth,1-2,Oldham Athletic
+Tue Feb 25 1986,Huddersfield Town,2-1,Hull City
+Sat Mar 1 1986,Blackburn Rovers,1-0,Portsmouth
+Sat Mar 1 1986,Oldham Athletic,0-0,Millwall
+Sat Mar 1 1986,Bradford City,0-1,Grimsby Town
+Sat Mar 1 1986,Huddersfield Town,2-0,Sunderland
+Sat Mar 1 1986,Shrewsbury Town,0-0,Carlisle United
+Tue Mar 4 1986,Middlesbrough,3-1,Grimsby Town
+Tue Mar 4 1986,Bradford City,1-0,Oldham Athletic
+Tue Mar 4 1986,Hull City,4-3,Shrewsbury Town
+Sat Mar 8 1986,Leeds United,2-0,Huddersfield Town
+Sat Mar 8 1986,Millwall,3-0,Sheffield United
+Sat Mar 8 1986,Shrewsbury Town,2-1,Fulham
+Sat Mar 8 1986,Grimsby Town,1-4,Oldham Athletic
+Sat Mar 8 1986,Wimbledon,2-1,Norwich City
+Sat Mar 8 1986,Stoke City,0-1,Hull City
+Sat Mar 8 1986,Crystal Palace,2-1,Middlesbrough
+Sat Mar 8 1986,Portsmouth,1-1,Barnsley
+Sat Mar 8 1986,Sunderland,1-2,Charlton Athletic
+Sat Mar 8 1986,Bradford City,3-2,Blackburn Rovers
+Tue Mar 11 1986,Millwall,0-1,Wimbledon
+Tue Mar 11 1986,Sheffield United,3-1,Bradford City
+Tue Mar 11 1986,Carlisle United,2-1,Hull City
+Tue Mar 11 1986,Fulham,3-3,Blackburn Rovers
+Wed Mar 12 1986,Norwich City,4-1,Huddersfield Town
+Sat Mar 15 1986,Huddersfield Town,1-0,Shrewsbury Town
+Sat Mar 15 1986,Blackburn Rovers,1-2,Millwall
+Sat Mar 15 1986,Fulham,0-2,Wimbledon
+Sat Mar 15 1986,Middlesbrough,2-2,Leeds United
+Sat Mar 15 1986,Barnsley,2-2,Bradford City
+Sat Mar 15 1986,Oldham Athletic,2-0,Crystal Palace
+Sat Mar 15 1986,Brighton & Hove Albion,2-0,Stoke City
+Sat Mar 15 1986,Sheffield United,1-1,Grimsby Town
+Sat Mar 15 1986,Norwich City,2-1,Carlisle United
+Sat Mar 15 1986,Charlton Athletic,1-2,Portsmouth
+Sat Mar 15 1986,Hull City,1-1,Sunderland
+Tue Mar 18 1986,Blackburn Rovers,1-4,Brighton & Hove Albion
+Tue Mar 18 1986,Crystal Palace,0-1,Stoke City
+Tue Mar 18 1986,Millwall,1-1,Fulham
+Tue Mar 18 1986,Middlesbrough,1-2,Sheffield United
+Tue Mar 18 1986,Carlisle United,2-0,Huddersfield Town
+Wed Mar 19 1986,Bradford City,1-2,Charlton Athletic
+Sat Mar 22 1986,Leeds United,1-1,Shrewsbury Town
+Sat Mar 22 1986,Brighton & Hove Albion,1-0,Millwall
+Sat Mar 22 1986,Grimsby Town,1-1,Sunderland
+Sat Mar 22 1986,Sheffield United,2-5,Norwich City
+Sat Mar 22 1986,Bradford City,3-0,Huddersfield Town
+Sat Mar 22 1986,Charlton Athletic,1-1,Oldham Athletic
+Sat Mar 22 1986,Wimbledon,1-1,Blackburn Rovers
+Sat Mar 22 1986,Fulham,2-3,Crystal Palace
+Sat Mar 22 1986,Barnsley,1-2,Carlisle United
+Sat Mar 22 1986,Middlesbrough,1-2,Hull City
+Tue Mar 25 1986,Barnsley,0-0,Middlesbrough
+Tue Mar 25 1986,Portsmouth,2-1,Millwall
+Fri Mar 28 1986,Oldham Athletic,3-1,Leeds United
+Sat Mar 29 1986,Norwich City,2-1,Fulham
+Sat Mar 29 1986,Millwall,2-2,Charlton Athletic
+Sat Mar 29 1986,Huddersfield Town,0-3,Middlesbrough
+Sat Mar 29 1986,Portsmouth,1-1,Wimbledon
+Sat Mar 29 1986,Sunderland,1-1,Bradford City
+Sat Mar 29 1986,Carlisle United,1-0,Sheffield United
+Sat Mar 29 1986,Crystal Palace,1-0,Brighton & Hove Albion
+Sat Mar 29 1986,Blackburn Rovers,0-1,Stoke City
+Sat Mar 29 1986,Shrewsbury Town,0-2,Grimsby Town
+Sat Mar 29 1986,Hull City,0-1,Barnsley
+Mon Mar 31 1986,Brighton & Hove Albion,2-3,Portsmouth
+Mon Mar 31 1986,Charlton Athletic,1-0,Norwich City
+Mon Mar 31 1986,Barnsley,1-3,Huddersfield Town
+Mon Mar 31 1986,Leeds United,1-1,Blackburn Rovers
+Mon Mar 31 1986,Sheffield United,1-0,Sunderland
+Mon Mar 31 1986,Middlesbrough,1-3,Carlisle United
+Mon Mar 31 1986,Stoke City,2-2,Shrewsbury Town
+Mon Mar 31 1986,Fulham,1-2,Millwall
+Tue Apr 1 1986,Wimbledon,1-1,Crystal Palace
+Tue Apr 1 1986,Grimsby Town,0-1,Hull City
+Wed Apr 2 1986,Bradford City,3-1,Fulham
+Wed Apr 2 1986,Brighton & Hove Albion,1-1,Oldham Athletic
+Sat Apr 5 1986,Millwall,1-0,Grimsby Town
+Sat Apr 5 1986,Crystal Palace,2-1,Bradford City
+Sat Apr 5 1986,Blackburn Rovers,0-1,Middlesbrough
+Sat Apr 5 1986,Huddersfield Town,2-0,Stoke City
+Sat Apr 5 1986,Hull City,0-0,Sheffield United
+Sat Apr 5 1986,Shrewsbury Town,2-1,Charlton Athletic
+Sat Apr 5 1986,Norwich City,3-0,Brighton & Hove Albion
+Sat Apr 5 1986,Sunderland,4-2,Fulham
+Sat Apr 5 1986,Portsmouth,2-3,Leeds United
+Sun Apr 6 1986,Oldham Athletic,1-1,Barnsley
+Sun Apr 6 1986,Carlisle United,2-3,Wimbledon
+Tue Apr 8 1986,Fulham,0-1,Carlisle United
+Tue Apr 8 1986,Barnsley,2-1,Sheffield United
+Tue Apr 8 1986,Crystal Palace,2-1,Portsmouth
+Wed Apr 9 1986,Norwich City,0-0,Sunderland
+Wed Apr 9 1986,Bradford City,0-1,Leeds United
+Sat Apr 12 1986,Barnsley,1-1,Blackburn Rovers
+Sat Apr 12 1986,Wimbledon,3-0,Sunderland
+Sat Apr 12 1986,Grimsby Town,3-0,Crystal Palace
+Sat Apr 12 1986,Stoke City,0-0,Carlisle United
+Sat Apr 12 1986,Sheffield United,2-0,Oldham Athletic
+Sat Apr 12 1986,Leeds United,3-1,Millwall
+Sat Apr 12 1986,Fulham,1-1,Hull City
+Sat Apr 12 1986,Bradford City,0-2,Norwich City
+Sat Apr 12 1986,Middlesbrough,1-0,Portsmouth
+Sat Apr 12 1986,Charlton Athletic,3-0,Huddersfield Town
+Sat Apr 12 1986,Brighton & Hove Albion,0-2,Shrewsbury Town
+Tue Apr 15 1986,Charlton Athletic,3-3,Millwall
+Tue Apr 15 1986,Blackburn Rovers,0-1,Huddersfield Town
+Wed Apr 16 1986,Brighton & Hove Albion,2-3,Fulham
+Sat Apr 19 1986,Crystal Palace,3-0,Leeds United
+Sat Apr 19 1986,Carlisle United,2-1,Fulham
+Sat Apr 19 1986,Hull City,1-1,Charlton Athletic
+Sat Apr 19 1986,Shrewsbury Town,1-1,Wimbledon
+Sat Apr 19 1986,Oldham Athletic,1-0,Middlesbrough
+Sat Apr 19 1986,Portsmouth,3-1,Grimsby Town
+Sat Apr 19 1986,Sunderland,2-0,Barnsley
+Sat Apr 19 1986,Blackburn Rovers,6-1,Sheffield United
+Sat Apr 19 1986,Norwich City,1-1,Stoke City
+Sat Apr 19 1986,Huddersfield Town,1-0,Brighton & Hove Albion
+Sat Apr 19 1986,Millwall,2-1,Bradford City
+Tue Apr 22 1986,Millwall,3-2,Crystal Palace
+Tue Apr 22 1986,Stoke City,2-0,Portsmouth
+Tue Apr 22 1986,Grimsby Town,1-2,Barnsley
+Tue Apr 22 1986,Fulham,0-3,Charlton Athletic
+Tue Apr 22 1986,Sheffield United,3-2,Leeds United
+Wed Apr 23 1986,Bradford City,2-1,Middlesbrough
+Sat Apr 26 1986,Leeds United,2-0,Carlisle United
+Sat Apr 26 1986,Fulham,2-1,Huddersfield Town
+Sat Apr 26 1986,Grimsby Town,1-0,Norwich City
+Sat Apr 26 1986,Barnsley,2-4,Crystal Palace
+Sat Apr 26 1986,Sheffield United,0-0,Portsmouth
+Sat Apr 26 1986,Bradford City,3-1,Shrewsbury Town
+Sat Apr 26 1986,Brighton & Hove Albion,3-1,Sunderland
+Sat Apr 26 1986,Wimbledon,3-1,Hull City
+Sat Apr 26 1986,Middlesbrough,3-0,Millwall
+Sat Apr 26 1986,Charlton Athletic,3-0,Blackburn Rovers
+Sat Apr 26 1986,Stoke City,2-0,Oldham Athletic
+Tue Apr 29 1986,Charlton Athletic,2-0,Fulham
+Tue Apr 29 1986,Hull City,1-0,Norwich City
+Tue Apr 29 1986,Sunderland,2-0,Shrewsbury Town
+Tue Apr 29 1986,Wimbledon,1-0,Stoke City
+Tue Apr 29 1986,Carlisle United,2-0,Brighton & Hove Albion
+Wed Apr 30 1986,Bradford City,0-2,Millwall
+Fri May 2 1986,Hull City,2-0,Brighton & Hove Albion
+Sat May 3 1986,Shrewsbury Town,2-1,Middlesbrough
+Sat May 3 1986,Norwich City,4-0,Leeds United
+Sat May 3 1986,Carlisle United,2-3,Charlton Athletic
+Sat May 3 1986,Oldham Athletic,2-1,Fulham
+Sat May 3 1986,Portsmouth,4-0,Bradford City
+Sat May 3 1986,Huddersfield Town,0-1,Wimbledon
+Sat May 3 1986,Millwall,2-2,Barnsley
+Sat May 3 1986,Crystal Palace,1-1,Sheffield United
+Sat May 3 1986,Sunderland,2-0,Stoke City
+Mon May 5 1986,Blackburn Rovers,3-1,Grimsby Town
+Mon May 5 1986,Oldham Athletic,2-1,Carlisle United
+Tue May 6 1986,Charlton Athletic,0-0,Wimbledon
+Thu May 8 1986,Bradford City,1-1,Wimbledon

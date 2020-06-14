@@ -1,0 +1,133 @@
+Date,Team 1,FT,Team 2
+Sat Sep 3 1892,Walsall,1-2,Darwen
+Sat Sep 3 1892,Sheffield United,4-2,Lincoln City
+Sat Sep 3 1892,Burton Swifts,7-1,Crewe Alexandra
+Sat Sep 3 1892,Grimsby Town,2-1,Northwich Victoria
+Sat Sep 3 1892,Manchester City,7-0,Bootle
+Sat Sep 3 1892,Birmingham City,5-1,Port Vale
+Sat Sep 10 1892,Darwen,2-3,Burton Swifts
+Sat Sep 10 1892,Northwich Victoria,0-3,Manchester City
+Sat Sep 10 1892,Crewe Alexandra,1-0,Grimsby Town
+Sat Sep 10 1892,Bootle,2-0,Sheffield United
+Sat Sep 10 1892,Walsall,1-3,Birmingham City
+Mon Sep 12 1892,Manchester City,2-0,Port Vale
+Sat Sep 17 1892,Crewe Alexandra,4-2,Northwich Victoria
+Sat Sep 17 1892,Grimsby Town,0-1,Darwen
+Sat Sep 17 1892,Bootle,1-1,Port Vale
+Sat Sep 17 1892,Sheffield United,2-0,Birmingham City
+Sat Sep 17 1892,Walsall,2-4,Manchester City
+Sat Sep 24 1892,Burton Swifts,2-1,Bootle
+Sat Sep 24 1892,Port Vale,4-1,Crewe Alexandra
+Sat Sep 24 1892,Birmingham City,4-1,Lincoln City
+Sat Sep 24 1892,Darwen,5-0,Walsall
+Sat Sep 24 1892,Manchester City,1-1,Northwich Victoria
+Tue Sep 27 1892,Sheffield United,2-0,Grimsby Town
+Sat Oct 1 1892,Port Vale,2-4,Darwen
+Sat Oct 1 1892,Manchester City,2-0,Walsall
+Sat Oct 1 1892,Crewe Alexandra,2-4,Burton Swifts
+Sat Oct 1 1892,Grimsby Town,3-2,Birmingham City
+Sat Oct 1 1892,Northwich Victoria,3-2,Bootle
+Sat Oct 1 1892,Lincoln City,1-0,Sheffield United
+Mon Oct 3 1892,Burton Swifts,2-3,Birmingham City
+Sat Oct 8 1892,Walsall,2-1,Lincoln City
+Sat Oct 8 1892,Port Vale,1-0,Burton Swifts
+Sat Oct 8 1892,Darwen,3-1,Manchester City
+Sat Oct 8 1892,Birmingham City,6-0,Crewe Alexandra
+Sat Oct 8 1892,Grimsby Town,3-0,Bootle
+Mon Oct 10 1892,Port Vale,1-2,Manchester City
+Sat Oct 15 1892,Sheffield United,2-0,Darwen
+Sat Oct 22 1892,Walsall,3-1,Grimsby Town
+Sat Oct 22 1892,Lincoln City,3-4,Port Vale
+Sat Oct 22 1892,Northwich Victoria,4-1,Crewe Alexandra
+Sat Oct 22 1892,Manchester City,2-2,Birmingham City
+Sat Oct 22 1892,Darwen,3-0,Bootle
+Sat Oct 29 1892,Birmingham City,3-2,Darwen
+Sat Nov 5 1892,Burton Swifts,2-0,Northwich Victoria
+Sat Nov 5 1892,Crewe Alexandra,5-6,Walsall
+Sat Nov 5 1892,Bootle,1-4,Birmingham City
+Sat Nov 5 1892,Darwen,4-1,Port Vale
+Sat Nov 5 1892,Grimsby Town,2-0,Manchester City
+Sat Nov 12 1892,Port Vale,0-0,Bootle
+Sat Nov 12 1892,Birmingham City,3-2,Burton Swifts
+Sat Nov 12 1892,Lincoln City,1-1,Darwen
+Sat Nov 19 1892,Darwen,3-1,Sheffield United
+Sat Nov 26 1892,Crewe Alexandra,5-0,Port Vale
+Sat Nov 26 1892,Sheffield United,8-3,Bootle
+Sat Nov 26 1892,Manchester City,1-1,Burton Swifts
+Sat Nov 26 1892,Northwich Victoria,5-2,Walsall
+Sat Dec 3 1892,Port Vale,1-2,Lincoln City
+Sat Dec 3 1892,Grimsby Town,4-0,Burton Swifts
+Sat Dec 3 1892,Birmingham City,1-1,Sheffield United
+Sat Dec 3 1892,Darwen,7-3,Crewe Alexandra
+Sat Dec 3 1892,Bootle,2-5,Northwich Victoria
+Sat Dec 10 1892,Darwen,4-3,Birmingham City
+Sat Dec 10 1892,Port Vale,0-10,Sheffield United
+Sat Dec 17 1892,Manchester City,4-2,Darwen
+Sat Dec 17 1892,Bootle,3-1,Grimsby Town
+Sat Dec 17 1892,Burton Swifts,4-2,Lincoln City
+Sat Dec 17 1892,Sheffield United,4-0,Port Vale
+Sat Dec 17 1892,Birmingham City,12-0,Walsall
+Sat Dec 24 1892,Walsall,4-4,Bootle
+Sat Dec 24 1892,Burton Swifts,0-2,Darwen
+Sat Dec 24 1892,Grimsby Town,4-0,Crewe Alexandra
+Sat Dec 24 1892,Northwich Victoria,0-6,Birmingham City
+Sat Dec 24 1892,Lincoln City,2-1,Manchester City
+Mon Dec 26 1892,Lincoln City,1-1,Crewe Alexandra
+Sat Dec 31 1892,Bootle,5-1,Darwen
+Sat Dec 31 1892,Port Vale,3-0,Walsall
+Sat Dec 31 1892,Northwich Victoria,2-1,Lincoln City
+Sat Dec 31 1892,Crewe Alexandra,1-3,Birmingham City
+Sat Jan 7 1893,Northwich Victoria,5-3,Grimsby Town
+Sat Jan 7 1893,Sheffield United,3-0,Walsall
+Sat Jan 7 1893,Crewe Alexandra,2-1,Bootle
+Sat Jan 7 1893,Lincoln City,3-4,Birmingham City
+Sat Jan 14 1893,Burton Swifts,2-0,Manchester City
+Sat Jan 14 1893,Grimsby Town,2-0,Port Vale
+Sat Jan 14 1893,Birmingham City,6-2,Northwich Victoria
+Sat Jan 14 1893,Walsall,3-3,Crewe Alexandra
+Sat Jan 14 1893,Darwen,3-1,Lincoln City
+Sat Jan 21 1893,Bootle,5-3,Manchester City
+Mon Jan 23 1893,Sheffield United,1-1,Northwich Victoria
+Sat Jan 28 1893,Crewe Alexandra,4-1,Lincoln City
+Mon Jan 30 1893,Manchester City,0-3,Grimsby Town
+Sat Feb 4 1893,Burton Swifts,3-2,Walsall
+Sat Feb 4 1893,Crewe Alexandra,4-1,Manchester City
+Mon Feb 6 1893,Sheffield United,3-1,Burton Swifts
+Sat Feb 11 1893,Walsall,2-3,Northwich Victoria
+Sat Feb 11 1893,Lincoln City,5-1,Burton Swifts
+Sat Feb 11 1893,Port Vale,0-1,Grimsby Town
+Tue Feb 14 1893,Darwen,3-1,Northwich Victoria
+Sat Feb 18 1893,Birmingham City,6-2,Bootle
+Sat Feb 18 1893,Grimsby Town,2-2,Lincoln City
+Sat Feb 18 1893,Walsall,3-0,Port Vale
+Sat Feb 18 1893,Northwich Victoria,1-3,Sheffield United
+Sat Feb 18 1893,Manchester City,3-1,Crewe Alexandra
+Sat Feb 25 1893,Lincoln City,5-1,Northwich Victoria
+Sat Feb 25 1893,Birmingham City,8-3,Grimsby Town
+Sat Feb 25 1893,Bootle,3-2,Burton Swifts
+Sat Feb 25 1893,Crewe Alexandra,2-2,Darwen
+Sat Mar 4 1893,Walsall,3-2,Burton Swifts
+Sat Mar 4 1893,Manchester City,2-3,Sheffield United
+Sat Mar 4 1893,Lincoln City,1-3,Grimsby Town
+Sat Mar 4 1893,Port Vale,4-0,Northwich Victoria
+Sat Mar 18 1893,Burton Swifts,3-3,Port Vale
+Sat Mar 18 1893,Bootle,7-1,Walsall
+Sat Mar 18 1893,Sheffield United,4-0,Crewe Alexandra
+Sat Mar 18 1893,Darwen,6-1,Grimsby Town
+Sat Mar 25 1893,Port Vale,0-3,Birmingham City
+Sat Mar 25 1893,Bootle,2-1,Crewe Alexandra
+Sat Mar 25 1893,Sheffield United,2-1,Manchester City
+Sat Mar 25 1893,Northwich Victoria,2-1,Burton Swifts
+Fri Mar 31 1893,Lincoln City,3-1,Walsall
+Fri Mar 31 1893,Grimsby Town,0-1,Sheffield United
+Sat Apr 1 1893,Burton Swifts,0-3,Sheffield United
+Sat Apr 1 1893,Birmingham City,3-2,Manchester City
+Sat Apr 1 1893,Grimsby Town,3-0,Walsall
+Sat Apr 1 1893,Lincoln City,5-1,Bootle
+Sat Apr 8 1893,Burton Swifts,5-1,Grimsby Town
+Sat Apr 8 1893,Northwich Victoria,2-4,Port Vale
+Sat Apr 8 1893,Manchester City,3-1,Lincoln City
+Wed Apr 12 1893,Crewe Alexandra,0-4,Sheffield United
+Sat Apr 15 1893,Bootle,4-1,Lincoln City
+Sat Apr 15 1893,Northwich Victoria,1-0,Darwen
+Sat Apr 15 1893,Walsall,1-1,Sheffield United

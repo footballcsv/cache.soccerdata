@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 12 1995,Swansea City,3-1,Shrewsbury Town
+Sat Aug 12 1995,Peterborough United,3-1,Brighton & Hove Albion
+Sat Aug 12 1995,Bradford City,1-0,AFC Bournemouth
+Sat Aug 12 1995,Carlisle United,1-2,Bristol Rovers
+Sat Aug 12 1995,Oxford United,1-0,Chesterfield
+Sat Aug 12 1995,Wycombe Wanderers,1-1,Crewe Alexandra
+Sat Aug 12 1995,Hull City,0-1,Swindon Town
+Sat Aug 12 1995,Walsall,0-2,Stockport County
+Sat Aug 12 1995,Wrexham,1-1,Notts County
+Sat Aug 12 1995,York City,2-2,Brentford
+Sat Aug 12 1995,Burnley,2-1,Rotherham United
+Sat Aug 12 1995,Bristol City,1-1,Blackpool
+Sat Aug 19 1995,Swindon Town,3-0,York City
+Sat Aug 19 1995,AFC Bournemouth,3-0,Peterborough United
+Sat Aug 19 1995,Rotherham United,1-1,Hull City
+Sat Aug 19 1995,Stockport County,0-0,Burnley
+Sat Aug 19 1995,Bristol Rovers,2-2,Swansea City
+Sat Aug 19 1995,Chesterfield,3-0,Carlisle United
+Sat Aug 19 1995,Shrewsbury Town,0-2,Walsall
+Sat Aug 19 1995,Blackpool,2-0,Wrexham
+Sat Aug 19 1995,Notts County,2-0,Wycombe Wanderers
+Sat Aug 19 1995,Brentford,1-0,Oxford United
+Sat Aug 19 1995,Brighton & Hove Albion,0-0,Bradford City
+Sat Aug 26 1995,Wycombe Wanderers,1-2,AFC Bournemouth
+Sat Aug 26 1995,York City,2-3,Crewe Alexandra
+Sat Aug 26 1995,Swansea City,3-2,Chesterfield
+Sat Aug 26 1995,Wrexham,1-1,Brighton & Hove Albion
+Sat Aug 26 1995,Carlisle United,0-1,Swindon Town
+Sat Aug 26 1995,Peterborough United,0-1,Notts County
+Sat Aug 26 1995,Hull City,2-1,Blackpool
+Sat Aug 26 1995,Bradford City,3-1,Shrewsbury Town
+Sat Aug 26 1995,Burnley,1-0,Brentford
+Sat Aug 26 1995,Bristol City,1-0,Stockport County
+Sat Aug 26 1995,Oxford United,1-1,Rotherham United
+Sat Aug 26 1995,Walsall,1-1,Bristol Rovers
+Tue Aug 29 1995,Shrewsbury Town,4-1,Bristol City
+Tue Aug 29 1995,Blackpool,2-1,Peterborough United
+Tue Aug 29 1995,Rotherham United,2-2,Carlisle United
+Tue Aug 29 1995,Bristol Rovers,1-0,Burnley
+Tue Aug 29 1995,Chesterfield,2-1,York City
+Tue Aug 29 1995,AFC Bournemouth,1-1,Wrexham
+Tue Aug 29 1995,Notts County,0-2,Bradford City
+Tue Aug 29 1995,Brighton & Hove Albion,1-2,Wycombe Wanderers
+Tue Aug 29 1995,Brentford,1-0,Hull City
+Tue Aug 29 1995,Crewe Alexandra,1-0,Walsall
+Tue Aug 29 1995,Stockport County,2-0,Swansea City
+Wed Aug 30 1995,Swindon Town,1-1,Oxford United
+Fri Sep 1 1995,Swansea City,1-1,Carlisle United
+Sat Sep 2 1995,Peterborough United,1-1,Bristol City
+Sat Sep 2 1995,Shrewsbury Town,0-2,Blackpool
+Sat Sep 2 1995,Brighton & Hove Albion,1-0,Notts County
+Sat Sep 2 1995,Stockport County,1-1,Crewe Alexandra
+Sat Sep 2 1995,Bradford City,0-4,Wycombe Wanderers
+Sat Sep 2 1995,AFC Bournemouth,2-1,Rotherham United
+Sat Sep 2 1995,Chesterfield,0-0,Hull City
+Sat Sep 2 1995,Brentford,0-2,Swindon Town
+Sat Sep 2 1995,Bristol Rovers,1-2,Wrexham
+Sun Sep 3 1995,Oxford United,2-0,York City
+Wed Sep 6 1995,Burnley,1-1,Walsall
+Sat Sep 9 1995,Walsall,4-1,Swansea City
+Sat Sep 9 1995,Swindon Town,1-1,Chesterfield
+Sat Sep 9 1995,Hull City,0-0,Oxford United
+Sat Sep 9 1995,Bristol City,0-1,Brighton & Hove Albion
+Sat Sep 9 1995,Wrexham,1-2,Bradford City
+Sat Sep 9 1995,York City,0-1,Bristol Rovers
+Sat Sep 9 1995,Wycombe Wanderers,1-1,Peterborough United
+Sat Sep 9 1995,Rotherham United,1-0,Brentford
+Sat Sep 9 1995,Blackpool,0-1,Stockport County
+Sat Sep 9 1995,Crewe Alexandra,3-0,Shrewsbury Town
+Sat Sep 9 1995,Notts County,2-0,AFC Bournemouth
+Sat Sep 9 1995,Carlisle United,2-0,Burnley
+Tue Sep 12 1995,York City,1-1,Burnley
+Tue Sep 12 1995,Blackpool,2-1,AFC Bournemouth
+Tue Sep 12 1995,Walsall,2-2,Oxford United
+Tue Sep 12 1995,Wycombe Wanderers,1-0,Chesterfield
+Tue Sep 12 1995,Rotherham United,1-0,Bristol Rovers
+Tue Sep 12 1995,Bristol City,0-0,Brentford
+Tue Sep 12 1995,Crewe Alexandra,3-1,Brighton & Hove Albion
+Tue Sep 12 1995,Notts County,1-0,Stockport County
+Tue Sep 12 1995,Hull City,0-0,Swansea City
+Tue Sep 12 1995,Wrexham,1-1,Shrewsbury Town
+Tue Sep 12 1995,Carlisle United,1-1,Peterborough United
+Wed Sep 13 1995,Swindon Town,4-1,Bradford City
+Sat Sep 16 1995,Brentford,1-0,Walsall
+Sat Sep 16 1995,Swansea City,0-1,York City
+Sat Sep 16 1995,Bristol Rovers,1-4,Swindon Town
+Sat Sep 16 1995,Burnley,2-1,Hull City
+Sat Sep 16 1995,Bradford City,3-0,Bristol City
+Sat Sep 16 1995,Oxford United,4-0,Carlisle United
+Sat Sep 16 1995,Stockport County,1-1,Wycombe Wanderers
+Sat Sep 16 1995,AFC Bournemouth,0-4,Crewe Alexandra
+Sat Sep 16 1995,Peterborough United,1-0,Wrexham
+Sat Sep 16 1995,Shrewsbury Town,0-1,Notts County
+Sat Sep 16 1995,Chesterfield,3-0,Rotherham United
+Sat Sep 16 1995,Brighton & Hove Albion,1-2,Blackpool
+Sat Sep 23 1995,Shrewsbury Town,1-2,Stockport County
+Sat Sep 23 1995,Swansea City,1-1,Oxford United
+Sat Sep 23 1995,Notts County,2-2,Bristol City
+Sat Sep 23 1995,Wycombe Wanderers,1-1,Wrexham
+Sat Sep 23 1995,York City,1-0,Walsall
+Sat Sep 23 1995,Bristol Rovers,2-0,Brentford
+Sat Sep 23 1995,Chesterfield,4-2,Burnley
+Sat Sep 23 1995,Blackpool,2-1,Crewe Alexandra
+Sat Sep 23 1995,Carlisle United,2-0,Hull City
+Sat Sep 23 1995,Peterborough United,3-1,Bradford City
+Sat Sep 23 1995,Swindon Town,1-0,Rotherham United
+Sun Sep 24 1995,AFC Bournemouth,3-1,Brighton & Hove Albion
+Sat Sep 30 1995,Walsall,2-1,Carlisle United
+Sat Sep 30 1995,Hull City,0-3,York City
+Sat Sep 30 1995,Bradford City,2-1,Blackpool
+Sat Sep 30 1995,Brentford,1-2,Chesterfield
+Sat Sep 30 1995,Wrexham,4-3,Swindon Town
+Sat Sep 30 1995,Brighton & Hove Albion,2-2,Shrewsbury Town
+Sat Sep 30 1995,Burnley,3-0,Swansea City
+Sat Sep 30 1995,Bristol City,0-0,Wycombe Wanderers
+Sat Sep 30 1995,Rotherham United,5-1,Peterborough United
+Sat Sep 30 1995,Oxford United,1-2,Bristol Rovers
+Sat Sep 30 1995,Crewe Alexandra,2-2,Notts County
+Sat Sep 30 1995,Stockport County,3-1,AFC Bournemouth
+Sat Oct 7 1995,Swindon Town,2-0,Bristol City
+Sat Oct 7 1995,Carlisle United,0-0,Notts County
+Sat Oct 7 1995,Oxford United,2-1,Stockport County
+Sat Oct 7 1995,Rotherham United,1-0,Brighton & Hove Albion
+Sat Oct 7 1995,Bristol Rovers,0-2,AFC Bournemouth
+Sat Oct 7 1995,Brentford,1-2,Blackpool
+Sat Oct 7 1995,York City,1-0,Wrexham
+Sat Oct 7 1995,Hull City,2-3,Shrewsbury Town
+Sat Oct 7 1995,Walsall,1-1,Peterborough United
+Sat Oct 7 1995,Chesterfield,1-2,Crewe Alexandra
+Sat Oct 7 1995,Burnley,1-1,Wycombe Wanderers
+Sat Oct 7 1995,Swansea City,2-0,Bradford City
+Sat Oct 14 1995,Blackpool,0-0,Chesterfield
+Sat Oct 14 1995,Stockport County,1-1,Brentford
+Sat Oct 14 1995,Bristol City,4-0,Hull City
+Sat Oct 14 1995,Wrexham,2-1,Oxford United
+Sat Oct 14 1995,Crewe Alexandra,2-1,Carlisle United
+Sat Oct 14 1995,Peterborough United,1-1,Swansea City
+Sat Oct 14 1995,Shrewsbury Town,2-1,York City
+Sat Oct 14 1995,Notts County,2-1,Rotherham United
+Sat Oct 14 1995,Wycombe Wanderers,1-0,Walsall
+Sat Oct 14 1995,Brighton & Hove Albion,1-3,Swindon Town
+Sat Oct 14 1995,AFC Bournemouth,0-2,Burnley
+Sat Oct 14 1995,Bradford City,2-3,Bristol Rovers
+Sat Oct 21 1995,Walsall,1-2,Wrexham
+Sat Oct 21 1995,Hull City,1-1,Stockport County
+Sat Oct 21 1995,Burnley,3-0,Brighton & Hove Albion
+Sat Oct 21 1995,Swansea City,1-1,AFC Bournemouth
+Sat Oct 21 1995,Chesterfield,1-0,Shrewsbury Town
+Sat Oct 21 1995,Swindon Town,2-1,Crewe Alexandra
+Sat Oct 21 1995,Bristol Rovers,0-3,Notts County
+Sat Oct 21 1995,Oxford United,1-4,Wycombe Wanderers
+Sat Oct 21 1995,York City,0-1,Bristol City
+Sat Oct 21 1995,Rotherham United,2-1,Blackpool
+Sat Oct 21 1995,Carlisle United,2-2,Bradford City
+Sat Oct 21 1995,Brentford,3-0,Peterborough United
+Sat Oct 28 1995,Bristol City,0-2,Walsall
+Sat Oct 28 1995,Crewe Alexandra,3-1,Brentford
+Sat Oct 28 1995,Brighton & Hove Albion,2-0,Bristol Rovers
+Sat Oct 28 1995,Bradford City,2-2,Burnley
+Sat Oct 28 1995,Wrexham,1-0,Swansea City
+Sat Oct 28 1995,AFC Bournemouth,2-0,Carlisle United
+Sat Oct 28 1995,Shrewsbury Town,3-1,Rotherham United
+Sat Oct 28 1995,Wycombe Wanderers,2-2,Hull City
+Sat Oct 28 1995,Peterborough United,6-1,York City
+Sat Oct 28 1995,Stockport County,0-1,Chesterfield
+Sat Oct 28 1995,Blackpool,1-1,Oxford United
+Sat Oct 28 1995,Notts County,1-3,Swindon Town
+Tue Oct 31 1995,Shrewsbury Town,2-0,Oxford United
+Tue Oct 31 1995,Bristol City,2-1,Chesterfield
+Tue Oct 31 1995,Blackpool,3-0,Bristol Rovers
+Tue Oct 31 1995,Wrexham,3-2,Carlisle United
+Tue Oct 31 1995,AFC Bournemouth,0-0,Swindon Town
+Tue Oct 31 1995,Bradford City,1-0,Walsall
+Tue Oct 31 1995,Crewe Alexandra,1-0,Hull City
+Tue Oct 31 1995,Peterborough United,0-2,Burnley
+Tue Oct 31 1995,Stockport County,1-1,Rotherham United
+Tue Oct 31 1995,Wycombe Wanderers,2-1,York City
+Tue Oct 31 1995,Brighton & Hove Albion,0-2,Swansea City
+Wed Nov 1 1995,Notts County,4-0,Brentford
+Sat Nov 4 1995,Walsall,0-0,AFC Bournemouth
+Sat Nov 4 1995,Hull City,1-1,Wrexham
+Sat Nov 4 1995,Brentford,0-2,Shrewsbury Town
+Sat Nov 4 1995,Bristol Rovers,1-1,Peterborough United
+Sat Nov 4 1995,Swansea City,1-2,Wycombe Wanderers
+Sat Nov 4 1995,Swindon Town,1-1,Blackpool
+Sat Nov 4 1995,Rotherham United,2-2,Crewe Alexandra
+Sat Nov 4 1995,York City,2-2,Stockport County
+Sat Nov 4 1995,Oxford United,2-0,Bristol City
+Sat Nov 4 1995,Carlisle United,1-0,Brighton & Hove Albion
+Sat Nov 4 1995,Burnley,3-4,Notts County
+Sat Nov 4 1995,Chesterfield,2-1,Bradford City
+Sat Nov 18 1995,Shrewsbury Town,3-0,Burnley
+Sat Nov 18 1995,Wycombe Wanderers,1-1,Bristol Rovers
+Sat Nov 18 1995,Bristol City,1-1,Carlisle United
+Sat Nov 18 1995,Wrexham,7-0,Rotherham United
+Sat Nov 18 1995,Bradford City,1-1,Hull City
+Sat Nov 18 1995,Peterborough United,1-1,Oxford United
+Sat Nov 18 1995,Crewe Alexandra,4-1,Swansea City
+Sat Nov 18 1995,AFC Bournemouth,1-0,Brentford
+Sat Nov 18 1995,Blackpool,1-3,York City
+Sat Nov 18 1995,Brighton & Hove Albion,0-3,Walsall
+Sat Nov 18 1995,Notts County,4-1,Chesterfield
+Sat Nov 18 1995,Stockport County,1-1,Swindon Town
+Sat Nov 25 1995,Swansea City,0-0,Notts County
+Sat Nov 25 1995,Brentford,2-1,Bradford City
+Sat Nov 25 1995,Hull City,2-3,Peterborough United
+Sat Nov 25 1995,Burnley,2-2,Wrexham
+Sat Nov 25 1995,Walsall,1-1,Blackpool
+Sat Nov 25 1995,York City,3-1,Brighton & Hove Albion
+Sat Nov 25 1995,Rotherham United,2-3,Bristol City
+Sat Nov 25 1995,Oxford United,1-0,Crewe Alexandra
+Sat Nov 25 1995,Swindon Town,0-1,Shrewsbury Town
+Sat Nov 25 1995,Bristol Rovers,1-3,Stockport County
+Sat Nov 25 1995,Chesterfield,3-0,AFC Bournemouth
+Sun Nov 26 1995,Carlisle United,4-2,Wycombe Wanderers
+Sat Dec 2 1995,Burnley,2-0,Carlisle United
+Sat Dec 2 1995,Swansea City,0-0,Rotherham United
+Tue Dec 5 1995,Crewe Alexandra,4-2,Bristol City
+Sat Dec 9 1995,Oxford United,5-1,Swansea City
+Sat Dec 9 1995,Rotherham United,0-2,Swindon Town
+Sat Dec 9 1995,Hull City,2-5,Carlisle United
+Sat Dec 9 1995,Burnley,2-2,Chesterfield
+Sat Dec 9 1995,Brighton & Hove Albion,2-0,AFC Bournemouth
+Sat Dec 9 1995,Brentford,0-0,Bristol Rovers
+Sat Dec 9 1995,Crewe Alexandra,1-2,Blackpool
+Sat Dec 9 1995,Stockport County,0-2,Shrewsbury Town
+Sat Dec 9 1995,Walsall,2-0,York City
+Sat Dec 9 1995,Bristol City,0-2,Notts County
+Sat Dec 9 1995,Wrexham,1-0,Wycombe Wanderers
+Sat Dec 9 1995,Bradford City,2-1,Peterborough United
+Sat Dec 16 1995,Blackpool,4-1,Bradford City
+Sat Dec 16 1995,York City,0-1,Hull City
+Sat Dec 16 1995,Notts County,0-1,Crewe Alexandra
+Sat Dec 16 1995,Bristol Rovers,2-0,Oxford United
+Sat Dec 16 1995,Chesterfield,2-2,Brentford
+Sat Dec 16 1995,AFC Bournemouth,3-2,Stockport County
+Sat Dec 16 1995,Swansea City,2-4,Burnley
+Sat Dec 16 1995,Wycombe Wanderers,1-1,Bristol City
+Sat Dec 16 1995,Shrewsbury Town,2-1,Brighton & Hove Albion
+Sat Dec 16 1995,Peterborough United,1-0,Rotherham United
+Sat Dec 16 1995,Carlisle United,1-1,Walsall
+Sat Dec 16 1995,Swindon Town,1-1,Wrexham
+Sun Dec 17 1995,Peterborough United,0-1,Stockport County
+Fri Dec 22 1995,Wrexham,2-2,Brentford
+Fri Dec 22 1995,Brighton & Hove Albion,0-2,Chesterfield
+Sat Dec 23 1995,Wycombe Wanderers,2-0,Shrewsbury Town
+Sat Dec 23 1995,Bristol Rovers,1-2,Crewe Alexandra
+Sat Dec 23 1995,AFC Bournemouth,2-0,Hull City
+Sat Dec 23 1995,Burnley,0-0,Bristol City
+Sat Dec 23 1995,Walsall,0-0,Swindon Town
+Sat Dec 23 1995,Notts County,1-1,Blackpool
+Sat Dec 23 1995,Bradford City,1-0,Oxford United
+Tue Dec 26 1995,Swindon Town,0-0,Wycombe Wanderers
+Tue Dec 26 1995,Crewe Alexandra,0-0,Wrexham
+Tue Dec 26 1995,York City,0-3,Bradford City
+Tue Dec 26 1995,Rotherham United,0-1,Walsall
+Tue Dec 26 1995,Bristol City,1-0,Swansea City
+Tue Dec 26 1995,Chesterfield,1-1,Peterborough United
+Tue Dec 26 1995,Shrewsbury Town,1-1,Bristol Rovers
+Tue Dec 26 1995,Oxford United,2-0,AFC Bournemouth
+Tue Dec 26 1995,Stockport County,2-0,Carlisle United
+Tue Dec 26 1995,Brentford,0-1,Brighton & Hove Albion
+Sat Dec 30 1995,Shrewsbury Town,1-1,Carlisle United
+Mon Jan 1 1996,Carlisle United,1-2,Blackpool
+Mon Jan 1 1996,Brighton & Hove Albion,1-1,Stockport County
+Tue Jan 2 1996,AFC Bournemouth,0-2,Shrewsbury Town
+Sat Jan 6 1996,AFC Bournemouth,1-1,Bristol City
+Sat Jan 6 1996,Bristol Rovers,2-1,Hull City
+Sat Jan 6 1996,Rotherham United,2-2,York City
+Wed Jan 10 1996,Stockport County,1-2,Bradford City
+Wed Jan 10 1996,Swindon Town,3-0,Swansea City
+Sat Jan 13 1996,Bradford City,1-3,Brighton & Hove Albion
+Sat Jan 13 1996,Hull City,1-4,Rotherham United
+Sat Jan 13 1996,Burnley,4-3,Stockport County
+Sat Jan 13 1996,York City,2-0,Swindon Town
+Sat Jan 13 1996,Bristol City,3-2,Crewe Alexandra
+Sat Jan 13 1996,Wycombe Wanderers,1-1,Notts County
+Sat Jan 13 1996,Carlisle United,1-1,Chesterfield
+Sat Jan 13 1996,Peterborough United,4-5,AFC Bournemouth
+Sat Jan 13 1996,Swansea City,2-2,Bristol Rovers
+Sat Jan 13 1996,Walsall,3-0,Shrewsbury Town
+Sat Jan 13 1996,Oxford United,2-1,Brentford
+Sat Jan 13 1996,Wrexham,1-1,Blackpool
+Tue Jan 16 1996,Bristol City,0-2,Bristol Rovers
+Sat Jan 20 1996,Brighton & Hove Albion,1-2,Peterborough United
+Sat Jan 20 1996,Stockport County,0-1,Walsall
+Sat Jan 20 1996,Swindon Town,3-0,Hull City
+Sat Jan 20 1996,Brentford,2-0,York City
+Sat Jan 20 1996,Chesterfield,1-0,Oxford United
+Sat Jan 20 1996,Crewe Alexandra,2-0,Wycombe Wanderers
+Sat Jan 20 1996,Blackpool,3-0,Bristol City
+Sat Jan 20 1996,AFC Bournemouth,3-1,Bradford City
+Sat Jan 20 1996,Notts County,1-0,Wrexham
+Sat Jan 20 1996,Bristol Rovers,1-1,Carlisle United
+Sat Jan 20 1996,Shrewsbury Town,1-2,Swansea City
+Sat Jan 20 1996,Rotherham United,1-0,Burnley
+Tue Jan 23 1996,Rotherham United,2-0,Bradford City
+Tue Jan 23 1996,Hull City,0-0,Brighton & Hove Albion
+Tue Jan 23 1996,Wrexham,0-0,Bristol City
+Tue Jan 23 1996,Blackpool,1-1,Wycombe Wanderers
+Tue Jan 30 1996,Burnley,0-2,Oxford United
+Tue Jan 30 1996,Brentford,1-0,Wycombe Wanderers
+Wed Jan 31 1996,Bradford City,2-1,Crewe Alexandra
+Sat Feb 3 1996,Brentford,1-0,Burnley
+Sat Feb 3 1996,Rotherham United,1-0,Oxford United
+Sat Feb 3 1996,AFC Bournemouth,2-3,Wycombe Wanderers
+Sat Feb 3 1996,Notts County,1-0,Peterborough United
+Sat Feb 3 1996,Bristol Rovers,2-0,Walsall
+Sat Feb 3 1996,Chesterfield,3-2,Swansea City
+Sat Feb 3 1996,Shrewsbury Town,1-1,Bradford City
+Sat Feb 3 1996,Swindon Town,2-1,Carlisle United
+Sat Feb 3 1996,Blackpool,1-1,Hull City
+Sat Feb 3 1996,Brighton & Hove Albion,2-2,Wrexham
+Tue Feb 6 1996,Swansea City,0-3,Stockport County
+Sat Feb 10 1996,Bristol City,3-0,AFC Bournemouth
+Sat Feb 10 1996,Burnley,0-1,Crewe Alexandra
+Sat Feb 10 1996,Wycombe Wanderers,0-1,Blackpool
+Sat Feb 10 1996,Peterborough United,2-2,Shrewsbury Town
+Sat Feb 10 1996,Oxford United,1-1,Brighton & Hove Albion
+Sat Feb 10 1996,York City,2-2,Rotherham United
+Sat Feb 10 1996,Swansea City,0-1,Swindon Town
+Sat Feb 10 1996,Carlisle United,2-1,Brentford
+Sat Feb 10 1996,Walsall,0-0,Notts County
+Sat Feb 10 1996,Bradford City,0-1,Stockport County
+Sat Feb 10 1996,Hull City,1-3,Bristol Rovers
+Tue Feb 13 1996,Bristol City,2-0,Shrewsbury Town
+Tue Feb 13 1996,Blackpool,4-0,Swansea City
+Tue Feb 13 1996,Stockport County,2-3,Wrexham
+Sat Feb 17 1996,AFC Bournemouth,1-0,Blackpool
+Sat Feb 17 1996,Swansea City,0-0,Hull City
+Sat Feb 17 1996,Peterborough United,6-1,Carlisle United
+Sat Feb 17 1996,Brentford,2-2,Bristol City
+Sat Feb 17 1996,Burnley,3-3,York City
+Sat Feb 17 1996,Brighton & Hove Albion,2-2,Crewe Alexandra
+Sat Feb 17 1996,Stockport County,2-0,Notts County
+Sat Feb 17 1996,Bristol Rovers,1-0,Rotherham United
+Sat Feb 17 1996,Oxford United,3-2,Walsall
+Sat Feb 17 1996,Chesterfield,3-1,Wycombe Wanderers
+Tue Feb 20 1996,Blackpool,2-1,Shrewsbury Town
+Tue Feb 20 1996,York City,1-0,Oxford United
+Tue Feb 20 1996,Wrexham,3-2,Bristol Rovers
+Tue Feb 20 1996,Crewe Alexandra,0-1,Stockport County
+Tue Feb 20 1996,Bristol City,0-1,Peterborough United
+Tue Feb 20 1996,Rotherham United,1-0,AFC Bournemouth
+Tue Feb 20 1996,Carlisle United,3-0,Swansea City
+Wed Feb 21 1996,Swindon Town,2-2,Brentford
+Sat Feb 24 1996,Carlisle United,1-2,Oxford United
+Sat Feb 24 1996,Wrexham,1-0,Peterborough United
+Sat Feb 24 1996,York City,0-0,Swansea City
+Sat Feb 24 1996,Crewe Alexandra,2-0,AFC Bournemouth
+Sat Feb 24 1996,Wycombe Wanderers,4-1,Stockport County
+Sat Feb 24 1996,Swindon Town,2-1,Bristol Rovers
+Sat Feb 24 1996,Notts County,1-1,Shrewsbury Town
+Sat Feb 24 1996,Walsall,0-1,Brentford
+Sat Feb 24 1996,Rotherham United,0-1,Chesterfield
+Sat Feb 24 1996,Hull City,3-0,Burnley
+Sat Feb 24 1996,Blackpool,2-1,Brighton & Hove Albion
+Sat Feb 24 1996,Bristol City,2-1,Bradford City
+Tue Feb 27 1996,Oxford United,2-0,Hull City
+Tue Feb 27 1996,Bradford City,2-0,Wrexham
+Tue Feb 27 1996,Swansea City,2-1,Walsall
+Tue Feb 27 1996,Bristol Rovers,1-0,York City
+Tue Feb 27 1996,Stockport County,1-1,Blackpool
+Tue Feb 27 1996,Brentford,1-1,Rotherham United
+Tue Feb 27 1996,Brighton & Hove Albion,0-2,Bristol City
+Tue Feb 27 1996,AFC Bournemouth,0-2,Notts County
+Tue Feb 27 1996,Peterborough United,3-0,Wycombe Wanderers
+Tue Feb 27 1996,Shrewsbury Town,2-3,Crewe Alexandra
+Sat Mar 2 1996,Burnley,0-1,Blackpool
+Sat Mar 2 1996,Brighton & Hove Albion,0-0,Brentford
+Sat Mar 2 1996,Swansea City,2-1,Bristol City
+Sat Mar 2 1996,Walsall,3-1,Rotherham United
+Sat Mar 2 1996,Bradford City,2-2,York City
+Sat Mar 2 1996,Notts County,1-0,Hull City
+Sat Mar 2 1996,Peterborough United,0-1,Chesterfield
+Sat Mar 2 1996,AFC Bournemouth,0-1,Oxford United
+Sat Mar 2 1996,Carlisle United,0-1,Stockport County
+Sat Mar 2 1996,Wycombe Wanderers,1-2,Swindon Town
+Sat Mar 2 1996,Wrexham,2-3,Crewe Alexandra
+Sat Mar 2 1996,Bristol Rovers,2-1,Shrewsbury Town
+Tue Mar 5 1996,Peterborough United,0-2,Swindon Town
+Tue Mar 5 1996,Crewe Alexandra,1-1,York City
+Tue Mar 5 1996,Hull City,0-1,Brentford
+Tue Mar 5 1996,Wrexham,3-0,Chesterfield
+Wed Mar 6 1996,Wycombe Wanderers,0-2,Brighton & Hove Albion
+Wed Mar 6 1996,Notts County,2-1,Walsall
+Sat Mar 9 1996,Blackpool,1-0,Notts County
+Sat Mar 9 1996,Hull City,1-1,AFC Bournemouth
+Sat Mar 9 1996,Swindon Town,1-1,Walsall
+Sat Mar 9 1996,Shrewsbury Town,1-1,Wycombe Wanderers
+Sat Mar 9 1996,York City,1-1,Carlisle United
+Sat Mar 9 1996,Chesterfield,1-0,Brighton & Hove Albion
+Sat Mar 9 1996,Rotherham United,1-1,Swansea City
+Sat Mar 9 1996,Bristol City,0-1,Burnley
+Sat Mar 9 1996,Crewe Alexandra,1-2,Bristol Rovers
+Sat Mar 9 1996,Brentford,1-0,Wrexham
+Sat Mar 9 1996,Oxford United,2-0,Bradford City
+Sat Mar 9 1996,Stockport County,0-1,Peterborough United
+Tue Mar 12 1996,Hull City,0-0,Chesterfield
+Tue Mar 12 1996,Notts County,2-2,York City
+Tue Mar 12 1996,Walsall,3-2,Crewe Alexandra
+Tue Mar 12 1996,Brighton & Hove Albion,1-2,Oxford United
+Tue Mar 12 1996,Blackpool,3-1,Burnley
+Tue Mar 12 1996,Wrexham,5-0,AFC Bournemouth
+Tue Mar 12 1996,Swansea City,2-1,Brentford
+Sat Mar 16 1996,Carlisle United,1-1,Shrewsbury Town
+Sat Mar 16 1996,Burnley,0-0,Swindon Town
+Sat Mar 16 1996,AFC Bournemouth,2-2,York City
+Sat Mar 16 1996,Walsall,3-0,Chesterfield
+Sat Mar 16 1996,Wycombe Wanderers,2-1,Brentford
+Sat Mar 16 1996,Notts County,1-1,Oxford United
+Sat Mar 16 1996,Peterborough United,3-1,Crewe Alexandra
+Sat Mar 16 1996,Bristol Rovers,2-4,Bristol City
+Sat Mar 16 1996,Bradford City,2-0,Rotherham United
+Sat Mar 16 1996,Brighton & Hove Albion,4-0,Hull City
+Sat Mar 16 1996,Swansea City,0-2,Blackpool
+Sat Mar 16 1996,Wrexham,2-3,Stockport County
+Tue Mar 19 1996,Oxford United,3-0,Swindon Town
+Tue Mar 19 1996,Bradford City,1-0,Notts County
+Tue Mar 19 1996,Chesterfield,1-1,Wrexham
+Tue Mar 19 1996,Brentford,1-1,Carlisle United
+Tue Mar 19 1996,Shrewsbury Town,1-1,Peterborough United
+Tue Mar 19 1996,Crewe Alexandra,3-1,Burnley
+Tue Mar 19 1996,Stockport County,0-0,Bristol City
+Sat Mar 23 1996,Chesterfield,2-1,Bristol Rovers
+Sat Mar 23 1996,Stockport County,3-1,Brighton & Hove Albion
+Sat Mar 23 1996,Rotherham United,0-0,Wycombe Wanderers
+Sat Mar 23 1996,Brentford,0-0,Swansea City
+Sat Mar 23 1996,Bristol City,3-1,Wrexham
+Sat Mar 23 1996,Hull City,1-0,Walsall
+Sat Mar 23 1996,York City,1-3,Notts County
+Sat Mar 23 1996,Swindon Town,2-0,Peterborough United
+Sat Mar 23 1996,Shrewsbury Town,1-2,AFC Bournemouth
+Sat Mar 23 1996,Blackpool,3-1,Carlisle United
+Sat Mar 23 1996,Oxford United,5-0,Burnley
+Sat Mar 23 1996,Crewe Alexandra,1-2,Bradford City
+Tue Mar 26 1996,York City,3-1,AFC Bournemouth
+Tue Mar 26 1996,Bristol Rovers,1-0,Chesterfield
+Tue Mar 26 1996,Wycombe Wanderers,5-2,Bradford City
+Tue Mar 26 1996,Carlisle United,2-0,Rotherham United
+Tue Mar 26 1996,Peterborough United,0-0,Blackpool
+Tue Mar 26 1996,Hull City,0-0,Notts County
+Sat Mar 30 1996,Bristol City,0-0,Swindon Town
+Sat Mar 30 1996,Wrexham,2-3,York City
+Sat Mar 30 1996,Brighton & Hove Albion,1-1,Rotherham United
+Sat Mar 30 1996,Crewe Alexandra,3-0,Chesterfield
+Sat Mar 30 1996,Shrewsbury Town,1-1,Hull City
+Sat Mar 30 1996,Blackpool,1-0,Brentford
+Sat Mar 30 1996,Stockport County,4-2,Oxford United
+Sat Mar 30 1996,AFC Bournemouth,2-1,Bristol Rovers
+Sat Mar 30 1996,Bradford City,5-1,Swansea City
+Sat Mar 30 1996,Wycombe Wanderers,4-1,Burnley
+Sat Mar 30 1996,Peterborough United,2-3,Walsall
+Sat Mar 30 1996,Notts County,3-1,Carlisle United
+Tue Apr 2 1996,Oxford United,0-0,Wrexham
+Tue Apr 2 1996,Rotherham United,2-0,Notts County
+Tue Apr 2 1996,Burnley,0-0,AFC Bournemouth
+Tue Apr 2 1996,Hull City,2-3,Bristol City
+Tue Apr 2 1996,York City,1-2,Shrewsbury Town
+Tue Apr 2 1996,Bristol Rovers,1-0,Bradford City
+Tue Apr 2 1996,Walsall,0-1,Wycombe Wanderers
+Tue Apr 2 1996,Brentford,1-0,Stockport County
+Tue Apr 2 1996,Chesterfield,1-0,Blackpool
+Tue Apr 2 1996,Carlisle United,1-0,Crewe Alexandra
+Tue Apr 2 1996,Swansea City,0-0,Peterborough United
+Wed Apr 3 1996,Swindon Town,3-2,Brighton & Hove Albion
+Sat Apr 6 1996,Walsall,2-1,Bristol City
+Sat Apr 6 1996,Brentford,2-1,Crewe Alexandra
+Sat Apr 6 1996,Swansea City,1-3,Wrexham
+Sat Apr 6 1996,Chesterfield,1-2,Stockport County
+Sat Apr 6 1996,Oxford United,1-0,Blackpool
+Sat Apr 6 1996,Carlisle United,4-0,AFC Bournemouth
+Sat Apr 6 1996,Bristol Rovers,1-0,Brighton & Hove Albion
+Sat Apr 6 1996,Burnley,2-3,Bradford City
+Sat Apr 6 1996,York City,3-1,Peterborough United
+Sat Apr 6 1996,Hull City,4-2,Wycombe Wanderers
+Sat Apr 6 1996,Rotherham United,2-2,Shrewsbury Town
+Sat Apr 6 1996,Swindon Town,1-0,Notts County
+Mon Apr 8 1996,Peterborough United,0-1,Brentford
+Mon Apr 8 1996,Crewe Alexandra,0-2,Swindon Town
+Mon Apr 8 1996,Stockport County,0-0,Hull City
+Mon Apr 8 1996,Wrexham,3-0,Walsall
+Mon Apr 8 1996,Wycombe Wanderers,0-3,Oxford United
+Mon Apr 8 1996,Bristol City,1-1,York City
+Mon Apr 8 1996,Bradford City,3-1,Carlisle United
+Mon Apr 8 1996,Blackpool,1-2,Rotherham United
+Tue Apr 9 1996,Brighton & Hove Albion,1-0,Burnley
+Tue Apr 9 1996,Notts County,4-2,Bristol Rovers
+Tue Apr 9 1996,Shrewsbury Town,0-0,Chesterfield
+Tue Apr 9 1996,AFC Bournemouth,3-1,Swansea City
+Sat Apr 13 1996,Chesterfield,1-1,Bristol City
+Sat Apr 13 1996,Swansea City,2-1,Brighton & Hove Albion
+Sat Apr 13 1996,Hull City,1-2,Crewe Alexandra
+Sat Apr 13 1996,Bristol Rovers,1-1,Blackpool
+Sat Apr 13 1996,Carlisle United,1-2,Wrexham
+Sat Apr 13 1996,Burnley,2-1,Peterborough United
+Sat Apr 13 1996,Walsall,2-1,Bradford City
+Sat Apr 13 1996,Brentford,0-0,Notts County
+Sat Apr 13 1996,York City,2-1,Wycombe Wanderers
+Sat Apr 13 1996,Swindon Town,2-2,AFC Bournemouth
+Tue Apr 16 1996,Wycombe Wanderers,1-1,Rotherham United
+Tue Apr 16 1996,Oxford United,1-1,Notts County
+Tue Apr 16 1996,Chesterfield,1-1,Walsall
+Wed Apr 17 1996,Swindon Town,0-0,Burnley
+Wed Apr 17 1996,Shrewsbury Town,2-2,Wrexham
+Sat Apr 20 1996,AFC Bournemouth,0-0,Walsall
+Sat Apr 20 1996,Wycombe Wanderers,0-1,Swansea City
+Sat Apr 20 1996,Stockport County,3-0,York City
+Sat Apr 20 1996,Peterborough United,0-0,Bristol Rovers
+Sat Apr 20 1996,Shrewsbury Town,2-1,Brentford
+Sat Apr 20 1996,Brighton & Hove Albion,1-0,Carlisle United
+Sat Apr 20 1996,Blackpool,1-1,Swindon Town
+Sat Apr 20 1996,Notts County,1-1,Burnley
+Sat Apr 20 1996,Wrexham,5-0,Hull City
+Sat Apr 20 1996,Bradford City,2-1,Chesterfield
+Sat Apr 20 1996,Crewe Alexandra,0-2,Rotherham United
+Sat Apr 20 1996,Bristol City,0-2,Oxford United
+Tue Apr 23 1996,Chesterfield,1-3,Swindon Town
+Tue Apr 23 1996,Burnley,0-1,Bristol Rovers
+Tue Apr 23 1996,Notts County,2-1,Brighton & Hove Albion
+Tue Apr 23 1996,Rotherham United,2-0,Stockport County
+Tue Apr 23 1996,Oxford United,6-0,Shrewsbury Town
+Tue Apr 23 1996,Carlisle United,2-0,York City
+Tue Apr 23 1996,Walsall,3-0,Hull City
+Fri Apr 26 1996,Bradford City,2-1,Brentford
+Sat Apr 27 1996,Shrewsbury Town,1-2,Swindon Town
+Sat Apr 27 1996,Blackpool,1-2,Walsall
+Sat Apr 27 1996,Bristol City,4-3,Rotherham United
+Sat Apr 27 1996,Notts County,4-0,Swansea City
+Sat Apr 27 1996,AFC Bournemouth,2-0,Chesterfield
+Sat Apr 27 1996,Crewe Alexandra,1-2,Oxford United
+Sat Apr 27 1996,Peterborough United,3-1,Hull City
+Sat Apr 27 1996,Wycombe Wanderers,4-0,Carlisle United
+Sat Apr 27 1996,Wrexham,0-2,Burnley
+Sat Apr 27 1996,Stockport County,2-0,Bristol Rovers
+Tue Apr 30 1996,Walsall,3-1,Burnley
+Tue Apr 30 1996,Crewe Alexandra,2-1,Peterborough United
+Tue Apr 30 1996,Bradford City,1-1,Swindon Town
+Tue Apr 30 1996,York City,0-1,Chesterfield
+Sat May 4 1996,Hull City,2-3,Bradford City
+Sat May 4 1996,Swindon Town,0-0,Stockport County
+Sat May 4 1996,Walsall,2-1,Brighton & Hove Albion
+Sat May 4 1996,York City,0-2,Blackpool
+Sat May 4 1996,Burnley,2-1,Shrewsbury Town
+Sat May 4 1996,Carlisle United,2-1,Bristol City
+Sat May 4 1996,Swansea City,2-1,Crewe Alexandra
+Sat May 4 1996,Brentford,2-0,AFC Bournemouth
+Sat May 4 1996,Oxford United,4-0,Peterborough United
+Sat May 4 1996,Rotherham United,0-1,Wrexham
+Sat May 4 1996,Chesterfield,1-0,Notts County
+Sat May 4 1996,Bristol Rovers,2-1,Wycombe Wanderers
+Thu May 9 1996,Brighton & Hove Albion,1-3,York City

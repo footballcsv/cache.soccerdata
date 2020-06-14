@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 25 1984,Preston North End,2-0,Doncaster Rovers
+Sat Aug 25 1984,York City,1-1,Walsall
+Sat Aug 25 1984,Bradford City,2-0,Cambridge United
+Sat Aug 25 1984,Brentford,0-1,Leyton Orient
+Sat Aug 25 1984,Millwall,2-0,Swansea City
+Sat Aug 25 1984,Bolton Wanderers,0-1,Bristol Rovers
+Sat Aug 25 1984,Reading,1-0,Rotherham United
+Sat Aug 25 1984,AFC Bournemouth,1-0,Derby County
+Sat Aug 25 1984,Bristol City,2-0,Wigan Athletic
+Sat Aug 25 1984,Burnley,1-1,Plymouth Argyle
+Sat Aug 25 1984,Lincoln City,0-0,Hull City
+Sat Aug 25 1984,Gillingham,1-1,Newport County
+Fri Aug 31 1984,Doncaster Rovers,2-0,Burnley
+Sat Sep 1 1984,Hull City,3-0,AFC Bournemouth
+Sat Sep 1 1984,Newport County,0-0,Bristol City
+Sat Sep 1 1984,Leyton Orient,2-4,Gillingham
+Sat Sep 1 1984,Swansea City,1-3,York City
+Sat Sep 1 1984,Wigan Athletic,1-0,Bradford City
+Sat Sep 1 1984,Derby County,3-2,Bolton Wanderers
+Sat Sep 1 1984,Bristol Rovers,3-0,Preston North End
+Sat Sep 1 1984,Rotherham United,0-0,Lincoln City
+Sat Sep 1 1984,Plymouth Argyle,1-2,Reading
+Sat Sep 1 1984,Walsall,0-1,Brentford
+Sat Sep 1 1984,Cambridge United,1-0,Millwall
+Sat Sep 8 1984,Brentford,2-0,Wigan Athletic
+Sat Sep 8 1984,Bristol City,2-2,Swansea City
+Sat Sep 8 1984,Lincoln City,2-2,Plymouth Argyle
+Sat Sep 8 1984,Burnley,0-0,Bristol Rovers
+Sat Sep 8 1984,Bradford City,1-1,Walsall
+Sat Sep 8 1984,Preston North End,2-1,Derby County
+Sat Sep 8 1984,Gillingham,3-0,Cambridge United
+Sat Sep 8 1984,Reading,1-4,Doncaster Rovers
+Sat Sep 8 1984,York City,2-0,Newport County
+Sat Sep 8 1984,Bolton Wanderers,0-0,Hull City
+Sat Sep 8 1984,AFC Bournemouth,3-0,Rotherham United
+Sun Sep 9 1984,Millwall,1-0,Leyton Orient
+Fri Sep 14 1984,Doncaster Rovers,3-2,Lincoln City
+Sat Sep 15 1984,Walsall,3-3,Millwall
+Sat Sep 15 1984,Swansea City,1-2,Bradford City
+Sat Sep 15 1984,Wigan Athletic,0-1,Gillingham
+Sat Sep 15 1984,Derby County,2-2,Burnley
+Sat Sep 15 1984,Plymouth Argyle,0-0,AFC Bournemouth
+Sat Sep 15 1984,Hull City,1-2,Preston North End
+Sat Sep 15 1984,Leyton Orient,1-3,York City
+Sat Sep 15 1984,Rotherham United,3-1,Bolton Wanderers
+Sat Sep 15 1984,Bristol Rovers,1-0,Reading
+Sat Sep 15 1984,Cambridge United,2-3,Bristol City
+Tue Sep 18 1984,Hull City,2-0,Gillingham
+Tue Sep 18 1984,Walsall,3-1,Reading
+Tue Sep 18 1984,Doncaster Rovers,0-1,Millwall
+Tue Sep 18 1984,Newport County,1-1,AFC Bournemouth
+Tue Sep 18 1984,Bristol Rovers,2-0,Bradford City
+Tue Sep 18 1984,Leyton Orient,0-2,Burnley
+Tue Sep 18 1984,Wigan Athletic,1-0,Lincoln City
+Tue Sep 18 1984,Cambridge United,0-3,Preston North End
+Tue Sep 18 1984,Rotherham United,1-1,Brentford
+Tue Sep 18 1984,Swansea City,2-1,Bolton Wanderers
+Tue Sep 18 1984,Plymouth Argyle,1-1,York City
+Wed Sep 19 1984,Derby County,1-0,Bristol City
+Sat Sep 22 1984,Millwall,4-1,Wigan Athletic
+Sat Sep 22 1984,Bradford City,1-0,Newport County
+Sat Sep 22 1984,Bristol City,3-2,Leyton Orient
+Sat Sep 22 1984,AFC Bournemouth,1-3,Doncaster Rovers
+Sat Sep 22 1984,Preston North End,0-3,Rotherham United
+Sat Sep 22 1984,Brentford,3-0,Swansea City
+Sat Sep 22 1984,York City,3-2,Cambridge United
+Sat Sep 22 1984,Reading,0-0,Derby County
+Sat Sep 22 1984,Gillingham,3-0,Walsall
+Sat Sep 22 1984,Lincoln City,1-2,Bristol Rovers
+Sat Sep 22 1984,Burnley,1-1,Hull City
+Sat Sep 22 1984,Bolton Wanderers,7-2,Plymouth Argyle
+Sat Sep 29 1984,Rotherham United,3-2,Burnley
+Sat Sep 29 1984,Bristol Rovers,1-0,AFC Bournemouth
+Sat Sep 29 1984,Plymouth Argyle,6-4,Preston North End
+Sat Sep 29 1984,Hull City,0-0,Reading
+Sat Sep 29 1984,Derby County,2-0,Lincoln City
+Sat Sep 29 1984,Walsall,4-1,Bristol City
+Sat Sep 29 1984,Swansea City,0-1,Gillingham
+Sat Sep 29 1984,Doncaster Rovers,2-0,Bolton Wanderers
+Sat Sep 29 1984,Cambridge United,1-2,Brentford
+Sat Sep 29 1984,Newport County,3-2,Millwall
+Sat Sep 29 1984,Leyton Orient,1-0,Bradford City
+Sat Sep 29 1984,Wigan Athletic,1-2,York City
+Tue Oct 2 1984,AFC Bournemouth,1-2,Swansea City
+Tue Oct 2 1984,Gillingham,3-3,Plymouth Argyle
+Tue Oct 2 1984,Brentford,1-1,Doncaster Rovers
+Tue Oct 2 1984,Burnley,2-0,Newport County
+Tue Oct 2 1984,Bristol City,0-1,Rotherham United
+Tue Oct 2 1984,Preston North End,0-1,Leyton Orient
+Tue Oct 2 1984,Millwall,2-1,Derby County
+Tue Oct 2 1984,Bolton Wanderers,3-1,Walsall
+Tue Oct 2 1984,York City,1-0,Bristol Rovers
+Wed Oct 3 1984,Reading,0-1,Wigan Athletic
+Wed Oct 3 1984,Bradford City,2-0,Hull City
+Sat Oct 6 1984,Swansea City,3-1,Leyton Orient
+Sat Oct 6 1984,Reading,3-1,Bolton Wanderers
+Sat Oct 6 1984,Gillingham,1-4,Millwall
+Sat Oct 6 1984,Plymouth Argyle,0-1,Hull City
+Sat Oct 6 1984,Cambridge United,0-1,Walsall
+Sat Oct 6 1984,Wigan Athletic,1-1,Newport County
+Sat Oct 6 1984,Lincoln City,4-0,Preston North End
+Sat Oct 6 1984,Bristol Rovers,2-1,Derby County
+Sat Oct 6 1984,AFC Bournemouth,1-1,Burnley
+Sat Oct 6 1984,Brentford,0-1,Bradford City
+Sat Oct 6 1984,York City,0-2,Bristol City
+Sun Oct 7 1984,Doncaster Rovers,0-1,Rotherham United
+Sat Oct 13 1984,Millwall,2-0,Brentford
+Sat Oct 13 1984,Bristol City,2-0,Gillingham
+Sat Oct 13 1984,Burnley,1-2,Lincoln City
+Sat Oct 13 1984,Preston North End,0-2,Reading
+Sat Oct 13 1984,Rotherham United,3-3,Bristol Rovers
+Sat Oct 13 1984,Leyton Orient,2-2,Cambridge United
+Sat Oct 13 1984,Bolton Wanderers,2-1,AFC Bournemouth
+Sat Oct 13 1984,Hull City,3-2,Doncaster Rovers
+Sat Oct 13 1984,Walsall,0-0,Wigan Athletic
+Sat Oct 13 1984,Newport County,2-0,Swansea City
+Sat Oct 13 1984,Bradford City,1-0,York City
+Sat Oct 13 1984,Derby County,3-1,Plymouth Argyle
+Fri Oct 19 1984,Cambridge United,1-1,Wigan Athletic
+Sat Oct 20 1984,Bristol Rovers,1-1,Doncaster Rovers
+Sat Oct 20 1984,Brentford,5-2,Gillingham
+Sat Oct 20 1984,Bradford City,1-1,Bristol City
+Sat Oct 20 1984,Bolton Wanderers,4-0,Preston North End
+Sat Oct 20 1984,Derby County,3-1,Hull City
+Sat Oct 20 1984,Reading,5-1,Burnley
+Sat Oct 20 1984,York City,1-1,Millwall
+Sat Oct 20 1984,Plymouth Argyle,1-0,Rotherham United
+Sat Oct 20 1984,Newport County,2-0,Leyton Orient
+Sat Oct 20 1984,Lincoln City,0-0,AFC Bournemouth
+Sat Oct 20 1984,Swansea City,1-2,Walsall
+Tue Oct 23 1984,Rotherham United,1-0,Newport County
+Tue Oct 23 1984,Bristol City,3-2,Bolton Wanderers
+Tue Oct 23 1984,Leyton Orient,3-0,Plymouth Argyle
+Tue Oct 23 1984,Doncaster Rovers,3-2,Cambridge United
+Tue Oct 23 1984,Millwall,2-0,Lincoln City
+Tue Oct 23 1984,Hull City,4-1,Swansea City
+Tue Oct 23 1984,Burnley,3-1,Brentford
+Tue Oct 23 1984,Gillingham,4-1,Reading
+Tue Oct 23 1984,Wigan Athletic,1-0,Bristol Rovers
+Tue Oct 23 1984,Preston North End,1-4,Bradford City
+Tue Oct 23 1984,AFC Bournemouth,4-0,York City
+Tue Oct 23 1984,Walsall,0-0,Derby County
+Fri Oct 26 1984,Doncaster Rovers,4-3,Plymouth Argyle
+Sat Oct 27 1984,Millwall,1-1,Bristol City
+Sat Oct 27 1984,Wigan Athletic,4-2,Leyton Orient
+Sat Oct 27 1984,Brentford,2-1,York City
+Sat Oct 27 1984,AFC Bournemouth,2-0,Preston North End
+Sat Oct 27 1984,Walsall,1-1,Newport County
+Sat Oct 27 1984,Rotherham United,2-0,Derby County
+Sat Oct 27 1984,Bristol Rovers,1-1,Hull City
+Sat Oct 27 1984,Burnley,3-2,Bolton Wanderers
+Sat Oct 27 1984,Cambridge United,0-2,Swansea City
+Sat Oct 27 1984,Gillingham,2-2,Bradford City
+Sat Oct 27 1984,Lincoln City,5-1,Reading
+Sat Nov 3 1984,Leyton Orient,0-3,Walsall
+Sat Nov 3 1984,Bolton Wanderers,1-0,Lincoln City
+Sat Nov 3 1984,Reading,0-2,AFC Bournemouth
+Sat Nov 3 1984,Bristol City,1-1,Brentford
+Sat Nov 3 1984,Newport County,1-2,Cambridge United
+Sat Nov 3 1984,Hull City,0-0,Rotherham United
+Sat Nov 3 1984,Plymouth Argyle,3-2,Bristol Rovers
+Sat Nov 3 1984,York City,7-1,Gillingham
+Sat Nov 3 1984,Swansea City,2-2,Wigan Athletic
+Sat Nov 3 1984,Preston North End,3-3,Burnley
+Tue Nov 6 1984,Preston North End,3-2,Swansea City
+Tue Nov 6 1984,Hull City,2-1,Cambridge United
+Tue Nov 6 1984,Plymouth Argyle,0-0,Bradford City
+Tue Nov 6 1984,AFC Bournemouth,1-0,Wigan Athletic
+Tue Nov 6 1984,Bolton Wanderers,2-1,York City
+Tue Nov 6 1984,Doncaster Rovers,1-1,Bristol City
+Tue Nov 6 1984,Burnley,0-1,Gillingham
+Wed Nov 7 1984,Reading,1-1,Leyton Orient
+Wed Nov 7 1984,Lincoln City,2-2,Newport County
+Wed Nov 7 1984,Derby County,1-0,Brentford
+Sat Nov 10 1984,Swansea City,1-2,Reading
+Sat Nov 10 1984,Bradford City,3-1,Derby County
+Sat Nov 10 1984,Cambridge United,2-3,Burnley
+Sat Nov 10 1984,Bristol City,3-0,Bristol Rovers
+Sat Nov 10 1984,Newport County,3-2,Bolton Wanderers
+Sat Nov 10 1984,Gillingham,2-1,Rotherham United
+Sat Nov 10 1984,Walsall,0-0,AFC Bournemouth
+Sat Nov 10 1984,Brentford,2-2,Lincoln City
+Sat Nov 10 1984,Wigan Athletic,1-0,Plymouth Argyle
+Sat Nov 10 1984,Leyton Orient,4-5,Hull City
+Sat Nov 10 1984,Millwall,3-0,Preston North End
+Sun Nov 11 1984,York City,3-1,Doncaster Rovers
+Sat Nov 24 1984,Lincoln City,2-1,York City
+Sat Nov 24 1984,Plymouth Argyle,1-3,Walsall
+Sat Nov 24 1984,Doncaster Rovers,4-1,Swansea City
+Sat Nov 24 1984,Reading,3-1,Cambridge United
+Sat Nov 24 1984,AFC Bournemouth,1-0,Brentford
+Sat Nov 24 1984,Bristol Rovers,1-1,Millwall
+Sat Nov 24 1984,Derby County,2-2,Wigan Athletic
+Sat Nov 24 1984,Bolton Wanderers,1-2,Gillingham
+Sat Nov 24 1984,Hull City,2-0,Newport County
+Sat Nov 24 1984,Rotherham United,2-1,Leyton Orient
+Sat Nov 24 1984,Burnley,1-2,Bradford City
+Sat Nov 24 1984,Preston North End,3-2,Bristol City
+Tue Nov 27 1984,Newport County,2-0,Brentford
+Tue Nov 27 1984,Lincoln City,1-1,Cambridge United
+Wed Nov 28 1984,Derby County,3-1,Doncaster Rovers
+Wed Nov 28 1984,Bradford City,3-1,Millwall
+Fri Nov 30 1984,Leyton Orient,1-4,Bristol Rovers
+Sat Dec 1 1984,Brentford,2-1,Bolton Wanderers
+Sat Dec 1 1984,Swansea City,0-2,Plymouth Argyle
+Sat Dec 1 1984,Newport County,2-1,Doncaster Rovers
+Sat Dec 1 1984,Millwall,2-1,Burnley
+Sat Dec 1 1984,Walsall,0-2,Rotherham United
+Sat Dec 1 1984,Bristol City,2-1,Lincoln City
+Sat Dec 1 1984,Gillingham,4-0,Preston North End
+Sat Dec 1 1984,Cambridge United,0-2,Derby County
+Sat Dec 1 1984,Wigan Athletic,1-1,Hull City
+Sat Dec 1 1984,York City,2-2,Reading
+Sat Dec 1 1984,Bradford City,1-0,AFC Bournemouth
+Sat Dec 8 1984,Newport County,0-2,Rotherham United
+Fri Dec 14 1984,Doncaster Rovers,1-1,Wigan Athletic
+Sat Dec 15 1984,Burnley,1-1,Swansea City
+Sat Dec 15 1984,Hull City,1-0,Walsall
+Sat Dec 15 1984,Bristol Rovers,2-0,Newport County
+Sat Dec 15 1984,Derby County,1-0,Leyton Orient
+Sat Dec 15 1984,AFC Bournemouth,2-1,Bristol City
+Sat Dec 15 1984,Reading,0-3,Bradford City
+Sat Dec 15 1984,Rotherham United,4-1,York City
+Sat Dec 15 1984,Preston North End,1-1,Brentford
+Sat Dec 15 1984,Bolton Wanderers,2-0,Millwall
+Sat Dec 15 1984,Plymouth Argyle,2-0,Cambridge United
+Sat Dec 15 1984,Lincoln City,2-0,Gillingham
+Tue Dec 18 1984,Millwall,2-2,Hull City
+Wed Dec 19 1984,Preston North End,2-4,York City
+Fri Dec 21 1984,AFC Bournemouth,1-0,Leyton Orient
+Sat Dec 22 1984,Burnley,1-2,Walsall
+Sat Dec 22 1984,Hull City,4-0,Brentford
+Sat Dec 22 1984,Derby County,3-3,Newport County
+Sat Dec 22 1984,Bolton Wanderers,0-0,Cambridge United
+Sat Dec 22 1984,Rotherham United,3-3,Wigan Athletic
+Sat Dec 22 1984,Lincoln City,1-2,Bradford City
+Sat Dec 22 1984,Reading,1-0,Bristol City
+Sat Dec 22 1984,Doncaster Rovers,0-1,Gillingham
+Sat Dec 22 1984,Bristol Rovers,4-2,Swansea City
+Sat Dec 22 1984,Plymouth Argyle,3-1,Millwall
+Wed Dec 26 1984,Brentford,0-3,Bristol Rovers
+Wed Dec 26 1984,Gillingham,3-2,Derby County
+Wed Dec 26 1984,Bradford City,0-1,Doncaster Rovers
+Wed Dec 26 1984,Newport County,1-2,Reading
+Wed Dec 26 1984,Walsall,2-1,Preston North End
+Wed Dec 26 1984,Wigan Athletic,1-0,Bolton Wanderers
+Wed Dec 26 1984,Bristol City,4-3,Plymouth Argyle
+Wed Dec 26 1984,York City,4-0,Burnley
+Wed Dec 26 1984,Swansea City,1-0,Rotherham United
+Wed Dec 26 1984,Leyton Orient,1-0,Lincoln City
+Wed Dec 26 1984,Cambridge United,1-0,AFC Bournemouth
+Sat Dec 29 1984,Newport County,1-0,Plymouth Argyle
+Sat Dec 29 1984,Bristol City,1-0,Burnley
+Sat Dec 29 1984,Walsall,0-0,Lincoln City
+Sat Dec 29 1984,Leyton Orient,2-1,Doncaster Rovers
+Sat Dec 29 1984,Millwall,2-1,AFC Bournemouth
+Sat Dec 29 1984,Gillingham,4-1,Bristol Rovers
+Sat Dec 29 1984,Brentford,2-1,Reading
+Sat Dec 29 1984,Cambridge United,0-2,Rotherham United
+Sat Dec 29 1984,Wigan Athletic,2-0,Preston North End
+Sat Dec 29 1984,Swansea City,1-5,Derby County
+Sat Dec 29 1984,York City,1-2,Hull City
+Sat Dec 29 1984,Bradford City,2-1,Bolton Wanderers
+Tue Jan 1 1985,Burnley,1-2,Wigan Athletic
+Tue Jan 1 1985,Rotherham United,1-2,Bradford City
+Tue Jan 1 1985,Lincoln City,1-0,Swansea City
+Tue Jan 1 1985,Derby County,1-0,York City
+Tue Jan 1 1985,Bristol Rovers,2-1,Cambridge United
+Tue Jan 1 1985,Hull City,2-1,Bristol City
+Tue Jan 1 1985,Preston North End,1-1,Newport County
+Tue Jan 1 1985,AFC Bournemouth,2-0,Gillingham
+Tue Jan 1 1985,Doncaster Rovers,4-1,Walsall
+Tue Jan 1 1985,Bolton Wanderers,0-0,Leyton Orient
+Tue Jan 1 1985,Reading,2-2,Millwall
+Tue Jan 1 1985,Plymouth Argyle,1-1,Brentford
+Sat Jan 12 1985,Bolton Wanderers,3-0,Derby County
+Sat Jan 12 1985,Gillingham,2-0,Leyton Orient
+Sat Jan 12 1985,Bradford City,4-2,Wigan Athletic
+Sat Jan 12 1985,AFC Bournemouth,1-1,Hull City
+Sat Jan 12 1985,York City,1-0,Swansea City
+Sat Jan 12 1985,Preston North End,2-2,Bristol Rovers
+Sat Jan 19 1985,Rotherham United,1-0,AFC Bournemouth
+Sat Jan 19 1985,Wigan Athletic,1-1,Brentford
+Sat Jan 19 1985,Doncaster Rovers,0-4,Reading
+Sat Jan 26 1985,AFC Bournemouth,1-0,Plymouth Argyle
+Sat Jan 26 1985,Reading,3-2,Bristol Rovers
+Sat Jan 26 1985,Bristol City,3-0,Cambridge United
+Sat Jan 26 1985,Bradford City,1-1,Swansea City
+Sat Jan 26 1985,Millwall,0-0,Walsall
+Sat Jan 26 1985,Bolton Wanderers,2-0,Rotherham United
+Sat Jan 26 1985,Brentford,2-5,Newport County
+Tue Jan 29 1985,Bristol Rovers,1-2,Bolton Wanderers
+Tue Jan 29 1985,Leyton Orient,1-0,Millwall
+Wed Jan 30 1985,Derby County,2-3,AFC Bournemouth
+Sat Feb 2 1985,York City,2-0,Wigan Athletic
+Sat Feb 2 1985,Burnley,7-0,Rotherham United
+Sat Feb 2 1985,Brentford,2-0,Cambridge United
+Sat Feb 2 1985,Bradford City,4-1,Leyton Orient
+Sat Feb 2 1985,AFC Bournemouth,1-0,Bristol Rovers
+Sat Feb 2 1985,Reading,4-2,Hull City
+Sat Feb 2 1985,Millwall,2-0,Newport County
+Sat Feb 2 1985,Gillingham,1-1,Swansea City
+Sat Feb 2 1985,Bristol City,1-2,Walsall
+Sat Feb 2 1985,Bolton Wanderers,3-1,Doncaster Rovers
+Sat Feb 2 1985,Lincoln City,0-0,Derby County
+Sat Feb 2 1985,Preston North End,1-2,Plymouth Argyle
+Sat Feb 9 1985,Plymouth Argyle,2-0,Bolton Wanderers
+Sat Feb 9 1985,Cambridge United,0-4,York City
+Sat Feb 9 1985,Leyton Orient,0-1,Bristol City
+Sat Feb 9 1985,Swansea City,3-2,Brentford
+Sat Feb 9 1985,Rotherham United,3-0,Preston North End
+Sat Feb 9 1985,Hull City,2-0,Burnley
+Sat Feb 9 1985,Wigan Athletic,0-1,Millwall
+Sat Feb 9 1985,Doncaster Rovers,3-0,AFC Bournemouth
+Tue Feb 12 1985,Swansea City,0-0,AFC Bournemouth
+Tue Feb 12 1985,York City,0-0,Plymouth Argyle
+Wed Feb 13 1985,Bradford City,2-0,Bristol Rovers
+Sat Feb 16 1985,Rotherham United,2-1,Bristol City
+Sat Feb 16 1985,Bolton Wanderers,0-0,Swansea City
+Sat Feb 16 1985,Burnley,1-1,Leyton Orient
+Sat Feb 16 1985,Doncaster Rovers,2-2,Brentford
+Sat Feb 16 1985,Hull City,0-2,Bradford City
+Sat Feb 16 1985,Lincoln City,1-0,Wigan Athletic
+Fri Feb 22 1985,Doncaster Rovers,2-1,Derby County
+Sat Feb 23 1985,Millwall,4-0,Bradford City
+Sat Feb 23 1985,Gillingham,1-0,York City
+Sat Feb 23 1985,Walsall,4-2,Leyton Orient
+Sat Feb 23 1985,Rotherham United,1-1,Hull City
+Sat Feb 23 1985,Burnley,2-0,Preston North End
+Sat Feb 23 1985,Cambridge United,1-2,Newport County
+Sat Feb 23 1985,Brentford,1-2,Bristol City
+Sat Feb 23 1985,AFC Bournemouth,0-3,Reading
+Sat Feb 23 1985,Lincoln City,2-0,Bolton Wanderers
+Sat Feb 23 1985,Bristol Rovers,1-0,Plymouth Argyle
+Tue Feb 26 1985,Bristol City,3-0,Derby County
+Tue Feb 26 1985,Walsall,3-0,York City
+Tue Feb 26 1985,Gillingham,1-0,Hull City
+Tue Feb 26 1985,Preston North End,3-1,Cambridge United
+Fri Mar 1 1985,Swansea City,2-2,Cambridge United
+Sat Mar 2 1985,Newport County,1-2,Walsall
+Sat Mar 2 1985,Reading,1-1,Lincoln City
+Sat Mar 2 1985,Leyton Orient,1-1,Wigan Athletic
+Sat Mar 2 1985,Derby County,1-1,Rotherham United
+Sat Mar 2 1985,Bradford City,1-1,Gillingham
+Sat Mar 2 1985,Preston North End,2-1,AFC Bournemouth
+Sat Mar 2 1985,Bristol City,0-1,Millwall
+Sat Mar 2 1985,Hull City,2-0,Bristol Rovers
+Sat Mar 2 1985,York City,1-0,Brentford
+Sat Mar 2 1985,Plymouth Argyle,2-1,Doncaster Rovers
+Sat Mar 2 1985,Bolton Wanderers,1-3,Burnley
+Tue Mar 5 1985,Bristol Rovers,2-0,Wigan Athletic
+Tue Mar 5 1985,York City,4-1,AFC Bournemouth
+Tue Mar 5 1985,Cambridge United,1-1,Doncaster Rovers
+Tue Mar 5 1985,Plymouth Argyle,1-1,Leyton Orient
+Tue Mar 5 1985,Swansea City,0-2,Hull City
+Tue Mar 5 1985,Brentford,2-1,Burnley
+Tue Mar 5 1985,Bolton Wanderers,1-4,Bristol City
+Wed Mar 6 1985,Lincoln City,0-1,Millwall
+Wed Mar 6 1985,Derby County,2-0,Walsall
+Wed Mar 6 1985,Bradford City,3-0,Preston North End
+Fri Mar 8 1985,Doncaster Rovers,2-2,Bristol Rovers
+Sat Mar 9 1985,Hull City,3-2,Derby County
+Sat Mar 9 1985,Gillingham,2-0,Brentford
+Sat Mar 9 1985,Burnley,0-2,Reading
+Sat Mar 9 1985,Leyton Orient,1-1,Newport County
+Sat Mar 9 1985,Walsall,3-0,Swansea City
+Sat Mar 9 1985,Preston North End,1-0,Bolton Wanderers
+Sat Mar 9 1985,Millwall,1-0,York City
+Sat Mar 9 1985,Rotherham United,0-2,Plymouth Argyle
+Sat Mar 9 1985,Wigan Athletic,3-3,Cambridge United
+Sat Mar 9 1985,AFC Bournemouth,3-1,Lincoln City
+Sat Mar 9 1985,Bristol City,2-0,Bradford City
+Tue Mar 12 1985,Newport County,0-3,Gillingham
+Tue Mar 12 1985,Burnley,0-1,Doncaster Rovers
+Wed Mar 13 1985,Lincoln City,3-3,Rotherham United
+Wed Mar 13 1985,Derby County,2-0,Preston North End
+Sat Mar 16 1985,Plymouth Argyle,0-1,Derby County
+Sat Mar 16 1985,Doncaster Rovers,1-2,Hull City
+Sat Mar 16 1985,Bristol Rovers,1-0,Rotherham United
+Sat Mar 16 1985,Reading,3-0,Preston North End
+Sat Mar 16 1985,Lincoln City,3-1,Burnley
+Sat Mar 16 1985,Gillingham,1-3,Bristol City
+Sat Mar 16 1985,Cambridge United,2-3,Leyton Orient
+Sat Mar 16 1985,AFC Bournemouth,4-0,Bolton Wanderers
+Sun Mar 17 1985,Wigan Athletic,1-2,Walsall
+Sun Mar 17 1985,Swansea City,0-3,Newport County
+Sun Mar 17 1985,York City,1-2,Bradford City
+Tue Mar 19 1985,Rotherham United,0-0,Millwall
+Tue Mar 19 1985,Hull City,1-0,Lincoln City
+Tue Mar 19 1985,Plymouth Argyle,1-1,Gillingham
+Tue Mar 19 1985,Walsall,1-0,Bolton Wanderers
+Wed Mar 20 1985,Newport County,1-1,York City
+Sat Mar 23 1985,Bolton Wanderers,1-2,Reading
+Sat Mar 23 1985,Burnley,1-1,AFC Bournemouth
+Sat Mar 23 1985,Leyton Orient,4-2,Swansea City
+Sat Mar 23 1985,Millwall,2-1,Gillingham
+Sat Mar 23 1985,Derby County,0-0,Bristol Rovers
+Sat Mar 23 1985,Rotherham United,2-3,Doncaster Rovers
+Sat Mar 23 1985,Walsall,5-0,Cambridge United
+Sat Mar 23 1985,Preston North End,0-1,Lincoln City
+Sat Mar 23 1985,Bradford City,5-4,Brentford
+Sat Mar 23 1985,Newport County,1-1,Wigan Athletic
+Sat Mar 23 1985,Hull City,2-2,Plymouth Argyle
+Sat Mar 23 1985,Bristol City,1-0,York City
+Tue Mar 26 1985,Swansea City,1-2,Millwall
+Tue Mar 26 1985,Plymouth Argyle,2-2,Burnley
+Tue Mar 26 1985,Doncaster Rovers,1-2,Preston North End
+Tue Mar 26 1985,Rotherham United,3-0,Reading
+Wed Mar 27 1985,Brentford,3-1,Walsall
+Fri Mar 29 1985,York City,0-3,Bolton Wanderers
+Fri Mar 29 1985,Gillingham,1-1,Burnley
+Fri Mar 29 1985,Millwall,0-0,Rotherham United
+Sat Mar 30 1985,Wigan Athletic,1-2,AFC Bournemouth
+Sat Mar 30 1985,Bradford City,1-0,Plymouth Argyle
+Sat Mar 30 1985,Swansea City,4-1,Preston North End
+Sat Mar 30 1985,Bristol City,1-0,Doncaster Rovers
+Sat Mar 30 1985,Cambridge United,1-3,Hull City
+Sat Mar 30 1985,Brentford,1-1,Derby County
+Sat Mar 30 1985,Newport County,2-1,Lincoln City
+Sat Mar 30 1985,Walsall,1-2,Bristol Rovers
+Sat Mar 30 1985,Leyton Orient,0-0,Reading
+Tue Apr 2 1985,Cambridge United,1-2,Gillingham
+Tue Apr 2 1985,Walsall,0-0,Bradford City
+Tue Apr 2 1985,York City,2-1,Leyton Orient
+Tue Apr 2 1985,Newport County,2-1,Burnley
+Tue Apr 2 1985,Hull City,2-2,Bolton Wanderers
+Tue Apr 2 1985,Bristol Rovers,0-0,Lincoln City
+Wed Apr 3 1985,Derby County,1-2,Millwall
+Fri Apr 5 1985,Plymouth Argyle,1-0,Bristol City
+Sat Apr 6 1985,Doncaster Rovers,0-3,Bradford City
+Sat Apr 6 1985,Preston North End,1-0,Walsall
+Sat Apr 6 1985,Bristol Rovers,3-0,Brentford
+Sat Apr 6 1985,Derby County,1-0,Gillingham
+Sat Apr 6 1985,Reading,0-1,Newport County
+Sat Apr 6 1985,Burnley,1-1,York City
+Sat Apr 6 1985,Rotherham United,0-1,Swansea City
+Sat Apr 6 1985,Lincoln City,0-0,Leyton Orient
+Sat Apr 6 1985,Bolton Wanderers,1-0,Wigan Athletic
+Sat Apr 6 1985,AFC Bournemouth,0-0,Cambridge United
+Sat Apr 6 1985,Hull City,2-1,Millwall
+Mon Apr 8 1985,Bristol City,2-0,Hull City
+Mon Apr 8 1985,Wigan Athletic,2-0,Burnley
+Mon Apr 8 1985,Walsall,1-0,Doncaster Rovers
+Mon Apr 8 1985,Cambridge United,0-2,Bristol Rovers
+Mon Apr 8 1985,Brentford,3-1,Plymouth Argyle
+Mon Apr 8 1985,York City,1-1,Derby County
+Mon Apr 8 1985,Bradford City,1-1,Rotherham United
+Mon Apr 8 1985,Newport County,3-3,Preston North End
+Tue Apr 9 1985,Millwall,0-0,Reading
+Tue Apr 9 1985,Gillingham,3-2,AFC Bournemouth
+Tue Apr 9 1985,Swansea City,2-2,Lincoln City
+Tue Apr 9 1985,Leyton Orient,4-3,Bolton Wanderers
+Sat Apr 13 1985,Rotherham United,1-0,Gillingham
+Sat Apr 13 1985,Burnley,2-0,Cambridge United
+Sat Apr 13 1985,Plymouth Argyle,1-0,Wigan Athletic
+Sat Apr 13 1985,AFC Bournemouth,4-1,Walsall
+Sat Apr 13 1985,Hull City,5-1,Leyton Orient
+Sat Apr 13 1985,Bolton Wanderers,3-1,Newport County
+Sat Apr 13 1985,Reading,0-1,Swansea City
+Sat Apr 13 1985,Bristol Rovers,1-0,Bristol City
+Sat Apr 13 1985,Lincoln City,1-1,Brentford
+Sat Apr 13 1985,Preston North End,2-1,Millwall
+Sat Apr 13 1985,Derby County,0-0,Bradford City
+Sun Apr 14 1985,Doncaster Rovers,3-0,York City
+Tue Apr 16 1985,Newport County,0-1,Bradford City
+Tue Apr 16 1985,Walsall,0-1,Gillingham
+Tue Apr 16 1985,Bristol Rovers,4-0,Burnley
+Tue Apr 16 1985,Plymouth Argyle,2-0,Lincoln City
+Tue Apr 16 1985,Millwall,2-1,Cambridge United
+Tue Apr 16 1985,Leyton Orient,0-1,Brentford
+Wed Apr 17 1985,Derby County,4-1,Reading
+Fri Apr 19 1985,Swansea City,3-1,Doncaster Rovers
+Sat Apr 20 1985,Bradford City,3-2,Burnley
+Sat Apr 20 1985,Cambridge United,0-2,Reading
+Sat Apr 20 1985,Brentford,0-0,AFC Bournemouth
+Sat Apr 20 1985,Leyton Orient,0-1,Rotherham United
+Sat Apr 20 1985,York City,2-1,Lincoln City
+Sat Apr 20 1985,Bristol City,4-0,Preston North End
+Sat Apr 20 1985,Walsall,0-3,Plymouth Argyle
+Sat Apr 20 1985,Millwall,1-0,Bristol Rovers
+Sat Apr 20 1985,Wigan Athletic,2-0,Derby County
+Sat Apr 20 1985,Newport County,0-1,Hull City
+Sat Apr 20 1985,Gillingham,2-3,Bolton Wanderers
+Tue Apr 23 1985,Preston North End,1-4,Hull City
+Tue Apr 23 1985,Brentford,3-0,Rotherham United
+Tue Apr 23 1985,Wigan Athletic,2-2,Bristol City
+Tue Apr 23 1985,Bristol Rovers,0-0,Walsall
+Tue Apr 23 1985,Cambridge United,0-4,Bradford City
+Tue Apr 23 1985,Burnley,0-1,Derby County
+Wed Apr 24 1985,Reading,1-1,Plymouth Argyle
+Wed Apr 24 1985,Lincoln City,0-2,Doncaster Rovers
+Fri Apr 26 1985,AFC Bournemouth,4-1,Bradford City
+Sat Apr 27 1985,Plymouth Argyle,1-2,Swansea City
+Sat Apr 27 1985,Derby County,1-0,Cambridge United
+Sat Apr 27 1985,Preston North End,0-0,Gillingham
+Sat Apr 27 1985,Lincoln City,1-1,Bristol City
+Sat Apr 27 1985,Rotherham United,0-1,Walsall
+Sat Apr 27 1985,Reading,1-2,York City
+Sat Apr 27 1985,Bristol Rovers,0-1,Leyton Orient
+Sat Apr 27 1985,Burnley,1-1,Millwall
+Sat Apr 27 1985,Bolton Wanderers,1-1,Brentford
+Sat Apr 27 1985,Hull City,3-1,Wigan Athletic
+Sat Apr 27 1985,Doncaster Rovers,3-2,Newport County
+Tue Apr 30 1985,Millwall,2-1,Doncaster Rovers
+Tue Apr 30 1985,Cambridge United,0-2,Lincoln City
+Tue Apr 30 1985,Bristol City,2-1,Newport County
+Tue Apr 30 1985,Wigan Athletic,2-0,Swansea City
+Tue Apr 30 1985,Leyton Orient,0-0,Preston North End
+Wed May 1 1985,Reading,1-1,Walsall
+Fri May 3 1985,York City,3-0,Rotherham United
+Fri May 3 1985,Wigan Athletic,5-2,Doncaster Rovers
+Sat May 4 1985,Millwall,5-2,Bolton Wanderers
+Sat May 4 1985,Newport County,1-1,Bristol Rovers
+Sat May 4 1985,Bristol City,2-0,AFC Bournemouth
+Sat May 4 1985,Walsall,0-1,Hull City
+Sat May 4 1985,Cambridge United,1-1,Plymouth Argyle
+Sat May 4 1985,Gillingham,3-2,Lincoln City
+Sat May 4 1985,Swansea City,0-1,Burnley
+Sat May 4 1985,Brentford,3-1,Preston North End
+Sat May 4 1985,Leyton Orient,2-2,Derby County
+Sat May 4 1985,Bradford City,2-5,Reading
+Mon May 6 1985,Rotherham United,0-1,Cambridge United
+Mon May 6 1985,Reading,0-0,Brentford
+Mon May 6 1985,Doncaster Rovers,1-1,Leyton Orient
+Mon May 6 1985,Derby County,1-1,Swansea City
+Mon May 6 1985,Preston North End,2-5,Wigan Athletic
+Mon May 6 1985,Burnley,0-1,Bristol City
+Mon May 6 1985,Bolton Wanderers,0-2,Bradford City
+Mon May 6 1985,Lincoln City,0-0,Walsall
+Mon May 6 1985,Hull City,0-2,York City
+Mon May 6 1985,Plymouth Argyle,1-0,Newport County
+Tue May 7 1985,Bristol Rovers,3-2,Gillingham
+Wed May 8 1985,AFC Bournemouth,1-2,Millwall
+Sat May 11 1985,Cambridge United,2-3,Bolton Wanderers
+Sat May 11 1985,Brentford,2-1,Hull City
+Sat May 11 1985,Swansea City,3-2,Bristol Rovers
+Sat May 11 1985,Millwall,2-0,Plymouth Argyle
+Sat May 11 1985,Bradford City,0-0,Lincoln City
+Sat May 11 1985,Leyton Orient,0-0,AFC Bournemouth
+Sat May 11 1985,Bristol City,2-3,Reading
+Sat May 11 1985,Wigan Athletic,2-1,Rotherham United
+Sat May 11 1985,Walsall,2-3,Burnley
+Sat May 11 1985,Gillingham,2-1,Doncaster Rovers
+Sat May 11 1985,York City,0-1,Preston North End
+Sat May 11 1985,Newport County,1-3,Derby County
+Mon May 13 1985,AFC Bournemouth,3-0,Newport County
+Mon May 13 1985,Wigan Athletic,1-1,Reading
+Tue May 14 1985,Bristol Rovers,1-1,York City
+Tue May 14 1985,Reading,0-2,Gillingham
+Fri May 17 1985,Gillingham,5-1,Wigan Athletic
+Fri May 17 1985,Swansea City,0-0,Bristol City
+Sun May 19 1985,Brentford,1-1,Millwall

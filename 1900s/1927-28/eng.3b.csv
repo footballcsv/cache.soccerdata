@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 27 1927,Norwich City,4-1,Crystal Palace
+Sat Aug 27 1927,Charlton Athletic,1-0,Gillingham
+Sat Aug 27 1927,Southend United,1-0,Luton Town
+Sat Aug 27 1927,AFC Bournemouth,2-0,Swindon Town
+Sat Aug 27 1927,Plymouth Argyle,5-0,Merthyr Town
+Sat Aug 27 1927,Watford,3-1,Coventry City
+Sat Aug 27 1927,Northampton Town,5-2,Millwall
+Sat Aug 27 1927,Bristol Rovers,5-2,Walsall
+Sat Aug 27 1927,Brighton & Hove Albion,5-2,Brentford
+Sat Aug 27 1927,Torquay United,1-1,Exeter City
+Sat Aug 27 1927,Queens Park Rangers,4-2,Newport County
+Mon Aug 29 1927,Crystal Palace,2-0,Exeter City
+Mon Aug 29 1927,Brentford,3-0,Northampton Town
+Mon Aug 29 1927,Merthyr Town,0-0,Charlton Athletic
+Mon Aug 29 1927,Walsall,2-0,Watford
+Mon Aug 29 1927,Swindon Town,6-0,Coventry City
+Mon Aug 29 1927,Luton Town,1-3,Norwich City
+Mon Aug 29 1927,Millwall,9-1,Torquay United
+Wed Aug 31 1927,AFC Bournemouth,2-3,Southend United
+Wed Aug 31 1927,Plymouth Argyle,4-1,Bristol Rovers
+Thu Sep 1 1927,Newport County,3-1,Brighton & Hove Albion
+Thu Sep 1 1927,Queens Park Rangers,3-3,Gillingham
+Sat Sep 3 1927,Crystal Palace,1-0,Northampton Town
+Sat Sep 3 1927,Walsall,2-1,Plymouth Argyle
+Sat Sep 3 1927,Newport County,3-2,Watford
+Sat Sep 3 1927,Millwall,5-1,Southend United
+Sat Sep 3 1927,Brentford,2-1,AFC Bournemouth
+Sat Sep 3 1927,Swindon Town,0-2,Queens Park Rangers
+Sat Sep 3 1927,Merthyr Town,1-3,Torquay United
+Sat Sep 3 1927,Luton Town,2-5,Brighton & Hove Albion
+Sat Sep 3 1927,Coventry City,3-3,Charlton Athletic
+Sat Sep 3 1927,Gillingham,3-1,Bristol Rovers
+Sat Sep 3 1927,Exeter City,2-2,Norwich City
+Mon Sep 5 1927,Coventry City,4-0,Swindon Town
+Mon Sep 5 1927,Norwich City,3-0,Luton Town
+Mon Sep 5 1927,Northampton Town,3-2,Brentford
+Wed Sep 7 1927,Watford,4-0,Walsall
+Wed Sep 7 1927,Bristol Rovers,3-1,Plymouth Argyle
+Wed Sep 7 1927,Gillingham,1-2,Queens Park Rangers
+Wed Sep 7 1927,Torquay United,0-1,Millwall
+Wed Sep 7 1927,Southend United,3-0,AFC Bournemouth
+Wed Sep 7 1927,Exeter City,2-2,Crystal Palace
+Sat Sep 10 1927,Plymouth Argyle,2-2,Gillingham
+Sat Sep 10 1927,Watford,2-5,Swindon Town
+Sat Sep 10 1927,Southend United,6-1,Crystal Palace
+Sat Sep 10 1927,Northampton Town,5-0,Exeter City
+Sat Sep 10 1927,Brighton & Hove Albion,3-1,Millwall
+Sat Sep 10 1927,Bristol Rovers,1-1,Coventry City
+Sat Sep 10 1927,Norwich City,4-0,Torquay United
+Sat Sep 10 1927,Queens Park Rangers,2-3,Brentford
+Sat Sep 10 1927,AFC Bournemouth,2-2,Luton Town
+Sat Sep 10 1927,Merthyr Town,3-2,Walsall
+Sat Sep 10 1927,Charlton Athletic,3-2,Newport County
+Wed Sep 14 1927,Brighton & Hove Albion,1-4,Newport County
+Wed Sep 14 1927,Bristol Rovers,1-3,Brentford
+Sat Sep 17 1927,Exeter City,3-2,Southend United
+Sat Sep 17 1927,Millwall,2-0,AFC Bournemouth
+Sat Sep 17 1927,Gillingham,1-1,Merthyr Town
+Sat Sep 17 1927,Queens Park Rangers,2-1,Watford
+Sat Sep 17 1927,Torquay United,1-5,Northampton Town
+Sat Sep 17 1927,Newport County,3-1,Bristol Rovers
+Sat Sep 17 1927,Walsall,1-1,Norwich City
+Sat Sep 17 1927,Swindon Town,2-2,Charlton Athletic
+Sat Sep 17 1927,Crystal Palace,1-1,Brighton & Hove Albion
+Sat Sep 17 1927,Coventry City,1-1,Plymouth Argyle
+Sat Sep 17 1927,Luton Town,5-2,Brentford
+Mon Sep 19 1927,Charlton Athletic,0-0,Merthyr Town
+Wed Sep 21 1927,AFC Bournemouth,1-2,Queens Park Rangers
+Sat Sep 24 1927,Charlton Athletic,1-0,Queens Park Rangers
+Sat Sep 24 1927,AFC Bournemouth,2-2,Crystal Palace
+Sat Sep 24 1927,Brighton & Hove Albion,0-2,Exeter City
+Sat Sep 24 1927,Merthyr Town,3-2,Coventry City
+Sat Sep 24 1927,Walsall,7-4,Gillingham
+Sat Sep 24 1927,Plymouth Argyle,2-0,Newport County
+Sat Sep 24 1927,Brentford,6-1,Millwall
+Sat Sep 24 1927,Watford,1-0,Luton Town
+Sat Sep 24 1927,Southend United,1-0,Torquay United
+Sat Sep 24 1927,Northampton Town,4-2,Norwich City
+Sat Oct 1 1927,Millwall,3-2,Luton Town
+Sat Oct 1 1927,Watford,1-2,Charlton Athletic
+Sat Oct 1 1927,Swindon Town,2-2,Plymouth Argyle
+Sat Oct 1 1927,Crystal Palace,0-2,Brentford
+Sat Oct 1 1927,Exeter City,4-1,AFC Bournemouth
+Sat Oct 1 1927,Coventry City,0-1,Walsall
+Sat Oct 1 1927,Newport County,1-1,Merthyr Town
+Sat Oct 1 1927,Queens Park Rangers,4-2,Bristol Rovers
+Sat Oct 1 1927,Gillingham,1-3,Northampton Town
+Sat Oct 1 1927,Norwich City,2-1,Southend United
+Sat Oct 1 1927,Torquay United,1-1,Brighton & Hove Albion
+Mon Oct 3 1927,Merthyr Town,0-0,Millwall
+Sat Oct 8 1927,Charlton Athletic,1-1,Millwall
+Sat Oct 8 1927,Brentford,1-1,Exeter City
+Sat Oct 8 1927,AFC Bournemouth,1-1,Torquay United
+Sat Oct 8 1927,Brighton & Hove Albion,1-0,Norwich City
+Sat Oct 8 1927,Walsall,0-3,Newport County
+Sat Oct 8 1927,Merthyr Town,8-2,Swindon Town
+Sat Oct 8 1927,Gillingham,1-2,Coventry City
+Sat Oct 8 1927,Plymouth Argyle,3-0,Queens Park Rangers
+Sat Oct 8 1927,Luton Town,6-1,Crystal Palace
+Sat Oct 8 1927,Bristol Rovers,3-1,Watford
+Sat Oct 8 1927,Southend United,2-0,Northampton Town
+Sat Oct 15 1927,Charlton Athletic,2-1,Bristol Rovers
+Sat Oct 15 1927,Coventry City,6-1,Southend United
+Sat Oct 15 1927,Northampton Town,1-0,Brighton & Hove Albion
+Sat Oct 15 1927,Crystal Palace,0-4,Millwall
+Sat Oct 15 1927,Queens Park Rangers,0-0,Merthyr Town
+Sat Oct 15 1927,Swindon Town,5-0,Walsall
+Sat Oct 15 1927,Exeter City,3-2,Luton Town
+Sat Oct 15 1927,Newport County,1-1,Gillingham
+Sat Oct 15 1927,Norwich City,3-3,AFC Bournemouth
+Sat Oct 15 1927,Watford,1-2,Plymouth Argyle
+Sat Oct 15 1927,Torquay United,2-1,Brentford
+Sat Oct 22 1927,Brighton & Hove Albion,0-0,Walsall
+Sat Oct 22 1927,Brentford,4-1,Coventry City
+Sat Oct 22 1927,Norwich City,4-2,Bristol Rovers
+Sat Oct 22 1927,Crystal Palace,1-1,Queens Park Rangers
+Sat Oct 22 1927,Millwall,3-3,Swindon Town
+Sat Oct 22 1927,Exeter City,3-3,Watford
+Sat Oct 22 1927,Northampton Town,2-1,Plymouth Argyle
+Sat Oct 22 1927,Luton Town,1-1,Newport County
+Sat Oct 22 1927,AFC Bournemouth,3-0,Gillingham
+Sat Oct 22 1927,Southend United,2-1,Merthyr Town
+Sat Oct 22 1927,Torquay United,1-2,Charlton Athletic
+Sat Oct 29 1927,Charlton Athletic,0-0,Exeter City
+Sat Oct 29 1927,Bristol Rovers,5-1,Torquay United
+Sat Oct 29 1927,Gillingham,0-1,Brighton & Hove Albion
+Sat Oct 29 1927,Newport County,3-0,Brentford
+Sat Oct 29 1927,Plymouth Argyle,4-2,Norwich City
+Sat Oct 29 1927,Coventry City,3-2,AFC Bournemouth
+Sat Oct 29 1927,Queens Park Rangers,0-1,Millwall
+Sat Oct 29 1927,Watford,2-1,Crystal Palace
+Sat Oct 29 1927,Merthyr Town,1-3,Northampton Town
+Sat Oct 29 1927,Swindon Town,4-2,Luton Town
+Sat Oct 29 1927,Walsall,0-1,Southend United
+Sat Nov 5 1927,Millwall,4-2,Watford
+Sat Nov 5 1927,Exeter City,4-1,Bristol Rovers
+Sat Nov 5 1927,Northampton Town,10-0,Walsall
+Sat Nov 5 1927,Crystal Palace,5-0,Charlton Athletic
+Sat Nov 5 1927,Brighton & Hove Albion,3-0,Coventry City
+Sat Nov 5 1927,Norwich City,4-0,Merthyr Town
+Sat Nov 5 1927,AFC Bournemouth,0-0,Newport County
+Sat Nov 5 1927,Brentford,1-4,Swindon Town
+Sat Nov 5 1927,Luton Town,0-1,Queens Park Rangers
+Sat Nov 5 1927,Torquay United,1-2,Plymouth Argyle
+Sat Nov 5 1927,Southend United,1-2,Gillingham
+Sat Nov 12 1927,Queens Park Rangers,0-1,Exeter City
+Sat Nov 12 1927,Merthyr Town,4-2,Brighton & Hove Albion
+Sat Nov 12 1927,Newport County,1-3,Millwall
+Sat Nov 12 1927,Coventry City,4-2,Luton Town
+Sat Nov 12 1927,Swindon Town,3-3,Crystal Palace
+Sat Nov 12 1927,Gillingham,2-1,Brentford
+Sat Nov 12 1927,Plymouth Argyle,3-2,Southend United
+Sat Nov 12 1927,Bristol Rovers,2-2,Northampton Town
+Sat Nov 12 1927,Watford,1-2,Torquay United
+Sat Nov 12 1927,Charlton Athletic,3-2,Norwich City
+Sat Nov 12 1927,Walsall,2-3,AFC Bournemouth
+Sat Nov 19 1927,Southend United,2-1,Bristol Rovers
+Sat Nov 19 1927,Torquay United,1-0,Queens Park Rangers
+Sat Nov 19 1927,Luton Town,6-1,Gillingham
+Sat Nov 19 1927,Northampton Town,2-1,Charlton Athletic
+Sat Nov 19 1927,Brighton & Hove Albion,4-1,Plymouth Argyle
+Sat Nov 19 1927,Millwall,9-1,Coventry City
+Sat Nov 19 1927,AFC Bournemouth,2-1,Merthyr Town
+Sat Nov 19 1927,Crystal Palace,2-0,Newport County
+Sat Nov 19 1927,Exeter City,0-0,Swindon Town
+Sat Nov 19 1927,Norwich City,1-1,Watford
+Sat Dec 3 1927,Luton Town,5-1,Merthyr Town
+Sat Dec 3 1927,Brighton & Hove Albion,2-2,Charlton Athletic
+Sat Dec 3 1927,Norwich City,1-3,Swindon Town
+Sat Dec 3 1927,Millwall,7-1,Walsall
+Sat Dec 3 1927,Torquay United,1-1,Newport County
+Sat Dec 3 1927,AFC Bournemouth,4-3,Bristol Rovers
+Sat Dec 3 1927,Exeter City,0-1,Coventry City
+Sat Dec 3 1927,Brentford,0-2,Plymouth Argyle
+Sat Dec 3 1927,Northampton Town,1-0,Queens Park Rangers
+Sat Dec 3 1927,Southend United,3-0,Watford
+Sat Dec 3 1927,Crystal Palace,2-2,Gillingham
+Mon Dec 5 1927,Brentford,3-2,Walsall
+Sat Dec 10 1927,Merthyr Town,3-1,Brentford
+Sat Dec 10 1927,Coventry City,2-3,Watford
+Sat Dec 10 1927,Walsall,4-0,Torquay United
+Sat Dec 10 1927,Plymouth Argyle,3-2,Millwall
+Sat Dec 17 1927,Norwich City,0-2,Coventry City
+Sat Dec 17 1927,Northampton Town,1-2,Newport County
+Sat Dec 17 1927,Crystal Palace,2-0,Merthyr Town
+Sat Dec 17 1927,Exeter City,3-0,Walsall
+Sat Dec 17 1927,Brentford,1-1,Charlton Athletic
+Sat Dec 17 1927,Millwall,2-0,Plymouth Argyle
+Sat Dec 17 1927,Torquay United,1-1,Gillingham
+Sat Dec 17 1927,Luton Town,2-0,Bristol Rovers
+Sat Dec 17 1927,AFC Bournemouth,1-0,Watford
+Sat Dec 17 1927,Brighton & Hove Albion,1-3,Queens Park Rangers
+Sat Dec 24 1927,Bristol Rovers,1-6,Millwall
+Sat Dec 24 1927,Charlton Athletic,4-3,Luton Town
+Sat Dec 24 1927,Newport County,3-2,Southend United
+Sat Dec 24 1927,Merthyr Town,0-3,Exeter City
+Sat Dec 24 1927,Swindon Town,4-3,Brighton & Hove Albion
+Sat Dec 24 1927,Watford,1-1,Brentford
+Sat Dec 24 1927,Plymouth Argyle,5-1,Crystal Palace
+Sat Dec 24 1927,Gillingham,3-0,Norwich City
+Sat Dec 24 1927,Coventry City,2-4,Northampton Town
+Sat Dec 24 1927,Queens Park Rangers,2-0,AFC Bournemouth
+Mon Dec 26 1927,Merthyr Town,2-3,Bristol Rovers
+Mon Dec 26 1927,Southend United,3-2,Brentford
+Mon Dec 26 1927,Northampton Town,6-5,Luton Town
+Mon Dec 26 1927,AFC Bournemouth,3-1,Brighton & Hove Albion
+Mon Dec 26 1927,Exeter City,2-0,Plymouth Argyle
+Mon Dec 26 1927,Newport County,1-3,Swindon Town
+Tue Dec 27 1927,Millwall,2-1,Norwich City
+Tue Dec 27 1927,Walsall,1-0,Charlton Athletic
+Tue Dec 27 1927,Coventry City,0-0,Queens Park Rangers
+Tue Dec 27 1927,Bristol Rovers,2-1,Merthyr Town
+Tue Dec 27 1927,Gillingham,0-3,Watford
+Tue Dec 27 1927,Plymouth Argyle,1-2,Exeter City
+Tue Dec 27 1927,Swindon Town,4-1,Newport County
+Tue Dec 27 1927,Torquay United,0-2,Crystal Palace
+Tue Dec 27 1927,Brighton & Hove Albion,3-2,AFC Bournemouth
+Sat Dec 31 1927,Brentford,1-3,Brighton & Hove Albion
+Sat Dec 31 1927,Crystal Palace,2-1,Norwich City
+Sat Dec 31 1927,Luton Town,0-0,Southend United
+Sat Dec 31 1927,Millwall,3-0,Northampton Town
+Sat Dec 31 1927,Exeter City,5-0,Torquay United
+Sat Dec 31 1927,Gillingham,1-1,Charlton Athletic
+Sat Dec 31 1927,Walsall,1-2,Bristol Rovers
+Sat Jan 7 1928,AFC Bournemouth,1-0,Brentford
+Sat Jan 7 1928,Torquay United,2-2,Merthyr Town
+Sat Jan 7 1928,Northampton Town,1-1,Crystal Palace
+Sat Jan 7 1928,Queens Park Rangers,0-1,Swindon Town
+Sat Jan 7 1928,Plymouth Argyle,2-1,Walsall
+Sat Jan 7 1928,Norwich City,2-2,Exeter City
+Sat Jan 7 1928,Charlton Athletic,2-1,Coventry City
+Sat Jan 7 1928,Bristol Rovers,2-4,Gillingham
+Sat Jan 7 1928,Southend United,0-1,Millwall
+Sat Jan 7 1928,Watford,2-3,Newport County
+Sat Jan 7 1928,Brighton & Hove Albion,3-1,Luton Town
+Sat Jan 14 1928,Newport County,2-2,Norwich City
+Sat Jan 14 1928,Watford,3-3,Brighton & Hove Albion
+Sat Jan 14 1928,Merthyr Town,1-4,Plymouth Argyle
+Sat Jan 14 1928,Queens Park Rangers,3-2,Southend United
+Sat Jan 14 1928,Walsall,1-1,Crystal Palace
+Sat Jan 14 1928,Coventry City,5-1,Torquay United
+Sat Jan 21 1928,Newport County,4-3,Charlton Athletic
+Sat Jan 21 1928,Gillingham,3-1,Plymouth Argyle
+Sat Jan 21 1928,Torquay United,4-2,Norwich City
+Sat Jan 21 1928,Brentford,0-3,Queens Park Rangers
+Sat Jan 21 1928,Exeter City,1-1,Northampton Town
+Sat Jan 21 1928,Walsall,2-2,Merthyr Town
+Sat Jan 21 1928,Swindon Town,4-0,Watford
+Sat Jan 21 1928,Coventry City,2-3,Bristol Rovers
+Sat Jan 21 1928,Millwall,6-0,Brighton & Hove Albion
+Sat Jan 21 1928,Crystal Palace,4-1,Southend United
+Sat Jan 21 1928,Luton Town,3-3,AFC Bournemouth
+Sat Jan 28 1928,AFC Bournemouth,5-0,Millwall
+Sat Jan 28 1928,Brentford,4-2,Luton Town
+Sat Jan 28 1928,Northampton Town,4-4,Torquay United
+Sat Jan 28 1928,Watford,3-3,Queens Park Rangers
+Sat Jan 28 1928,Norwich City,1-4,Walsall
+Sat Jan 28 1928,Bristol Rovers,2-1,Newport County
+Sat Jan 28 1928,Brighton & Hove Albion,4-2,Crystal Palace
+Sat Jan 28 1928,Plymouth Argyle,4-0,Coventry City
+Sat Feb 4 1928,Norwich City,3-4,Northampton Town
+Sat Feb 4 1928,Torquay United,3-3,Southend United
+Sat Feb 4 1928,Millwall,3-0,Brentford
+Sat Feb 4 1928,Swindon Town,2-1,Bristol Rovers
+Sat Feb 4 1928,Exeter City,0-3,Brighton & Hove Albion
+Sat Feb 4 1928,Luton Town,3-2,Watford
+Sat Feb 4 1928,Crystal Palace,6-1,AFC Bournemouth
+Sat Feb 4 1928,Coventry City,1-2,Merthyr Town
+Sat Feb 4 1928,Gillingham,2-0,Walsall
+Sat Feb 4 1928,Queens Park Rangers,3-3,Charlton Athletic
+Sat Feb 4 1928,Newport County,1-1,Plymouth Argyle
+Thu Feb 9 1928,Charlton Athletic,1-3,Walsall
+Sat Feb 11 1928,Plymouth Argyle,3-0,Swindon Town
+Sat Feb 11 1928,Southend United,1-1,Norwich City
+Sat Feb 11 1928,Brighton & Hove Albion,3-0,Torquay United
+Sat Feb 11 1928,Brentford,2-1,Crystal Palace
+Sat Feb 11 1928,Walsall,7-0,Coventry City
+Sat Feb 11 1928,Charlton Athletic,0-2,Watford
+Sat Feb 11 1928,Merthyr Town,0-2,Newport County
+Sat Feb 11 1928,AFC Bournemouth,2-0,Exeter City
+Sat Feb 11 1928,Bristol Rovers,0-4,Queens Park Rangers
+Sat Feb 11 1928,Northampton Town,1-0,Gillingham
+Sat Feb 11 1928,Luton Town,1-1,Millwall
+Mon Feb 13 1928,Coventry City,2-2,Crystal Palace
+Wed Feb 15 1928,Southend United,1-2,Exeter City
+Sat Feb 18 1928,Northampton Town,2-1,Southend United
+Sat Feb 18 1928,Newport County,4-1,Walsall
+Sat Feb 18 1928,Queens Park Rangers,0-1,Plymouth Argyle
+Sat Feb 18 1928,Coventry City,1-2,Gillingham
+Sat Feb 18 1928,Exeter City,0-1,Brentford
+Sat Feb 18 1928,Torquay United,2-2,AFC Bournemouth
+Sat Feb 18 1928,Millwall,5-0,Charlton Athletic
+Sat Feb 18 1928,Watford,2-1,Bristol Rovers
+Sat Feb 18 1928,Crystal Palace,3-2,Luton Town
+Sat Feb 18 1928,Norwich City,0-0,Brighton & Hove Albion
+Sat Feb 18 1928,Swindon Town,1-2,Merthyr Town
+Sat Feb 25 1928,AFC Bournemouth,2-1,Norwich City
+Sat Feb 25 1928,Brighton & Hove Albion,2-1,Northampton Town
+Sat Feb 25 1928,Gillingham,4-0,Newport County
+Sat Feb 25 1928,Southend United,3-2,Coventry City
+Sat Feb 25 1928,Merthyr Town,0-4,Queens Park Rangers
+Sat Feb 25 1928,Millwall,1-1,Crystal Palace
+Sat Feb 25 1928,Bristol Rovers,2-1,Charlton Athletic
+Sat Feb 25 1928,Plymouth Argyle,0-1,Watford
+Sat Feb 25 1928,Brentford,1-2,Torquay United
+Sat Feb 25 1928,Walsall,1-2,Swindon Town
+Sat Feb 25 1928,Luton Town,2-1,Exeter City
+Sat Mar 3 1928,Charlton Athletic,1-0,Torquay United
+Sat Mar 3 1928,Plymouth Argyle,3-3,Northampton Town
+Sat Mar 3 1928,Merthyr Town,2-3,Southend United
+Sat Mar 3 1928,Queens Park Rangers,2-0,Crystal Palace
+Sat Mar 3 1928,Coventry City,0-0,Brentford
+Sat Mar 3 1928,Bristol Rovers,3-0,Norwich City
+Sat Mar 3 1928,Swindon Town,3-0,Millwall
+Sat Mar 3 1928,Watford,3-2,Exeter City
+Sat Mar 3 1928,Walsall,3-3,Brighton & Hove Albion
+Sat Mar 3 1928,Gillingham,2-1,AFC Bournemouth
+Sat Mar 3 1928,Newport County,7-2,Luton Town
+Sat Mar 10 1928,Northampton Town,6-0,Merthyr Town
+Sat Mar 10 1928,Brighton & Hove Albion,0-0,Gillingham
+Sat Mar 10 1928,Exeter City,2-1,Charlton Athletic
+Sat Mar 10 1928,Brentford,3-1,Newport County
+Sat Mar 10 1928,AFC Bournemouth,2-3,Coventry City
+Sat Mar 10 1928,Millwall,6-1,Queens Park Rangers
+Sat Mar 10 1928,Norwich City,2-0,Plymouth Argyle
+Sat Mar 10 1928,Luton Town,2-1,Swindon Town
+Sat Mar 10 1928,Torquay United,0-0,Bristol Rovers
+Sat Mar 10 1928,Southend United,2-1,Walsall
+Sat Mar 10 1928,Crystal Palace,2-1,Watford
+Mon Mar 12 1928,Merthyr Town,3-1,Gillingham
+Wed Mar 14 1928,Crystal Palace,3-2,Torquay United
+Wed Mar 14 1928,Southend United,1-1,Swindon Town
+Sat Mar 17 1928,Charlton Athletic,0-4,Crystal Palace
+Sat Mar 17 1928,Plymouth Argyle,4-1,Torquay United
+Sat Mar 17 1928,Watford,0-3,Millwall
+Sat Mar 17 1928,Walsall,1-1,Northampton Town
+Sat Mar 17 1928,Gillingham,1-0,Southend United
+Sat Mar 17 1928,Queens Park Rangers,3-2,Luton Town
+Sat Mar 17 1928,Swindon Town,1-1,Brentford
+Sat Mar 17 1928,Bristol Rovers,1-2,Exeter City
+Sat Mar 17 1928,Coventry City,2-2,Brighton & Hove Albion
+Sat Mar 17 1928,Merthyr Town,1-1,Norwich City
+Sat Mar 17 1928,Newport County,4-3,AFC Bournemouth
+Mon Mar 19 1928,Luton Town,2-0,Northampton Town
+Wed Mar 21 1928,Swindon Town,3-2,AFC Bournemouth
+Thu Mar 22 1928,Newport County,1-0,Exeter City
+Sat Mar 24 1928,Exeter City,4-0,Queens Park Rangers
+Sat Mar 24 1928,Crystal Palace,1-0,Swindon Town
+Sat Mar 24 1928,Norwich City,0-0,Charlton Athletic
+Sat Mar 24 1928,Millwall,5-1,Newport County
+Sat Mar 24 1928,Brighton & Hove Albion,5-0,Merthyr Town
+Sat Mar 24 1928,Southend United,3-0,Plymouth Argyle
+Sat Mar 24 1928,Luton Town,3-1,Coventry City
+Sat Mar 24 1928,Torquay United,1-1,Watford
+Sat Mar 24 1928,AFC Bournemouth,3-1,Walsall
+Sat Mar 24 1928,Northampton Town,2-0,Bristol Rovers
+Sat Mar 24 1928,Brentford,2-0,Gillingham
+Mon Mar 26 1928,Charlton Athletic,1-2,Southend United
+Wed Mar 28 1928,Gillingham,1-1,Exeter City
+Sat Mar 31 1928,Merthyr Town,1-1,AFC Bournemouth
+Sat Mar 31 1928,Coventry City,0-3,Millwall
+Sat Mar 31 1928,Plymouth Argyle,2-0,Brighton & Hove Albion
+Sat Mar 31 1928,Walsall,4-2,Brentford
+Sat Mar 31 1928,Gillingham,0-4,Luton Town
+Sat Mar 31 1928,Queens Park Rangers,2-3,Torquay United
+Sat Mar 31 1928,Charlton Athletic,2-2,Northampton Town
+Sat Mar 31 1928,Bristol Rovers,1-3,Southend United
+Sat Mar 31 1928,Swindon Town,3-0,Exeter City
+Sat Mar 31 1928,Watford,2-0,Norwich City
+Fri Apr 6 1928,Millwall,2-0,Exeter City
+Fri Apr 6 1928,Newport County,1-6,Queens Park Rangers
+Fri Apr 6 1928,Brentford,3-1,Norwich City
+Fri Apr 6 1928,Luton Town,5-0,Torquay United
+Fri Apr 6 1928,Charlton Athletic,2-0,Plymouth Argyle
+Fri Apr 6 1928,Gillingham,0-1,Swindon Town
+Fri Apr 6 1928,Brighton & Hove Albion,1-0,Southend United
+Fri Apr 6 1928,Crystal Palace,3-2,Bristol Rovers
+Sat Apr 7 1928,Torquay United,2-3,Coventry City
+Sat Apr 7 1928,Millwall,3-0,Merthyr Town
+Sat Apr 7 1928,Brentford,5-1,Bristol Rovers
+Sat Apr 7 1928,Northampton Town,3-0,Swindon Town
+Sat Apr 7 1928,Southend United,7-0,Queens Park Rangers
+Sat Apr 7 1928,Brighton & Hove Albion,1-1,Watford
+Sat Apr 7 1928,Exeter City,2-2,Gillingham
+Sat Apr 7 1928,AFC Bournemouth,3-1,Charlton Athletic
+Sat Apr 7 1928,Crystal Palace,5-1,Walsall
+Sat Apr 7 1928,Luton Town,1-1,Plymouth Argyle
+Sat Apr 7 1928,Norwich City,1-1,Newport County
+Mon Apr 9 1928,Watford,1-1,Merthyr Town
+Mon Apr 9 1928,Torquay United,0-4,Luton Town
+Mon Apr 9 1928,Southend United,0-1,Brighton & Hove Albion
+Mon Apr 9 1928,Plymouth Argyle,2-0,Charlton Athletic
+Mon Apr 9 1928,Queens Park Rangers,1-1,Walsall
+Mon Apr 9 1928,Swindon Town,6-1,Gillingham
+Mon Apr 9 1928,Newport County,3-0,Coventry City
+Mon Apr 9 1928,Bristol Rovers,1-1,Crystal Palace
+Mon Apr 9 1928,AFC Bournemouth,1-1,Northampton Town
+Mon Apr 9 1928,Exeter City,2-4,Millwall
+Mon Apr 9 1928,Norwich City,1-1,Brentford
+Tue Apr 10 1928,Northampton Town,1-1,AFC Bournemouth
+Tue Apr 10 1928,Coventry City,0-2,Newport County
+Tue Apr 10 1928,Merthyr Town,3-1,Watford
+Tue Apr 10 1928,Walsall,2-2,Queens Park Rangers
+Sat Apr 14 1928,Plymouth Argyle,1-0,Brentford
+Sat Apr 14 1928,Bristol Rovers,3-0,AFC Bournemouth
+Sat Apr 14 1928,Newport County,2-2,Torquay United
+Sat Apr 14 1928,Coventry City,0-0,Exeter City
+Sat Apr 14 1928,Swindon Town,1-1,Norwich City
+Sat Apr 14 1928,Merthyr Town,0-0,Luton Town
+Sat Apr 14 1928,Gillingham,3-1,Crystal Palace
+Sat Apr 14 1928,Queens Park Rangers,0-4,Northampton Town
+Sat Apr 14 1928,Watford,1-1,Southend United
+Sat Apr 14 1928,Charlton Athletic,3-0,Brighton & Hove Albion
+Sat Apr 14 1928,Walsall,2-5,Millwall
+Mon Apr 16 1928,Charlton Athletic,1-1,AFC Bournemouth
+Wed Apr 18 1928,Watford,2-0,Northampton Town
+Wed Apr 18 1928,Bristol Rovers,1-0,Swindon Town
+Sat Apr 21 1928,Luton Town,4-1,Walsall
+Sat Apr 21 1928,Exeter City,5-1,Newport County
+Sat Apr 21 1928,Southend United,1-2,Charlton Athletic
+Sat Apr 21 1928,Brentford,4-0,Merthyr Town
+Sat Apr 21 1928,Torquay United,2-1,Swindon Town
+Sat Apr 21 1928,Crystal Palace,1-0,Coventry City
+Sat Apr 21 1928,Brighton & Hove Albion,5-0,Bristol Rovers
+Sat Apr 21 1928,Millwall,6-0,Gillingham
+Sat Apr 21 1928,Norwich City,3-1,Queens Park Rangers
+Sat Apr 21 1928,AFC Bournemouth,2-2,Plymouth Argyle
+Sat Apr 21 1928,Northampton Town,5-0,Watford
+Mon Apr 23 1928,Bristol Rovers,1-0,Brighton & Hove Albion
+Mon Apr 23 1928,Walsall,4-1,Luton Town
+Mon Apr 23 1928,Brentford,2-2,Southend United
+Wed Apr 25 1928,Swindon Town,4-0,Northampton Town
+Wed Apr 25 1928,Plymouth Argyle,3-1,AFC Bournemouth
+Wed Apr 25 1928,Gillingham,0-1,Millwall
+Thu Apr 26 1928,Newport County,0-3,Crystal Palace
+Thu Apr 26 1928,Queens Park Rangers,1-5,Coventry City
+Sat Apr 28 1928,Merthyr Town,2-2,Crystal Palace
+Sat Apr 28 1928,Gillingham,4-1,Torquay United
+Sat Apr 28 1928,Swindon Town,0-1,Southend United
+Sat Apr 28 1928,Walsall,5-1,Exeter City
+Sat Apr 28 1928,Bristol Rovers,1-2,Luton Town
+Sat Apr 28 1928,Watford,2-0,AFC Bournemouth
+Sat Apr 28 1928,Charlton Athletic,3-2,Brentford
+Sat Apr 28 1928,Coventry City,2-2,Norwich City
+Sat Apr 28 1928,Queens Park Rangers,5-0,Brighton & Hove Albion
+Sat Apr 28 1928,Newport County,4-1,Northampton Town
+Mon Apr 30 1928,Norwich City,2-0,Millwall
+Mon Apr 30 1928,Charlton Athletic,3-1,Swindon Town
+Wed May 2 1928,Plymouth Argyle,4-0,Luton Town
+Wed May 2 1928,Watford,5-3,Gillingham
+Wed May 2 1928,Swindon Town,2-2,Torquay United
+Thu May 3 1928,Queens Park Rangers,0-0,Norwich City
+Sat May 5 1928,Torquay United,1-1,Walsall
+Sat May 5 1928,Brighton & Hove Albion,4-2,Swindon Town
+Sat May 5 1928,Brentford,1-1,Watford
+Sat May 5 1928,Millwall,1-0,Bristol Rovers
+Sat May 5 1928,Exeter City,2-0,Merthyr Town
+Sat May 5 1928,Southend United,5-1,Newport County
+Sat May 5 1928,Crystal Palace,0-2,Plymouth Argyle
+Sat May 5 1928,Northampton Town,2-1,Coventry City
+Sat May 5 1928,Luton Town,2-1,Charlton Athletic
+Sat May 5 1928,Norwich City,0-0,Gillingham

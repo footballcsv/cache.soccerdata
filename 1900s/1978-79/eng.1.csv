@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 19 1978,Bolton Wanderers,1-2,Bristol City
+Sat Aug 19 1978,Chelsea,0-1,Everton
+Sat Aug 19 1978,Liverpool,2-1,Queens Park Rangers
+Sat Aug 19 1978,Middlesbrough,1-2,Coventry City
+Sat Aug 19 1978,Aston Villa,1-0,Wolverhampton Wanderers
+Sat Aug 19 1978,Manchester United,1-0,Birmingham City
+Sat Aug 19 1978,West Bromwich Albion,2-1,Ipswich Town
+Sat Aug 19 1978,Nottingham Forest,1-1,Tottenham Hotspur
+Sat Aug 19 1978,Derby County,1-1,Manchester City
+Sat Aug 19 1978,Norwich City,3-1,Southampton
+Sat Aug 19 1978,Arsenal,2-2,Leeds United
+Tue Aug 22 1978,Wolverhampton Wanderers,0-1,Chelsea
+Tue Aug 22 1978,Coventry City,0-0,Nottingham Forest
+Tue Aug 22 1978,Queens Park Rangers,0-1,West Bromwich Albion
+Tue Aug 22 1978,Birmingham City,1-3,Middlesbrough
+Tue Aug 22 1978,Ipswich Town,0-3,Liverpool
+Tue Aug 22 1978,Bristol City,1-1,Norwich City
+Tue Aug 22 1978,Everton,2-1,Derby County
+Tue Aug 22 1978,Southampton,2-2,Bolton Wanderers
+Tue Aug 22 1978,Manchester City,1-1,Arsenal
+Wed Aug 23 1978,Tottenham Hotspur,1-4,Aston Villa
+Wed Aug 23 1978,Leeds United,2-3,Manchester United
+Sat Aug 26 1978,Ipswich Town,3-0,Manchester United
+Sat Aug 26 1978,Leeds United,3-0,Wolverhampton Wanderers
+Sat Aug 26 1978,Southampton,2-1,Middlesbrough
+Sat Aug 26 1978,West Bromwich Albion,4-0,Bolton Wanderers
+Sat Aug 26 1978,Queens Park Rangers,0-0,Nottingham Forest
+Sat Aug 26 1978,Bristol City,1-0,Aston Villa
+Sat Aug 26 1978,Tottenham Hotspur,2-2,Chelsea
+Sat Aug 26 1978,Coventry City,4-1,Norwich City
+Sat Aug 26 1978,Manchester City,1-4,Liverpool
+Sat Aug 26 1978,Everton,1-0,Arsenal
+Sat Aug 26 1978,Birmingham City,1-1,Derby County
+Sat Sep 2 1978,Norwich City,1-1,Manchester City
+Sat Sep 2 1978,Bolton Wanderers,2-2,Birmingham City
+Sat Sep 2 1978,Arsenal,5-1,Queens Park Rangers
+Sat Sep 2 1978,Manchester United,1-1,Everton
+Sat Sep 2 1978,Liverpool,7-0,Tottenham Hotspur
+Sat Sep 2 1978,Aston Villa,1-1,Southampton
+Sat Sep 2 1978,Wolverhampton Wanderers,2-0,Bristol City
+Sat Sep 2 1978,Nottingham Forest,0-0,West Bromwich Albion
+Sat Sep 2 1978,Derby County,0-2,Coventry City
+Sat Sep 2 1978,Middlesbrough,0-0,Ipswich Town
+Sat Sep 2 1978,Chelsea,0-3,Leeds United
+Sat Sep 9 1978,Tottenham Hotspur,1-0,Bristol City
+Sat Sep 9 1978,Ipswich Town,0-2,Aston Villa
+Sat Sep 9 1978,Coventry City,3-2,Chelsea
+Sat Sep 9 1978,Everton,2-0,Middlesbrough
+Sat Sep 9 1978,West Bromwich Albion,2-2,Norwich City
+Sat Sep 9 1978,Southampton,3-2,Wolverhampton Wanderers
+Sat Sep 9 1978,Bolton Wanderers,2-1,Derby County
+Sat Sep 9 1978,Manchester City,3-0,Leeds United
+Sat Sep 9 1978,Birmingham City,0-3,Liverpool
+Sat Sep 9 1978,Nottingham Forest,2-1,Arsenal
+Sat Sep 9 1978,Queens Park Rangers,1-1,Manchester United
+Sat Sep 16 1978,Liverpool,1-0,Coventry City
+Sat Sep 16 1978,Aston Villa,1-1,Everton
+Sat Sep 16 1978,Middlesbrough,0-2,Queens Park Rangers
+Sat Sep 16 1978,Manchester United,1-1,Nottingham Forest
+Sat Sep 16 1978,Leeds United,1-2,Tottenham Hotspur
+Sat Sep 16 1978,Wolverhampton Wanderers,1-3,Ipswich Town
+Sat Sep 16 1978,Norwich City,4-0,Birmingham City
+Sat Sep 16 1978,Arsenal,1-0,Bolton Wanderers
+Sat Sep 16 1978,Chelsea,1-4,Manchester City
+Sat Sep 16 1978,Derby County,3-2,West Bromwich Albion
+Sat Sep 16 1978,Bristol City,3-1,Southampton
+Sat Sep 23 1978,Derby County,2-1,Southampton
+Sat Sep 23 1978,Coventry City,0-0,Leeds United
+Sat Sep 23 1978,Nottingham Forest,2-2,Middlesbrough
+Sat Sep 23 1978,Ipswich Town,0-1,Bristol City
+Sat Sep 23 1978,Arsenal,1-1,Manchester United
+Sat Sep 23 1978,Everton,2-0,Wolverhampton Wanderers
+Sat Sep 23 1978,Queens Park Rangers,1-0,Aston Villa
+Sat Sep 23 1978,West Bromwich Albion,1-1,Liverpool
+Sat Sep 23 1978,Bolton Wanderers,3-2,Norwich City
+Sat Sep 23 1978,Birmingham City,1-1,Chelsea
+Sat Sep 23 1978,Manchester City,2-0,Tottenham Hotspur
+Sat Sep 30 1978,Middlesbrough,2-3,Arsenal
+Sat Sep 30 1978,Tottenham Hotspur,1-1,Coventry City
+Sat Sep 30 1978,Chelsea,1-3,West Bromwich Albion
+Sat Sep 30 1978,Aston Villa,1-2,Nottingham Forest
+Sat Sep 30 1978,Wolverhampton Wanderers,1-0,Queens Park Rangers
+Sat Sep 30 1978,Southampton,1-2,Ipswich Town
+Sat Sep 30 1978,Norwich City,3-0,Derby County
+Sat Sep 30 1978,Liverpool,3-0,Bolton Wanderers
+Sat Sep 30 1978,Bristol City,2-2,Everton
+Sat Sep 30 1978,Manchester United,1-0,Manchester City
+Sat Sep 30 1978,Leeds United,3-0,Birmingham City
+Sat Oct 7 1978,Norwich City,1-4,Liverpool
+Sat Oct 7 1978,Nottingham Forest,3-1,Wolverhampton Wanderers
+Sat Oct 7 1978,West Bromwich Albion,0-1,Tottenham Hotspur
+Sat Oct 7 1978,Birmingham City,1-2,Manchester City
+Sat Oct 7 1978,Everton,0-0,Southampton
+Sat Oct 7 1978,Manchester United,3-2,Middlesbrough
+Sat Oct 7 1978,Derby County,1-0,Chelsea
+Sat Oct 7 1978,Queens Park Rangers,1-0,Bristol City
+Sat Oct 7 1978,Coventry City,2-2,Ipswich Town
+Sat Oct 7 1978,Bolton Wanderers,3-1,Leeds United
+Sat Oct 7 1978,Arsenal,1-1,Aston Villa
+Sat Oct 14 1978,Bristol City,1-3,Nottingham Forest
+Sat Oct 14 1978,Southampton,1-1,Queens Park Rangers
+Sat Oct 14 1978,Liverpool,5-0,Derby County
+Sat Oct 14 1978,Middlesbrough,2-0,Norwich City
+Sat Oct 14 1978,Wolverhampton Wanderers,1-0,Arsenal
+Sat Oct 14 1978,Aston Villa,2-2,Manchester United
+Sat Oct 14 1978,Tottenham Hotspur,1-0,Birmingham City
+Sat Oct 14 1978,Ipswich Town,0-1,Everton
+Sat Oct 14 1978,Leeds United,1-3,West Bromwich Albion
+Sat Oct 14 1978,Chelsea,4-3,Bolton Wanderers
+Sat Oct 14 1978,Manchester City,2-0,Coventry City
+Sat Oct 21 1978,Derby County,2-2,Tottenham Hotspur
+Sat Oct 21 1978,Norwich City,2-2,Leeds United
+Sat Oct 21 1978,Arsenal,1-0,Southampton
+Sat Oct 21 1978,Liverpool,2-0,Chelsea
+Sat Oct 21 1978,Queens Park Rangers,1-1,Everton
+Sat Oct 21 1978,Birmingham City,0-1,Aston Villa
+Sat Oct 21 1978,Nottingham Forest,1-0,Ipswich Town
+Sat Oct 21 1978,Bolton Wanderers,2-2,Manchester City
+Sat Oct 21 1978,Middlesbrough,2-0,Wolverhampton Wanderers
+Sat Oct 21 1978,Manchester United,1-3,Bristol City
+Sat Oct 21 1978,West Bromwich Albion,7-1,Coventry City
+Fri Oct 27 1978,Aston Villa,0-2,Middlesbrough
+Sat Oct 28 1978,Wolverhampton Wanderers,2-4,Manchester United
+Sat Oct 28 1978,Tottenham Hotspur,2-0,Bolton Wanderers
+Sat Oct 28 1978,Bristol City,1-3,Arsenal
+Sat Oct 28 1978,Manchester City,2-2,West Bromwich Albion
+Sat Oct 28 1978,Everton,1-0,Liverpool
+Sat Oct 28 1978,Leeds United,4-0,Derby County
+Sat Oct 28 1978,Coventry City,2-1,Birmingham City
+Sat Oct 28 1978,Ipswich Town,2-1,Queens Park Rangers
+Sat Oct 28 1978,Chelsea,3-3,Norwich City
+Sat Oct 28 1978,Southampton,0-0,Nottingham Forest
+Sat Nov 4 1978,Derby County,4-1,Wolverhampton Wanderers
+Sat Nov 4 1978,Aston Villa,1-1,Manchester City
+Sat Nov 4 1978,Bolton Wanderers,0-0,Coventry City
+Sat Nov 4 1978,Manchester United,1-1,Southampton
+Sat Nov 4 1978,West Bromwich Albion,1-0,Birmingham City
+Sat Nov 4 1978,Middlesbrough,0-0,Bristol City
+Sat Nov 4 1978,Arsenal,4-1,Ipswich Town
+Sat Nov 4 1978,Norwich City,2-2,Tottenham Hotspur
+Sat Nov 4 1978,Nottingham Forest,0-0,Everton
+Sat Nov 4 1978,Queens Park Rangers,0-0,Chelsea
+Sat Nov 4 1978,Liverpool,1-1,Leeds United
+Sat Nov 11 1978,Tottenham Hotspur,1-3,Nottingham Forest
+Sat Nov 11 1978,Manchester City,1-2,Derby County
+Sat Nov 11 1978,Southampton,2-2,Norwich City
+Sat Nov 11 1978,Ipswich Town,0-1,West Bromwich Albion
+Sat Nov 11 1978,Birmingham City,5-1,Manchester United
+Sat Nov 11 1978,Queens Park Rangers,1-3,Liverpool
+Sat Nov 11 1978,Bristol City,4-1,Bolton Wanderers
+Sat Nov 11 1978,Coventry City,2-1,Middlesbrough
+Sat Nov 11 1978,Everton,3-2,Chelsea
+Sat Nov 11 1978,Leeds United,0-1,Arsenal
+Sat Nov 11 1978,Wolverhampton Wanderers,0-4,Aston Villa
+Sat Nov 18 1978,Aston Villa,2-0,Bristol City
+Sat Nov 18 1978,Arsenal,2-2,Everton
+Sat Nov 18 1978,Chelsea,1-3,Tottenham Hotspur
+Sat Nov 18 1978,Middlesbrough,2-0,Southampton
+Sat Nov 18 1978,Wolverhampton Wanderers,1-1,Leeds United
+Sat Nov 18 1978,Derby County,2-1,Birmingham City
+Sat Nov 18 1978,Bolton Wanderers,0-1,West Bromwich Albion
+Sat Nov 18 1978,Nottingham Forest,0-0,Queens Park Rangers
+Sat Nov 18 1978,Norwich City,1-0,Coventry City
+Sat Nov 18 1978,Liverpool,1-0,Manchester City
+Sat Nov 18 1978,Manchester United,2-0,Ipswich Town
+Tue Nov 21 1978,Southampton,2-0,Aston Villa
+Tue Nov 21 1978,Everton,3-0,Manchester United
+Tue Nov 21 1978,Ipswich Town,2-1,Middlesbrough
+Tue Nov 21 1978,Birmingham City,3-0,Bolton Wanderers
+Tue Nov 21 1978,Coventry City,4-2,Derby County
+Tue Nov 21 1978,Bristol City,0-1,Wolverhampton Wanderers
+Wed Nov 22 1978,Leeds United,2-1,Chelsea
+Wed Nov 22 1978,Tottenham Hotspur,0-0,Liverpool
+Sat Nov 25 1978,Birmingham City,1-1,Bristol City
+Sat Nov 25 1978,Tottenham Hotspur,1-0,Wolverhampton Wanderers
+Sat Nov 25 1978,West Bromwich Albion,1-1,Aston Villa
+Sat Nov 25 1978,Norwich City,0-1,Everton
+Sat Nov 25 1978,Leeds United,4-0,Southampton
+Sat Nov 25 1978,Coventry City,1-1,Arsenal
+Sat Nov 25 1978,Liverpool,2-0,Middlesbrough
+Sat Nov 25 1978,Bolton Wanderers,0-1,Nottingham Forest
+Sat Nov 25 1978,Manchester City,1-2,Ipswich Town
+Sat Nov 25 1978,Derby County,2-1,Queens Park Rangers
+Sat Nov 25 1978,Chelsea,0-1,Manchester United
+Sat Dec 2 1978,Arsenal,1-0,Liverpool
+Sat Dec 2 1978,Bristol City,1-0,Derby County
+Sat Dec 2 1978,Queens Park Rangers,1-3,Bolton Wanderers
+Sat Dec 2 1978,Southampton,1-0,Birmingham City
+Sat Dec 2 1978,Ipswich Town,2-3,Leeds United
+Sat Dec 9 1978,Bolton Wanderers,3-1,Wolverhampton Wanderers
+Sat Dec 9 1978,Manchester City,1-2,Southampton
+Sat Dec 9 1978,Leeds United,1-1,Bristol City
+Sat Dec 9 1978,Birmingham City,1-3,Everton
+Sat Dec 9 1978,Tottenham Hotspur,1-0,Ipswich Town
+Sat Dec 9 1978,Norwich City,0-0,Arsenal
+Sat Dec 9 1978,Liverpool,2-0,Nottingham Forest
+Sat Dec 9 1978,Coventry City,1-0,Queens Park Rangers
+Sat Dec 9 1978,Chelsea,0-1,Aston Villa
+Sat Dec 9 1978,West Bromwich Albion,2-0,Middlesbrough
+Sat Dec 9 1978,Derby County,1-3,Manchester United
+Sat Dec 16 1978,Arsenal,2-0,Derby County
+Sat Dec 16 1978,Bristol City,1-0,Liverpool
+Sat Dec 16 1978,Ipswich Town,3-0,Bolton Wanderers
+Sat Dec 16 1978,Everton,1-1,Leeds United
+Sat Dec 16 1978,Aston Villa,1-1,Norwich City
+Sat Dec 16 1978,Nottingham Forest,1-0,Birmingham City
+Sat Dec 16 1978,Queens Park Rangers,2-1,Manchester City
+Sat Dec 16 1978,Middlesbrough,7-2,Chelsea
+Sat Dec 16 1978,Southampton,4-0,Coventry City
+Sat Dec 16 1978,Manchester United,2-0,Tottenham Hotspur
+Sat Dec 16 1978,Wolverhampton Wanderers,0-3,West Bromwich Albion
+Fri Dec 22 1978,Bolton Wanderers,3-0,Manchester United
+Sat Dec 23 1978,Manchester City,0-0,Nottingham Forest
+Sat Dec 23 1978,Leeds United,3-1,Middlesbrough
+Sat Dec 23 1978,Chelsea,0-0,Bristol City
+Sat Dec 23 1978,Coventry City,3-2,Everton
+Sat Dec 23 1978,Derby County,0-0,Aston Villa
+Sat Dec 23 1978,Tottenham Hotspur,0-5,Arsenal
+Tue Dec 26 1978,Southampton,0-0,Chelsea
+Tue Dec 26 1978,Arsenal,1-2,West Bromwich Albion
+Tue Dec 26 1978,Queens Park Rangers,2-2,Tottenham Hotspur
+Tue Dec 26 1978,Everton,1-0,Manchester City
+Tue Dec 26 1978,Ipswich Town,1-1,Norwich City
+Tue Dec 26 1978,Manchester United,0-3,Liverpool
+Tue Dec 26 1978,Wolverhampton Wanderers,2-1,Birmingham City
+Tue Dec 26 1978,Aston Villa,2-2,Leeds United
+Tue Dec 26 1978,Bristol City,5-0,Coventry City
+Tue Dec 26 1978,Nottingham Forest,1-1,Derby County
+Tue Dec 26 1978,Middlesbrough,1-1,Bolton Wanderers
+Sat Dec 30 1978,Ipswich Town,5-1,Chelsea
+Sat Dec 30 1978,Everton,1-1,Tottenham Hotspur
+Sat Dec 30 1978,Manchester United,3-5,West Bromwich Albion
+Sat Dec 30 1978,Wolverhampton Wanderers,1-1,Coventry City
+Sat Dec 30 1978,Bristol City,1-1,Manchester City
+Sat Dec 30 1978,Queens Park Rangers,1-4,Leeds United
+Sat Dec 30 1978,Arsenal,3-1,Birmingham City
+Mon Jan 1 1979,West Bromwich Albion,3-1,Bristol City
+Sat Jan 13 1979,Norwich City,1-1,West Bromwich Albion
+Sat Jan 13 1979,Bristol City,0-0,Tottenham Hotspur
+Sat Jan 13 1979,Leeds United,1-1,Manchester City
+Sat Jan 13 1979,Arsenal,2-1,Nottingham Forest
+Wed Jan 17 1979,Wolverhampton Wanderers,2-0,Southampton
+Sat Jan 20 1979,Tottenham Hotspur,1-2,Leeds United
+Sat Jan 20 1979,Manchester City,2-3,Chelsea
+Sat Jan 20 1979,Ipswich Town,3-1,Wolverhampton Wanderers
+Sat Jan 20 1979,Queens Park Rangers,1-1,Middlesbrough
+Wed Jan 31 1979,Everton,1-1,Aston Villa
+Wed Jan 31 1979,Norwich City,1-1,Queens Park Rangers
+Sat Feb 3 1979,Southampton,1-2,Derby County
+Sat Feb 3 1979,Norwich City,0-0,Bolton Wanderers
+Sat Feb 3 1979,Chelsea,2-1,Birmingham City
+Sat Feb 3 1979,Tottenham Hotspur,0-3,Manchester City
+Sat Feb 3 1979,Manchester United,0-2,Arsenal
+Sat Feb 3 1979,Wolverhampton Wanderers,1-0,Everton
+Sat Feb 3 1979,Bristol City,3-1,Ipswich Town
+Sat Feb 3 1979,Middlesbrough,1-3,Nottingham Forest
+Sat Feb 3 1979,Leeds United,1-0,Coventry City
+Sat Feb 3 1979,Liverpool,2-1,West Bromwich Albion
+Sat Feb 10 1979,Coventry City,1-3,Tottenham Hotspur
+Sat Feb 10 1979,Everton,4-1,Bristol City
+Sat Feb 10 1979,Queens Park Rangers,3-3,Wolverhampton Wanderers
+Sat Feb 10 1979,Birmingham City,0-1,Leeds United
+Sat Feb 10 1979,Derby County,1-1,Norwich City
+Sat Feb 10 1979,Arsenal,0-0,Middlesbrough
+Sat Feb 10 1979,Ipswich Town,0-0,Southampton
+Sat Feb 10 1979,Manchester City,0-3,Manchester United
+Tue Feb 13 1979,Queens Park Rangers,1-2,Arsenal
+Tue Feb 13 1979,Liverpool,1-0,Birmingham City
+Sat Feb 17 1979,Southampton,3-0,Everton
+Tue Feb 20 1979,Southampton,2-0,Bristol City
+Wed Feb 21 1979,Liverpool,6-0,Norwich City
+Wed Feb 21 1979,Chelsea,1-3,Coventry City
+Sat Feb 24 1979,Derby County,0-2,Liverpool
+Sat Feb 24 1979,Coventry City,0-3,Manchester City
+Sat Feb 24 1979,Manchester United,1-1,Aston Villa
+Sat Feb 24 1979,West Bromwich Albion,1-2,Leeds United
+Sat Feb 24 1979,Arsenal,0-1,Wolverhampton Wanderers
+Sat Feb 24 1979,Bolton Wanderers,2-1,Chelsea
+Sat Feb 24 1979,Birmingham City,1-0,Tottenham Hotspur
+Sat Feb 24 1979,Norwich City,1-0,Middlesbrough
+Sat Feb 24 1979,Queens Park Rangers,0-1,Southampton
+Sat Feb 24 1979,Everton,0-1,Ipswich Town
+Sat Feb 24 1979,Nottingham Forest,2-0,Bristol City
+Tue Feb 27 1979,Manchester City,2-2,Norwich City
+Wed Feb 28 1979,Derby County,0-1,Ipswich Town
+Wed Feb 28 1979,Manchester United,2-0,Queens Park Rangers
+Sat Mar 3 1979,Manchester City,2-1,Bolton Wanderers
+Sat Mar 3 1979,Wolverhampton Wanderers,1-3,Middlesbrough
+Sat Mar 3 1979,Coventry City,1-3,West Bromwich Albion
+Sat Mar 3 1979,Southampton,2-0,Arsenal
+Sat Mar 3 1979,Leeds United,2-2,Norwich City
+Sat Mar 3 1979,Chelsea,0-0,Liverpool
+Sat Mar 3 1979,Ipswich Town,1-1,Nottingham Forest
+Sat Mar 3 1979,Bristol City,1-2,Manchester United
+Sat Mar 3 1979,Aston Villa,1-0,Birmingham City
+Sat Mar 3 1979,Everton,2-1,Queens Park Rangers
+Sat Mar 3 1979,Tottenham Hotspur,2-0,Derby County
+Tue Mar 6 1979,Coventry City,0-0,Liverpool
+Tue Mar 6 1979,Middlesbrough,1-2,Everton
+Tue Mar 6 1979,Birmingham City,3-1,Queens Park Rangers
+Wed Mar 7 1979,Aston Villa,3-0,Bolton Wanderers
+Wed Mar 7 1979,Norwich City,0-0,Wolverhampton Wanderers
+Sat Mar 10 1979,Derby County,0-1,Leeds United
+Sat Mar 10 1979,Middlesbrough,2-0,Aston Villa
+Sat Mar 10 1979,Birmingham City,0-0,Coventry City
+Sat Mar 10 1979,Norwich City,2-0,Chelsea
+Sat Mar 10 1979,Arsenal,2-0,Bristol City
+Sat Mar 10 1979,Everton,1-1,Nottingham Forest
+Tue Mar 13 1979,Middlesbrough,3-1,Derby County
+Tue Mar 13 1979,Liverpool,1-1,Everton
+Tue Mar 13 1979,Ipswich Town,1-1,Coventry City
+Wed Mar 14 1979,Nottingham Forest,2-1,Norwich City
+Wed Mar 14 1979,West Bromwich Albion,1-0,Chelsea
+Sat Mar 17 1979,Bristol City,1-1,Middlesbrough
+Sat Mar 17 1979,Tottenham Hotspur,0-0,Norwich City
+Sat Mar 17 1979,Chelsea,1-3,Queens Park Rangers
+Sat Mar 17 1979,Ipswich Town,2-0,Arsenal
+Sat Mar 17 1979,Coventry City,2-2,Bolton Wanderers
+Tue Mar 20 1979,Liverpool,2-0,Wolverhampton Wanderers
+Tue Mar 20 1979,Coventry City,4-3,Manchester United
+Tue Mar 20 1979,Aston Villa,3-1,Queens Park Rangers
+Wed Mar 21 1979,Derby County,3-0,Bolton Wanderers
+Sat Mar 24 1979,Nottingham Forest,3-0,Coventry City
+Sat Mar 24 1979,Liverpool,2-0,Ipswich Town
+Sat Mar 24 1979,West Bromwich Albion,2-1,Queens Park Rangers
+Sat Mar 24 1979,Chelsea,1-2,Wolverhampton Wanderers
+Sat Mar 24 1979,Bolton Wanderers,2-0,Southampton
+Sat Mar 24 1979,Aston Villa,2-3,Tottenham Hotspur
+Sat Mar 24 1979,Arsenal,1-1,Manchester City
+Sat Mar 24 1979,Manchester United,4-1,Leeds United
+Sat Mar 24 1979,Norwich City,3-0,Bristol City
+Sat Mar 24 1979,Derby County,0-0,Everton
+Sat Mar 24 1979,Middlesbrough,2-1,Birmingham City
+Mon Mar 26 1979,West Bromwich Albion,2-1,Derby County
+Mon Mar 26 1979,Bolton Wanderers,4-2,Arsenal
+Tue Mar 27 1979,Birmingham City,1-0,Norwich City
+Tue Mar 27 1979,Wolverhampton Wanderers,1-1,Manchester City
+Tue Mar 27 1979,Middlesbrough,2-2,Manchester United
+Wed Mar 28 1979,Tottenham Hotspur,0-0,Southampton
+Wed Mar 28 1979,Nottingham Forest,6-0,Chelsea
+Wed Mar 28 1979,Aston Villa,1-1,Coventry City
+Fri Mar 30 1979,Everton,2-2,Norwich City
+Sat Mar 31 1979,Southampton,2-2,Leeds United
+Sat Mar 31 1979,Queens Park Rangers,2-2,Derby County
+Sat Mar 31 1979,Middlesbrough,1-0,Tottenham Hotspur
+Sat Mar 31 1979,Nottingham Forest,1-1,Bolton Wanderers
+Sat Mar 31 1979,Bristol City,2-1,Birmingham City
+Sat Mar 31 1979,Ipswich Town,2-1,Manchester City
+Tue Apr 3 1979,Bolton Wanderers,3-1,Everton
+Tue Apr 3 1979,Wolverhampton Wanderers,3-2,Tottenham Hotspur
+Tue Apr 3 1979,Bristol City,2-0,Queens Park Rangers
+Tue Apr 3 1979,Arsenal,1-1,Coventry City
+Tue Apr 3 1979,Birmingham City,1-1,Ipswich Town
+Wed Apr 4 1979,Nottingham Forest,4-0,Aston Villa
+Wed Apr 4 1979,West Bromwich Albion,4-0,Manchester City
+Wed Apr 4 1979,Chelsea,1-1,Derby County
+Sat Apr 7 1979,Chelsea,1-3,Nottingham Forest
+Sat Apr 7 1979,West Bromwich Albion,1-0,Everton
+Sat Apr 7 1979,Tottenham Hotspur,1-2,Middlesbrough
+Sat Apr 7 1979,Coventry City,1-1,Aston Villa
+Sat Apr 7 1979,Manchester City,3-1,Wolverhampton Wanderers
+Sat Apr 7 1979,Birmingham City,2-2,Southampton
+Sat Apr 7 1979,Leeds United,1-1,Ipswich Town
+Sat Apr 7 1979,Derby County,0-1,Bristol City
+Sat Apr 7 1979,Norwich City,2-2,Manchester United
+Sat Apr 7 1979,Bolton Wanderers,2-1,Queens Park Rangers
+Sat Apr 7 1979,Liverpool,3-0,Arsenal
+Tue Apr 10 1979,Everton,3-3,Coventry City
+Tue Apr 10 1979,Bristol City,3-1,Chelsea
+Tue Apr 10 1979,Arsenal,1-0,Tottenham Hotspur
+Tue Apr 10 1979,Wolverhampton Wanderers,0-1,Liverpool
+Tue Apr 10 1979,Middlesbrough,1-0,Leeds United
+Wed Apr 11 1979,Manchester United,1-2,Bolton Wanderers
+Wed Apr 11 1979,Aston Villa,3-3,Derby County
+Fri Apr 13 1979,Queens Park Rangers,0-0,Norwich City
+Fri Apr 13 1979,Southampton,1-1,West Bromwich Albion
+Sat Apr 14 1979,Leeds United,1-0,Aston Villa
+Sat Apr 14 1979,Coventry City,3-2,Bristol City
+Sat Apr 14 1979,Liverpool,2-0,Manchester United
+Sat Apr 14 1979,Tottenham Hotspur,1-1,Queens Park Rangers
+Sat Apr 14 1979,West Bromwich Albion,1-1,Arsenal
+Sat Apr 14 1979,Chelsea,1-2,Southampton
+Sat Apr 14 1979,Norwich City,0-1,Ipswich Town
+Sat Apr 14 1979,Bolton Wanderers,0-0,Middlesbrough
+Sat Apr 14 1979,Birmingham City,1-1,Wolverhampton Wanderers
+Sat Apr 14 1979,Derby County,1-2,Nottingham Forest
+Sat Apr 14 1979,Manchester City,0-0,Everton
+Mon Apr 16 1979,Nottingham Forest,0-0,Leeds United
+Mon Apr 16 1979,Southampton,3-3,Tottenham Hotspur
+Mon Apr 16 1979,Aston Villa,3-1,Liverpool
+Mon Apr 16 1979,Ipswich Town,2-1,Derby County
+Mon Apr 16 1979,Everton,1-0,Bolton Wanderers
+Mon Apr 16 1979,Wolverhampton Wanderers,1-0,Norwich City
+Mon Apr 16 1979,Arsenal,5-2,Chelsea
+Mon Apr 16 1979,Manchester United,0-0,Coventry City
+Tue Apr 17 1979,Middlesbrough,2-0,Manchester City
+Tue Apr 17 1979,Ipswich Town,3-0,Birmingham City
+Tue Apr 17 1979,Bristol City,1-0,West Bromwich Albion
+Wed Apr 18 1979,Nottingham Forest,1-1,Manchester United
+Sat Apr 21 1979,Bolton Wanderers,2-3,Ipswich Town
+Sat Apr 21 1979,Birmingham City,0-2,Nottingham Forest
+Sat Apr 21 1979,Derby County,2-0,Arsenal
+Sat Apr 21 1979,Norwich City,1-2,Aston Villa
+Sat Apr 21 1979,Chelsea,2-1,Middlesbrough
+Sat Apr 21 1979,Tottenham Hotspur,1-1,Manchester United
+Sat Apr 21 1979,Liverpool,1-0,Bristol City
+Sat Apr 21 1979,Leeds United,1-0,Everton
+Sat Apr 21 1979,Manchester City,3-1,Queens Park Rangers
+Sat Apr 21 1979,Coventry City,4-0,Southampton
+Sat Apr 21 1979,West Bromwich Albion,1-1,Wolverhampton Wanderers
+Tue Apr 24 1979,Birmingham City,1-1,West Bromwich Albion
+Tue Apr 24 1979,Manchester City,1-0,Middlesbrough
+Tue Apr 24 1979,Southampton,1-1,Liverpool
+Tue Apr 24 1979,Wolverhampton Wanderers,4-0,Derby County
+Wed Apr 25 1979,Aston Villa,5-1,Arsenal
+Wed Apr 25 1979,Manchester United,1-0,Norwich City
+Wed Apr 25 1979,Leeds United,5-1,Bolton Wanderers
+Sat Apr 28 1979,Wolverhampton Wanderers,1-1,Bolton Wanderers
+Sat Apr 28 1979,Manchester United,0-0,Derby County
+Sat Apr 28 1979,Everton,1-0,Birmingham City
+Sat Apr 28 1979,Ipswich Town,2-1,Tottenham Hotspur
+Sat Apr 28 1979,Nottingham Forest,0-0,Liverpool
+Sat Apr 28 1979,Queens Park Rangers,5-1,Coventry City
+Sat Apr 28 1979,Aston Villa,2-1,Chelsea
+Sat Apr 28 1979,Arsenal,1-1,Norwich City
+Sat Apr 28 1979,Bristol City,0-0,Leeds United
+Sat Apr 28 1979,Middlesbrough,1-1,West Bromwich Albion
+Sat Apr 28 1979,Southampton,1-0,Manchester City
+Mon Apr 30 1979,Southampton,1-1,Manchester United
+Mon Apr 30 1979,Wolverhampton Wanderers,1-0,Nottingham Forest
+Tue May 1 1979,Manchester City,3-1,Birmingham City
+Tue May 1 1979,Everton,0-2,West Bromwich Albion
+Tue May 1 1979,Bolton Wanderers,1-4,Liverpool
+Wed May 2 1979,Nottingham Forest,1-0,Southampton
+Wed May 2 1979,Aston Villa,2-2,Ipswich Town
+Fri May 4 1979,Leeds United,4-3,Queens Park Rangers
+Sat May 5 1979,Derby County,0-3,Middlesbrough
+Sat May 5 1979,Liverpool,2-0,Southampton
+Sat May 5 1979,Manchester City,2-0,Bristol City
+Sat May 5 1979,Coventry City,3-0,Wolverhampton Wanderers
+Sat May 5 1979,Tottenham Hotspur,1-1,Everton
+Sat May 5 1979,West Bromwich Albion,1-0,Manchester United
+Sat May 5 1979,Bolton Wanderers,0-0,Aston Villa
+Sat May 5 1979,Birmingham City,0-0,Arsenal
+Sat May 5 1979,Chelsea,2-3,Ipswich Town
+Sat May 5 1979,Norwich City,1-1,Nottingham Forest
+Mon May 7 1979,Queens Park Rangers,1-3,Birmingham City
+Mon May 7 1979,Manchester United,3-2,Wolverhampton Wanderers
+Tue May 8 1979,West Bromwich Albion,1-0,Southampton
+Tue May 8 1979,Liverpool,3-0,Aston Villa
+Tue May 8 1979,Bolton Wanderers,1-3,Tottenham Hotspur
+Wed May 9 1979,Nottingham Forest,3-1,Manchester City
+Fri May 11 1979,Queens Park Rangers,0-4,Ipswich Town
+Fri May 11 1979,Middlesbrough,0-1,Liverpool
+Fri May 11 1979,Aston Villa,0-1,West Bromwich Albion
+Mon May 14 1979,Tottenham Hotspur,1-0,West Bromwich Albion
+Mon May 14 1979,Chelsea,1-1,Arsenal
+Tue May 15 1979,Manchester City,2-3,Aston Villa
+Tue May 15 1979,Leeds United,1-2,Nottingham Forest
+Wed May 16 1979,Manchester United,1-1,Chelsea
+Thu May 17 1979,Leeds United,0-3,Liverpool
+Fri May 18 1979,West Bromwich Albion,0-1,Nottingham Forest

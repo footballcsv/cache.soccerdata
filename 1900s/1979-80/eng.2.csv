@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 18 1979,Wrexham,1-0,West Ham United
+Sat Aug 18 1979,Charlton Athletic,0-3,Preston North End
+Sat Aug 18 1979,Chelsea,0-0,Sunderland
+Sat Aug 18 1979,Leicester City,2-0,Watford
+Sat Aug 18 1979,Leyton Orient,2-2,Burnley
+Sat Aug 18 1979,Luton Town,1-1,Cambridge United
+Sat Aug 18 1979,Birmingham City,3-4,Fulham
+Sat Aug 18 1979,Swansea City,2-0,Shrewsbury Town
+Sat Aug 18 1979,Queens Park Rangers,2-0,Bristol Rovers
+Sat Aug 18 1979,Notts County,4-1,Cardiff City
+Sat Aug 18 1979,Newcastle United,3-2,Oldham Athletic
+Mon Aug 20 1979,West Ham United,0-1,Chelsea
+Tue Aug 21 1979,Burnley,1-1,Charlton Athletic
+Tue Aug 21 1979,Bristol Rovers,3-2,Luton Town
+Tue Aug 21 1979,Cambridge United,1-1,Leicester City
+Tue Aug 21 1979,Shrewsbury Town,1-1,Notts County
+Tue Aug 21 1979,Watford,0-0,Swansea City
+Tue Aug 21 1979,Oldham Athletic,2-3,Wrexham
+Tue Aug 21 1979,Preston North End,1-0,Newcastle United
+Wed Aug 22 1979,Fulham,0-0,Leyton Orient
+Wed Aug 22 1979,Sunderland,2-0,Birmingham City
+Wed Aug 22 1979,Cardiff City,1-0,Queens Park Rangers
+Sat Aug 25 1979,Charlton Athletic,1-1,Newcastle United
+Sat Aug 25 1979,Sunderland,2-1,Fulham
+Sat Aug 25 1979,Luton Town,2-1,Leyton Orient
+Sat Aug 25 1979,Cardiff City,1-2,Birmingham City
+Sat Aug 25 1979,Bristol Rovers,2-1,Shrewsbury Town
+Sat Aug 25 1979,Cambridge United,2-2,Watford
+Sat Aug 25 1979,Preston North End,1-1,Swansea City
+Sat Aug 25 1979,West Ham United,1-0,Oldham Athletic
+Sat Aug 25 1979,Queens Park Rangers,1-4,Leicester City
+Sat Aug 25 1979,Chelsea,3-1,Wrexham
+Sat Aug 25 1979,Burnley,0-1,Notts County
+Sat Sep 1 1979,Fulham,1-0,Preston North End
+Sat Sep 1 1979,Leicester City,1-3,Luton Town
+Sat Sep 1 1979,Wrexham,0-1,Cardiff City
+Sat Sep 1 1979,Leyton Orient,1-1,Charlton Athletic
+Sat Sep 1 1979,Newcastle United,2-1,Chelsea
+Sat Sep 1 1979,Swansea City,2-1,Burnley
+Sat Sep 1 1979,Notts County,1-0,Queens Park Rangers
+Sat Sep 1 1979,Oldham Athletic,3-0,Sunderland
+Sat Sep 1 1979,Shrewsbury Town,1-2,Cambridge United
+Sat Sep 1 1979,Watford,2-0,West Ham United
+Sat Sep 1 1979,Birmingham City,1-1,Bristol Rovers
+Sat Sep 8 1979,Burnley,1-1,Oldham Athletic
+Sat Sep 8 1979,Preston North End,1-1,West Ham United
+Sat Sep 8 1979,Bristol Rovers,1-1,Watford
+Sat Sep 8 1979,Chelsea,1-2,Birmingham City
+Sat Sep 8 1979,Leyton Orient,1-4,Newcastle United
+Sat Sep 8 1979,Charlton Athletic,1-2,Wrexham
+Sat Sep 8 1979,Sunderland,2-0,Cambridge United
+Sat Sep 8 1979,Cardiff City,1-0,Shrewsbury Town
+Sat Sep 8 1979,Luton Town,5-0,Swansea City
+Sat Sep 8 1979,Leicester City,1-0,Notts County
+Sat Sep 8 1979,Queens Park Rangers,3-0,Fulham
+Sat Sep 15 1979,Watford,1-1,Cardiff City
+Sat Sep 15 1979,Wrexham,2-1,Leyton Orient
+Sat Sep 15 1979,Swansea City,1-2,Queens Park Rangers
+Sat Sep 15 1979,Newcastle United,3-2,Leicester City
+Sat Sep 15 1979,Birmingham City,1-0,Charlton Athletic
+Sat Sep 15 1979,Shrewsbury Town,3-0,Chelsea
+Sat Sep 15 1979,Notts County,0-0,Luton Town
+Sat Sep 15 1979,Oldham Athletic,3-2,Preston North End
+Sat Sep 15 1979,West Ham United,2-0,Sunderland
+Sat Sep 15 1979,Cambridge United,4-1,Bristol Rovers
+Sat Sep 15 1979,Fulham,3-1,Burnley
+Sat Sep 22 1979,Notts County,0-0,Swansea City
+Sat Sep 22 1979,Leyton Orient,2-2,Birmingham City
+Sat Sep 22 1979,Leicester City,3-3,Fulham
+Sat Sep 22 1979,Cardiff City,0-0,Cambridge United
+Sat Sep 22 1979,Chelsea,2-0,Watford
+Sat Sep 22 1979,Burnley,1-1,Sunderland
+Sat Sep 22 1979,Charlton Athletic,2-1,Shrewsbury Town
+Sat Sep 22 1979,Newcastle United,1-0,Wrexham
+Sat Sep 22 1979,Preston North End,3-2,Bristol Rovers
+Sat Sep 22 1979,Luton Town,0-0,Oldham Athletic
+Sat Sep 22 1979,Queens Park Rangers,3-0,West Ham United
+Sat Sep 29 1979,Sunderland,1-1,Preston North End
+Sat Sep 29 1979,Swansea City,0-2,Leicester City
+Sat Sep 29 1979,Wrexham,1-0,Notts County
+Sat Sep 29 1979,West Ham United,2-1,Burnley
+Sat Sep 29 1979,Cambridge United,0-1,Chelsea
+Sat Sep 29 1979,Shrewsbury Town,1-0,Leyton Orient
+Sat Sep 29 1979,Birmingham City,0-0,Newcastle United
+Sat Sep 29 1979,Oldham Athletic,0-0,Queens Park Rangers
+Sat Sep 29 1979,Watford,2-1,Charlton Athletic
+Sat Sep 29 1979,Bristol Rovers,1-1,Cardiff City
+Sat Sep 29 1979,Fulham,1-3,Luton Town
+Sat Oct 6 1979,Shrewsbury Town,2-2,Leicester City
+Sat Oct 6 1979,Cambridge United,0-1,Swansea City
+Sat Oct 6 1979,Burnley,0-1,Chelsea
+Sat Oct 6 1979,Watford,1-2,Queens Park Rangers
+Sat Oct 6 1979,Sunderland,4-0,Charlton Athletic
+Sat Oct 6 1979,Cardiff City,2-1,Luton Town
+Sat Oct 6 1979,Oldham Athletic,1-0,Leyton Orient
+Sat Oct 6 1979,West Ham United,1-1,Newcastle United
+Sat Oct 6 1979,Fulham,0-2,Wrexham
+Sat Oct 6 1979,Preston North End,0-0,Birmingham City
+Sat Oct 6 1979,Bristol Rovers,2-3,Notts County
+Mon Oct 8 1979,Wrexham,1-1,Oldham Athletic
+Tue Oct 9 1979,Birmingham City,1-0,Sunderland
+Tue Oct 9 1979,Notts County,5-2,Shrewsbury Town
+Tue Oct 9 1979,Queens Park Rangers,3-0,Cardiff City
+Tue Oct 9 1979,Leyton Orient,1-0,Fulham
+Tue Oct 9 1979,Swansea City,1-0,Watford
+Tue Oct 9 1979,Charlton Athletic,3-3,Burnley
+Tue Oct 9 1979,Luton Town,3-1,Bristol Rovers
+Wed Oct 10 1979,Leicester City,2-1,Cambridge United
+Wed Oct 10 1979,Newcastle United,0-0,Preston North End
+Sat Oct 13 1979,Newcastle United,1-0,Shrewsbury Town
+Sat Oct 13 1979,Burnley,0-2,Cardiff City
+Sat Oct 13 1979,Luton Town,2-0,Sunderland
+Sat Oct 13 1979,Swansea City,4-1,Fulham
+Sat Oct 13 1979,Queens Park Rangers,1-1,Preston North End
+Sat Oct 13 1979,Leyton Orient,1-0,Watford
+Sat Oct 13 1979,Chelsea,1-0,Bristol Rovers
+Sat Oct 13 1979,Charlton Athletic,1-1,Cambridge United
+Sat Oct 13 1979,Wrexham,1-0,Birmingham City
+Sat Oct 13 1979,Notts County,1-1,Oldham Athletic
+Sat Oct 13 1979,Leicester City,1-2,West Ham United
+Sat Oct 20 1979,Oldham Athletic,1-1,Leicester City
+Sat Oct 20 1979,Shrewsbury Town,3-1,Wrexham
+Sat Oct 20 1979,Preston North End,3-2,Burnley
+Sat Oct 20 1979,Fulham,1-3,Notts County
+Sat Oct 20 1979,Watford,2-0,Newcastle United
+Sat Oct 20 1979,Birmingham City,2-0,Swansea City
+Sat Oct 20 1979,Cardiff City,1-2,Chelsea
+Sat Oct 20 1979,West Ham United,1-2,Luton Town
+Sat Oct 20 1979,Bristol Rovers,3-0,Charlton Athletic
+Sat Oct 20 1979,Sunderland,3-0,Queens Park Rangers
+Mon Oct 22 1979,Cambridge United,1-1,Leyton Orient
+Sat Oct 27 1979,Queens Park Rangers,7-0,Burnley
+Sat Oct 27 1979,Chelsea,0-2,Fulham
+Sat Oct 27 1979,Birmingham City,1-0,Shrewsbury Town
+Sat Oct 27 1979,Notts County,0-1,West Ham United
+Sat Oct 27 1979,Luton Town,1-1,Preston North End
+Sat Oct 27 1979,Swansea City,2-0,Oldham Athletic
+Sat Oct 27 1979,Wrexham,3-0,Watford
+Sat Oct 27 1979,Charlton Athletic,3-2,Cardiff City
+Sat Oct 27 1979,Leicester City,2-1,Sunderland
+Sat Oct 27 1979,Newcastle United,2-0,Cambridge United
+Sat Oct 27 1979,Leyton Orient,2-1,Bristol Rovers
+Sat Nov 3 1979,Cambridge United,1-2,Luton Town
+Sat Nov 3 1979,Sunderland,2-1,Chelsea
+Sat Nov 3 1979,Burnley,1-2,Leyton Orient
+Sat Nov 3 1979,Bristol Rovers,1-3,Queens Park Rangers
+Sat Nov 3 1979,Cardiff City,3-2,Notts County
+Sat Nov 3 1979,Fulham,2-4,Birmingham City
+Sat Nov 3 1979,West Ham United,1-0,Wrexham
+Sat Nov 3 1979,Preston North End,1-1,Charlton Athletic
+Sat Nov 3 1979,Shrewsbury Town,2-2,Swansea City
+Sat Nov 3 1979,Watford,1-3,Leicester City
+Sat Nov 3 1979,Oldham Athletic,1-0,Newcastle United
+Fri Nov 9 1979,Charlton Athletic,2-1,Oldham Athletic
+Sat Nov 10 1979,Leicester City,1-1,Burnley
+Sat Nov 10 1979,Leyton Orient,3-7,Chelsea
+Sat Nov 10 1979,Swansea City,3-1,Sunderland
+Sat Nov 10 1979,Birmingham City,1-0,Cambridge United
+Sat Nov 10 1979,Notts County,2-1,Preston North End
+Sat Nov 10 1979,Shrewsbury Town,1-0,Watford
+Sat Nov 10 1979,Fulham,1-2,West Ham United
+Sat Nov 10 1979,Luton Town,1-1,Queens Park Rangers
+Sat Nov 10 1979,Wrexham,1-2,Bristol Rovers
+Sat Nov 10 1979,Newcastle United,1-0,Cardiff City
+Wed Nov 14 1979,Chelsea,2-1,West Ham United
+Sat Nov 17 1979,Queens Park Rangers,2-1,Shrewsbury Town
+Sat Nov 17 1979,Bristol Rovers,1-1,Newcastle United
+Sat Nov 17 1979,Burnley,0-0,Luton Town
+Sat Nov 17 1979,Oldham Athletic,0-1,Fulham
+Sat Nov 17 1979,Cardiff City,0-0,Leyton Orient
+Sat Nov 17 1979,Chelsea,3-1,Charlton Athletic
+Sat Nov 17 1979,West Ham United,2-0,Swansea City
+Sat Nov 17 1979,Preston North End,1-1,Leicester City
+Sat Nov 17 1979,Sunderland,3-1,Notts County
+Sat Nov 17 1979,Cambridge United,2-0,Wrexham
+Sat Nov 17 1979,Watford,1-0,Birmingham City
+Mon Nov 19 1979,Newcastle United,2-0,Leyton Orient
+Sat Nov 24 1979,Burnley,5-3,Cambridge United
+Sat Nov 24 1979,Fulham,0-0,Watford
+Sat Nov 24 1979,West Ham United,3-0,Cardiff City
+Sat Nov 24 1979,Luton Town,2-3,Birmingham City
+Sat Nov 24 1979,Oldham Athletic,0-2,Shrewsbury Town
+Sat Nov 24 1979,Preston North End,2-2,Leyton Orient
+Sat Nov 24 1979,Leicester City,2-0,Wrexham
+Sat Nov 24 1979,Notts County,2-3,Chelsea
+Sat Nov 24 1979,Queens Park Rangers,4-0,Charlton Athletic
+Sat Nov 24 1979,Sunderland,3-2,Bristol Rovers
+Sat Nov 24 1979,Swansea City,2-3,Newcastle United
+Sat Dec 1 1979,Birmingham City,1-2,Leicester City
+Sat Dec 1 1979,Shrewsbury Town,1-2,Luton Town
+Sat Dec 1 1979,Charlton Athletic,1-0,West Ham United
+Sat Dec 1 1979,Wrexham,1-0,Swansea City
+Sat Dec 1 1979,Chelsea,2-0,Preston North End
+Sat Dec 1 1979,Cambridge United,2-1,Queens Park Rangers
+Sat Dec 1 1979,Bristol Rovers,0-0,Burnley
+Sat Dec 1 1979,Watford,2-1,Notts County
+Sat Dec 1 1979,Newcastle United,2-0,Fulham
+Sat Dec 1 1979,Leyton Orient,2-1,Sunderland
+Sat Dec 1 1979,Cardiff City,1-0,Oldham Athletic
+Sat Dec 8 1979,Queens Park Rangers,2-2,Wrexham
+Sat Dec 8 1979,Luton Town,1-1,Newcastle United
+Sat Dec 8 1979,Leicester City,2-2,Leyton Orient
+Sat Dec 8 1979,Burnley,1-0,Watford
+Sat Dec 8 1979,Oldham Athletic,1-0,Chelsea
+Sat Dec 8 1979,Fulham,2-1,Shrewsbury Town
+Sat Dec 8 1979,Swansea City,1-0,Charlton Athletic
+Sat Dec 8 1979,West Ham United,2-1,Bristol Rovers
+Sat Dec 8 1979,Sunderland,2-1,Cardiff City
+Sat Dec 8 1979,Notts County,1-1,Birmingham City
+Sat Dec 8 1979,Preston North End,2-2,Cambridge United
+Sat Dec 15 1979,Chelsea,3-0,Swansea City
+Sat Dec 15 1979,Watford,1-1,Sunderland
+Sat Dec 15 1979,Charlton Athletic,2-0,Leicester City
+Sat Dec 15 1979,Cardiff City,0-2,Preston North End
+Sat Dec 15 1979,Cambridge United,4-0,Fulham
+Sat Dec 15 1979,Bristol Rovers,2-0,Oldham Athletic
+Sat Dec 15 1979,Birmingham City,2-0,Burnley
+Sat Dec 15 1979,Wrexham,3-1,Luton Town
+Sat Dec 15 1979,Shrewsbury Town,3-0,West Ham United
+Sat Dec 15 1979,Newcastle United,4-2,Queens Park Rangers
+Sat Dec 15 1979,Leyton Orient,1-0,Notts County
+Tue Dec 18 1979,Queens Park Rangers,2-2,Chelsea
+Fri Dec 21 1979,Luton Town,3-0,Charlton Athletic
+Fri Dec 21 1979,Preston North End,1-2,Watford
+Fri Dec 21 1979,Oldham Athletic,1-0,Birmingham City
+Fri Dec 21 1979,Leicester City,0-0,Cardiff City
+Fri Dec 21 1979,Burnley,1-0,Wrexham
+Fri Dec 21 1979,West Ham United,3-1,Cambridge United
+Fri Dec 21 1979,Swansea City,0-1,Leyton Orient
+Fri Dec 21 1979,Sunderland,2-1,Shrewsbury Town
+Sat Dec 22 1979,Notts County,2-2,Newcastle United
+Wed Dec 26 1979,Cambridge United,3-3,Oldham Athletic
+Wed Dec 26 1979,Charlton Athletic,0-0,Notts County
+Wed Dec 26 1979,Burnley,3-2,Newcastle United
+Wed Dec 26 1979,Watford,0-1,Luton Town
+Wed Dec 26 1979,Bristol Rovers,4-1,Swansea City
+Wed Dec 26 1979,Chelsea,1-0,Leicester City
+Wed Dec 26 1979,Cardiff City,1-0,Fulham
+Wed Dec 26 1979,Sunderland,1-1,Wrexham
+Wed Dec 26 1979,Preston North End,3-0,Shrewsbury Town
+Sat Dec 29 1979,Leicester City,2-0,Queens Park Rangers
+Sat Dec 29 1979,Newcastle United,2-0,Charlton Athletic
+Sat Dec 29 1979,Shrewsbury Town,3-1,Bristol Rovers
+Sat Dec 29 1979,Watford,0-0,Cambridge United
+Sat Dec 29 1979,Fulham,0-1,Sunderland
+Sat Dec 29 1979,Birmingham City,2-1,Cardiff City
+Sat Dec 29 1979,Leyton Orient,2-2,Luton Town
+Sat Dec 29 1979,Notts County,2-3,Burnley
+Sat Dec 29 1979,Swansea City,1-0,Preston North End
+Sat Dec 29 1979,Wrexham,2-0,Chelsea
+Tue Jan 1 1980,Birmingham City,2-1,Queens Park Rangers
+Tue Jan 1 1980,Leicester City,3-0,Bristol Rovers
+Tue Jan 1 1980,Wrexham,2-0,Preston North End
+Tue Jan 1 1980,Luton Town,3-3,Chelsea
+Tue Jan 1 1980,Newcastle United,3-1,Sunderland
+Tue Jan 1 1980,Notts County,0-0,Cambridge United
+Tue Jan 1 1980,Shrewsbury Town,2-0,Burnley
+Tue Jan 1 1980,Swansea City,2-1,Cardiff City
+Tue Jan 1 1980,Leyton Orient,0-4,West Ham United
+Sat Jan 12 1980,West Ham United,1-1,Watford
+Sat Jan 12 1980,Luton Town,0-0,Leicester City
+Sat Jan 12 1980,Burnley,0-0,Swansea City
+Sat Jan 12 1980,Charlton Athletic,0-1,Leyton Orient
+Sat Jan 12 1980,Cambridge United,2-0,Shrewsbury Town
+Sat Jan 12 1980,Sunderland,4-2,Oldham Athletic
+Sat Jan 12 1980,Queens Park Rangers,1-3,Notts County
+Sat Jan 12 1980,Preston North End,3-2,Fulham
+Sat Jan 12 1980,Chelsea,4-0,Newcastle United
+Sat Jan 12 1980,Cardiff City,1-0,Wrexham
+Sat Jan 12 1980,Bristol Rovers,1-0,Birmingham City
+Sat Jan 19 1980,Watford,0-0,Bristol Rovers
+Sat Jan 19 1980,Shrewsbury Town,1-2,Cardiff City
+Sat Jan 19 1980,West Ham United,2-0,Preston North End
+Sat Jan 19 1980,Notts County,0-1,Leicester City
+Sat Jan 19 1980,Wrexham,3-2,Charlton Athletic
+Sat Jan 19 1980,Fulham,0-2,Queens Park Rangers
+Sat Jan 19 1980,Cambridge United,3-3,Sunderland
+Sat Feb 2 1980,Queens Park Rangers,3-2,Swansea City
+Sat Feb 2 1980,Preston North End,0-1,Oldham Athletic
+Sat Feb 2 1980,Charlton Athletic,0-1,Birmingham City
+Sat Feb 2 1980,Cardiff City,1-0,Watford
+Sat Feb 2 1980,Leicester City,1-0,Newcastle United
+Sat Feb 2 1980,Bristol Rovers,0-0,Cambridge United
+Sat Feb 2 1980,Burnley,2-1,Fulham
+Sat Feb 2 1980,Leyton Orient,4-0,Wrexham
+Sat Feb 2 1980,Chelsea,2-4,Shrewsbury Town
+Sat Feb 2 1980,Luton Town,2-1,Notts County
+Sat Feb 9 1980,Oldham Athletic,2-1,Luton Town
+Sat Feb 9 1980,Shrewsbury Town,3-1,Charlton Athletic
+Sat Feb 9 1980,Sunderland,5-0,Burnley
+Sat Feb 9 1980,Birmingham City,3-1,Leyton Orient
+Sat Feb 9 1980,Wrexham,1-0,Newcastle United
+Sat Feb 9 1980,Fulham,0-0,Leicester City
+Sat Feb 9 1980,Swansea City,0-1,Notts County
+Sat Feb 9 1980,West Ham United,2-1,Queens Park Rangers
+Sat Feb 9 1980,Watford,2-3,Chelsea
+Sat Feb 9 1980,Cambridge United,2-0,Cardiff City
+Tue Feb 12 1980,Queens Park Rangers,0-0,Leyton Orient
+Sat Feb 16 1980,Leyton Orient,0-1,Shrewsbury Town
+Sat Feb 16 1980,Queens Park Rangers,4-3,Oldham Athletic
+Sat Feb 16 1980,Cardiff City,0-1,Bristol Rovers
+Sat Feb 16 1980,Preston North End,2-1,Sunderland
+Sat Feb 16 1980,Luton Town,4-0,Fulham
+Sat Feb 16 1980,Chelsea,1-1,Cambridge United
+Tue Feb 19 1980,Oldham Athletic,1-1,Watford
+Tue Feb 19 1980,Burnley,0-1,West Ham United
+Wed Feb 20 1980,Leicester City,1-1,Swansea City
+Wed Feb 20 1980,Newcastle United,0-0,Birmingham City
+Sat Feb 23 1980,Preston North End,0-3,Queens Park Rangers
+Sat Feb 23 1980,Shrewsbury Town,3-1,Newcastle United
+Sat Feb 23 1980,Fulham,1-2,Swansea City
+Sat Feb 23 1980,Sunderland,1-0,Luton Town
+Sat Feb 23 1980,Cambridge United,1-0,Charlton Athletic
+Sat Feb 23 1980,West Ham United,3-1,Leicester City
+Sat Feb 23 1980,Oldham Athletic,1-0,Notts County
+Sat Feb 23 1980,Watford,0-3,Leyton Orient
+Sat Feb 23 1980,Bristol Rovers,3-0,Chelsea
+Sat Feb 23 1980,Birmingham City,2-0,Wrexham
+Sat Feb 23 1980,Cardiff City,2-1,Burnley
+Tue Feb 26 1980,Fulham,1-1,Bristol Rovers
+Tue Feb 26 1980,Charlton Athletic,0-0,Watford
+Tue Feb 26 1980,Notts County,1-1,Wrexham
+Fri Feb 29 1980,Swansea City,0-1,Birmingham City
+Sat Mar 1 1980,Burnley,1-1,Preston North End
+Sat Mar 1 1980,Notts County,1-1,Fulham
+Sat Mar 1 1980,Leyton Orient,2-0,Cambridge United
+Sat Mar 1 1980,Leicester City,0-1,Oldham Athletic
+Sat Mar 1 1980,Newcastle United,0-2,Watford
+Sat Mar 1 1980,Luton Town,1-1,West Ham United
+Sat Mar 1 1980,Wrexham,0-1,Shrewsbury Town
+Sat Mar 1 1980,Chelsea,1-0,Cardiff City
+Sat Mar 1 1980,Queens Park Rangers,0-0,Sunderland
+Sat Mar 1 1980,Charlton Athletic,4-0,Bristol Rovers
+Tue Mar 4 1980,Swansea City,2-0,Luton Town
+Tue Mar 4 1980,Oldham Athletic,2-1,Burnley
+Sat Mar 8 1980,Cardiff City,3-1,Charlton Athletic
+Sat Mar 8 1980,Shrewsbury Town,1-0,Birmingham City
+Sat Mar 8 1980,Oldham Athletic,4-1,Swansea City
+Sat Mar 8 1980,Fulham,1-2,Chelsea
+Sat Mar 8 1980,Sunderland,0-0,Leicester City
+Sat Mar 8 1980,Preston North End,1-1,Luton Town
+Sat Mar 8 1980,Burnley,0-3,Queens Park Rangers
+Sat Mar 8 1980,Cambridge United,0-0,Newcastle United
+Sat Mar 8 1980,Bristol Rovers,1-2,Leyton Orient
+Tue Mar 11 1980,West Ham United,1-2,Notts County
+Tue Mar 11 1980,Birmingham City,5-1,Chelsea
+Tue Mar 11 1980,Bristol Rovers,3-3,Preston North End
+Fri Mar 14 1980,Queens Park Rangers,1-1,Watford
+Fri Mar 14 1980,Swansea City,2-4,Cambridge United
+Fri Mar 14 1980,Luton Town,1-2,Cardiff City
+Fri Mar 14 1980,Leyton Orient,1-1,Oldham Athletic
+Sat Mar 15 1980,Charlton Athletic,0-4,Sunderland
+Sat Mar 15 1980,Leicester City,2-0,Shrewsbury Town
+Sat Mar 15 1980,Chelsea,2-1,Burnley
+Sat Mar 15 1980,Birmingham City,2-2,Preston North End
+Sat Mar 15 1980,Wrexham,1-1,Fulham
+Sat Mar 15 1980,Newcastle United,0-0,West Ham United
+Sat Mar 15 1980,Notts County,0-0,Bristol Rovers
+Tue Mar 18 1980,Watford,3-1,Wrexham
+Sat Mar 22 1980,Preston North End,2-0,Notts County
+Sat Mar 22 1980,Cardiff City,1-1,Newcastle United
+Sat Mar 22 1980,Watford,0-1,Shrewsbury Town
+Sat Mar 22 1980,Oldham Athletic,4-3,Charlton Athletic
+Sat Mar 22 1980,Cambridge United,2-1,Birmingham City
+Sat Mar 22 1980,Sunderland,1-1,Swansea City
+Sat Mar 22 1980,Chelsea,1-0,Leyton Orient
+Sat Mar 22 1980,Burnley,1-2,Leicester City
+Sat Mar 22 1980,Queens Park Rangers,2-2,Luton Town
+Sat Mar 22 1980,Bristol Rovers,1-0,Wrexham
+Sat Mar 22 1980,West Ham United,2-3,Fulham
+Fri Mar 28 1980,Fulham,0-1,Oldham Athletic
+Sat Mar 29 1980,Luton Town,1-1,Burnley
+Sat Mar 29 1980,Shrewsbury Town,3-0,Queens Park Rangers
+Sat Mar 29 1980,Birmingham City,2-0,Watford
+Sat Mar 29 1980,Wrexham,1-0,Cambridge United
+Sat Mar 29 1980,Newcastle United,3-1,Bristol Rovers
+Sat Mar 29 1980,Leicester City,1-2,Preston North End
+Sat Mar 29 1980,Notts County,0-1,Sunderland
+Sat Mar 29 1980,Leyton Orient,1-1,Cardiff City
+Sat Mar 29 1980,Charlton Athletic,1-2,Chelsea
+Sat Mar 29 1980,Swansea City,2-1,West Ham United
+Tue Apr 1 1980,Shrewsbury Town,1-3,Preston North End
+Tue Apr 1 1980,Cambridge United,2-0,West Ham United
+Tue Apr 1 1980,Birmingham City,2-0,Oldham Athletic
+Wed Apr 2 1980,Chelsea,0-2,Queens Park Rangers
+Wed Apr 2 1980,Newcastle United,2-2,Notts County
+Fri Apr 4 1980,Bristol Rovers,1-0,Fulham
+Fri Apr 4 1980,Charlton Athletic,1-4,Luton Town
+Fri Apr 4 1980,Wrexham,1-0,Burnley
+Sat Apr 5 1980,Preston North End,0-0,Wrexham
+Sat Apr 5 1980,Queens Park Rangers,1-1,Birmingham City
+Sat Apr 5 1980,Leicester City,1-0,Chelsea
+Sat Apr 5 1980,Notts County,0-0,Charlton Athletic
+Sat Apr 5 1980,West Ham United,2-0,Leyton Orient
+Sat Apr 5 1980,Oldham Athletic,1-1,Cambridge United
+Sat Apr 5 1980,Swansea City,2-0,Bristol Rovers
+Sat Apr 5 1980,Luton Town,1-0,Watford
+Sat Apr 5 1980,Sunderland,1-0,Newcastle United
+Sat Apr 5 1980,Burnley,0-0,Shrewsbury Town
+Mon Apr 7 1980,Newcastle United,1-1,Burnley
+Mon Apr 7 1980,Cardiff City,1-0,Swansea City
+Mon Apr 7 1980,Birmingham City,0-0,West Ham United
+Mon Apr 7 1980,Chelsea,1-1,Luton Town
+Mon Apr 7 1980,Wrexham,0-1,Sunderland
+Mon Apr 7 1980,Watford,1-0,Oldham Athletic
+Tue Apr 8 1980,Leyton Orient,1-1,Queens Park Rangers
+Tue Apr 8 1980,Shrewsbury Town,1-2,Sunderland
+Tue Apr 8 1980,Cardiff City,0-1,Leicester City
+Tue Apr 8 1980,Cambridge United,2-3,Notts County
+Tue Apr 8 1980,Charlton Athletic,0-1,Fulham
+Wed Apr 9 1980,Watford,0-0,Preston North End
+Sat Apr 12 1980,Notts County,1-2,Watford
+Sat Apr 12 1980,Queens Park Rangers,2-2,Cambridge United
+Sat Apr 12 1980,Swansea City,1-0,Wrexham
+Sat Apr 12 1980,Oldham Athletic,0-3,Cardiff City
+Sat Apr 12 1980,Fulham,1-0,Newcastle United
+Sat Apr 12 1980,Burnley,1-1,Bristol Rovers
+Sat Apr 12 1980,Preston North End,1-1,Chelsea
+Sat Apr 12 1980,Sunderland,1-1,Leyton Orient
+Sat Apr 12 1980,Leicester City,2-1,Birmingham City
+Sat Apr 12 1980,Luton Town,0-0,Shrewsbury Town
+Tue Apr 15 1980,Fulham,2-1,Cardiff City
+Sat Apr 19 1980,Charlton Athletic,2-2,Queens Park Rangers
+Sat Apr 19 1980,Wrexham,0-1,Leicester City
+Sat Apr 19 1980,Bristol Rovers,2-2,Sunderland
+Sat Apr 19 1980,Chelsea,1-0,Notts County
+Sat Apr 19 1980,Watford,4-0,Fulham
+Sat Apr 19 1980,Newcastle United,1-3,Swansea City
+Sat Apr 19 1980,Cambridge United,3-1,Burnley
+Sat Apr 19 1980,Birmingham City,1-0,Luton Town
+Sat Apr 19 1980,Cardiff City,0-1,West Ham United
+Sat Apr 19 1980,Leyton Orient,2-2,Preston North End
+Sat Apr 19 1980,Shrewsbury Town,0-1,Oldham Athletic
+Tue Apr 22 1980,Fulham,1-0,Charlton Athletic
+Tue Apr 22 1980,West Ham United,1-2,Birmingham City
+Wed Apr 23 1980,Bristol Rovers,1-1,Leicester City
+Sat Apr 26 1980,Sunderland,5-0,Watford
+Sat Apr 26 1980,Fulham,1-2,Cambridge United
+Sat Apr 26 1980,Swansea City,1-1,Chelsea
+Sat Apr 26 1980,Leicester City,2-1,Charlton Athletic
+Sat Apr 26 1980,Luton Town,2-0,Wrexham
+Sat Apr 26 1980,West Ham United,1-3,Shrewsbury Town
+Sat Apr 26 1980,Notts County,1-1,Leyton Orient
+Sat Apr 26 1980,Queens Park Rangers,2-1,Newcastle United
+Sat Apr 26 1980,Preston North End,2-0,Cardiff City
+Sat Apr 26 1980,Oldham Athletic,2-1,Bristol Rovers
+Sat Apr 26 1980,Burnley,0-0,Birmingham City
+Tue Apr 29 1980,Oldham Athletic,0-0,West Ham United
+Wed Apr 30 1980,Leyton Orient,0-0,Swansea City
+Sat May 3 1980,Chelsea,3-0,Oldham Athletic
+Sat May 3 1980,Bristol Rovers,0-2,West Ham United
+Sat May 3 1980,Cardiff City,1-1,Sunderland
+Sat May 3 1980,Shrewsbury Town,5-2,Fulham
+Sat May 3 1980,Newcastle United,2-2,Luton Town
+Sat May 3 1980,Birmingham City,3-3,Notts County
+Sat May 3 1980,Watford,4-0,Burnley
+Sat May 3 1980,Leyton Orient,0-1,Leicester City
+Sat May 3 1980,Cambridge United,3-2,Preston North End
+Sat May 3 1980,Charlton Athletic,1-2,Swansea City
+Sat May 3 1980,Wrexham,1-3,Queens Park Rangers
+Mon May 5 1980,West Ham United,4-1,Charlton Athletic
+Mon May 12 1980,Sunderland,2-0,West Ham United

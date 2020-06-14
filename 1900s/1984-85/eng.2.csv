@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 25 1984,Notts County,1-2,Leeds United
+Sat Aug 25 1984,Huddersfield Town,0-3,Oxford United
+Sat Aug 25 1984,Wolverhampton Wanderers,2-2,Sheffield United
+Sat Aug 25 1984,Cardiff City,0-3,Charlton Athletic
+Sat Aug 25 1984,Fulham,1-2,Shrewsbury Town
+Sat Aug 25 1984,Portsmouth,1-0,Middlesbrough
+Sat Aug 25 1984,Carlisle United,0-3,Brighton & Hove Albion
+Sat Aug 25 1984,Oldham Athletic,0-1,Birmingham City
+Sat Aug 25 1984,Wimbledon,2-2,Manchester City
+Sat Aug 25 1984,Grimsby Town,1-0,Barnsley
+Sat Aug 25 1984,Crystal Palace,1-1,Blackburn Rovers
+Mon Aug 27 1984,Leeds United,2-0,Fulham
+Mon Aug 27 1984,Barnsley,1-3,Carlisle United
+Mon Aug 27 1984,Manchester City,3-0,Grimsby Town
+Tue Aug 28 1984,Charlton Athletic,2-2,Huddersfield Town
+Tue Aug 28 1984,Brighton & Hove Albion,2-1,Notts County
+Sat Sep 1 1984,Oxford United,1-1,Portsmouth
+Sat Sep 1 1984,Birmingham City,4-2,Wimbledon
+Sat Sep 1 1984,Barnsley,0-1,Oldham Athletic
+Sat Sep 1 1984,Sheffield United,2-1,Cardiff City
+Sat Sep 1 1984,Manchester City,2-3,Fulham
+Sat Sep 1 1984,Charlton Athletic,3-0,Notts County
+Sat Sep 1 1984,Blackburn Rovers,4-0,Carlisle United
+Sat Sep 1 1984,Middlesbrough,1-5,Grimsby Town
+Sat Sep 1 1984,Shrewsbury Town,4-1,Crystal Palace
+Sat Sep 1 1984,Leeds United,3-2,Wolverhampton Wanderers
+Sat Sep 1 1984,Brighton & Hove Albion,0-1,Huddersfield Town
+Tue Sep 4 1984,Huddersfield Town,1-1,Blackburn Rovers
+Tue Sep 4 1984,Fulham,0-1,Birmingham City
+Tue Sep 4 1984,Notts County,0-2,Barnsley
+Tue Sep 4 1984,Wolverhampton Wanderers,2-0,Manchester City
+Tue Sep 4 1984,Grimsby Town,2-1,Charlton Athletic
+Tue Sep 4 1984,Carlisle United,2-0,Shrewsbury Town
+Sat Sep 8 1984,Oldham Athletic,2-2,Sheffield United
+Sat Sep 8 1984,Notts County,3-2,Middlesbrough
+Sat Sep 8 1984,Portsmouth,0-0,Barnsley
+Sat Sep 8 1984,Wimbledon,1-3,Oxford United
+Sat Sep 8 1984,Grimsby Town,0-2,Leeds United
+Sat Sep 8 1984,Crystal Palace,0-2,Birmingham City
+Sat Sep 8 1984,Wolverhampton Wanderers,1-0,Charlton Athletic
+Sat Sep 8 1984,Carlisle United,0-0,Manchester City
+Sat Sep 8 1984,Cardiff City,2-4,Brighton & Hove Albion
+Sat Sep 8 1984,Huddersfield Town,1-5,Shrewsbury Town
+Sat Sep 8 1984,Fulham,3-2,Blackburn Rovers
+Wed Sep 12 1984,Cardiff City,2-1,Leeds United
+Sat Sep 15 1984,Shrewsbury Town,1-2,Wimbledon
+Sat Sep 15 1984,Sheffield United,3-0,Notts County
+Sat Sep 15 1984,Brighton & Hove Albion,1-0,Crystal Palace
+Sat Sep 15 1984,Charlton Athletic,2-1,Oldham Athletic
+Sat Sep 15 1984,Barnsley,2-0,Cardiff City
+Sat Sep 15 1984,Oxford United,3-2,Fulham
+Sat Sep 15 1984,Manchester City,1-0,Huddersfield Town
+Sat Sep 15 1984,Middlesbrough,1-1,Wolverhampton Wanderers
+Sat Sep 15 1984,Birmingham City,2-0,Carlisle United
+Sat Sep 15 1984,Leeds United,0-1,Portsmouth
+Sat Sep 15 1984,Blackburn Rovers,3-1,Grimsby Town
+Tue Sep 18 1984,Sheffield United,1-2,Crystal Palace
+Tue Sep 18 1984,Middlesbrough,2-4,Wimbledon
+Tue Sep 18 1984,Birmingham City,0-1,Portsmouth
+Tue Sep 18 1984,Blackburn Rovers,2-1,Cardiff City
+Tue Sep 18 1984,Shrewsbury Town,3-0,Oldham Athletic
+Wed Sep 19 1984,Oxford United,3-1,Wolverhampton Wanderers
+Sat Sep 22 1984,Portsmouth,3-0,Shrewsbury Town
+Sat Sep 22 1984,Fulham,2-1,Middlesbrough
+Sat Sep 22 1984,Grimsby Town,1-2,Oxford United
+Sat Sep 22 1984,Oldham Athletic,1-0,Brighton & Hove Albion
+Sat Sep 22 1984,Wimbledon,1-3,Charlton Athletic
+Sat Sep 22 1984,Cardiff City,0-3,Manchester City
+Sat Sep 22 1984,Carlisle United,1-1,Sheffield United
+Sat Sep 22 1984,Huddersfield Town,1-1,Barnsley
+Sat Sep 22 1984,Notts County,0-3,Blackburn Rovers
+Sat Sep 22 1984,Crystal Palace,3-1,Leeds United
+Sat Sep 22 1984,Wolverhampton Wanderers,0-2,Birmingham City
+Sat Sep 29 1984,Blackburn Rovers,2-0,Wimbledon
+Sat Sep 29 1984,Sheffield United,2-3,Grimsby Town
+Sat Sep 29 1984,Brighton & Hove Albion,2-0,Fulham
+Sat Sep 29 1984,Birmingham City,1-0,Huddersfield Town
+Sat Sep 29 1984,Oxford United,4-0,Carlisle United
+Sat Sep 29 1984,Barnsley,5-1,Wolverhampton Wanderers
+Sat Sep 29 1984,Manchester City,2-1,Crystal Palace
+Sat Sep 29 1984,Charlton Athletic,2-2,Portsmouth
+Sat Sep 29 1984,Middlesbrough,3-2,Cardiff City
+Sat Sep 29 1984,Shrewsbury Town,4-2,Notts County
+Sat Sep 29 1984,Leeds United,6-0,Oldham Athletic
+Tue Oct 2 1984,Portsmouth,2-1,Sheffield United
+Tue Oct 2 1984,Wimbledon,1-0,Brighton & Hove Albion
+Tue Oct 2 1984,Oldham Athletic,2-0,Middlesbrough
+Sat Oct 6 1984,Leeds United,1-1,Sheffield United
+Sat Oct 6 1984,Wolverhampton Wanderers,2-3,Notts County
+Sat Oct 6 1984,Wimbledon,3-0,Carlisle United
+Sat Oct 6 1984,Fulham,2-1,Huddersfield Town
+Sat Oct 6 1984,Grimsby Town,4-1,Oldham Athletic
+Sat Oct 6 1984,Manchester City,1-0,Oxford United
+Sat Oct 6 1984,Brighton & Hove Albion,2-0,Birmingham City
+Sat Oct 6 1984,Cardiff City,1-2,Portsmouth
+Sat Oct 6 1984,Middlesbrough,1-0,Charlton Athletic
+Sat Oct 6 1984,Blackburn Rovers,3-1,Shrewsbury Town
+Sun Oct 7 1984,Crystal Palace,0-1,Barnsley
+Sat Oct 13 1984,Huddersfield Town,2-1,Wimbledon
+Sat Oct 13 1984,Shrewsbury Town,1-0,Manchester City
+Sat Oct 13 1984,Barnsley,1-0,Leeds United
+Sat Oct 13 1984,Birmingham City,0-2,Blackburn Rovers
+Sat Oct 13 1984,Sheffield United,0-3,Middlesbrough
+Sat Oct 13 1984,Charlton Athletic,1-2,Fulham
+Sat Oct 13 1984,Oxford United,2-1,Brighton & Hove Albion
+Sat Oct 13 1984,Carlisle United,1-0,Crystal Palace
+Sat Oct 13 1984,Oldham Athletic,3-2,Wolverhampton Wanderers
+Sat Oct 13 1984,Portsmouth,3-2,Grimsby Town
+Sun Oct 14 1984,Notts County,0-2,Cardiff City
+Sat Oct 20 1984,Brighton & Hove Albion,0-0,Barnsley
+Sat Oct 20 1984,Notts County,1-3,Birmingham City
+Sat Oct 20 1984,Blackburn Rovers,1-1,Oldham Athletic
+Sat Oct 20 1984,Middlesbrough,2-1,Manchester City
+Sat Oct 20 1984,Wimbledon,3-2,Portsmouth
+Sat Oct 20 1984,Fulham,3-2,Cardiff City
+Sat Oct 20 1984,Charlton Athletic,1-1,Shrewsbury Town
+Sat Oct 20 1984,Oxford United,5-1,Sheffield United
+Sat Oct 20 1984,Huddersfield Town,1-0,Leeds United
+Sat Oct 20 1984,Wolverhampton Wanderers,2-1,Crystal Palace
+Sat Oct 20 1984,Grimsby Town,1-0,Carlisle United
+Sat Oct 27 1984,Sheffield United,3-0,Wimbledon
+Sat Oct 27 1984,Crystal Palace,2-2,Fulham
+Sat Oct 27 1984,Manchester City,2-1,Blackburn Rovers
+Sat Oct 27 1984,Birmingham City,0-0,Oxford United
+Sat Oct 27 1984,Barnsley,1-0,Charlton Athletic
+Sat Oct 27 1984,Oldham Athletic,3-2,Notts County
+Sat Oct 27 1984,Carlisle United,0-1,Huddersfield Town
+Sat Oct 27 1984,Shrewsbury Town,0-0,Brighton & Hove Albion
+Sat Oct 27 1984,Leeds United,2-0,Middlesbrough
+Sat Oct 27 1984,Cardiff City,2-4,Grimsby Town
+Sat Oct 27 1984,Portsmouth,0-1,Wolverhampton Wanderers
+Sat Nov 3 1984,Oxford United,2-1,Blackburn Rovers
+Sat Nov 3 1984,Brighton & Hove Albion,0-0,Manchester City
+Sat Nov 3 1984,Notts County,1-1,Grimsby Town
+Sat Nov 3 1984,Huddersfield Town,3-1,Middlesbrough
+Sat Nov 3 1984,Birmingham City,0-0,Shrewsbury Town
+Sat Nov 3 1984,Charlton Athletic,2-3,Leeds United
+Sat Nov 3 1984,Wolverhampton Wanderers,3-0,Cardiff City
+Sat Nov 3 1984,Oldham Athletic,0-2,Portsmouth
+Sun Nov 4 1984,Wimbledon,3-2,Crystal Palace
+Tue Nov 6 1984,Crystal Palace,2-2,Shrewsbury Town
+Sat Nov 10 1984,Shrewsbury Town,2-2,Oxford United
+Sat Nov 10 1984,Sheffield United,1-1,Charlton Athletic
+Sat Nov 10 1984,Cardiff City,2-2,Oldham Athletic
+Sat Nov 10 1984,Fulham,3-1,Wimbledon
+Sat Nov 10 1984,Leeds United,1-1,Carlisle United
+Sat Nov 10 1984,Crystal Palace,1-1,Huddersfield Town
+Sat Nov 10 1984,Grimsby Town,5-1,Wolverhampton Wanderers
+Sat Nov 10 1984,Middlesbrough,0-0,Barnsley
+Sat Nov 10 1984,Blackburn Rovers,2-0,Brighton & Hove Albion
+Sat Nov 10 1984,Portsmouth,3-1,Notts County
+Sat Nov 10 1984,Manchester City,1-0,Birmingham City
+Tue Nov 13 1984,Barnsley,1-0,Sheffield United
+Sat Nov 17 1984,Wolverhampton Wanderers,3-3,Wimbledon
+Sat Nov 17 1984,Charlton Athletic,2-1,Birmingham City
+Sat Nov 17 1984,Grimsby Town,2-4,Fulham
+Sat Nov 17 1984,Middlesbrough,1-2,Blackburn Rovers
+Sat Nov 17 1984,Sheffield United,0-0,Manchester City
+Sat Nov 17 1984,Cardiff City,2-1,Carlisle United
+Sat Nov 17 1984,Leeds United,1-0,Brighton & Hove Albion
+Sat Nov 17 1984,Notts County,0-2,Huddersfield Town
+Sat Nov 17 1984,Barnsley,3-1,Shrewsbury Town
+Sat Nov 17 1984,Portsmouth,1-1,Crystal Palace
+Sat Nov 17 1984,Oldham Athletic,0-0,Oxford United
+Tue Nov 20 1984,Carlisle United,3-0,Fulham
+Sat Nov 24 1984,Oxford United,5-2,Leeds United
+Sat Nov 24 1984,Carlisle United,1-0,Notts County
+Sat Nov 24 1984,Fulham,1-2,Wolverhampton Wanderers
+Sat Nov 24 1984,Brighton & Hove Albion,1-2,Middlesbrough
+Sat Nov 24 1984,Birmingham City,0-0,Barnsley
+Sat Nov 24 1984,Huddersfield Town,2-1,Cardiff City
+Sat Nov 24 1984,Manchester City,2-2,Portsmouth
+Sat Nov 24 1984,Wimbledon,1-1,Grimsby Town
+Sat Nov 24 1984,Blackburn Rovers,3-0,Charlton Athletic
+Sat Nov 24 1984,Shrewsbury Town,3-3,Sheffield United
+Sun Nov 25 1984,Crystal Palace,3-0,Oldham Athletic
+Fri Nov 30 1984,Charlton Athletic,1-1,Carlisle United
+Sat Dec 1 1984,Barnsley,1-0,Fulham
+Sat Dec 1 1984,Wolverhampton Wanderers,0-1,Brighton & Hove Albion
+Sat Dec 1 1984,Grimsby Town,2-1,Shrewsbury Town
+Sat Dec 1 1984,Portsmouth,2-2,Blackburn Rovers
+Sat Dec 1 1984,Oldham Athletic,0-2,Manchester City
+Sat Dec 1 1984,Sheffield United,0-2,Huddersfield Town
+Sat Dec 1 1984,Notts County,2-0,Oxford United
+Sat Dec 1 1984,Middlesbrough,1-1,Crystal Palace
+Sat Dec 1 1984,Leeds United,5-2,Wimbledon
+Sat Dec 1 1984,Cardiff City,1-2,Birmingham City
+Fri Dec 7 1984,Fulham,3-1,Oldham Athletic
+Sat Dec 8 1984,Manchester City,2-0,Notts County
+Sat Dec 8 1984,Blackburn Rovers,3-1,Sheffield United
+Sat Dec 8 1984,Huddersfield Town,3-1,Wolverhampton Wanderers
+Sat Dec 8 1984,Brighton & Hove Albion,0-0,Grimsby Town
+Sat Dec 8 1984,Oxford United,5-0,Charlton Athletic
+Sat Dec 8 1984,Birmingham City,3-2,Middlesbrough
+Sat Dec 8 1984,Wimbledon,3-3,Barnsley
+Sat Dec 8 1984,Shrewsbury Town,2-3,Leeds United
+Sat Dec 8 1984,Carlisle United,3-0,Portsmouth
+Sun Dec 9 1984,Crystal Palace,1-1,Cardiff City
+Fri Dec 14 1984,Middlesbrough,1-1,Shrewsbury Town
+Sat Dec 15 1984,Grimsby Town,1-3,Crystal Palace
+Sat Dec 15 1984,Leeds United,0-1,Birmingham City
+Sat Dec 15 1984,Wolverhampton Wanderers,0-3,Blackburn Rovers
+Sat Dec 15 1984,Portsmouth,3-2,Huddersfield Town
+Sat Dec 15 1984,Sheffield United,1-1,Brighton & Hove Albion
+Sat Dec 15 1984,Oldham Athletic,2-3,Carlisle United
+Sat Dec 15 1984,Charlton Athletic,1-3,Manchester City
+Sat Dec 15 1984,Cardiff City,1-3,Wimbledon
+Sun Dec 16 1984,Notts County,2-1,Fulham
+Sat Dec 22 1984,Portsmouth,2-1,Oxford United
+Sat Dec 22 1984,Wolverhampton Wanderers,0-2,Leeds United
+Sat Dec 22 1984,Wimbledon,1-2,Birmingham City
+Sat Dec 22 1984,Cardiff City,1-3,Sheffield United
+Sat Dec 22 1984,Fulham,3-2,Manchester City
+Sat Dec 22 1984,Grimsby Town,3-1,Middlesbrough
+Sat Dec 22 1984,Huddersfield Town,1-2,Brighton & Hove Albion
+Sun Dec 23 1984,Oldham Athletic,2-1,Barnsley
+Sun Dec 23 1984,Carlisle United,0-1,Blackburn Rovers
+Wed Dec 26 1984,Oxford United,4-0,Cardiff City
+Wed Dec 26 1984,Shrewsbury Town,2-1,Wolverhampton Wanderers
+Wed Dec 26 1984,Brighton & Hove Albion,1-1,Portsmouth
+Wed Dec 26 1984,Fulham,1-0,Sheffield United
+Wed Dec 26 1984,Wimbledon,3-2,Notts County
+Wed Dec 26 1984,Blackburn Rovers,2-1,Leeds United
+Wed Dec 26 1984,Carlisle United,0-3,Middlesbrough
+Wed Dec 26 1984,Huddersfield Town,2-1,Oldham Athletic
+Wed Dec 26 1984,Birmingham City,2-1,Grimsby Town
+Wed Dec 26 1984,Crystal Palace,2-1,Charlton Athletic
+Wed Dec 26 1984,Manchester City,1-1,Barnsley
+Sat Dec 29 1984,Brighton & Hove Albion,2-1,Wimbledon
+Sat Dec 29 1984,Manchester City,4-0,Wolverhampton Wanderers
+Sat Dec 29 1984,Oxford United,5-0,Crystal Palace
+Sat Dec 29 1984,Charlton Athletic,4-1,Grimsby Town
+Sat Dec 29 1984,Shrewsbury Town,4-2,Carlisle United
+Sat Dec 29 1984,Barnsley,0-0,Notts County
+Sat Dec 29 1984,Birmingham City,2-2,Fulham
+Sat Dec 29 1984,Leeds United,1-1,Cardiff City
+Sat Dec 29 1984,Blackburn Rovers,1-3,Huddersfield Town
+Sat Dec 29 1984,Sheffield United,4-1,Portsmouth
+Tue Jan 1 1985,Middlesbrough,0-1,Oxford United
+Tue Jan 1 1985,Notts County,0-0,Crystal Palace
+Tue Jan 1 1985,Barnsley,1-1,Blackburn Rovers
+Tue Jan 1 1985,Charlton Athletic,0-1,Brighton & Hove Albion
+Tue Jan 1 1985,Leeds United,1-1,Manchester City
+Tue Jan 1 1985,Wolverhampton Wanderers,0-2,Carlisle United
+Tue Jan 1 1985,Portsmouth,4-4,Fulham
+Tue Jan 1 1985,Grimsby Town,5-1,Huddersfield Town
+Tue Jan 1 1985,Sheffield United,3-4,Birmingham City
+Tue Jan 1 1985,Cardiff City,0-0,Shrewsbury Town
+Tue Jan 1 1985,Oldham Athletic,0-1,Wimbledon
+Sat Jan 12 1985,Huddersfield Town,0-2,Manchester City
+Sat Jan 12 1985,Grimsby Town,1-1,Blackburn Rovers
+Sat Jan 12 1985,Notts County,0-0,Sheffield United
+Sat Jan 12 1985,Oldham Athletic,2-1,Charlton Athletic
+Sat Jan 12 1985,Wolverhampton Wanderers,0-0,Middlesbrough
+Sat Jan 19 1985,Leeds United,5-0,Notts County
+Sat Jan 19 1985,Middlesbrough,0-0,Portsmouth
+Sat Jan 19 1985,Manchester City,3-0,Wimbledon
+Sat Jan 26 1985,Shrewsbury Town,3-1,Fulham
+Sat Jan 26 1985,Sheffield United,2-2,Wolverhampton Wanderers
+Sat Jan 26 1985,Notts County,0-0,Charlton Athletic
+Sat Feb 2 1985,Wolverhampton Wanderers,0-1,Barnsley
+Sat Feb 2 1985,Oldham Athletic,1-1,Leeds United
+Sat Feb 2 1985,Carlisle United,0-1,Oxford United
+Sat Feb 2 1985,Grimsby Town,0-2,Sheffield United
+Sat Feb 2 1985,Cardiff City,2-1,Middlesbrough
+Sat Feb 2 1985,Notts County,1-3,Shrewsbury Town
+Sat Feb 2 1985,Crystal Palace,1-2,Manchester City
+Sat Feb 2 1985,Wimbledon,1-1,Blackburn Rovers
+Sat Feb 2 1985,Portsmouth,0-1,Charlton Athletic
+Sat Feb 2 1985,Huddersfield Town,0-1,Birmingham City
+Sat Feb 2 1985,Fulham,2-0,Brighton & Hove Albion
+Tue Feb 5 1985,Brighton & Hove Albion,4-1,Carlisle United
+Tue Feb 5 1985,Middlesbrough,1-2,Oldham Athletic
+Tue Feb 5 1985,Crystal Palace,1-0,Oxford United
+Sat Feb 9 1985,Barnsley,2-2,Portsmouth
+Sat Feb 9 1985,Leeds United,0-0,Grimsby Town
+Sat Feb 9 1985,Brighton & Hove Albion,1-0,Cardiff City
+Sat Feb 9 1985,Manchester City,1-3,Carlisle United
+Sat Feb 9 1985,Middlesbrough,0-1,Notts County
+Sat Feb 9 1985,Blackburn Rovers,2-1,Fulham
+Tue Feb 12 1985,Sheffield United,2-0,Oldham Athletic
+Sat Feb 16 1985,Oldham Athletic,0-1,Cardiff City
+Sat Feb 16 1985,Huddersfield Town,2-0,Crystal Palace
+Tue Feb 19 1985,Fulham,1-0,Oxford United
+Sat Feb 23 1985,Grimsby Town,2-0,Notts County
+Sat Feb 23 1985,Manchester City,2-0,Brighton & Hove Albion
+Sat Feb 23 1985,Middlesbrough,2-2,Huddersfield Town
+Sat Feb 23 1985,Shrewsbury Town,1-0,Birmingham City
+Sat Feb 23 1985,Sheffield United,3-1,Barnsley
+Sat Feb 23 1985,Portsmouth,5-1,Oldham Athletic
+Sat Feb 23 1985,Blackburn Rovers,1-1,Oxford United
+Sat Feb 23 1985,Leeds United,1-0,Charlton Athletic
+Sat Feb 23 1985,Fulham,3-2,Carlisle United
+Sat Feb 23 1985,Cardiff City,0-0,Wolverhampton Wanderers
+Sun Feb 24 1985,Crystal Palace,0-5,Wimbledon
+Tue Feb 26 1985,Barnsley,1-0,Middlesbrough
+Tue Feb 26 1985,Carlisle United,2-2,Leeds United
+Sat Mar 2 1985,Huddersfield Town,2-0,Carlisle United
+Sat Mar 2 1985,Fulham,2-2,Crystal Palace
+Sat Mar 2 1985,Wimbledon,5-0,Sheffield United
+Sat Mar 2 1985,Grimsby Town,6-3,Cardiff City
+Sat Mar 2 1985,Oxford United,0-3,Birmingham City
+Sat Mar 2 1985,Wolverhampton Wanderers,0-0,Portsmouth
+Sat Mar 2 1985,Middlesbrough,0-0,Leeds United
+Sat Mar 2 1985,Notts County,0-0,Oldham Athletic
+Sat Mar 2 1985,Blackburn Rovers,0-1,Manchester City
+Sat Mar 2 1985,Brighton & Hove Albion,1-0,Shrewsbury Town
+Sat Mar 2 1985,Charlton Athletic,5-3,Barnsley
+Tue Mar 5 1985,Charlton Athletic,1-4,Cardiff City
+Tue Mar 5 1985,Wolverhampton Wanderers,0-1,Grimsby Town
+Tue Mar 5 1985,Birmingham City,0-1,Oldham Athletic
+Wed Mar 6 1985,Brighton & Hove Albion,3-1,Blackburn Rovers
+Sat Mar 9 1985,Crystal Palace,0-0,Wolverhampton Wanderers
+Sat Mar 9 1985,Carlisle United,1-1,Grimsby Town
+Sat Mar 9 1985,Sheffield United,1-1,Oxford United
+Sat Mar 9 1985,Portsmouth,1-0,Wimbledon
+Sat Mar 9 1985,Leeds United,0-0,Huddersfield Town
+Sat Mar 9 1985,Oldham Athletic,2-0,Blackburn Rovers
+Sat Mar 9 1985,Shrewsbury Town,1-1,Charlton Athletic
+Sat Mar 9 1985,Manchester City,1-0,Middlesbrough
+Sat Mar 9 1985,Cardiff City,0-2,Fulham
+Sat Mar 9 1985,Birmingham City,2-1,Notts County
+Tue Mar 12 1985,Shrewsbury Town,5-1,Huddersfield Town
+Tue Mar 12 1985,Charlton Athletic,1-0,Wolverhampton Wanderers
+Tue Mar 12 1985,Portsmouth,3-1,Leeds United
+Tue Mar 12 1985,Carlisle United,2-1,Birmingham City
+Wed Mar 13 1985,Oxford United,4-0,Wimbledon
+Wed Mar 13 1985,Barnsley,0-0,Brighton & Hove Albion
+Sat Mar 16 1985,Manchester City,4-0,Shrewsbury Town
+Sat Mar 16 1985,Brighton & Hove Albion,0-0,Oxford United
+Sat Mar 16 1985,Leeds United,2-0,Barnsley
+Sat Mar 16 1985,Fulham,0-0,Charlton Athletic
+Sat Mar 16 1985,Middlesbrough,1-0,Sheffield United
+Sat Mar 16 1985,Grimsby Town,2-3,Portsmouth
+Sat Mar 16 1985,Wolverhampton Wanderers,0-3,Oldham Athletic
+Sat Mar 16 1985,Blackburn Rovers,2-1,Birmingham City
+Sun Mar 17 1985,Crystal Palace,2-1,Carlisle United
+Sun Mar 17 1985,Cardiff City,1-4,Notts County
+Tue Mar 19 1985,Birmingham City,0-0,Manchester City
+Fri Mar 22 1985,Charlton Athletic,1-0,Middlesbrough
+Sat Mar 23 1985,Huddersfield Town,2-2,Fulham
+Sat Mar 23 1985,Shrewsbury Town,3-0,Blackburn Rovers
+Sat Mar 23 1985,Notts County,4-1,Wolverhampton Wanderers
+Sat Mar 23 1985,Sheffield United,2-1,Leeds United
+Sat Mar 23 1985,Birmingham City,1-1,Brighton & Hove Albion
+Sat Mar 23 1985,Carlisle United,6-1,Wimbledon
+Sat Mar 23 1985,Barnsley,3-1,Crystal Palace
+Sat Mar 23 1985,Oldham Athletic,2-0,Grimsby Town
+Sat Mar 23 1985,Oxford United,3-0,Manchester City
+Sat Mar 23 1985,Portsmouth,0-0,Cardiff City
+Wed Mar 27 1985,Wimbledon,4-1,Shrewsbury Town
+Fri Mar 29 1985,Brighton & Hove Albion,2-0,Oldham Athletic
+Sat Mar 30 1985,Oxford United,1-0,Grimsby Town
+Sat Mar 30 1985,Birmingham City,1-0,Wolverhampton Wanderers
+Sat Mar 30 1985,Fulham,0-2,Leeds United
+Sat Mar 30 1985,Manchester City,2-2,Cardiff City
+Sat Mar 30 1985,Crystal Palace,1-3,Sheffield United
+Sat Mar 30 1985,Blackburn Rovers,1-0,Notts County
+Sat Mar 30 1985,Carlisle United,2-0,Barnsley
+Sat Mar 30 1985,Huddersfield Town,2-1,Charlton Athletic
+Sat Mar 30 1985,Wimbledon,1-1,Middlesbrough
+Sat Mar 30 1985,Shrewsbury Town,0-0,Portsmouth
+Tue Apr 2 1985,Crystal Palace,1-1,Brighton & Hove Albion
+Tue Apr 2 1985,Notts County,1-3,Portsmouth
+Tue Apr 2 1985,Barnsley,3-0,Oxford United
+Fri Apr 5 1985,Grimsby Town,1-0,Birmingham City
+Sat Apr 6 1985,Sheffield United,0-1,Fulham
+Sat Apr 6 1985,Charlton Athletic,1-1,Crystal Palace
+Sat Apr 6 1985,Notts County,2-3,Wimbledon
+Sat Apr 6 1985,Cardiff City,0-2,Oxford United
+Sat Apr 6 1985,Middlesbrough,1-2,Carlisle United
+Sat Apr 6 1985,Oldham Athletic,2-2,Huddersfield Town
+Sat Apr 6 1985,Wolverhampton Wanderers,0-1,Shrewsbury Town
+Sat Apr 6 1985,Barnsley,0-0,Manchester City
+Sat Apr 6 1985,Portsmouth,1-1,Brighton & Hove Albion
+Sat Apr 6 1985,Leeds United,0-0,Blackburn Rovers
+Mon Apr 8 1985,Fulham,1-3,Portsmouth
+Mon Apr 8 1985,Crystal Palace,1-0,Notts County
+Mon Apr 8 1985,Oxford United,1-0,Middlesbrough
+Mon Apr 8 1985,Brighton & Hove Albion,2-1,Charlton Athletic
+Mon Apr 8 1985,Blackburn Rovers,0-0,Barnsley
+Mon Apr 8 1985,Birmingham City,4-1,Sheffield United
+Mon Apr 8 1985,Carlisle United,0-1,Wolverhampton Wanderers
+Mon Apr 8 1985,Manchester City,1-2,Leeds United
+Tue Apr 9 1985,Wimbledon,1-0,Oldham Athletic
+Tue Apr 9 1985,Shrewsbury Town,0-0,Cardiff City
+Tue Apr 9 1985,Huddersfield Town,0-0,Grimsby Town
+Sat Apr 13 1985,Grimsby Town,4-1,Manchester City
+Sat Apr 13 1985,Charlton Athletic,0-1,Wimbledon
+Sat Apr 13 1985,Barnsley,2-1,Huddersfield Town
+Sat Apr 13 1985,Portsmouth,1-3,Birmingham City
+Sat Apr 13 1985,Oldham Athletic,0-1,Shrewsbury Town
+Sat Apr 13 1985,Cardiff City,1-2,Blackburn Rovers
+Sat Apr 13 1985,Sheffield United,0-0,Carlisle United
+Sat Apr 13 1985,Leeds United,4-1,Crystal Palace
+Sat Apr 13 1985,Wolverhampton Wanderers,1-2,Oxford United
+Sat Apr 13 1985,Middlesbrough,2-0,Fulham
+Sun Apr 14 1985,Notts County,1-2,Brighton & Hove Albion
+Tue Apr 16 1985,Birmingham City,3-0,Crystal Palace
+Tue Apr 16 1985,Wimbledon,1-1,Fulham
+Tue Apr 16 1985,Charlton Athletic,0-0,Sheffield United
+Wed Apr 17 1985,Oxford United,3-0,Huddersfield Town
+Sat Apr 20 1985,Huddersfield Town,1-2,Notts County
+Sat Apr 20 1985,Shrewsbury Town,2-0,Barnsley
+Sat Apr 20 1985,Crystal Palace,2-1,Portsmouth
+Sat Apr 20 1985,Blackburn Rovers,3-0,Middlesbrough
+Sat Apr 20 1985,Birmingham City,2-1,Charlton Athletic
+Sat Apr 20 1985,Brighton & Hove Albion,1-1,Leeds United
+Sat Apr 20 1985,Wimbledon,1-1,Wolverhampton Wanderers
+Sat Apr 20 1985,Carlisle United,0-1,Cardiff City
+Sat Apr 20 1985,Oxford United,5-2,Oldham Athletic
+Sat Apr 20 1985,Manchester City,2-0,Sheffield United
+Sat Apr 20 1985,Fulham,2-1,Grimsby Town
+Tue Apr 23 1985,Cardiff City,3-0,Barnsley
+Tue Apr 23 1985,Blackburn Rovers,0-1,Crystal Palace
+Wed Apr 24 1985,Oxford United,1-0,Shrewsbury Town
+Sat Apr 27 1985,Charlton Athletic,1-0,Blackburn Rovers
+Sat Apr 27 1985,Barnsley,0-1,Birmingham City
+Sat Apr 27 1985,Oldham Athletic,1-0,Crystal Palace
+Sat Apr 27 1985,Grimsby Town,2-1,Wimbledon
+Sat Apr 27 1985,Middlesbrough,2-1,Brighton & Hove Albion
+Sat Apr 27 1985,Wolverhampton Wanderers,0-4,Fulham
+Sat Apr 27 1985,Sheffield United,0-1,Shrewsbury Town
+Sat Apr 27 1985,Notts County,3-0,Carlisle United
+Sat Apr 27 1985,Portsmouth,1-2,Manchester City
+Sat Apr 27 1985,Cardiff City,3-0,Huddersfield Town
+Sat Apr 27 1985,Leeds United,1-0,Oxford United
+Tue Apr 30 1985,Barnsley,0-0,Grimsby Town
+Tue Apr 30 1985,Wimbledon,0-1,Huddersfield Town
+Fri May 3 1985,Carlisle United,1-1,Charlton Athletic
+Sat May 4 1985,Brighton & Hove Albion,5-1,Wolverhampton Wanderers
+Sat May 4 1985,Wimbledon,2-2,Leeds United
+Sat May 4 1985,Shrewsbury Town,4-1,Grimsby Town
+Sat May 4 1985,Manchester City,0-0,Oldham Athletic
+Sat May 4 1985,Birmingham City,2-0,Cardiff City
+Sat May 4 1985,Oxford United,1-1,Notts County
+Sat May 4 1985,Fulham,1-1,Barnsley
+Sat May 4 1985,Crystal Palace,1-0,Middlesbrough
+Sat May 4 1985,Blackburn Rovers,0-1,Portsmouth
+Mon May 6 1985,Oldham Athletic,2-1,Fulham
+Mon May 6 1985,Middlesbrough,0-0,Birmingham City
+Mon May 6 1985,Leeds United,1-0,Shrewsbury Town
+Mon May 6 1985,Cardiff City,0-3,Crystal Palace
+Mon May 6 1985,Wolverhampton Wanderers,2-1,Huddersfield Town
+Mon May 6 1985,Sheffield United,1-3,Blackburn Rovers
+Mon May 6 1985,Barnsley,0-0,Wimbledon
+Mon May 6 1985,Notts County,3-2,Manchester City
+Mon May 6 1985,Portsmouth,3-1,Carlisle United
+Tue May 7 1985,Grimsby Town,2-4,Brighton & Hove Albion
+Tue May 7 1985,Charlton Athletic,3-3,Oxford United
+Sat May 11 1985,Huddersfield Town,0-2,Portsmouth
+Sat May 11 1985,Carlisle United,2-5,Oldham Athletic
+Sat May 11 1985,Blackburn Rovers,3-0,Wolverhampton Wanderers
+Sat May 11 1985,Oxford United,4-0,Barnsley
+Sat May 11 1985,Wimbledon,2-1,Cardiff City
+Sat May 11 1985,Birmingham City,1-0,Leeds United
+Sat May 11 1985,Shrewsbury Town,0-2,Middlesbrough
+Sat May 11 1985,Manchester City,5-1,Charlton Athletic
+Sat May 11 1985,Brighton & Hove Albion,1-0,Sheffield United
+Sat May 11 1985,Crystal Palace,0-2,Grimsby Town
+Sat May 11 1985,Fulham,1-0,Notts County
+Mon May 13 1985,Huddersfield Town,2-2,Sheffield United

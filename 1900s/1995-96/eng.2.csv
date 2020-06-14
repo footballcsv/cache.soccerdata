@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 12 1995,Crystal Palace,4-3,Barnsley
+Sat Aug 12 1995,Millwall,2-1,Grimsby Town
+Sat Aug 12 1995,Oldham Athletic,3-0,Huddersfield Town
+Sat Aug 12 1995,Sunderland,1-2,Leicester City
+Sat Aug 12 1995,West Bromwich Albion,1-0,Charlton Athletic
+Sat Aug 12 1995,Watford,2-1,Sheffield United
+Sat Aug 12 1995,Portsmouth,4-2,Southend United
+Sat Aug 12 1995,Tranmere Rovers,2-2,Wolverhampton Wanderers
+Sat Aug 12 1995,Stoke City,1-1,Reading
+Sat Aug 12 1995,Birmingham City,3-1,Ipswich Town
+Sun Aug 13 1995,Luton Town,1-3,Norwich City
+Sun Aug 13 1995,Derby County,0-0,Port Vale
+Sat Aug 19 1995,Grimsby Town,2-1,Portsmouth
+Sat Aug 19 1995,Port Vale,0-1,Millwall
+Sat Aug 19 1995,Reading,3-2,Derby County
+Sat Aug 19 1995,Barnsley,2-1,Oldham Athletic
+Sat Aug 19 1995,Norwich City,0-0,Sunderland
+Sat Aug 19 1995,Southend United,0-1,Luton Town
+Sat Aug 19 1995,Sheffield United,0-2,Tranmere Rovers
+Sat Aug 19 1995,Huddersfield Town,1-0,Watford
+Sat Aug 19 1995,Charlton Athletic,3-1,Birmingham City
+Sat Aug 19 1995,Ipswich Town,1-0,Crystal Palace
+Sat Aug 19 1995,Leicester City,2-3,Stoke City
+Sun Aug 20 1995,Wolverhampton Wanderers,1-1,West Bromwich Albion
+Sat Aug 26 1995,Watford,2-3,Barnsley
+Sat Aug 26 1995,Portsmouth,0-0,Reading
+Sat Aug 26 1995,Luton Town,1-1,Leicester City
+Sat Aug 26 1995,Derby County,1-1,Grimsby Town
+Sat Aug 26 1995,Crystal Palace,1-1,Charlton Athletic
+Sat Aug 26 1995,West Bromwich Albion,0-0,Ipswich Town
+Sat Aug 26 1995,Oldham Athletic,2-1,Sheffield United
+Sat Aug 26 1995,Millwall,0-0,Southend United
+Sat Aug 26 1995,Tranmere Rovers,3-1,Huddersfield Town
+Sat Aug 26 1995,Birmingham City,3-1,Norwich City
+Sat Aug 26 1995,Sunderland,2-0,Wolverhampton Wanderers
+Sun Aug 27 1995,Stoke City,0-1,Port Vale
+Tue Aug 29 1995,Grimsby Town,0-0,Luton Town
+Tue Aug 29 1995,Southend United,2-1,West Bromwich Albion
+Tue Aug 29 1995,Reading,1-2,Millwall
+Tue Aug 29 1995,Barnsley,2-1,Tranmere Rovers
+Tue Aug 29 1995,Sheffield United,2-3,Crystal Palace
+Tue Aug 29 1995,Charlton Athletic,2-1,Watford
+Wed Aug 30 1995,Norwich City,2-1,Oldham Athletic
+Wed Aug 30 1995,Leicester City,4-2,Portsmouth
+Wed Aug 30 1995,Wolverhampton Wanderers,3-0,Derby County
+Wed Aug 30 1995,Ipswich Town,4-1,Stoke City
+Wed Aug 30 1995,Huddersfield Town,4-2,Birmingham City
+Wed Aug 30 1995,Port Vale,1-1,Sunderland
+Fri Sep 1 1995,Southend United,0-0,Reading
+Sat Sep 2 1995,Grimsby Town,0-0,Watford
+Sat Sep 2 1995,Portsmouth,0-1,Millwall
+Sat Sep 2 1995,Charlton Athletic,2-1,Huddersfield Town
+Sat Sep 2 1995,Luton Town,1-2,Derby County
+Sat Sep 2 1995,Leicester City,1-0,Wolverhampton Wanderers
+Sat Sep 2 1995,Ipswich Town,3-0,Sunderland
+Sat Sep 2 1995,Stoke City,0-1,Oldham Athletic
+Sat Sep 2 1995,West Bromwich Albion,3-1,Sheffield United
+Sat Sep 2 1995,Norwich City,2-1,Port Vale
+Sat Sep 2 1995,Barnsley,0-5,Birmingham City
+Sat Sep 9 1995,Reading,3-1,Luton Town
+Sat Sep 9 1995,Oldham Athletic,1-2,West Bromwich Albion
+Sat Sep 9 1995,Sheffield United,2-1,Norwich City
+Sat Sep 9 1995,Huddersfield Town,2-1,Ipswich Town
+Sat Sep 9 1995,Birmingham City,0-0,Crystal Palace
+Sat Sep 9 1995,Sunderland,1-0,Southend United
+Sat Sep 9 1995,Port Vale,0-2,Portsmouth
+Sat Sep 9 1995,Tranmere Rovers,0-0,Charlton Athletic
+Sat Sep 9 1995,Millwall,0-1,Barnsley
+Sat Sep 9 1995,Wolverhampton Wanderers,4-1,Grimsby Town
+Sat Sep 9 1995,Watford,3-0,Stoke City
+Sun Sep 10 1995,Derby County,0-1,Leicester City
+Tue Sep 12 1995,Tranmere Rovers,2-2,West Bromwich Albion
+Tue Sep 12 1995,Sunderland,1-1,Portsmouth
+Tue Sep 12 1995,Sheffield United,2-0,Charlton Athletic
+Tue Sep 12 1995,Port Vale,0-2,Leicester City
+Tue Sep 12 1995,Reading,0-2,Grimsby Town
+Tue Sep 12 1995,Huddersfield Town,3-0,Barnsley
+Tue Sep 12 1995,Oldham Athletic,1-1,Ipswich Town
+Tue Sep 12 1995,Watford,0-0,Crystal Palace
+Tue Sep 12 1995,Birmingham City,1-1,Stoke City
+Wed Sep 13 1995,Millwall,1-0,Luton Town
+Wed Sep 13 1995,Derby County,1-0,Southend United
+Wed Sep 13 1995,Wolverhampton Wanderers,0-2,Norwich City
+Sat Sep 16 1995,Southend United,2-1,Wolverhampton Wanderers
+Sat Sep 16 1995,Stoke City,0-0,Tranmere Rovers
+Sat Sep 16 1995,Leicester City,1-1,Reading
+Sat Sep 16 1995,Grimsby Town,1-0,Port Vale
+Sat Sep 16 1995,Crystal Palace,0-0,Huddersfield Town
+Sat Sep 16 1995,Luton Town,0-2,Sunderland
+Sat Sep 16 1995,Ipswich Town,4-2,Watford
+Sat Sep 16 1995,Norwich City,0-0,Millwall
+Sat Sep 16 1995,Portsmouth,2-2,Derby County
+Sat Sep 16 1995,Charlton Athletic,1-1,Oldham Athletic
+Sun Sep 17 1995,Barnsley,2-2,Sheffield United
+Sun Sep 17 1995,West Bromwich Albion,1-0,Birmingham City
+Sat Sep 23 1995,Millwall,1-2,Sunderland
+Sat Sep 23 1995,Leicester City,1-3,Southend United
+Sat Sep 23 1995,Wolverhampton Wanderers,0-0,Luton Town
+Sat Sep 23 1995,Reading,2-2,Port Vale
+Sat Sep 23 1995,Watford,1-1,Birmingham City
+Sat Sep 23 1995,Portsmouth,0-2,Tranmere Rovers
+Sat Sep 23 1995,Barnsley,2-0,Derby County
+Sat Sep 23 1995,Ipswich Town,1-5,Charlton Athletic
+Sat Sep 23 1995,Grimsby Town,2-2,Norwich City
+Sat Sep 23 1995,Oldham Athletic,3-1,Crystal Palace
+Sun Sep 24 1995,Huddersfield Town,1-2,Sheffield United
+Sun Sep 24 1995,Stoke City,2-1,West Bromwich Albion
+Sat Sep 30 1995,Birmingham City,0-0,Oldham Athletic
+Sat Sep 30 1995,Southend United,1-0,Grimsby Town
+Sat Sep 30 1995,Charlton Athletic,1-1,Barnsley
+Sat Sep 30 1995,Port Vale,2-2,Wolverhampton Wanderers
+Sat Sep 30 1995,West Bromwich Albion,1-2,Huddersfield Town
+Sat Sep 30 1995,Sheffield United,2-2,Ipswich Town
+Sat Sep 30 1995,Luton Town,3-1,Portsmouth
+Sat Sep 30 1995,Tranmere Rovers,2-3,Watford
+Sat Sep 30 1995,Crystal Palace,1-1,Stoke City
+Sat Sep 30 1995,Norwich City,0-1,Leicester City
+Sat Sep 30 1995,Sunderland,2-2,Reading
+Sun Oct 1 1995,Derby County,2-2,Millwall
+Sat Oct 7 1995,Oldham Athletic,1-1,Portsmouth
+Sat Oct 7 1995,Barnsley,2-2,Leicester City
+Sat Oct 7 1995,Huddersfield Town,0-2,Port Vale
+Sat Oct 7 1995,Tranmere Rovers,1-0,Luton Town
+Sat Oct 7 1995,Crystal Palace,0-1,Sunderland
+Sat Oct 7 1995,Sheffield United,0-2,Derby County
+Sat Oct 7 1995,West Bromwich Albion,2-0,Reading
+Sat Oct 7 1995,Stoke City,1-1,Norwich City
+Sat Oct 7 1995,Watford,0-1,Millwall
+Sat Oct 7 1995,Ipswich Town,1-2,Wolverhampton Wanderers
+Sat Oct 7 1995,Charlton Athletic,0-1,Grimsby Town
+Sun Oct 8 1995,Birmingham City,2-0,Southend United
+Sat Oct 14 1995,Southend United,2-1,Sheffield United
+Sat Oct 14 1995,Derby County,1-1,Ipswich Town
+Sat Oct 14 1995,Leicester City,1-1,Charlton Athletic
+Sat Oct 14 1995,Portsmouth,0-1,Birmingham City
+Sat Oct 14 1995,Grimsby Town,1-1,Oldham Athletic
+Sat Oct 14 1995,Reading,3-1,Huddersfield Town
+Sat Oct 14 1995,Wolverhampton Wanderers,1-4,Stoke City
+Sat Oct 14 1995,Sunderland,1-1,Watford
+Sat Oct 14 1995,Norwich City,3-1,Barnsley
+Sat Oct 14 1995,Millwall,2-2,Tranmere Rovers
+Sat Oct 14 1995,Luton Town,1-2,West Bromwich Albion
+Sun Oct 15 1995,Port Vale,1-2,Crystal Palace
+Sat Oct 21 1995,Charlton Athletic,1-1,Norwich City
+Sat Oct 21 1995,Barnsley,1-1,Port Vale
+Sat Oct 21 1995,Sheffield United,1-3,Leicester City
+Sat Oct 21 1995,West Bromwich Albion,2-1,Portsmouth
+Sat Oct 21 1995,Oldham Athletic,2-1,Reading
+Sat Oct 21 1995,Huddersfield Town,1-1,Sunderland
+Sat Oct 21 1995,Watford,1-1,Wolverhampton Wanderers
+Sat Oct 21 1995,Birmingham City,3-1,Grimsby Town
+Sat Oct 21 1995,Tranmere Rovers,3-0,Southend United
+Sun Oct 22 1995,Ipswich Town,0-1,Luton Town
+Sun Oct 22 1995,Stoke City,1-1,Derby County
+Sun Oct 22 1995,Crystal Palace,1-2,Millwall
+Sat Oct 28 1995,Southend United,0-0,Huddersfield Town
+Sat Oct 28 1995,Reading,1-4,Ipswich Town
+Sat Oct 28 1995,Wolverhampton Wanderers,1-0,Sheffield United
+Sat Oct 28 1995,Millwall,2-1,West Bromwich Albion
+Sat Oct 28 1995,Derby County,2-1,Oldham Athletic
+Sat Oct 28 1995,Portsmouth,4-2,Watford
+Sat Oct 28 1995,Grimsby Town,1-0,Stoke City
+Sat Oct 28 1995,Sunderland,2-1,Barnsley
+Sat Oct 28 1995,Leicester City,2-3,Crystal Palace
+Sun Oct 29 1995,Port Vale,1-2,Birmingham City
+Sun Oct 29 1995,Luton Town,0-1,Charlton Athletic
+Sun Oct 29 1995,Norwich City,1-1,Tranmere Rovers
+Sat Nov 4 1995,Tranmere Rovers,5-1,Derby County
+Sat Nov 4 1995,Watford,2-2,Southend United
+Sat Nov 4 1995,Crystal Palace,0-2,Reading
+Sat Nov 4 1995,Barnsley,1-0,Wolverhampton Wanderers
+Sat Nov 4 1995,Ipswich Town,2-2,Grimsby Town
+Sat Nov 4 1995,Huddersfield Town,3-2,Norwich City
+Sat Nov 4 1995,Stoke City,5-0,Luton Town
+Sat Nov 4 1995,Sheffield United,4-1,Portsmouth
+Sat Nov 4 1995,Birmingham City,2-2,Millwall
+Sun Nov 5 1995,Oldham Athletic,2-2,Port Vale
+Sun Nov 5 1995,Charlton Athletic,1-1,Sunderland
+Sun Nov 5 1995,West Bromwich Albion,2-3,Leicester City
+Sat Nov 11 1995,Norwich City,1-0,Crystal Palace
+Sat Nov 11 1995,Portsmouth,1-1,Huddersfield Town
+Sat Nov 11 1995,Luton Town,1-1,Oldham Athletic
+Sat Nov 11 1995,Southend United,2-4,Stoke City
+Sat Nov 11 1995,Reading,0-1,Birmingham City
+Sat Nov 11 1995,Leicester City,1-0,Watford
+Sat Nov 11 1995,Derby County,3-0,West Bromwich Albion
+Sat Nov 11 1995,Grimsby Town,3-1,Barnsley
+Sat Nov 11 1995,Millwall,2-1,Ipswich Town
+Sat Nov 11 1995,Port Vale,2-3,Sheffield United
+Sun Nov 12 1995,Wolverhampton Wanderers,0-0,Charlton Athletic
+Sat Nov 18 1995,Sunderland,2-0,Sheffield United
+Sat Nov 18 1995,Port Vale,1-1,Watford
+Sat Nov 18 1995,Derby County,2-0,Charlton Athletic
+Sat Nov 18 1995,Wolverhampton Wanderers,1-3,Oldham Athletic
+Sat Nov 18 1995,Millwall,0-0,Huddersfield Town
+Sat Nov 18 1995,Portsmouth,3-3,Stoke City
+Sat Nov 18 1995,Grimsby Town,1-0,West Bromwich Albion
+Sat Nov 18 1995,Luton Town,0-0,Birmingham City
+Sat Nov 18 1995,Reading,0-0,Barnsley
+Sun Nov 19 1995,Norwich City,2-1,Ipswich Town
+Sun Nov 19 1995,Southend United,1-1,Crystal Palace
+Sun Nov 19 1995,Leicester City,0-1,Tranmere Rovers
+Tue Nov 21 1995,West Bromwich Albion,1-4,Norwich City
+Tue Nov 21 1995,Charlton Athletic,2-1,Reading
+Tue Nov 21 1995,Watford,1-1,Luton Town
+Tue Nov 21 1995,Huddersfield Town,3-1,Leicester City
+Tue Nov 21 1995,Sheffield United,1-2,Grimsby Town
+Tue Nov 21 1995,Oldham Athletic,2-2,Millwall
+Tue Nov 21 1995,Birmingham City,1-4,Derby County
+Tue Nov 21 1995,Barnsley,0-0,Portsmouth
+Wed Nov 22 1995,Stoke City,1-0,Sunderland
+Wed Nov 22 1995,Tranmere Rovers,2-1,Port Vale
+Wed Nov 22 1995,Crystal Palace,3-2,Wolverhampton Wanderers
+Wed Nov 22 1995,Ipswich Town,1-1,Southend United
+Sat Nov 25 1995,West Bromwich Albion,0-1,Sunderland
+Sat Nov 25 1995,Tranmere Rovers,0-1,Grimsby Town
+Sat Nov 25 1995,Crystal Palace,0-0,Derby County
+Sat Nov 25 1995,Huddersfield Town,2-1,Wolverhampton Wanderers
+Sat Nov 25 1995,Barnsley,1-0,Luton Town
+Sat Nov 25 1995,Ipswich Town,3-2,Portsmouth
+Sat Nov 25 1995,Charlton Athletic,2-2,Port Vale
+Sat Nov 25 1995,Sheffield United,0-0,Reading
+Sat Nov 25 1995,Stoke City,1-0,Millwall
+Sat Nov 25 1995,Oldham Athletic,0-1,Southend United
+Sun Nov 26 1995,Watford,0-2,Norwich City
+Sun Nov 26 1995,Birmingham City,2-2,Leicester City
+Sat Dec 2 1995,Millwall,1-2,Watford
+Sat Dec 2 1995,Norwich City,0-1,Stoke City
+Sat Dec 2 1995,Grimsby Town,1-2,Charlton Athletic
+Sat Dec 2 1995,Luton Town,3-2,Tranmere Rovers
+Sat Dec 2 1995,Port Vale,1-0,Huddersfield Town
+Sat Dec 2 1995,Southend United,3-1,Birmingham City
+Sat Dec 2 1995,Leicester City,2-2,Barnsley
+Sat Dec 2 1995,Portsmouth,2-1,Oldham Athletic
+Sat Dec 2 1995,Derby County,4-2,Sheffield United
+Sat Dec 2 1995,Reading,3-1,West Bromwich Albion
+Sun Dec 3 1995,Wolverhampton Wanderers,2-2,Ipswich Town
+Sun Dec 3 1995,Sunderland,1-0,Crystal Palace
+Tue Dec 5 1995,Millwall,0-2,Charlton Athletic
+Sat Dec 9 1995,Norwich City,2-2,Grimsby Town
+Sat Dec 9 1995,Birmingham City,1-0,Watford
+Sat Dec 9 1995,Sheffield United,0-2,Huddersfield Town
+Sat Dec 9 1995,Tranmere Rovers,1-2,Portsmouth
+Sat Dec 9 1995,Southend United,2-1,Leicester City
+Sat Dec 9 1995,Charlton Athletic,0-2,Ipswich Town
+Sat Dec 9 1995,Crystal Palace,2-2,Oldham Athletic
+Sat Dec 9 1995,West Bromwich Albion,0-1,Stoke City
+Sat Dec 9 1995,Derby County,4-1,Barnsley
+Sat Dec 9 1995,Port Vale,3-2,Reading
+Sat Dec 9 1995,Sunderland,6-0,Millwall
+Sun Dec 10 1995,Luton Town,2-3,Wolverhampton Wanderers
+Sat Dec 16 1995,Wolverhampton Wanderers,0-1,Port Vale
+Sat Dec 16 1995,Reading,1-1,Sunderland
+Sat Dec 16 1995,Portsmouth,4-0,Luton Town
+Sat Dec 16 1995,Ipswich Town,1-1,Sheffield United
+Sat Dec 16 1995,Huddersfield Town,4-1,West Bromwich Albion
+Sat Dec 16 1995,Grimsby Town,1-1,Southend United
+Sat Dec 16 1995,Barnsley,1-2,Charlton Athletic
+Sat Dec 16 1995,Millwall,0-1,Derby County
+Sat Dec 16 1995,Oldham Athletic,4-0,Birmingham City
+Sat Dec 16 1995,Watford,3-0,Tranmere Rovers
+Sat Dec 16 1995,Stoke City,1-2,Crystal Palace
+Sun Dec 17 1995,Leicester City,3-2,Norwich City
+Wed Dec 20 1995,Southend United,2-1,Port Vale
+Fri Dec 22 1995,Ipswich Town,2-2,Barnsley
+Sat Dec 23 1995,Grimsby Town,2-2,Leicester City
+Sat Dec 23 1995,Oldham Athletic,0-0,Watford
+Sat Dec 23 1995,Portsmouth,1-0,Norwich City
+Sat Dec 23 1995,Luton Town,2-2,Huddersfield Town
+Sat Dec 23 1995,Stoke City,2-2,Sheffield United
+Sat Dec 23 1995,Derby County,3-1,Sunderland
+Sat Dec 23 1995,West Bromwich Albion,2-3,Crystal Palace
+Sat Dec 23 1995,Birmingham City,1-0,Tranmere Rovers
+Tue Dec 26 1995,Norwich City,0-1,Southend United
+Tue Dec 26 1995,Port Vale,3-1,West Bromwich Albion
+Tue Dec 26 1995,Wolverhampton Wanderers,1-1,Millwall
+Tue Dec 26 1995,Tranmere Rovers,2-0,Oldham Athletic
+Tue Dec 26 1995,Barnsley,3-1,Stoke City
+Tue Dec 26 1995,Huddersfield Town,0-1,Derby County
+Tue Dec 26 1995,Charlton Athletic,2-1,Portsmouth
+Tue Dec 26 1995,Sheffield United,1-1,Birmingham City
+Sat Dec 30 1995,Norwich City,3-3,Reading
+Sat Dec 30 1995,Huddersfield Town,1-1,Stoke City
+Sat Dec 30 1995,Wolverhampton Wanderers,2-2,Portsmouth
+Mon Jan 1 1996,Grimsby Town,1-1,Huddersfield Town
+Mon Jan 1 1996,Reading,1-0,Tranmere Rovers
+Mon Jan 1 1996,Portsmouth,2-3,Crystal Palace
+Mon Jan 1 1996,Millwall,1-1,Leicester City
+Mon Jan 1 1996,Derby County,2-1,Norwich City
+Mon Jan 1 1996,Southend United,0-0,Barnsley
+Mon Jan 1 1996,Ipswich Town,5-1,Port Vale
+Sat Jan 13 1996,Oldham Athletic,0-1,Barnsley
+Sat Jan 13 1996,West Bromwich Albion,0-0,Wolverhampton Wanderers
+Sat Jan 13 1996,Luton Town,3-1,Southend United
+Sat Jan 13 1996,Stoke City,1-0,Leicester City
+Sat Jan 13 1996,Derby County,3-0,Reading
+Sat Jan 13 1996,Crystal Palace,1-1,Ipswich Town
+Sat Jan 13 1996,Watford,0-1,Huddersfield Town
+Sat Jan 13 1996,Portsmouth,3-1,Grimsby Town
+Sat Jan 13 1996,Tranmere Rovers,1-1,Sheffield United
+Sat Jan 13 1996,Millwall,1-2,Port Vale
+Sun Jan 14 1996,Birmingham City,3-4,Charlton Athletic
+Sun Jan 14 1996,Sunderland,0-1,Norwich City
+Sat Jan 20 1996,Charlton Athletic,4-1,West Bromwich Albion
+Sat Jan 20 1996,Port Vale,1-1,Derby County
+Sat Jan 20 1996,Wolverhampton Wanderers,2-1,Tranmere Rovers
+Sat Jan 20 1996,Norwich City,0-1,Luton Town
+Sat Jan 20 1996,Reading,1-0,Stoke City
+Sat Jan 20 1996,Southend United,2-1,Portsmouth
+Sat Jan 20 1996,Grimsby Town,1-2,Millwall
+Sat Jan 20 1996,Barnsley,1-1,Crystal Palace
+Sat Jan 20 1996,Ipswich Town,2-0,Birmingham City
+Sat Jan 20 1996,Huddersfield Town,0-0,Oldham Athletic
+Sat Jan 20 1996,Sheffield United,1-1,Watford
+Sun Jan 21 1996,Leicester City,0-0,Sunderland
+Wed Jan 24 1996,Sunderland,1-0,Grimsby Town
+Sat Jan 27 1996,Millwall,1-1,Portsmouth
+Tue Jan 30 1996,Sunderland,0-0,Tranmere Rovers
+Wed Jan 31 1996,Luton Town,1-0,Sheffield United
+Sat Feb 3 1996,Sheffield United,2-1,Oldham Athletic
+Sat Feb 3 1996,Huddersfield Town,1-0,Tranmere Rovers
+Sat Feb 3 1996,Leicester City,1-1,Luton Town
+Sat Feb 3 1996,Southend United,2-0,Millwall
+Sat Feb 3 1996,Barnsley,2-1,Watford
+Sat Feb 3 1996,Grimsby Town,1-1,Derby County
+Sat Feb 3 1996,Wolverhampton Wanderers,3-0,Sunderland
+Sat Feb 3 1996,Ipswich Town,2-1,West Bromwich Albion
+Sun Feb 4 1996,Charlton Athletic,0-0,Crystal Palace
+Sun Feb 4 1996,Reading,0-1,Portsmouth
+Sun Feb 4 1996,Norwich City,1-1,Birmingham City
+Sat Feb 10 1996,Portsmouth,2-1,Leicester City
+Sat Feb 10 1996,Stoke City,3-1,Ipswich Town
+Sat Feb 10 1996,Oldham Athletic,2-0,Norwich City
+Sat Feb 10 1996,Derby County,0-0,Wolverhampton Wanderers
+Sat Feb 10 1996,Sunderland,0-0,Port Vale
+Sat Feb 10 1996,Tranmere Rovers,1-3,Barnsley
+Sat Feb 10 1996,Crystal Palace,0-0,Sheffield United
+Sat Feb 10 1996,Luton Town,3-2,Grimsby Town
+Sat Feb 10 1996,Watford,1-2,Charlton Athletic
+Sat Feb 10 1996,West Bromwich Albion,3-1,Southend United
+Sat Feb 10 1996,Millwall,1-1,Reading
+Tue Feb 13 1996,Sheffield United,2-0,Millwall
+Sat Feb 17 1996,Luton Town,1-0,Millwall
+Sat Feb 17 1996,Crystal Palace,4-0,Watford
+Sat Feb 17 1996,West Bromwich Albion,1-1,Tranmere Rovers
+Sat Feb 17 1996,Charlton Athletic,1-1,Sheffield United
+Sat Feb 17 1996,Portsmouth,2-2,Sunderland
+Sat Feb 17 1996,Southend United,1-2,Derby County
+Sat Feb 17 1996,Norwich City,2-3,Wolverhampton Wanderers
+Sat Feb 17 1996,Stoke City,1-0,Birmingham City
+Sat Feb 17 1996,Grimsby Town,0-0,Reading
+Sat Feb 17 1996,Leicester City,1-1,Port Vale
+Tue Feb 20 1996,Sheffield United,1-2,West Bromwich Albion
+Tue Feb 20 1996,Sunderland,1-0,Ipswich Town
+Tue Feb 20 1996,Birmingham City,0-0,Barnsley
+Tue Feb 20 1996,Huddersfield Town,2-2,Charlton Athletic
+Tue Feb 20 1996,Tranmere Rovers,2-3,Crystal Palace
+Wed Feb 21 1996,Wolverhampton Wanderers,2-3,Leicester City
+Wed Feb 21 1996,Derby County,1-1,Luton Town
+Sat Feb 24 1996,Tranmere Rovers,0-0,Stoke City
+Sat Feb 24 1996,Sunderland,1-0,Luton Town
+Sat Feb 24 1996,Oldham Athletic,1-1,Charlton Athletic
+Sat Feb 24 1996,Sheffield United,1-0,Barnsley
+Sat Feb 24 1996,Millwall,2-1,Norwich City
+Sat Feb 24 1996,Derby County,3-2,Portsmouth
+Sat Feb 24 1996,Huddersfield Town,3-0,Crystal Palace
+Sat Feb 24 1996,Watford,2-3,Ipswich Town
+Sat Feb 24 1996,Wolverhampton Wanderers,2-0,Southend United
+Sat Feb 24 1996,Reading,1-1,Leicester City
+Tue Feb 27 1996,Southend United,0-2,Sunderland
+Tue Feb 27 1996,Barnsley,3-1,Millwall
+Tue Feb 27 1996,West Bromwich Albion,1-0,Oldham Athletic
+Tue Feb 27 1996,Luton Town,1-2,Reading
+Tue Feb 27 1996,Crystal Palace,3-2,Birmingham City
+Wed Feb 28 1996,Norwich City,0-0,Sheffield United
+Wed Feb 28 1996,Stoke City,2-0,Watford
+Wed Feb 28 1996,Leicester City,0-0,Derby County
+Sat Mar 2 1996,Millwall,0-1,Wolverhampton Wanderers
+Sat Mar 2 1996,Portsmouth,2-1,Charlton Athletic
+Sat Mar 2 1996,Stoke City,2-0,Barnsley
+Sat Mar 2 1996,Southend United,1-1,Norwich City
+Sat Mar 2 1996,Derby County,3-2,Huddersfield Town
+Sat Mar 2 1996,Luton Town,0-0,Crystal Palace
+Sat Mar 2 1996,Birmingham City,0-1,Sheffield United
+Sat Mar 2 1996,West Bromwich Albion,1-1,Port Vale
+Sat Mar 2 1996,Reading,0-0,Watford
+Sun Mar 3 1996,Grimsby Town,0-4,Sunderland
+Sun Mar 3 1996,Ipswich Town,4-2,Leicester City
+Sun Mar 3 1996,Oldham Athletic,1-2,Tranmere Rovers
+Tue Mar 5 1996,Watford,0-0,Derby County
+Tue Mar 5 1996,Crystal Palace,5-0,Grimsby Town
+Tue Mar 5 1996,Birmingham City,2-0,Wolverhampton Wanderers
+Tue Mar 5 1996,Charlton Athletic,0-3,Southend United
+Sat Mar 9 1996,Charlton Athletic,2-0,Millwall
+Sat Mar 9 1996,Sunderland,3-0,Derby County
+Sat Mar 9 1996,Barnsley,3-3,Ipswich Town
+Sat Mar 9 1996,Huddersfield Town,1-0,Luton Town
+Sat Mar 9 1996,Port Vale,2-1,Southend United
+Sat Mar 9 1996,Crystal Palace,1-0,West Bromwich Albion
+Sat Mar 9 1996,Sheffield United,0-0,Stoke City
+Sat Mar 9 1996,Norwich City,1-1,Portsmouth
+Sat Mar 9 1996,Leicester City,2-1,Grimsby Town
+Sat Mar 9 1996,Tranmere Rovers,2-2,Birmingham City
+Sat Mar 9 1996,Wolverhampton Wanderers,1-1,Reading
+Sat Mar 9 1996,Watford,2-1,Oldham Athletic
+Tue Mar 12 1996,West Bromwich Albion,4-4,Watford
+Tue Mar 12 1996,Oldham Athletic,1-2,Sunderland
+Tue Mar 12 1996,Port Vale,1-0,Stoke City
+Tue Mar 12 1996,Grimsby Town,3-0,Wolverhampton Wanderers
+Tue Mar 12 1996,Birmingham City,2-0,Huddersfield Town
+Tue Mar 12 1996,Crystal Palace,2-1,Tranmere Rovers
+Wed Mar 13 1996,Leicester City,0-2,Ipswich Town
+Sat Mar 16 1996,Southend United,1-1,Charlton Athletic
+Sat Mar 16 1996,Grimsby Town,0-2,Crystal Palace
+Sat Mar 16 1996,Reading,0-3,Norwich City
+Sat Mar 16 1996,Millwall,1-0,Sheffield United
+Sat Mar 16 1996,Ipswich Town,1-2,Tranmere Rovers
+Sat Mar 16 1996,West Bromwich Albion,2-1,Barnsley
+Sat Mar 16 1996,Oldham Athletic,3-1,Leicester City
+Sat Mar 16 1996,Portsmouth,0-2,Wolverhampton Wanderers
+Sat Mar 16 1996,Stoke City,1-1,Huddersfield Town
+Sat Mar 16 1996,Derby County,1-1,Watford
+Sun Mar 17 1996,Birmingham City,0-2,Sunderland
+Tue Mar 19 1996,Barnsley,3-0,Huddersfield Town
+Tue Mar 19 1996,Ipswich Town,2-1,Oldham Athletic
+Tue Mar 19 1996,Reading,3-3,Southend United
+Tue Mar 19 1996,Crystal Palace,2-0,Luton Town
+Wed Mar 20 1996,Birmingham City,1-1,West Bromwich Albion
+Wed Mar 20 1996,Port Vale,1-0,Norwich City
+Sat Mar 23 1996,Tranmere Rovers,2-1,Reading
+Sat Mar 23 1996,Charlton Athletic,2-1,Stoke City
+Sat Mar 23 1996,Sunderland,1-0,Oldham Athletic
+Sat Mar 23 1996,Leicester City,2-1,Millwall
+Sat Mar 23 1996,Sheffield United,1-0,Luton Town
+Sat Mar 23 1996,Wolverhampton Wanderers,3-2,Birmingham City
+Sat Mar 23 1996,Watford,1-1,West Bromwich Albion
+Sat Mar 23 1996,Port Vale,2-1,Ipswich Town
+Sat Mar 23 1996,Crystal Palace,0-0,Portsmouth
+Sat Mar 23 1996,Barnsley,1-1,Southend United
+Sat Mar 23 1996,Norwich City,1-0,Derby County
+Sun Mar 24 1996,Huddersfield Town,1-3,Grimsby Town
+Wed Mar 27 1996,Portsmouth,1-2,Port Vale
+Sat Mar 30 1996,Luton Town,1-2,Ipswich Town
+Sat Mar 30 1996,Sunderland,3-2,Huddersfield Town
+Sat Mar 30 1996,Port Vale,3-0,Barnsley
+Sat Mar 30 1996,Portsmouth,0-2,West Bromwich Albion
+Sat Mar 30 1996,Grimsby Town,2-1,Birmingham City
+Sat Mar 30 1996,Derby County,3-1,Stoke City
+Sat Mar 30 1996,Norwich City,0-1,Charlton Athletic
+Sat Mar 30 1996,Millwall,1-4,Crystal Palace
+Sat Mar 30 1996,Wolverhampton Wanderers,3-0,Watford
+Sat Mar 30 1996,Reading,2-0,Oldham Athletic
+Sat Mar 30 1996,Leicester City,0-2,Sheffield United
+Sat Mar 30 1996,Southend United,2-0,Tranmere Rovers
+Tue Apr 2 1996,Sheffield United,3-0,Southend United
+Tue Apr 2 1996,Oldham Athletic,1-0,Grimsby Town
+Tue Apr 2 1996,Crystal Palace,2-2,Port Vale
+Tue Apr 2 1996,West Bromwich Albion,0-2,Luton Town
+Tue Apr 2 1996,Huddersfield Town,3-1,Reading
+Tue Apr 2 1996,Barnsley,2-2,Norwich City
+Tue Apr 2 1996,Tranmere Rovers,2-2,Millwall
+Tue Apr 2 1996,Birmingham City,2-0,Portsmouth
+Tue Apr 2 1996,Charlton Athletic,0-1,Leicester City
+Tue Apr 2 1996,Watford,3-3,Sunderland
+Tue Apr 2 1996,Ipswich Town,1-0,Derby County
+Wed Apr 3 1996,Stoke City,2-0,Wolverhampton Wanderers
+Fri Apr 5 1996,Charlton Athletic,1-1,Luton Town
+Sat Apr 6 1996,Sheffield United,2-1,Wolverhampton Wanderers
+Sat Apr 6 1996,Watford,1-2,Portsmouth
+Sat Apr 6 1996,Huddersfield Town,3-1,Southend United
+Sat Apr 6 1996,Stoke City,1-2,Grimsby Town
+Sat Apr 6 1996,Tranmere Rovers,1-1,Norwich City
+Sat Apr 6 1996,Birmingham City,3-1,Port Vale
+Sat Apr 6 1996,West Bromwich Albion,1-0,Millwall
+Sat Apr 6 1996,Ipswich Town,1-2,Reading
+Sat Apr 6 1996,Crystal Palace,0-1,Leicester City
+Sat Apr 6 1996,Oldham Athletic,0-1,Derby County
+Sat Apr 6 1996,Barnsley,0-1,Sunderland
+Mon Apr 8 1996,Southend United,1-1,Watford
+Mon Apr 8 1996,Grimsby Town,3-1,Ipswich Town
+Mon Apr 8 1996,Portsmouth,1-2,Sheffield United
+Mon Apr 8 1996,Derby County,6-2,Tranmere Rovers
+Mon Apr 8 1996,Port Vale,1-3,Oldham Athletic
+Mon Apr 8 1996,Sunderland,0-0,Charlton Athletic
+Mon Apr 8 1996,Wolverhampton Wanderers,2-2,Barnsley
+Mon Apr 8 1996,Reading,0-2,Crystal Palace
+Mon Apr 8 1996,Norwich City,2-0,Huddersfield Town
+Tue Apr 9 1996,Luton Town,1-2,Stoke City
+Tue Apr 9 1996,Leicester City,1-2,West Bromwich Albion
+Wed Apr 10 1996,Millwall,2-0,Birmingham City
+Sat Apr 13 1996,Sheffield United,0-0,Sunderland
+Sat Apr 13 1996,Crystal Palace,2-0,Southend United
+Sat Apr 13 1996,West Bromwich Albion,3-1,Grimsby Town
+Sat Apr 13 1996,Barnsley,0-1,Reading
+Sat Apr 13 1996,Birmingham City,4-0,Luton Town
+Sat Apr 13 1996,Stoke City,2-1,Portsmouth
+Sat Apr 13 1996,Oldham Athletic,0-0,Wolverhampton Wanderers
+Sat Apr 13 1996,Tranmere Rovers,1-1,Leicester City
+Sat Apr 13 1996,Huddersfield Town,3-0,Millwall
+Sat Apr 13 1996,Watford,5-2,Port Vale
+Sun Apr 14 1996,Charlton Athletic,0-0,Derby County
+Sun Apr 14 1996,Ipswich Town,2-1,Norwich City
+Tue Apr 16 1996,Port Vale,1-0,Grimsby Town
+Tue Apr 16 1996,Watford,4-2,Reading
+Tue Apr 16 1996,Sunderland,3-0,Birmingham City
+Wed Apr 17 1996,Tranmere Rovers,5-2,Ipswich Town
+Wed Apr 17 1996,Leicester City,2-0,Oldham Athletic
+Wed Apr 17 1996,Stoke City,1-0,Charlton Athletic
+Sat Apr 20 1996,Norwich City,2-2,West Bromwich Albion
+Sat Apr 20 1996,Reading,0-0,Charlton Athletic
+Sat Apr 20 1996,Southend United,2-1,Ipswich Town
+Sat Apr 20 1996,Port Vale,1-1,Tranmere Rovers
+Sat Apr 20 1996,Leicester City,2-1,Huddersfield Town
+Sat Apr 20 1996,Luton Town,0-0,Watford
+Sat Apr 20 1996,Wolverhampton Wanderers,0-2,Crystal Palace
+Sat Apr 20 1996,Millwall,0-1,Oldham Athletic
+Sat Apr 20 1996,Grimsby Town,0-2,Sheffield United
+Sat Apr 20 1996,Portsmouth,0-0,Barnsley
+Sat Apr 20 1996,Derby County,1-1,Birmingham City
+Sun Apr 21 1996,Sunderland,0-0,Stoke City
+Tue Apr 23 1996,Watford,6-3,Grimsby Town
+Tue Apr 23 1996,Port Vale,1-0,Luton Town
+Sat Apr 27 1996,Millwall,2-3,Stoke City
+Sat Apr 27 1996,Luton Town,1-3,Barnsley
+Sat Apr 27 1996,Wolverhampton Wanderers,0-0,Huddersfield Town
+Sat Apr 27 1996,Norwich City,1-2,Watford
+Sat Apr 27 1996,Port Vale,1-3,Charlton Athletic
+Sat Apr 27 1996,Sunderland,0-0,West Bromwich Albion
+Sat Apr 27 1996,Southend United,1-1,Oldham Athletic
+Sat Apr 27 1996,Portsmouth,0-1,Ipswich Town
+Sat Apr 27 1996,Grimsby Town,1-1,Tranmere Rovers
+Sat Apr 27 1996,Reading,0-3,Sheffield United
+Sat Apr 27 1996,Leicester City,3-0,Birmingham City
+Sun Apr 28 1996,Derby County,2-1,Crystal Palace
+Tue Apr 30 1996,Reading,3-0,Wolverhampton Wanderers
+Tue Apr 30 1996,Luton Town,3-2,Port Vale
+Tue Apr 30 1996,Barnsley,1-1,West Bromwich Albion
+Tue Apr 30 1996,Charlton Athletic,0-0,Tranmere Rovers
+Tue Apr 30 1996,Oldham Athletic,2-0,Stoke City
+Wed May 1 1996,Ipswich Town,2-1,Huddersfield Town
+Sat May 4 1996,Sheffield United,1-1,Port Vale
+Sat May 4 1996,Barnsley,1-1,Grimsby Town
+Sun May 5 1996,Tranmere Rovers,2-0,Sunderland
+Sun May 5 1996,Oldham Athletic,1-0,Luton Town
+Sun May 5 1996,Watford,0-1,Leicester City
+Sun May 5 1996,Stoke City,1-0,Southend United
+Sun May 5 1996,Ipswich Town,0-0,Millwall
+Sun May 5 1996,Charlton Athletic,1-1,Wolverhampton Wanderers
+Sun May 5 1996,West Bromwich Albion,3-2,Derby County
+Sun May 5 1996,Huddersfield Town,0-1,Portsmouth
+Sun May 5 1996,Crystal Palace,0-1,Norwich City
+Sun May 5 1996,Birmingham City,1-2,Reading

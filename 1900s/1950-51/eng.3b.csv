@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 19 1950,Norwich City,2-0,Port Vale
+Sat Aug 19 1950,Bristol Rovers,1-0,Swindon Town
+Sat Aug 19 1950,AFC Bournemouth,1-0,Bristol City
+Sat Aug 19 1950,Reading,2-1,Walsall
+Sat Aug 19 1950,Southend United,5-1,Watford
+Sat Aug 19 1950,Brighton & Hove Albion,2-2,Torquay United
+Sat Aug 19 1950,Ipswich Town,1-1,Northampton Town
+Sat Aug 19 1950,Crystal Palace,0-2,Aldershot
+Sat Aug 19 1950,Exeter City,0-1,Millwall
+Sat Aug 19 1950,Gillingham,0-0,Colchester United
+Sat Aug 19 1950,Plymouth Argyle,2-1,Leyton Orient
+Sat Aug 19 1950,Newport County,0-2,Nottingham Forest
+Mon Aug 21 1950,Millwall,1-1,Southend United
+Wed Aug 23 1950,Ipswich Town,2-2,Leyton Orient
+Wed Aug 23 1950,Nottingham Forest,4-0,Brighton & Hove Albion
+Wed Aug 23 1950,AFC Bournemouth,3-1,Gillingham
+Wed Aug 23 1950,Norwich City,0-0,Northampton Town
+Wed Aug 23 1950,Torquay United,4-1,Crystal Palace
+Wed Aug 23 1950,Swindon Town,1-1,Colchester United
+Wed Aug 23 1950,Aldershot,1-1,Bristol Rovers
+Wed Aug 23 1950,Bristol City,3-1,Exeter City
+Thu Aug 24 1950,Walsall,1-1,Plymouth Argyle
+Thu Aug 24 1950,Port Vale,1-0,Newport County
+Thu Aug 24 1950,Watford,3-1,Reading
+Sat Aug 26 1950,Nottingham Forest,4-2,Norwich City
+Sat Aug 26 1950,Watford,1-2,Exeter City
+Sat Aug 26 1950,Walsall,1-2,Southend United
+Sat Aug 26 1950,Bristol City,2-0,Gillingham
+Sat Aug 26 1950,Aldershot,0-0,Brighton & Hove Albion
+Sat Aug 26 1950,Leyton Orient,2-0,Reading
+Sat Aug 26 1950,Millwall,3-0,AFC Bournemouth
+Sat Aug 26 1950,Colchester United,0-0,Bristol Rovers
+Sat Aug 26 1950,Torquay United,3-4,Newport County
+Sat Aug 26 1950,Swindon Town,2-0,Crystal Palace
+Sat Aug 26 1950,Ipswich Town,2-0,Plymouth Argyle
+Sat Aug 26 1950,Port Vale,0-3,Northampton Town
+Mon Aug 28 1950,Bristol Rovers,3-0,Aldershot
+Tue Aug 29 1950,Southend United,0-3,Millwall
+Wed Aug 30 1950,Reading,1-0,Watford
+Wed Aug 30 1950,Exeter City,1-0,Bristol City
+Wed Aug 30 1950,Crystal Palace,2-1,Torquay United
+Wed Aug 30 1950,Brighton & Hove Albion,1-2,Nottingham Forest
+Wed Aug 30 1950,Gillingham,2-2,AFC Bournemouth
+Wed Aug 30 1950,Plymouth Argyle,1-1,Walsall
+Thu Aug 31 1950,Leyton Orient,2-0,Ipswich Town
+Thu Aug 31 1950,Northampton Town,1-2,Norwich City
+Thu Aug 31 1950,Newport County,2-1,Port Vale
+Thu Aug 31 1950,Colchester United,4-1,Swindon Town
+Sat Sep 2 1950,Gillingham,4-3,Millwall
+Sat Sep 2 1950,AFC Bournemouth,3-3,Watford
+Sat Sep 2 1950,Reading,2-0,Ipswich Town
+Sat Sep 2 1950,Southend United,0-1,Leyton Orient
+Sat Sep 2 1950,Norwich City,1-1,Torquay United
+Sat Sep 2 1950,Bristol City,1-0,Bristol Rovers
+Sat Sep 2 1950,Crystal Palace,1-3,Colchester United
+Sat Sep 2 1950,Brighton & Hove Albion,1-0,Swindon Town
+Sat Sep 2 1950,Northampton Town,2-2,Nottingham Forest
+Sat Sep 2 1950,Exeter City,1-0,Walsall
+Sat Sep 2 1950,Newport County,7-0,Aldershot
+Sat Sep 2 1950,Plymouth Argyle,1-0,Port Vale
+Mon Sep 4 1950,Bristol Rovers,3-0,Gillingham
+Mon Sep 4 1950,Port Vale,1-0,Ipswich Town
+Mon Sep 4 1950,Millwall,1-1,Brighton & Hove Albion
+Wed Sep 6 1950,Torquay United,2-1,Reading
+Wed Sep 6 1950,Nottingham Forest,4-1,Plymouth Argyle
+Wed Sep 6 1950,Bristol City,2-0,Crystal Palace
+Wed Sep 6 1950,Aldershot,2-2,Southend United
+Wed Sep 6 1950,Swindon Town,1-0,Exeter City
+Thu Sep 7 1950,Colchester United,4-1,AFC Bournemouth
+Thu Sep 7 1950,Leyton Orient,1-0,Northampton Town
+Thu Sep 7 1950,Walsall,0-1,Norwich City
+Thu Sep 7 1950,Watford,0-2,Newport County
+Sat Sep 9 1950,Watford,5-0,Gillingham
+Sat Sep 9 1950,Ipswich Town,1-0,Southend United
+Sat Sep 9 1950,Bristol Rovers,1-1,Crystal Palace
+Sat Sep 9 1950,Torquay United,1-1,Northampton Town
+Sat Sep 9 1950,Plymouth Argyle,2-0,Reading
+Sat Sep 9 1950,Nottingham Forest,2-1,Port Vale
+Sat Sep 9 1950,Walsall,0-1,AFC Bournemouth
+Sat Sep 9 1950,Leyton Orient,1-3,Exeter City
+Sat Sep 9 1950,Aldershot,1-1,Norwich City
+Sat Sep 9 1950,Millwall,5-3,Bristol City
+Sat Sep 9 1950,Swindon Town,2-0,Newport County
+Sat Sep 9 1950,Colchester United,4-1,Brighton & Hove Albion
+Tue Sep 12 1950,Southend United,4-2,Aldershot
+Wed Sep 13 1950,Ipswich Town,2-2,Port Vale
+Wed Sep 13 1950,Crystal Palace,1-0,Bristol City
+Wed Sep 13 1950,Plymouth Argyle,0-2,Nottingham Forest
+Wed Sep 13 1950,AFC Bournemouth,2-0,Colchester United
+Wed Sep 13 1950,Gillingham,1-0,Bristol Rovers
+Wed Sep 13 1950,Brighton & Hove Albion,2-3,Millwall
+Wed Sep 13 1950,Norwich City,1-0,Walsall
+Wed Sep 13 1950,Exeter City,1-0,Swindon Town
+Wed Sep 13 1950,Reading,0-0,Torquay United
+Thu Sep 14 1950,Northampton Town,3-3,Leyton Orient
+Thu Sep 14 1950,Newport County,2-2,Watford
+Sat Sep 16 1950,Norwich City,2-0,Swindon Town
+Sat Sep 16 1950,Southend United,1-0,Plymouth Argyle
+Sat Sep 16 1950,Bristol City,3-0,Watford
+Sat Sep 16 1950,Newport County,2-0,Colchester United
+Sat Sep 16 1950,AFC Bournemouth,5-0,Leyton Orient
+Sat Sep 16 1950,Port Vale,1-0,Torquay United
+Sat Sep 16 1950,Gillingham,4-1,Walsall
+Sat Sep 16 1950,Northampton Town,1-0,Aldershot
+Sat Sep 16 1950,Brighton & Hove Albion,2-2,Bristol Rovers
+Sat Sep 16 1950,Reading,0-2,Nottingham Forest
+Sat Sep 16 1950,Exeter City,2-0,Ipswich Town
+Sat Sep 16 1950,Millwall,1-0,Crystal Palace
+Mon Sep 18 1950,Millwall,3-1,Leyton Orient
+Thu Sep 21 1950,Newport County,2-2,Northampton Town
+Sat Sep 23 1950,Bristol Rovers,1-0,Newport County
+Sat Sep 23 1950,Ipswich Town,1-0,AFC Bournemouth
+Sat Sep 23 1950,Walsall,3-1,Bristol City
+Sat Sep 23 1950,Colchester United,2-3,Norwich City
+Sat Sep 23 1950,Crystal Palace,0-2,Brighton & Hove Albion
+Sat Sep 23 1950,Aldershot,2-0,Port Vale
+Sat Sep 23 1950,Plymouth Argyle,0-1,Exeter City
+Sat Sep 23 1950,Leyton Orient,4-0,Gillingham
+Sat Sep 23 1950,Watford,0-0,Millwall
+Sat Sep 23 1950,Reading,0-2,Southend United
+Sat Sep 23 1950,Torquay United,3-2,Nottingham Forest
+Sat Sep 23 1950,Swindon Town,1-0,Northampton Town
+Wed Sep 27 1950,Torquay United,1-2,Aldershot
+Sat Sep 30 1950,Exeter City,1-3,Reading
+Sat Sep 30 1950,Millwall,2-0,Walsall
+Sat Sep 30 1950,Watford,1-1,Brighton & Hove Albion
+Sat Sep 30 1950,Bristol City,4-1,Leyton Orient
+Sat Sep 30 1950,Southend United,3-0,Torquay United
+Sat Sep 30 1950,Gillingham,0-1,Ipswich Town
+Sat Sep 30 1950,Nottingham Forest,7-0,Aldershot
+Sat Sep 30 1950,Northampton Town,2-1,Colchester United
+Sat Sep 30 1950,Newport County,2-4,Crystal Palace
+Sat Sep 30 1950,Port Vale,2-1,Swindon Town
+Sat Sep 30 1950,Norwich City,2-0,Bristol Rovers
+Sat Sep 30 1950,AFC Bournemouth,0-2,Plymouth Argyle
+Sat Oct 7 1950,Northampton Town,1-1,Walsall
+Sat Oct 7 1950,Aldershot,1-1,Reading
+Sat Oct 7 1950,Colchester United,0-1,Exeter City
+Sat Oct 7 1950,Bristol Rovers,2-0,AFC Bournemouth
+Sat Oct 7 1950,Port Vale,3-1,Leyton Orient
+Sat Oct 7 1950,Torquay United,1-3,Plymouth Argyle
+Sat Oct 7 1950,Norwich City,3-1,Watford
+Sat Oct 7 1950,Newport County,2-3,Millwall
+Sat Oct 7 1950,Nottingham Forest,0-0,Ipswich Town
+Sat Oct 7 1950,Brighton & Hove Albion,1-1,Bristol City
+Sat Oct 7 1950,Crystal Palace,4-3,Gillingham
+Sat Oct 7 1950,Swindon Town,4-1,Southend United
+Sat Oct 14 1950,Plymouth Argyle,5-1,Aldershot
+Sat Oct 14 1950,Millwall,1-1,Norwich City
+Sat Oct 14 1950,Reading,3-1,Swindon Town
+Sat Oct 14 1950,Leyton Orient,0-4,Nottingham Forest
+Sat Oct 14 1950,Exeter City,0-2,Bristol Rovers
+Sat Oct 14 1950,Walsall,2-0,Port Vale
+Sat Oct 14 1950,Gillingham,1-1,Brighton & Hove Albion
+Sat Oct 14 1950,Southend United,4-2,Colchester United
+Sat Oct 14 1950,Watford,0-1,Northampton Town
+Sat Oct 14 1950,AFC Bournemouth,5-0,Crystal Palace
+Sat Oct 14 1950,Ipswich Town,3-1,Torquay United
+Sat Oct 14 1950,Bristol City,2-1,Newport County
+Sat Oct 21 1950,Bristol Rovers,4-1,Southend United
+Sat Oct 21 1950,Northampton Town,1-2,Millwall
+Sat Oct 21 1950,Colchester United,1-1,Reading
+Sat Oct 21 1950,Aldershot,0-1,Ipswich Town
+Sat Oct 21 1950,Torquay United,2-1,Leyton Orient
+Sat Oct 21 1950,Brighton & Hove Albion,2-1,AFC Bournemouth
+Sat Oct 21 1950,Nottingham Forest,4-0,Walsall
+Sat Oct 21 1950,Crystal Palace,0-1,Exeter City
+Sat Oct 21 1950,Swindon Town,1-2,Plymouth Argyle
+Sat Oct 21 1950,Port Vale,2-1,Watford
+Sat Oct 21 1950,Newport County,1-0,Gillingham
+Sat Oct 21 1950,Norwich City,0-0,Bristol City
+Sat Oct 28 1950,Ipswich Town,4-1,Swindon Town
+Sat Oct 28 1950,Millwall,2-2,Port Vale
+Sat Oct 28 1950,Plymouth Argyle,7-1,Colchester United
+Sat Oct 28 1950,Reading,0-0,Bristol Rovers
+Sat Oct 28 1950,Gillingham,2-2,Norwich City
+Sat Oct 28 1950,Southend United,5-2,Crystal Palace
+Sat Oct 28 1950,Bristol City,1-0,Northampton Town
+Sat Oct 28 1950,Walsall,3-1,Torquay United
+Sat Oct 28 1950,Watford,1-1,Nottingham Forest
+Sat Oct 28 1950,Leyton Orient,1-0,Aldershot
+Sat Oct 28 1950,AFC Bournemouth,2-0,Newport County
+Sat Oct 28 1950,Exeter City,4-2,Brighton & Hove Albion
+Sat Nov 4 1950,Brighton & Hove Albion,2-1,Southend United
+Sat Nov 4 1950,Bristol Rovers,3-1,Plymouth Argyle
+Sat Nov 4 1950,Newport County,0-3,Exeter City
+Sat Nov 4 1950,Aldershot,3-0,Walsall
+Sat Nov 4 1950,Port Vale,1-3,Bristol City
+Sat Nov 4 1950,Torquay United,3-2,Watford
+Sat Nov 4 1950,Northampton Town,4-1,Gillingham
+Sat Nov 4 1950,Colchester United,2-3,Ipswich Town
+Sat Nov 4 1950,Norwich City,3-0,AFC Bournemouth
+Sat Nov 4 1950,Nottingham Forest,2-0,Millwall
+Sat Nov 4 1950,Crystal Palace,0-3,Reading
+Sat Nov 4 1950,Swindon Town,2-0,Leyton Orient
+Sat Nov 11 1950,Walsall,1-0,Swindon Town
+Sat Nov 11 1950,Ipswich Town,2-3,Bristol Rovers
+Sat Nov 11 1950,AFC Bournemouth,1-0,Northampton Town
+Sat Nov 11 1950,Reading,7-0,Brighton & Hove Albion
+Sat Nov 11 1950,Southend United,3-0,Newport County
+Sat Nov 11 1950,Plymouth Argyle,4-0,Crystal Palace
+Sat Nov 11 1950,Watford,1-2,Aldershot
+Sat Nov 11 1950,Exeter City,1-2,Norwich City
+Sat Nov 11 1950,Bristol City,0-3,Nottingham Forest
+Sat Nov 11 1950,Millwall,4-1,Torquay United
+Sat Nov 11 1950,Gillingham,1-1,Port Vale
+Sat Nov 18 1950,Norwich City,3-0,Southend United
+Sat Nov 18 1950,Northampton Town,4-1,Exeter City
+Sat Nov 18 1950,Aldershot,2-1,Millwall
+Sat Nov 18 1950,Newport County,5-0,Reading
+Sat Nov 18 1950,Swindon Town,3-2,Watford
+Sat Nov 18 1950,Nottingham Forest,9-2,Gillingham
+Sat Nov 18 1950,Torquay United,4-1,Bristol City
+Sat Nov 18 1950,Port Vale,3-1,AFC Bournemouth
+Sat Nov 18 1950,Colchester United,0-1,Walsall
+Sat Nov 18 1950,Bristol Rovers,2-1,Leyton Orient
+Sat Nov 18 1950,Brighton & Hove Albion,0-6,Plymouth Argyle
+Sat Nov 18 1950,Crystal Palace,1-3,Ipswich Town
+Sat Dec 2 1950,Port Vale,3-1,Southend United
+Sat Dec 2 1950,Brighton & Hove Albion,3-0,Leyton Orient
+Sat Dec 2 1950,Northampton Town,1-1,Reading
+Sat Dec 2 1950,Nottingham Forest,2-2,Exeter City
+Sat Dec 2 1950,Swindon Town,1-0,Bristol City
+Sat Dec 2 1950,Newport County,1-2,Ipswich Town
+Sat Dec 2 1950,Aldershot,2-4,Gillingham
+Sat Dec 2 1950,Colchester United,3-0,Millwall
+Sat Dec 2 1950,Torquay United,0-2,AFC Bournemouth
+Sat Dec 2 1950,Crystal Palace,1-0,Walsall
+Sat Dec 2 1950,Norwich City,1-0,Plymouth Argyle
+Sat Dec 9 1950,Leyton Orient,1-1,Colchester United
+Sat Dec 9 1950,Watford,1-0,Crystal Palace
+Sat Dec 16 1950,Torquay United,3-1,Brighton & Hove Albion
+Sat Dec 16 1950,Walsall,1-2,Reading
+Sat Dec 16 1950,Northampton Town,2-1,Ipswich Town
+Sat Dec 16 1950,Colchester United,4-2,Gillingham
+Sat Dec 16 1950,Swindon Town,1-2,Bristol Rovers
+Sat Dec 16 1950,Watford,1-3,Southend United
+Sat Dec 16 1950,Bristol City,2-0,AFC Bournemouth
+Sat Dec 23 1950,Newport County,2-1,Torquay United
+Sat Dec 23 1950,Plymouth Argyle,2-1,Ipswich Town
+Sat Dec 23 1950,Brighton & Hove Albion,1-2,Aldershot
+Sat Dec 23 1950,Exeter City,3-3,Watford
+Sat Dec 23 1950,Northampton Town,1-1,Port Vale
+Sat Dec 23 1950,Crystal Palace,2-0,Swindon Town
+Sat Dec 23 1950,AFC Bournemouth,1-0,Millwall
+Sat Dec 23 1950,Reading,4-0,Leyton Orient
+Sat Dec 23 1950,Norwich City,2-0,Nottingham Forest
+Sat Dec 23 1950,Gillingham,1-2,Bristol City
+Sat Dec 23 1950,Southend United,0-1,Walsall
+Sat Dec 23 1950,Bristol Rovers,1-1,Colchester United
+Mon Dec 25 1950,Aldershot,4-2,Exeter City
+Mon Dec 25 1950,Watford,2-0,Leyton Orient
+Mon Dec 25 1950,Bristol City,1-0,Plymouth Argyle
+Mon Dec 25 1950,Port Vale,0-0,Bristol Rovers
+Mon Dec 25 1950,Crystal Palace,0-0,Northampton Town
+Mon Dec 25 1950,Gillingham,0-3,Reading
+Mon Dec 25 1950,Walsall,0-0,Newport County
+Mon Dec 25 1950,Southend United,6-1,AFC Bournemouth
+Mon Dec 25 1950,Swindon Town,2-1,Torquay United
+Mon Dec 25 1950,Ipswich Town,2-1,Millwall
+Mon Dec 25 1950,Nottingham Forest,0-0,Colchester United
+Tue Dec 26 1950,Northampton Town,2-0,Crystal Palace
+Tue Dec 26 1950,Millwall,4-0,Ipswich Town
+Tue Dec 26 1950,Torquay United,1-0,Swindon Town
+Tue Dec 26 1950,AFC Bournemouth,3-1,Southend United
+Tue Dec 26 1950,Leyton Orient,1-2,Watford
+Tue Dec 26 1950,Colchester United,0-2,Nottingham Forest
+Tue Dec 26 1950,Reading,1-1,Gillingham
+Tue Dec 26 1950,Bristol Rovers,2-0,Port Vale
+Tue Dec 26 1950,Brighton & Hove Albion,1-1,Norwich City
+Tue Dec 26 1950,Plymouth Argyle,2-0,Bristol City
+Tue Dec 26 1950,Exeter City,3-0,Aldershot
+Tue Dec 26 1950,Newport County,3-0,Walsall
+Wed Dec 27 1950,Norwich City,1-1,Brighton & Hove Albion
+Sat Dec 30 1950,Swindon Town,0-0,Brighton & Hove Albion
+Sat Dec 30 1950,Leyton Orient,1-1,Southend United
+Sat Dec 30 1950,Torquay United,1-5,Norwich City
+Sat Dec 30 1950,Bristol Rovers,2-1,Bristol City
+Sat Dec 30 1950,Ipswich Town,0-2,Reading
+Sat Dec 30 1950,Watford,2-1,AFC Bournemouth
+Sat Dec 30 1950,Walsall,0-2,Exeter City
+Sat Dec 30 1950,Colchester United,1-0,Crystal Palace
+Sat Dec 30 1950,Aldershot,3-1,Newport County
+Sat Dec 30 1950,Millwall,4-3,Gillingham
+Sat Jan 6 1951,Ipswich Town,3-1,Walsall
+Sat Jan 6 1951,Swindon Town,2-1,AFC Bournemouth
+Sat Jan 6 1951,Nottingham Forest,1-0,Crystal Palace
+Wed Jan 10 1951,Plymouth Argyle,3-1,Watford
+Wed Jan 10 1951,Millwall,1-3,Reading
+Thu Jan 11 1951,Leyton Orient,3-1,Norwich City
+Sat Jan 13 1951,Northampton Town,1-0,Torquay United
+Sat Jan 13 1951,Crystal Palace,1-0,Bristol Rovers
+Sat Jan 13 1951,Reading,4-0,Plymouth Argyle
+Sat Jan 13 1951,Brighton & Hove Albion,3-1,Colchester United
+Sat Jan 13 1951,Exeter City,0-0,Leyton Orient
+Sat Jan 13 1951,Gillingham,3-1,Watford
+Sat Jan 13 1951,Southend United,1-0,Ipswich Town
+Sat Jan 13 1951,Norwich City,2-2,Aldershot
+Sat Jan 13 1951,Port Vale,1-1,Nottingham Forest
+Sat Jan 13 1951,Bristol City,2-1,Millwall
+Sat Jan 13 1951,AFC Bournemouth,3-1,Walsall
+Sat Jan 13 1951,Newport County,2-1,Swindon Town
+Wed Jan 17 1951,Torquay United,1-2,Bristol Rovers
+Wed Jan 17 1951,Brighton & Hove Albion,2-2,Port Vale
+Wed Jan 17 1951,Gillingham,9-4,Exeter City
+Wed Jan 17 1951,Bristol City,0-3,Southend United
+Sat Jan 20 1951,Walsall,2-1,Gillingham
+Sat Jan 20 1951,Colchester United,1-1,Newport County
+Sat Jan 20 1951,Watford,1-2,Bristol City
+Sat Jan 20 1951,Plymouth Argyle,2-0,Southend United
+Sat Jan 20 1951,Torquay United,3-2,Port Vale
+Sat Jan 20 1951,Nottingham Forest,1-1,Reading
+Sat Jan 20 1951,Aldershot,3-0,Northampton Town
+Sat Jan 20 1951,Leyton Orient,2-0,AFC Bournemouth
+Sat Jan 20 1951,Swindon Town,1-0,Norwich City
+Sat Jan 20 1951,Bristol Rovers,3-2,Brighton & Hove Albion
+Sat Jan 20 1951,Crystal Palace,1-1,Millwall
+Sat Jan 20 1951,Ipswich Town,1-0,Exeter City
+Sat Jan 27 1951,Crystal Palace,1-6,Nottingham Forest
+Sat Jan 27 1951,AFC Bournemouth,2-1,Swindon Town
+Sat Jan 27 1951,Reading,3-0,Port Vale
+Sat Jan 27 1951,Walsall,2-0,Ipswich Town
+Sat Jan 27 1951,Watford,1-1,Plymouth Argyle
+Sat Jan 27 1951,Colchester United,1-0,Aldershot
+Wed Jan 31 1951,Southend United,1-1,Bristol City
+Wed Jan 31 1951,Bristol Rovers,1-1,Torquay United
+Thu Feb 1 1951,Norwich City,3-1,Leyton Orient
+Sat Feb 3 1951,Northampton Town,1-2,Swindon Town
+Sat Feb 3 1951,Nottingham Forest,3-1,Torquay United
+Sat Feb 3 1951,AFC Bournemouth,2-1,Ipswich Town
+Sat Feb 3 1951,Bristol City,3-3,Walsall
+Sat Feb 3 1951,Southend United,3-3,Reading
+Sat Feb 3 1951,Gillingham,1-0,Leyton Orient
+Sat Feb 3 1951,Newport County,2-1,Bristol Rovers
+Sat Feb 3 1951,Norwich City,1-1,Colchester United
+Sat Feb 3 1951,Millwall,4-0,Watford
+Sat Feb 3 1951,Brighton & Hove Albion,1-0,Crystal Palace
+Sat Feb 3 1951,Port Vale,3-1,Aldershot
+Sat Feb 3 1951,Exeter City,3-2,Plymouth Argyle
+Wed Feb 7 1951,Exeter City,1-2,Gillingham
+Sat Feb 10 1951,Exeter City,0-3,Port Vale
+Sat Feb 10 1951,Watford,2-0,Colchester United
+Sat Feb 10 1951,Plymouth Argyle,1-1,Newport County
+Sat Feb 10 1951,Ipswich Town,3-0,Brighton & Hove Albion
+Sat Feb 10 1951,Millwall,1-0,Swindon Town
+Sat Feb 10 1951,Walsall,3-1,Aldershot
+Sat Feb 10 1951,Southend United,3-0,Northampton Town
+Sat Feb 10 1951,AFC Bournemouth,3-2,Nottingham Forest
+Sat Feb 10 1951,Leyton Orient,2-0,Crystal Palace
+Sat Feb 10 1951,Gillingham,2-0,Torquay United
+Wed Feb 14 1951,Reading,3-1,Norwich City
+Thu Feb 15 1951,Walsall,1-2,Bristol Rovers
+Sat Feb 17 1951,Walsall,4-0,Millwall
+Sat Feb 17 1951,Aldershot,1-0,Nottingham Forest
+Sat Feb 17 1951,Colchester United,2-1,Northampton Town
+Sat Feb 17 1951,Plymouth Argyle,3-1,AFC Bournemouth
+Sat Feb 17 1951,Ipswich Town,5-1,Gillingham
+Sat Feb 17 1951,Crystal Palace,1-1,Newport County
+Sat Feb 17 1951,Swindon Town,2-1,Port Vale
+Sat Feb 17 1951,Reading,4-2,Exeter City
+Sat Feb 17 1951,Brighton & Hove Albion,1-1,Watford
+Sat Feb 17 1951,Torquay United,2-2,Southend United
+Sat Feb 24 1951,Millwall,2-4,Newport County
+Sat Feb 24 1951,Bristol City,2-0,Brighton & Hove Albion
+Sat Feb 24 1951,Ipswich Town,1-3,Nottingham Forest
+Sat Feb 24 1951,Reading,7-1,Aldershot
+Sat Feb 24 1951,Plymouth Argyle,1-0,Torquay United
+Sat Feb 24 1951,Exeter City,5-0,Colchester United
+Sat Feb 24 1951,Southend United,8-2,Swindon Town
+Sat Feb 24 1951,Leyton Orient,2-3,Port Vale
+Sat Feb 24 1951,Walsall,1-0,Northampton Town
+Sat Feb 24 1951,Gillingham,0-0,Crystal Palace
+Sat Feb 24 1951,Watford,0-2,Norwich City
+Sat Mar 3 1951,Torquay United,0-1,Ipswich Town
+Sat Mar 3 1951,Aldershot,2-2,Plymouth Argyle
+Sat Mar 3 1951,Brighton & Hove Albion,2-2,Gillingham
+Sat Mar 3 1951,Port Vale,1-1,Walsall
+Sat Mar 3 1951,Newport County,0-1,Bristol City
+Sat Mar 3 1951,Crystal Palace,0-1,AFC Bournemouth
+Sat Mar 3 1951,Bristol Rovers,3-1,Exeter City
+Sat Mar 3 1951,Nottingham Forest,0-1,Leyton Orient
+Sat Mar 3 1951,Swindon Town,1-1,Reading
+Sat Mar 3 1951,Colchester United,1-3,Southend United
+Sat Mar 3 1951,Norwich City,2-1,Millwall
+Sat Mar 3 1951,Northampton Town,6-0,Watford
+Mon Mar 5 1951,Port Vale,2-1,Plymouth Argyle
+Sat Mar 10 1951,Leyton Orient,5-1,Torquay United
+Sat Mar 10 1951,Plymouth Argyle,5-1,Swindon Town
+Sat Mar 10 1951,Millwall,2-1,Northampton Town
+Sat Mar 10 1951,Bristol City,2-2,Norwich City
+Sat Mar 10 1951,Walsall,0-2,Nottingham Forest
+Sat Mar 10 1951,Gillingham,0-1,Newport County
+Sat Mar 10 1951,Ipswich Town,5-2,Aldershot
+Sat Mar 10 1951,Exeter City,1-2,Crystal Palace
+Sat Mar 10 1951,AFC Bournemouth,2-2,Brighton & Hove Albion
+Sat Mar 10 1951,Watford,2-0,Port Vale
+Sat Mar 10 1951,Reading,3-2,Colchester United
+Sat Mar 10 1951,Southend United,1-1,Bristol Rovers
+Wed Mar 14 1951,AFC Bournemouth,2-0,Bristol Rovers
+Sat Mar 17 1951,Torquay United,3-2,Walsall
+Sat Mar 17 1951,Bristol Rovers,4-0,Reading
+Sat Mar 17 1951,Colchester United,3-0,Plymouth Argyle
+Sat Mar 17 1951,Aldershot,3-1,Leyton Orient
+Sat Mar 17 1951,Swindon Town,2-0,Ipswich Town
+Sat Mar 17 1951,Northampton Town,2-2,Bristol City
+Sat Mar 17 1951,Crystal Palace,0-2,Southend United
+Sat Mar 17 1951,Nottingham Forest,2-1,Watford
+Sat Mar 17 1951,Brighton & Hove Albion,4-1,Exeter City
+Sat Mar 17 1951,Norwich City,2-0,Gillingham
+Fri Mar 23 1951,Aldershot,0-1,Swindon Town
+Fri Mar 23 1951,Brighton & Hove Albion,5-1,Northampton Town
+Fri Mar 23 1951,Millwall,1-1,Plymouth Argyle
+Fri Mar 23 1951,AFC Bournemouth,1-1,Exeter City
+Fri Mar 23 1951,Watford,0-2,Ipswich Town
+Fri Mar 23 1951,Colchester United,3-1,Torquay United
+Fri Mar 23 1951,Leyton Orient,2-1,Walsall
+Fri Mar 23 1951,Gillingham,0-0,Southend United
+Fri Mar 23 1951,Reading,4-2,Bristol City
+Sat Mar 24 1951,Ipswich Town,3-0,Colchester United
+Sat Mar 24 1951,Southend United,3-1,Brighton & Hove Albion
+Sat Mar 24 1951,Reading,1-1,Crystal Palace
+Sat Mar 24 1951,AFC Bournemouth,0-0,Norwich City
+Sat Mar 24 1951,Watford,2-2,Torquay United
+Sat Mar 24 1951,Gillingham,3-1,Northampton Town
+Sat Mar 24 1951,Plymouth Argyle,0-0,Bristol Rovers
+Sat Mar 24 1951,Millwall,1-1,Nottingham Forest
+Sat Mar 24 1951,Leyton Orient,2-1,Swindon Town
+Sat Mar 24 1951,Exeter City,2-2,Newport County
+Sat Mar 24 1951,Bristol City,3-1,Port Vale
+Mon Mar 26 1951,Nottingham Forest,2-1,Bristol Rovers
+Mon Mar 26 1951,Crystal Palace,0-2,Port Vale
+Mon Mar 26 1951,Swindon Town,4-0,Aldershot
+Mon Mar 26 1951,Ipswich Town,2-1,Watford
+Mon Mar 26 1951,Torquay United,4-1,Colchester United
+Mon Mar 26 1951,Southend United,4-0,Gillingham
+Mon Mar 26 1951,Norwich City,2-1,Newport County
+Mon Mar 26 1951,Walsall,1-1,Leyton Orient
+Mon Mar 26 1951,Exeter City,2-1,AFC Bournemouth
+Mon Mar 26 1951,Plymouth Argyle,2-2,Millwall
+Mon Mar 26 1951,Bristol City,3-3,Reading
+Tue Mar 27 1951,Northampton Town,0-0,Brighton & Hove Albion
+Sat Mar 31 1951,Port Vale,4-3,Gillingham
+Sat Mar 31 1951,Norwich City,3-0,Exeter City
+Sat Mar 31 1951,Crystal Palace,0-1,Plymouth Argyle
+Sat Mar 31 1951,Northampton Town,0-1,AFC Bournemouth
+Sat Mar 31 1951,Newport County,6-1,Southend United
+Sat Mar 31 1951,Brighton & Hove Albion,1-1,Reading
+Sat Mar 31 1951,Torquay United,2-1,Millwall
+Sat Mar 31 1951,Nottingham Forest,0-0,Bristol City
+Sat Mar 31 1951,Swindon Town,1-1,Walsall
+Sat Mar 31 1951,Aldershot,1-1,Watford
+Sat Mar 31 1951,Bristol Rovers,1-1,Ipswich Town
+Sat Mar 31 1951,Colchester United,1-0,Leyton Orient
+Mon Apr 2 1951,Port Vale,2-1,Norwich City
+Wed Apr 4 1951,Exeter City,0-0,Torquay United
+Wed Apr 4 1951,Bristol City,1-1,Aldershot
+Thu Apr 5 1951,Northampton Town,1-4,Newport County
+Sat Apr 7 1951,Leyton Orient,1-0,Bristol Rovers
+Sat Apr 7 1951,AFC Bournemouth,3-1,Port Vale
+Sat Apr 7 1951,Walsall,4-2,Colchester United
+Sat Apr 7 1951,Exeter City,1-0,Northampton Town
+Sat Apr 7 1951,Watford,1-2,Swindon Town
+Sat Apr 7 1951,Millwall,1-0,Aldershot
+Sat Apr 7 1951,Ipswich Town,1-1,Crystal Palace
+Sat Apr 7 1951,Southend United,0-2,Norwich City
+Sat Apr 7 1951,Plymouth Argyle,3-3,Brighton & Hove Albion
+Sat Apr 7 1951,Bristol City,0-2,Torquay United
+Sat Apr 7 1951,Gillingham,1-4,Nottingham Forest
+Sat Apr 7 1951,Reading,5-0,Newport County
+Mon Apr 9 1951,Plymouth Argyle,4-1,Northampton Town
+Tue Apr 10 1951,Southend United,3-2,Nottingham Forest
+Wed Apr 11 1951,Aldershot,2-0,Colchester United
+Wed Apr 11 1951,Ipswich Town,0-1,Norwich City
+Wed Apr 11 1951,Millwall,1-0,Bristol Rovers
+Thu Apr 12 1951,Leyton Orient,0-3,Newport County
+Sat Apr 14 1951,Northampton Town,1-1,Southend United
+Sat Apr 14 1951,Newport County,2-0,Plymouth Argyle
+Sat Apr 14 1951,Swindon Town,0-1,Millwall
+Sat Apr 14 1951,Torquay United,1-2,Gillingham
+Sat Apr 14 1951,Crystal Palace,1-1,Leyton Orient
+Sat Apr 14 1951,Colchester United,4-1,Watford
+Sat Apr 14 1951,Norwich City,2-1,Reading
+Sat Apr 14 1951,Bristol Rovers,1-1,Walsall
+Sat Apr 14 1951,Aldershot,0-0,Bristol City
+Sat Apr 14 1951,Brighton & Hove Albion,4-0,Ipswich Town
+Sat Apr 14 1951,Nottingham Forest,1-0,AFC Bournemouth
+Mon Apr 16 1951,Port Vale,1-1,Colchester United
+Wed Apr 18 1951,Crystal Palace,0-5,Norwich City
+Wed Apr 18 1951,Plymouth Argyle,2-0,Gillingham
+Wed Apr 18 1951,Reading,0-0,AFC Bournemouth
+Wed Apr 18 1951,Brighton & Hove Albion,9-1,Newport County
+Wed Apr 18 1951,Bristol City,2-1,Ipswich Town
+Wed Apr 18 1951,Nottingham Forest,2-1,Swindon Town
+Wed Apr 18 1951,Exeter City,1-0,Southend United
+Thu Apr 19 1951,Walsall,1-0,Watford
+Thu Apr 19 1951,Northampton Town,1-1,Bristol Rovers
+Thu Apr 19 1951,Leyton Orient,0-2,Millwall
+Sat Apr 21 1951,Gillingham,3-0,Aldershot
+Sat Apr 21 1951,Exeter City,0-5,Nottingham Forest
+Sat Apr 21 1951,Watford,1-0,Bristol Rovers
+Sat Apr 21 1951,AFC Bournemouth,0-0,Torquay United
+Sat Apr 21 1951,Bristol City,2-0,Swindon Town
+Sat Apr 21 1951,Southend United,1-1,Port Vale
+Sat Apr 21 1951,Leyton Orient,2-1,Brighton & Hove Albion
+Sat Apr 21 1951,Millwall,2-0,Colchester United
+Sat Apr 21 1951,Ipswich Town,2-1,Newport County
+Sat Apr 21 1951,Plymouth Argyle,2-1,Norwich City
+Sat Apr 21 1951,Reading,2-0,Northampton Town
+Sat Apr 21 1951,Walsall,0-0,Crystal Palace
+Mon Apr 23 1951,Port Vale,0-1,Brighton & Hove Albion
+Mon Apr 23 1951,Bristol Rovers,3-0,Watford
+Wed Apr 25 1951,AFC Bournemouth,4-0,Aldershot
+Wed Apr 25 1951,Millwall,5-0,Exeter City
+Wed Apr 25 1951,Bristol City,0-2,Colchester United
+Wed Apr 25 1951,Nottingham Forest,2-2,Northampton Town
+Wed Apr 25 1951,Newport County,1-1,Norwich City
+Thu Apr 26 1951,Leyton Orient,1-2,Plymouth Argyle
+Thu Apr 26 1951,Port Vale,2-2,Crystal Palace
+Sat Apr 28 1951,Torquay United,2-0,Exeter City
+Sat Apr 28 1951,Colchester United,1-1,Bristol City
+Sat Apr 28 1951,Port Vale,0-0,Reading
+Sat Apr 28 1951,Nottingham Forest,3-0,Southend United
+Sat Apr 28 1951,Crystal Palace,1-1,Watford
+Sat Apr 28 1951,Bristol Rovers,1-0,Millwall
+Sat Apr 28 1951,Swindon Town,2-0,Gillingham
+Sat Apr 28 1951,Norwich City,1-3,Ipswich Town
+Sat Apr 28 1951,Aldershot,0-1,AFC Bournemouth
+Sat Apr 28 1951,Northampton Town,1-3,Plymouth Argyle
+Sat Apr 28 1951,Newport County,0-0,Leyton Orient
+Sat Apr 28 1951,Brighton & Hove Albion,1-0,Walsall
+Mon Apr 30 1951,Port Vale,2-0,Exeter City
+Mon Apr 30 1951,Newport County,1-0,AFC Bournemouth
+Mon Apr 30 1951,Bristol Rovers,3-3,Norwich City
+Wed May 2 1951,Nottingham Forest,2-1,Newport County
+Wed May 2 1951,Aldershot,3-0,Crystal Palace
+Wed May 2 1951,Reading,1-1,Millwall
+Wed May 2 1951,Gillingham,2-1,Swindon Town
+Thu May 3 1951,Port Vale,0-1,Millwall
+Thu May 3 1951,Walsall,1-0,Brighton & Hove Albion
+Thu May 3 1951,Bristol Rovers,0-2,Nottingham Forest
+Thu May 3 1951,Leyton Orient,0-2,Bristol City
+Sat May 5 1951,Ipswich Town,2-0,Bristol City
+Sat May 5 1951,Gillingham,1-2,Plymouth Argyle
+Sat May 5 1951,Bristol Rovers,1-1,Northampton Town
+Sat May 5 1951,Colchester United,1-1,Port Vale
+Sat May 5 1951,Swindon Town,2-3,Nottingham Forest
+Sat May 5 1951,Newport County,3-0,Brighton & Hove Albion
+Sat May 5 1951,Aldershot,1-0,Torquay United
+Sat May 5 1951,Southend United,5-1,Exeter City
+Sat May 5 1951,Norwich City,3-1,Crystal Palace
+Sat May 5 1951,AFC Bournemouth,1-0,Reading
+Sat May 5 1951,Watford,1-3,Walsall

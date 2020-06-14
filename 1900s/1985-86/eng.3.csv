@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 17 1985,Bristol City,2-3,Walsall
+Sat Aug 17 1985,Chesterfield,4-3,Bury
+Sat Aug 17 1985,Swansea City,0-1,Wigan Athletic
+Sat Aug 17 1985,Reading,1-0,Blackpool
+Sat Aug 17 1985,Lincoln City,1-0,Gillingham
+Sat Aug 17 1985,Newport County,2-2,Doncaster Rovers
+Sat Aug 17 1985,Brentford,2-1,Wolverhampton Wanderers
+Sat Aug 17 1985,Bolton Wanderers,1-1,Rotherham United
+Sat Aug 17 1985,Notts County,1-4,Cardiff City
+Sat Aug 17 1985,York City,3-1,Plymouth Argyle
+Sat Aug 17 1985,Derby County,3-0,AFC Bournemouth
+Sun Aug 18 1985,Darlington,3-3,Bristol Rovers
+Sat Aug 24 1985,Doncaster Rovers,1-1,Bolton Wanderers
+Sat Aug 24 1985,Wolverhampton Wanderers,1-2,Newport County
+Sat Aug 24 1985,Wigan Athletic,2-1,Derby County
+Sat Aug 24 1985,AFC Bournemouth,5-0,Bristol City
+Sat Aug 24 1985,Rotherham United,1-0,Lincoln City
+Sat Aug 24 1985,Plymouth Argyle,0-1,Reading
+Sat Aug 24 1985,Blackpool,1-3,Notts County
+Sat Aug 24 1985,Cardiff City,0-2,Chesterfield
+Sat Aug 24 1985,Bristol Rovers,0-1,Brentford
+Sat Aug 24 1985,Walsall,3-1,Swansea City
+Sat Aug 24 1985,Gillingham,1-1,Darlington
+Sat Aug 24 1985,Bury,4-2,York City
+Mon Aug 26 1985,Brentford,1-0,AFC Bournemouth
+Mon Aug 26 1985,Lincoln City,3-2,Walsall
+Mon Aug 26 1985,Notts County,1-1,Doncaster Rovers
+Mon Aug 26 1985,Derby County,4-2,Wolverhampton Wanderers
+Mon Aug 26 1985,Darlington,2-1,Blackpool
+Mon Aug 26 1985,Newport County,1-2,Cardiff City
+Mon Aug 26 1985,Reading,3-2,Bristol Rovers
+Mon Aug 26 1985,Bolton Wanderers,1-4,Bury
+Mon Aug 26 1985,Swansea City,0-2,Plymouth Argyle
+Mon Aug 26 1985,York City,4-1,Wigan Athletic
+Mon Aug 26 1985,Bristol City,1-2,Gillingham
+Tue Aug 27 1985,Chesterfield,2-0,Rotherham United
+Sat Aug 31 1985,Plymouth Argyle,0-1,Notts County
+Sat Aug 31 1985,Wigan Athletic,4-0,Brentford
+Sat Aug 31 1985,Bury,4-0,Lincoln City
+Sat Aug 31 1985,Cardiff City,1-3,Reading
+Sat Aug 31 1985,Gillingham,2-1,Bolton Wanderers
+Sat Aug 31 1985,Blackpool,2-0,Swansea City
+Sat Aug 31 1985,Bristol Rovers,0-0,Derby County
+Sat Aug 31 1985,Rotherham United,2-0,Bristol City
+Sat Aug 31 1985,Wolverhampton Wanderers,3-2,York City
+Sat Aug 31 1985,AFC Bournemouth,0-1,Newport County
+Sat Aug 31 1985,Walsall,3-0,Chesterfield
+Sat Aug 31 1985,Doncaster Rovers,2-0,Darlington
+Sat Sep 7 1985,Notts County,1-1,Gillingham
+Sat Sep 7 1985,York City,1-1,Cardiff City
+Sat Sep 7 1985,Derby County,1-2,Blackpool
+Sat Sep 7 1985,Brentford,1-1,Plymouth Argyle
+Sat Sep 7 1985,Bolton Wanderers,4-1,Wolverhampton Wanderers
+Sat Sep 7 1985,Bristol City,1-0,Wigan Athletic
+Sat Sep 7 1985,Swansea City,1-0,Rotherham United
+Sat Sep 7 1985,Reading,2-1,Walsall
+Sat Sep 7 1985,Chesterfield,0-1,AFC Bournemouth
+Sat Sep 7 1985,Newport County,3-0,Bristol Rovers
+Sun Sep 8 1985,Lincoln City,3-3,Doncaster Rovers
+Fri Sep 13 1985,Doncaster Rovers,1-0,Brentford
+Sat Sep 14 1985,Walsall,2-0,Bolton Wanderers
+Sat Sep 14 1985,Bristol Rovers,0-0,Lincoln City
+Sat Sep 14 1985,Rotherham United,1-2,Reading
+Sat Sep 14 1985,Bury,1-1,Derby County
+Sat Sep 14 1985,Blackpool,0-2,York City
+Sat Sep 14 1985,Cardiff City,1-3,Bristol City
+Sat Sep 14 1985,Wolverhampton Wanderers,1-5,Swansea City
+Sat Sep 14 1985,Plymouth Argyle,2-0,Newport County
+Sat Sep 14 1985,AFC Bournemouth,0-0,Notts County
+Sat Sep 14 1985,Gillingham,1-1,Chesterfield
+Sat Sep 14 1985,Wigan Athletic,5-1,Darlington
+Tue Sep 17 1985,AFC Bournemouth,1-4,Blackpool
+Tue Sep 17 1985,Bolton Wanderers,1-1,Lincoln City
+Tue Sep 17 1985,Bristol City,1-1,Derby County
+Tue Sep 17 1985,Doncaster Rovers,1-0,Plymouth Argyle
+Tue Sep 17 1985,Swansea City,1-1,Newport County
+Tue Sep 17 1985,Walsall,3-1,Rotherham United
+Tue Sep 17 1985,Cardiff City,0-0,Bury
+Tue Sep 17 1985,Notts County,3-1,York City
+Tue Sep 17 1985,Wolverhampton Wanderers,3-4,Bristol Rovers
+Tue Sep 17 1985,Gillingham,2-0,Wigan Athletic
+Tue Sep 17 1985,Brentford,1-2,Reading
+Tue Sep 17 1985,Chesterfield,1-0,Darlington
+Sat Sep 21 1985,Bury,1-2,Gillingham
+Sat Sep 21 1985,Rotherham United,2-1,Doncaster Rovers
+Sat Sep 21 1985,York City,1-1,Bristol City
+Sat Sep 21 1985,Blackpool,3-0,Cardiff City
+Sat Sep 21 1985,Derby County,0-0,Chesterfield
+Sat Sep 21 1985,Wigan Athletic,3-0,AFC Bournemouth
+Sat Sep 21 1985,Plymouth Argyle,3-1,Wolverhampton Wanderers
+Sat Sep 21 1985,Reading,2-0,Swansea City
+Sat Sep 21 1985,Lincoln City,3-0,Brentford
+Sat Sep 21 1985,Bristol Rovers,0-1,Walsall
+Sat Sep 21 1985,Newport County,0-1,Bolton Wanderers
+Sun Sep 22 1985,Darlington,2-3,Notts County
+Sat Sep 28 1985,Notts County,2-2,Bury
+Sat Sep 28 1985,Walsall,2-0,Newport County
+Sat Sep 28 1985,Doncaster Rovers,0-1,Reading
+Sat Sep 28 1985,Chesterfield,1-1,Wigan Athletic
+Sat Sep 28 1985,Gillingham,1-2,York City
+Sat Sep 28 1985,Bristol City,2-1,Blackpool
+Sat Sep 28 1985,Swansea City,0-1,Bristol Rovers
+Sat Sep 28 1985,Cardiff City,0-2,Derby County
+Sat Sep 28 1985,AFC Bournemouth,4-2,Darlington
+Sat Sep 28 1985,Brentford,1-1,Rotherham United
+Sat Sep 28 1985,Wolverhampton Wanderers,1-1,Lincoln City
+Sat Sep 28 1985,Bolton Wanderers,3-1,Plymouth Argyle
+Tue Oct 1 1985,Wigan Athletic,2-0,Walsall
+Tue Oct 1 1985,Blackpool,4-0,Doncaster Rovers
+Tue Oct 1 1985,Rotherham United,3-0,Cardiff City
+Tue Oct 1 1985,Plymouth Argyle,3-0,Gillingham
+Tue Oct 1 1985,Bury,3-1,Wolverhampton Wanderers
+Tue Oct 1 1985,Newport County,1-1,Bristol City
+Tue Oct 1 1985,Bristol Rovers,1-1,Notts County
+Tue Oct 1 1985,York City,3-0,Bolton Wanderers
+Tue Oct 1 1985,Darlington,3-5,Brentford
+Wed Oct 2 1985,Derby County,5-1,Swansea City
+Wed Oct 2 1985,Lincoln City,3-2,AFC Bournemouth
+Wed Oct 2 1985,Reading,4-2,Chesterfield
+Sat Oct 5 1985,Lincoln City,1-1,Newport County
+Sat Oct 5 1985,Bristol City,0-0,Chesterfield
+Sat Oct 5 1985,Blackpool,2-2,Gillingham
+Sat Oct 5 1985,Brentford,1-0,Swansea City
+Sat Oct 5 1985,Plymouth Argyle,4-2,Bristol Rovers
+Sat Oct 5 1985,Doncaster Rovers,1-0,Walsall
+Sat Oct 5 1985,Rotherham United,1-2,Wolverhampton Wanderers
+Sat Oct 5 1985,Bury,0-0,Wigan Athletic
+Sat Oct 5 1985,Reading,1-0,Bolton Wanderers
+Sat Oct 5 1985,Cardiff City,0-1,AFC Bournemouth
+Sat Oct 5 1985,York City,7-0,Darlington
+Sat Oct 5 1985,Derby County,2-0,Notts County
+Fri Oct 11 1985,Swansea City,3-1,Lincoln City
+Sat Oct 12 1985,Bolton Wanderers,1-2,Brentford
+Sat Oct 12 1985,Wigan Athletic,1-1,Blackpool
+Sat Oct 12 1985,AFC Bournemouth,2-1,Bury
+Sat Oct 12 1985,Wolverhampton Wanderers,1-2,Doncaster Rovers
+Sat Oct 12 1985,Bristol Rovers,5-2,Rotherham United
+Sat Oct 12 1985,Gillingham,2-0,Cardiff City
+Sat Oct 12 1985,Newport County,0-2,Reading
+Sat Oct 12 1985,Chesterfield,1-0,York City
+Sat Oct 12 1985,Notts County,4-0,Bristol City
+Sat Oct 12 1985,Walsall,2-2,Plymouth Argyle
+Sat Oct 19 1985,Lincoln City,0-1,Reading
+Sat Oct 19 1985,Doncaster Rovers,0-2,Bristol Rovers
+Sat Oct 19 1985,AFC Bournemouth,2-3,Gillingham
+Sat Oct 19 1985,Wolverhampton Wanderers,0-0,Walsall
+Sat Oct 19 1985,Notts County,2-1,Chesterfield
+Sat Oct 19 1985,Bristol City,1-0,Darlington
+Sat Oct 19 1985,Bolton Wanderers,1-1,Swansea City
+Sat Oct 19 1985,Brentford,0-0,Newport County
+Sat Oct 19 1985,Derby County,2-1,York City
+Sat Oct 19 1985,Blackpool,5-0,Bury
+Sat Oct 19 1985,Cardiff City,3-1,Wigan Athletic
+Sat Oct 19 1985,Rotherham United,1-1,Plymouth Argyle
+Tue Oct 22 1985,Darlington,4-1,Cardiff City
+Tue Oct 22 1985,Newport County,0-0,Rotherham United
+Tue Oct 22 1985,Bury,6-3,Bristol City
+Tue Oct 22 1985,York City,2-1,AFC Bournemouth
+Tue Oct 22 1985,Walsall,1-2,Brentford
+Tue Oct 22 1985,Wigan Athletic,3-1,Notts County
+Tue Oct 22 1985,Gillingham,1-2,Derby County
+Tue Oct 22 1985,Swansea City,0-2,Doncaster Rovers
+Tue Oct 22 1985,Bristol Rovers,2-1,Bolton Wanderers
+Tue Oct 22 1985,Plymouth Argyle,2-1,Lincoln City
+Tue Oct 22 1985,Chesterfield,1-2,Blackpool
+Wed Oct 23 1985,Reading,2-2,Wolverhampton Wanderers
+Sat Oct 26 1985,Bury,3-1,Reading
+Sat Oct 26 1985,Chesterfield,0-0,Doncaster Rovers
+Sat Oct 26 1985,York City,2-1,Rotherham United
+Sat Oct 26 1985,AFC Bournemouth,6-1,Bristol Rovers
+Sat Oct 26 1985,Cardiff City,0-1,Bolton Wanderers
+Sat Oct 26 1985,Derby County,1-2,Plymouth Argyle
+Sat Oct 26 1985,Blackpool,4-0,Brentford
+Sat Oct 26 1985,Bristol City,3-0,Wolverhampton Wanderers
+Sat Oct 26 1985,Gillingham,5-1,Swansea City
+Sat Oct 26 1985,Wigan Athletic,0-0,Newport County
+Sun Oct 27 1985,Darlington,0-3,Walsall
+Sun Oct 27 1985,Notts County,3-2,Lincoln City
+Wed Oct 30 1985,Darlington,1-1,Bury
+Sat Nov 2 1985,Reading,1-0,Wigan Athletic
+Sat Nov 2 1985,Brentford,3-0,Cardiff City
+Sat Nov 2 1985,Walsall,0-0,Notts County
+Sat Nov 2 1985,Plymouth Argyle,0-0,Chesterfield
+Sat Nov 2 1985,Doncaster Rovers,1-1,Bristol City
+Sat Nov 2 1985,Wolverhampton Wanderers,2-1,Darlington
+Sat Nov 2 1985,Bolton Wanderers,1-0,AFC Bournemouth
+Sat Nov 2 1985,Swansea City,1-0,Bury
+Sat Nov 2 1985,Newport County,1-1,Gillingham
+Sat Nov 2 1985,Rotherham United,1-1,Derby County
+Sat Nov 2 1985,Bristol Rovers,0-1,York City
+Sat Nov 2 1985,Lincoln City,0-3,Blackpool
+Tue Nov 5 1985,Plymouth Argyle,2-1,AFC Bournemouth
+Tue Nov 5 1985,Bolton Wanderers,0-3,Darlington
+Tue Nov 5 1985,Bristol Rovers,2-1,Bury
+Tue Nov 5 1985,Wolverhampton Wanderers,2-1,Blackpool
+Tue Nov 5 1985,Swansea City,1-1,Chesterfield
+Tue Nov 5 1985,Walsall,6-3,Cardiff City
+Tue Nov 5 1985,Doncaster Rovers,2-2,Wigan Athletic
+Wed Nov 6 1985,Newport County,1-1,York City
+Wed Nov 6 1985,Lincoln City,1-1,Bristol City
+Wed Nov 6 1985,Reading,3-1,Notts County
+Wed Nov 6 1985,Brentford,3-3,Derby County
+Wed Nov 6 1985,Rotherham United,1-1,Gillingham
+Fri Nov 8 1985,Cardiff City,0-1,Doncaster Rovers
+Sat Nov 9 1985,Gillingham,5-2,Walsall
+Sat Nov 9 1985,Chesterfield,3-1,Newport County
+Sat Nov 9 1985,Bristol City,0-0,Brentford
+Sat Nov 9 1985,York City,0-1,Reading
+Sat Nov 9 1985,Wigan Athletic,2-0,Rotherham United
+Sat Nov 9 1985,Blackpool,4-2,Bristol Rovers
+Sat Nov 9 1985,Notts County,1-0,Bolton Wanderers
+Sat Nov 9 1985,Darlington,6-0,Swansea City
+Sat Nov 9 1985,Bury,0-1,Plymouth Argyle
+Sat Nov 9 1985,AFC Bournemouth,3-2,Wolverhampton Wanderers
+Sat Nov 9 1985,Derby County,7-0,Lincoln City
+Sat Nov 23 1985,Bristol Rovers,2-1,Cardiff City
+Sat Nov 23 1985,Rotherham United,2-0,Bury
+Sat Nov 23 1985,Walsall,1-1,Blackpool
+Sat Nov 23 1985,Doncaster Rovers,1-1,AFC Bournemouth
+Sat Nov 23 1985,Bolton Wanderers,0-1,Derby County
+Sat Nov 23 1985,Wolverhampton Wanderers,1-3,Gillingham
+Sat Nov 23 1985,Brentford,1-0,Chesterfield
+Sat Nov 23 1985,Plymouth Argyle,2-1,Wigan Athletic
+Sat Nov 23 1985,Newport County,1-2,Notts County
+Sat Nov 23 1985,Swansea City,1-3,Bristol City
+Sat Nov 23 1985,Reading,0-2,Darlington
+Sun Nov 24 1985,Lincoln City,3-4,York City
+Sat Nov 30 1985,Bury,2-1,Walsall
+Sat Nov 30 1985,York City,1-0,Brentford
+Sat Nov 30 1985,Notts County,3-0,Swansea City
+Sat Nov 30 1985,Wigan Athletic,3-2,Lincoln City
+Sat Nov 30 1985,Cardiff City,1-1,Wolverhampton Wanderers
+Sat Nov 30 1985,Bristol City,2-0,Bolton Wanderers
+Sat Nov 30 1985,Blackpool,1-1,Plymouth Argyle
+Sat Nov 30 1985,Derby County,1-1,Reading
+Sat Nov 30 1985,Gillingham,4-0,Doncaster Rovers
+Sun Dec 8 1985,Darlington,0-2,Doncaster Rovers
+Sat Dec 14 1985,Rotherham United,1-0,Notts County
+Sat Dec 14 1985,Walsall,4-2,AFC Bournemouth
+Sat Dec 14 1985,Brentford,1-0,Bury
+Sat Dec 14 1985,Lincoln City,0-4,Cardiff City
+Sat Dec 14 1985,Bristol Rovers,1-0,Gillingham
+Sat Dec 14 1985,Newport County,1-1,Blackpool
+Sat Dec 14 1985,Bolton Wanderers,2-1,Chesterfield
+Sat Dec 14 1985,Swansea City,1-0,York City
+Sat Dec 14 1985,Plymouth Argyle,4-2,Darlington
+Sat Dec 14 1985,Reading,1-0,Bristol City
+Sat Dec 14 1985,Wolverhampton Wanderers,2-2,Wigan Athletic
+Sun Dec 15 1985,Doncaster Rovers,0-3,Derby County
+Tue Dec 17 1985,AFC Bournemouth,1-2,Rotherham United
+Fri Dec 20 1985,Chesterfield,3-4,Cardiff City
+Fri Dec 20 1985,Darlington,3-2,Gillingham
+Fri Dec 20 1985,York City,0-0,Bury
+Sat Dec 21 1985,Bolton Wanderers,2-0,Doncaster Rovers
+Sat Dec 21 1985,Newport County,3-1,Wolverhampton Wanderers
+Sat Dec 21 1985,Bristol City,1-3,AFC Bournemouth
+Sat Dec 21 1985,Reading,4-3,Plymouth Argyle
+Sun Dec 22 1985,Notts County,1-2,Blackpool
+Sun Dec 22 1985,Brentford,1-0,Bristol Rovers
+Sun Dec 22 1985,Derby County,1-0,Wigan Athletic
+Sun Dec 22 1985,Lincoln City,0-0,Rotherham United
+Thu Dec 26 1985,Blackpool,1-1,Bolton Wanderers
+Thu Dec 26 1985,AFC Bournemouth,0-1,Reading
+Thu Dec 26 1985,Notts County,4-0,Wolverhampton Wanderers
+Thu Dec 26 1985,Darlington,2-2,Rotherham United
+Thu Dec 26 1985,York City,0-1,Doncaster Rovers
+Thu Dec 26 1985,Chesterfield,2-2,Lincoln City
+Thu Dec 26 1985,Wigan Athletic,4-0,Bristol Rovers
+Thu Dec 26 1985,Bury,1-1,Newport County
+Thu Dec 26 1985,Bristol City,2-0,Plymouth Argyle
+Thu Dec 26 1985,Cardiff City,1-0,Swansea City
+Sat Dec 28 1985,Doncaster Rovers,2-1,Notts County
+Sat Dec 28 1985,Plymouth Argyle,2-0,Swansea City
+Sat Dec 28 1985,Bristol Rovers,0-2,Reading
+Sat Dec 28 1985,Blackpool,0-0,Darlington
+Sat Dec 28 1985,AFC Bournemouth,0-0,Brentford
+Sat Dec 28 1985,Cardiff City,1-1,Newport County
+Sat Dec 28 1985,Gillingham,1-1,Bristol City
+Sat Dec 28 1985,Wolverhampton Wanderers,0-4,Derby County
+Sat Dec 28 1985,Rotherham United,1-2,Chesterfield
+Sat Dec 28 1985,Walsall,2-1,Lincoln City
+Wed Jan 1 1986,Wolverhampton Wanderers,1-0,Chesterfield
+Wed Jan 1 1986,Bolton Wanderers,1-2,Wigan Athletic
+Wed Jan 1 1986,Plymouth Argyle,4-4,Cardiff City
+Wed Jan 1 1986,Walsall,3-1,York City
+Wed Jan 1 1986,Reading,1-2,Gillingham
+Wed Jan 1 1986,Swansea City,1-1,AFC Bournemouth
+Wed Jan 1 1986,Rotherham United,4-1,Blackpool
+Wed Jan 1 1986,Doncaster Rovers,1-0,Bury
+Wed Jan 1 1986,Lincoln City,1-1,Darlington
+Sat Jan 4 1986,Cardiff City,1-0,Brentford
+Tue Jan 7 1986,Swansea City,2-1,Walsall
+Tue Jan 7 1986,Bristol City,4-1,Doncaster Rovers
+Sat Jan 11 1986,Reading,1-1,Cardiff City
+Sat Jan 11 1986,Brentford,1-3,Wigan Athletic
+Sat Jan 11 1986,Lincoln City,2-0,Bury
+Sat Jan 11 1986,Bolton Wanderers,0-1,Gillingham
+Sat Jan 11 1986,Swansea City,2-0,Blackpool
+Sat Jan 11 1986,Notts County,2-0,Plymouth Argyle
+Sat Jan 11 1986,Newport County,2-1,AFC Bournemouth
+Sat Jan 11 1986,Bristol City,3-1,Rotherham United
+Sat Jan 11 1986,York City,2-1,Wolverhampton Wanderers
+Sat Jan 18 1986,Wolverhampton Wanderers,1-4,Brentford
+Sat Jan 18 1986,Doncaster Rovers,1-1,Newport County
+Sat Jan 18 1986,AFC Bournemouth,1-1,Derby County
+Sat Jan 18 1986,Plymouth Argyle,2-2,York City
+Sat Jan 18 1986,Cardiff City,1-3,Notts County
+Sat Jan 18 1986,Bristol Rovers,3-1,Darlington
+Sat Jan 18 1986,Bury,1-1,Chesterfield
+Sat Jan 18 1986,Walsall,2-1,Bristol City
+Sat Jan 18 1986,Wigan Athletic,5-0,Swansea City
+Sat Jan 18 1986,Rotherham United,4-0,Bolton Wanderers
+Sat Jan 18 1986,Gillingham,2-0,Lincoln City
+Sat Jan 18 1986,Blackpool,0-0,Reading
+Tue Jan 21 1986,Brentford,1-1,Notts County
+Fri Jan 24 1986,Brentford,1-3,Doncaster Rovers
+Sat Jan 25 1986,Swansea City,0-2,Wolverhampton Wanderers
+Sat Jan 25 1986,Chesterfield,1-1,Gillingham
+Sat Jan 25 1986,Newport County,3-1,Plymouth Argyle
+Sat Jan 25 1986,Bristol City,2-1,Cardiff City
+Sat Jan 25 1986,Bolton Wanderers,3-1,Walsall
+Fri Jan 31 1986,Cardiff City,2-1,York City
+Fri Jan 31 1986,AFC Bournemouth,3-2,Chesterfield
+Sat Feb 1 1986,Plymouth Argyle,2-0,Brentford
+Sat Feb 1 1986,Gillingham,4-0,Notts County
+Sat Feb 1 1986,Bristol Rovers,2-0,Newport County
+Sat Feb 1 1986,Wolverhampton Wanderers,0-2,Bolton Wanderers
+Sat Feb 1 1986,Walsall,6-0,Reading
+Sat Feb 1 1986,Wigan Athletic,1-1,Bristol City
+Sat Feb 1 1986,Blackpool,0-1,Derby County
+Sat Feb 1 1986,Bury,0-1,Darlington
+Sat Feb 1 1986,Doncaster Rovers,1-1,Lincoln City
+Sat Feb 1 1986,Rotherham United,4-1,Swansea City
+Tue Feb 4 1986,Doncaster Rovers,0-0,Swansea City
+Tue Feb 4 1986,Bristol City,4-1,Bury
+Tue Feb 4 1986,Brentford,1-3,Walsall
+Tue Feb 4 1986,Rotherham United,0-0,Newport County
+Tue Feb 4 1986,AFC Bournemouth,2-0,York City
+Tue Feb 4 1986,Blackpool,0-1,Chesterfield
+Tue Feb 4 1986,Bolton Wanderers,0-2,Bristol Rovers
+Tue Feb 4 1986,Cardiff City,0-1,Darlington
+Tue Feb 4 1986,Notts County,1-1,Wigan Athletic
+Sat Feb 8 1986,Gillingham,2-0,AFC Bournemouth
+Sat Feb 8 1986,Wigan Athletic,2-0,Cardiff City
+Sat Feb 8 1986,Swansea City,3-1,Bolton Wanderers
+Sat Feb 8 1986,Chesterfield,2-2,Notts County
+Sat Feb 8 1986,York City,1-3,Derby County
+Sat Feb 8 1986,Bristol Rovers,1-0,Doncaster Rovers
+Sun Feb 9 1986,Walsall,1-1,Wolverhampton Wanderers
+Sat Feb 15 1986,Rotherham United,3-0,Walsall
+Sat Feb 15 1986,Wigan Athletic,3-3,Gillingham
+Sat Feb 15 1986,Plymouth Argyle,0-1,Doncaster Rovers
+Sun Feb 16 1986,Newport County,2-0,Swansea City
+Sat Feb 22 1986,AFC Bournemouth,0-2,Wigan Athletic
+Sat Feb 22 1986,Gillingham,1-0,Bury
+Sat Feb 22 1986,Swansea City,2-3,Reading
+Sat Feb 22 1986,Bristol City,2-2,York City
+Sat Feb 22 1986,Bolton Wanderers,4-0,Newport County
+Sat Feb 22 1986,Cardiff City,1-0,Blackpool
+Sat Feb 22 1986,Chesterfield,1-0,Derby County
+Tue Feb 25 1986,Blackpool,2-0,Lincoln City
+Tue Feb 25 1986,Bury,2-1,Bolton Wanderers
+Fri Feb 28 1986,Newport County,1-5,Walsall
+Sat Mar 1 1986,Bury,2-4,Notts County
+Sat Mar 1 1986,Bristol Rovers,0-0,Swansea City
+Sat Mar 1 1986,Wigan Athletic,2-0,Chesterfield
+Sat Mar 1 1986,Blackpool,2-1,Bristol City
+Sat Mar 1 1986,Rotherham United,1-2,Brentford
+Sat Mar 1 1986,York City,2-0,Gillingham
+Sat Mar 1 1986,Derby County,2-1,Cardiff City
+Sat Mar 1 1986,Darlington,0-0,AFC Bournemouth
+Tue Mar 4 1986,Gillingham,1-1,Plymouth Argyle
+Tue Mar 4 1986,Notts County,0-0,Bristol Rovers
+Tue Mar 4 1986,AFC Bournemouth,2-2,Lincoln City
+Tue Mar 4 1986,Bristol City,3-1,Newport County
+Tue Mar 4 1986,Bolton Wanderers,1-1,York City
+Tue Mar 4 1986,Chesterfield,3-4,Reading
+Tue Mar 4 1986,Doncaster Rovers,0-0,Blackpool
+Sat Mar 8 1986,AFC Bournemouth,1-1,Cardiff City
+Sat Mar 8 1986,Bolton Wanderers,2-0,Reading
+Sat Mar 8 1986,Wolverhampton Wanderers,0-0,Rotherham United
+Sat Mar 8 1986,Walsall,1-0,Doncaster Rovers
+Sat Mar 8 1986,Notts County,0-3,Derby County
+Sat Mar 8 1986,Newport County,1-2,Lincoln City
+Sat Mar 8 1986,Gillingham,2-2,Blackpool
+Sat Mar 8 1986,Bristol Rovers,1-2,Plymouth Argyle
+Sat Mar 8 1986,Swansea City,2-0,Brentford
+Sat Mar 8 1986,Chesterfield,0-0,Bristol City
+Sun Mar 9 1986,Darlington,1-0,York City
+Tue Mar 11 1986,Wolverhampton Wanderers,0-3,Plymouth Argyle
+Tue Mar 11 1986,Newport County,1-2,Brentford
+Tue Mar 11 1986,Wigan Athletic,1-0,Bury
+Wed Mar 12 1986,Reading,0-2,Lincoln City
+Wed Mar 12 1986,Derby County,3-1,Walsall
+Wed Mar 12 1986,York City,4-0,Bristol Rovers
+Fri Mar 14 1986,Brentford,1-1,Bolton Wanderers
+Sat Mar 15 1986,Blackpool,1-2,Wigan Athletic
+Sat Mar 15 1986,Rotherham United,2-0,Bristol Rovers
+Sat Mar 15 1986,Cardiff City,1-1,Gillingham
+Sat Mar 15 1986,York City,2-0,Chesterfield
+Sat Mar 15 1986,Bury,3-0,AFC Bournemouth
+Sat Mar 15 1986,Derby County,1-1,Darlington
+Sat Mar 15 1986,Bristol City,3-0,Notts County
+Sat Mar 15 1986,Doncaster Rovers,0-1,Wolverhampton Wanderers
+Sat Mar 15 1986,Plymouth Argyle,2-0,Walsall
+Sat Mar 15 1986,Reading,2-0,Newport County
+Sun Mar 16 1986,Lincoln City,4-1,Swansea City
+Tue Mar 18 1986,Gillingham,1-2,Brentford
+Tue Mar 18 1986,Chesterfield,1-2,Plymouth Argyle
+Tue Mar 18 1986,AFC Bournemouth,2-1,Bolton Wanderers
+Tue Mar 18 1986,Wolverhampton Wanderers,1-1,Bury
+Tue Mar 18 1986,Darlington,3-2,Newport County
+Tue Mar 18 1986,Walsall,6-0,Bristol Rovers
+Tue Mar 18 1986,Wigan Athletic,1-0,York City
+Wed Mar 19 1986,Reading,2-1,Rotherham United
+Wed Mar 19 1986,Derby County,2-0,Bristol City
+Fri Mar 21 1986,Doncaster Rovers,2-0,Chesterfield
+Sat Mar 22 1986,Walsall,0-0,Darlington
+Sat Mar 22 1986,Newport County,3-4,Wigan Athletic
+Sat Mar 22 1986,Reading,2-0,Bury
+Sat Mar 22 1986,Swansea City,2-2,Gillingham
+Sat Mar 22 1986,Bolton Wanderers,5-0,Cardiff City
+Sat Mar 22 1986,Rotherham United,4-1,York City
+Sat Mar 22 1986,Wolverhampton Wanderers,2-1,Bristol City
+Sat Mar 22 1986,Bristol Rovers,2-3,AFC Bournemouth
+Sat Mar 22 1986,Brentford,1-1,Blackpool
+Sat Mar 22 1986,Plymouth Argyle,4-1,Derby County
+Sat Mar 22 1986,Lincoln City,0-2,Notts County
+Tue Mar 25 1986,Lincoln City,1-1,Bolton Wanderers
+Tue Mar 25 1986,Cardiff City,2-3,Rotherham United
+Tue Mar 25 1986,Bury,2-2,Swansea City
+Tue Mar 25 1986,Chesterfield,2-3,Walsall
+Tue Mar 25 1986,Bristol Rovers,1-1,Wolverhampton Wanderers
+Fri Mar 28 1986,Cardiff City,1-2,Plymouth Argyle
+Sat Mar 29 1986,Darlington,1-0,Lincoln City
+Sat Mar 29 1986,Blackpool,2-1,Rotherham United
+Sat Mar 29 1986,Wigan Athletic,1-3,Bolton Wanderers
+Sat Mar 29 1986,Chesterfield,3-0,Wolverhampton Wanderers
+Sat Mar 29 1986,AFC Bournemouth,4-0,Swansea City
+Sat Mar 29 1986,Bury,1-2,Doncaster Rovers
+Sat Mar 29 1986,Derby County,1-1,Newport County
+Sat Mar 29 1986,York City,1-0,Walsall
+Sat Mar 29 1986,Gillingham,3-0,Reading
+Sat Mar 29 1986,Bristol City,2-0,Bristol Rovers
+Sat Mar 29 1986,Notts County,0-4,Brentford
+Mon Mar 31 1986,Swansea City,2-0,Cardiff City
+Mon Mar 31 1986,Wolverhampton Wanderers,2-2,Notts County
+Mon Mar 31 1986,Walsall,1-1,Derby County
+Mon Mar 31 1986,Reading,1-2,AFC Bournemouth
+Mon Mar 31 1986,Doncaster Rovers,1-1,York City
+Mon Mar 31 1986,Bolton Wanderers,1-3,Blackpool
+Mon Mar 31 1986,Brentford,1-2,Gillingham
+Mon Mar 31 1986,Rotherham United,1-2,Darlington
+Mon Mar 31 1986,Newport County,1-0,Bury
+Mon Mar 31 1986,Lincoln City,2-1,Chesterfield
+Tue Apr 1 1986,Bristol Rovers,1-1,Wigan Athletic
+Wed Apr 2 1986,Darlington,2-1,Wolverhampton Wanderers
+Fri Apr 4 1986,Gillingham,3-0,Rotherham United
+Sat Apr 5 1986,Cardiff City,1-1,Walsall
+Sat Apr 5 1986,York City,3-1,Newport County
+Sat Apr 5 1986,Chesterfield,4-1,Swansea City
+Sat Apr 5 1986,Derby County,1-1,Brentford
+Sat Apr 5 1986,Wigan Athletic,0-1,Doncaster Rovers
+Sat Apr 5 1986,Notts County,0-0,Reading
+Sat Apr 5 1986,Bristol City,1-1,Lincoln City
+Sat Apr 5 1986,Blackpool,0-1,Wolverhampton Wanderers
+Sat Apr 5 1986,Bury,1-1,Bristol Rovers
+Sat Apr 5 1986,AFC Bournemouth,1-3,Plymouth Argyle
+Mon Apr 7 1986,Derby County,2-0,Gillingham
+Tue Apr 8 1986,Wolverhampton Wanderers,2-3,Reading
+Tue Apr 8 1986,Notts County,3-1,Walsall
+Tue Apr 8 1986,Plymouth Argyle,4-0,Rotherham United
+Tue Apr 8 1986,Bury,3-0,Cardiff City
+Wed Apr 9 1986,Derby County,0-2,Bristol Rovers
+Sat Apr 12 1986,Bristol Rovers,1-0,Blackpool
+Sat Apr 12 1986,Bolton Wanderers,1-0,Notts County
+Sat Apr 12 1986,Plymouth Argyle,3-0,Bury
+Sat Apr 12 1986,Wolverhampton Wanderers,0-3,AFC Bournemouth
+Sat Apr 12 1986,Walsall,4-1,Gillingham
+Sat Apr 12 1986,Reading,0-0,York City
+Sat Apr 12 1986,Lincoln City,0-1,Derby County
+Sat Apr 12 1986,Doncaster Rovers,0-2,Cardiff City
+Sat Apr 12 1986,Rotherham United,0-0,Wigan Athletic
+Sat Apr 12 1986,Newport County,3-3,Chesterfield
+Sat Apr 12 1986,Swansea City,2-2,Darlington
+Sun Apr 13 1986,Brentford,1-2,Bristol City
+Tue Apr 15 1986,Chesterfield,2-0,Bristol Rovers
+Tue Apr 15 1986,Doncaster Rovers,0-0,Rotherham United
+Tue Apr 15 1986,Walsall,3-3,Wigan Athletic
+Tue Apr 15 1986,Notts County,3-1,AFC Bournemouth
+Wed Apr 16 1986,Reading,3-1,Brentford
+Wed Apr 16 1986,Lincoln City,1-1,Plymouth Argyle
+Sat Apr 19 1986,Cardiff City,2-0,Bristol Rovers
+Sat Apr 19 1986,Gillingham,2-0,Wolverhampton Wanderers
+Sat Apr 19 1986,York City,2-1,Lincoln City
+Sat Apr 19 1986,Darlington,0-0,Reading
+Sat Apr 19 1986,Bristol City,0-1,Swansea City
+Sat Apr 19 1986,Chesterfield,1-3,Brentford
+Sat Apr 19 1986,Blackpool,2-1,Walsall
+Sat Apr 19 1986,Wigan Athletic,3-0,Plymouth Argyle
+Sat Apr 19 1986,Notts County,1-2,Newport County
+Sat Apr 19 1986,AFC Bournemouth,1-1,Doncaster Rovers
+Sat Apr 19 1986,Bury,2-0,Rotherham United
+Sat Apr 19 1986,Derby County,2-1,Bolton Wanderers
+Tue Apr 22 1986,Plymouth Argyle,4-1,Bolton Wanderers
+Tue Apr 22 1986,Bury,4-1,Blackpool
+Tue Apr 22 1986,Wigan Athletic,1-0,Reading
+Tue Apr 22 1986,Newport County,1-1,Derby County
+Tue Apr 22 1986,Bristol Rovers,1-1,Bristol City
+Tue Apr 22 1986,York City,2-2,Notts County
+Tue Apr 22 1986,Brentford,0-1,Lincoln City
+Tue Apr 22 1986,Darlington,2-1,Chesterfield
+Thu Apr 24 1986,Darlington,0-1,Bolton Wanderers
+Fri Apr 25 1986,Doncaster Rovers,2-3,Gillingham
+Sat Apr 26 1986,Wolverhampton Wanderers,3-1,Cardiff City
+Sat Apr 26 1986,Brentford,3-3,York City
+Sat Apr 26 1986,Reading,1-0,Derby County
+Sat Apr 26 1986,Rotherham United,4-1,AFC Bournemouth
+Sat Apr 26 1986,Bolton Wanderers,0-4,Bristol City
+Sat Apr 26 1986,Newport County,3-0,Darlington
+Sat Apr 26 1986,Plymouth Argyle,3-1,Blackpool
+Sat Apr 26 1986,Lincoln City,0-0,Wigan Athletic
+Sat Apr 26 1986,Bristol Rovers,1-1,Chesterfield
+Sat Apr 26 1986,Swansea City,0-0,Notts County
+Sat Apr 26 1986,Walsall,3-2,Bury
+Tue Apr 29 1986,Darlington,1-1,Wigan Athletic
+Tue Apr 29 1986,Plymouth Argyle,4-0,Bristol City
+Tue Apr 29 1986,Gillingham,0-1,Newport County
+Tue Apr 29 1986,Blackpool,2-0,AFC Bournemouth
+Wed Apr 30 1986,Lincoln City,2-2,Bristol Rovers
+Wed Apr 30 1986,Derby County,1-1,Bury
+Sat May 3 1986,Bury,0-0,Brentford
+Sat May 3 1986,Darlington,0-2,Plymouth Argyle
+Sat May 3 1986,AFC Bournemouth,0-1,Walsall
+Sat May 3 1986,York City,3-1,Swansea City
+Sat May 3 1986,Cardiff City,2-1,Lincoln City
+Sat May 3 1986,Notts County,1-0,Rotherham United
+Sat May 3 1986,Bristol City,3-0,Reading
+Sat May 3 1986,Derby County,1-1,Doncaster Rovers
+Sat May 3 1986,Chesterfield,3-0,Bolton Wanderers
+Sat May 3 1986,Gillingham,2-0,Bristol Rovers
+Sat May 3 1986,Blackpool,0-0,Newport County
+Sat May 3 1986,Wigan Athletic,5-3,Wolverhampton Wanderers
+Mon May 5 1986,Brentford,2-1,Darlington
+Mon May 5 1986,Lincoln City,2-3,Wolverhampton Wanderers
+Mon May 5 1986,Reading,2-0,Doncaster Rovers
+Tue May 6 1986,York City,3-0,Blackpool
+Tue May 6 1986,Swansea City,0-3,Derby County
+Tue May 6 1986,Notts County,5-0,Darlington
+Fri May 9 1986,Derby County,2-1,Rotherham United
+Mon May 12 1986,Darlington,2-1,Derby County
+Thu May 15 1986,Darlington,1-1,Bristol City

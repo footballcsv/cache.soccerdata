@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Fri Aug 3 2018,Reading,1-2,Derby County
+Sat Aug 4 2018,Birmingham City,2-2,Norwich City
+Sat Aug 4 2018,Brentford,5-1,Rotherham United
+Sat Aug 4 2018,Bristol City,1-1,Nottingham Forest
+Sat Aug 4 2018,Ipswich Town,2-2,Blackburn Rovers
+Sat Aug 4 2018,Millwall,2-2,Middlesbrough
+Sat Aug 4 2018,Preston North End,1-0,Queens Park Rangers
+Sat Aug 4 2018,Sheffield United,1-2,Swansea City
+Sat Aug 4 2018,West Bromwich Albion,1-2,Bolton Wanderers
+Sat Aug 4 2018,Wigan Athletic,3-2,Sheffield Wednesday
+Sun Aug 5 2018,Leeds United,3-1,Stoke City
+Mon Aug 6 2018,Hull City,1-3,Aston Villa
+Tue Aug 7 2018,Middlesbrough,3-0,Sheffield United
+Tue Aug 7 2018,Nottingham Forest,1-1,West Bromwich Albion
+Sat Aug 11 2018,Aston Villa,3-2,Wigan Athletic
+Sat Aug 11 2018,Blackburn Rovers,0-0,Millwall
+Sat Aug 11 2018,Bolton Wanderers,2-2,Bristol City
+Sat Aug 11 2018,Derby County,1-4,Leeds United
+Sat Aug 11 2018,Middlesbrough,1-0,Birmingham City
+Sat Aug 11 2018,Norwich City,3-4,West Bromwich Albion
+Sat Aug 11 2018,Nottingham Forest,1-0,Reading
+Sat Aug 11 2018,Queens Park Rangers,1-2,Sheffield United
+Sat Aug 11 2018,Rotherham United,1-0,Ipswich Town
+Sat Aug 11 2018,Sheffield Wednesday,1-1,Hull City
+Sat Aug 11 2018,Stoke City,1-1,Brentford
+Sat Aug 11 2018,Swansea City,1-0,Preston North End
+Fri Aug 17 2018,Birmingham City,0-0,Swansea City
+Sat Aug 18 2018,Bristol City,0-2,Middlesbrough
+Sat Aug 18 2018,Hull City,0-1,Blackburn Rovers
+Sat Aug 18 2018,Ipswich Town,1-1,Aston Villa
+Sat Aug 18 2018,Leeds United,2-0,Rotherham United
+Sat Aug 18 2018,Millwall,2-1,Derby County
+Sat Aug 18 2018,Preston North End,2-2,Stoke City
+Sat Aug 18 2018,Reading,0-1,Bolton Wanderers
+Sat Aug 18 2018,Sheffield United,2-1,Norwich City
+Sat Aug 18 2018,West Bromwich Albion,7-1,Queens Park Rangers
+Sat Aug 18 2018,Wigan Athletic,2-2,Nottingham Forest
+Sun Aug 19 2018,Brentford,2-0,Sheffield Wednesday
+Tue Aug 21 2018,Derby County,2-0,Ipswich Town
+Tue Aug 21 2018,Queens Park Rangers,0-3,Bristol City
+Tue Aug 21 2018,Rotherham United,2-3,Hull City
+Tue Aug 21 2018,Swansea City,2-2,Leeds United
+Wed Aug 22 2018,Aston Villa,2-2,Brentford
+Wed Aug 22 2018,Blackburn Rovers,2-2,Reading
+Wed Aug 22 2018,Bolton Wanderers,1-0,Birmingham City
+Wed Aug 22 2018,Norwich City,2-0,Preston North End
+Wed Aug 22 2018,Sheffield Wednesday,2-1,Millwall
+Wed Aug 22 2018,Stoke City,0-3,Wigan Athletic
+Fri Aug 24 2018,Middlesbrough,1-0,West Bromwich Albion
+Sat Aug 25 2018,Aston Villa,1-1,Reading
+Sat Aug 25 2018,Blackburn Rovers,1-0,Brentford
+Sat Aug 25 2018,Bolton Wanderers,0-3,Sheffield United
+Sat Aug 25 2018,Derby County,2-0,Preston North End
+Sat Aug 25 2018,Norwich City,0-3,Leeds United
+Sat Aug 25 2018,Nottingham Forest,2-2,Birmingham City
+Sat Aug 25 2018,Queens Park Rangers,1-0,Wigan Athletic
+Sat Aug 25 2018,Sheffield Wednesday,2-1,Ipswich Town
+Sat Aug 25 2018,Stoke City,2-0,Hull City
+Sat Aug 25 2018,Swansea City,0-1,Bristol City
+Sun Aug 26 2018,Rotherham United,1-0,Millwall
+Fri Aug 31 2018,Leeds United,0-0,Middlesbrough
+Sat Sep 1 2018,Birmingham City,0-0,Queens Park Rangers
+Sat Sep 1 2018,Brentford,2-1,Nottingham Forest
+Sat Sep 1 2018,Hull City,1-2,Derby County
+Sat Sep 1 2018,Millwall,1-2,Swansea City
+Sat Sep 1 2018,Preston North End,2-2,Bolton Wanderers
+Sat Sep 1 2018,Reading,1-2,Sheffield Wednesday
+Sat Sep 1 2018,Sheffield United,4-1,Aston Villa
+Sat Sep 1 2018,West Bromwich Albion,2-1,Stoke City
+Sat Sep 1 2018,Wigan Athletic,1-0,Rotherham United
+Sun Sep 2 2018,Bristol City,4-1,Blackburn Rovers
+Sun Sep 2 2018,Ipswich Town,1-1,Norwich City
+Fri Sep 14 2018,Birmingham City,1-1,West Bromwich Albion
+Sat Sep 15 2018,Blackburn Rovers,1-1,Aston Villa
+Sat Sep 15 2018,Bolton Wanderers,1-2,Queens Park Rangers
+Sat Sep 15 2018,Brentford,2-0,Wigan Athletic
+Sat Sep 15 2018,Bristol City,1-0,Sheffield United
+Sat Sep 15 2018,Hull City,2-0,Ipswich Town
+Sat Sep 15 2018,Millwall,1-1,Leeds United
+Sat Sep 15 2018,Norwich City,1-0,Middlesbrough
+Sat Sep 15 2018,Preston North End,2-3,Reading
+Sat Sep 15 2018,Rotherham United,1-0,Derby County
+Sat Sep 15 2018,Sheffield Wednesday,2-2,Stoke City
+Sat Sep 15 2018,Swansea City,0-0,Nottingham Forest
+Tue Sep 18 2018,Aston Villa,2-0,Rotherham United
+Tue Sep 18 2018,Derby County,0-0,Blackburn Rovers
+Tue Sep 18 2018,Ipswich Town,1-1,Brentford
+Tue Sep 18 2018,Leeds United,3-0,Preston North End
+Tue Sep 18 2018,Stoke City,1-0,Swansea City
+Tue Sep 18 2018,West Bromwich Albion,4-2,Bristol City
+Tue Sep 18 2018,Wigan Athletic,2-1,Hull City
+Wed Sep 19 2018,Middlesbrough,2-0,Bolton Wanderers
+Wed Sep 19 2018,Nottingham Forest,2-1,Sheffield Wednesday
+Wed Sep 19 2018,Queens Park Rangers,2-0,Millwall
+Wed Sep 19 2018,Reading,1-2,Norwich City
+Wed Sep 19 2018,Sheffield United,0-0,Birmingham City
+Fri Sep 21 2018,Wigan Athletic,1-0,Bristol City
+Sat Sep 22 2018,Aston Villa,1-2,Sheffield Wednesday
+Sat Sep 22 2018,Derby County,3-1,Brentford
+Sat Sep 22 2018,Ipswich Town,0-0,Bolton Wanderers
+Sat Sep 22 2018,Leeds United,1-2,Birmingham City
+Sat Sep 22 2018,Middlesbrough,0-0,Swansea City
+Sat Sep 22 2018,Nottingham Forest,1-0,Rotherham United
+Sat Sep 22 2018,Queens Park Rangers,0-1,Norwich City
+Sat Sep 22 2018,Reading,3-0,Hull City
+Sat Sep 22 2018,Sheffield United,3-2,Preston North End
+Sat Sep 22 2018,Stoke City,2-3,Blackburn Rovers
+Sat Sep 22 2018,West Bromwich Albion,2-0,Millwall
+Fri Sep 28 2018,Bristol City,1-1,Aston Villa
+Fri Sep 28 2018,Sheffield Wednesday,1-1,Leeds United
+Sat Sep 29 2018,Birmingham City,2-2,Ipswich Town
+Sat Sep 29 2018,Blackburn Rovers,2-2,Nottingham Forest
+Sat Sep 29 2018,Bolton Wanderers,1-0,Derby County
+Sat Sep 29 2018,Brentford,2-2,Reading
+Sat Sep 29 2018,Hull City,1-1,Middlesbrough
+Sat Sep 29 2018,Millwall,2-3,Sheffield United
+Sat Sep 29 2018,Norwich City,1-0,Wigan Athletic
+Sat Sep 29 2018,Preston North End,2-3,West Bromwich Albion
+Sat Sep 29 2018,Rotherham United,2-2,Stoke City
+Sat Sep 29 2018,Swansea City,3-0,Queens Park Rangers
+Tue Oct 2 2018,Aston Villa,3-3,Preston North End
+Tue Oct 2 2018,Brentford,1-1,Birmingham City
+Tue Oct 2 2018,Hull City,0-1,Leeds United
+Tue Oct 2 2018,Ipswich Town,0-2,Middlesbrough
+Tue Oct 2 2018,Reading,0-1,Queens Park Rangers
+Tue Oct 2 2018,Stoke City,2-0,Bolton Wanderers
+Tue Oct 2 2018,Wigan Athletic,0-0,Swansea City
+Wed Oct 3 2018,Blackburn Rovers,0-2,Sheffield United
+Wed Oct 3 2018,Derby County,1-1,Norwich City
+Wed Oct 3 2018,Nottingham Forest,2-2,Millwall
+Wed Oct 3 2018,Rotherham United,0-0,Bristol City
+Wed Oct 3 2018,Sheffield Wednesday,2-2,West Bromwich Albion
+Sat Oct 6 2018,Birmingham City,3-1,Rotherham United
+Sat Oct 6 2018,Bolton Wanderers,0-1,Blackburn Rovers
+Sat Oct 6 2018,Leeds United,1-1,Brentford
+Sat Oct 6 2018,Middlesbrough,0-2,Nottingham Forest
+Sat Oct 6 2018,Millwall,2-1,Aston Villa
+Sat Oct 6 2018,Norwich City,0-1,Stoke City
+Sat Oct 6 2018,Preston North End,4-0,Wigan Athletic
+Sat Oct 6 2018,Queens Park Rangers,1-1,Derby County
+Sat Oct 6 2018,Sheffield United,1-0,Hull City
+Sat Oct 6 2018,Swansea City,2-3,Ipswich Town
+Sat Oct 6 2018,West Bromwich Albion,4-1,Reading
+Sun Oct 7 2018,Bristol City,1-2,Sheffield Wednesday
+Sat Oct 20 2018,Aston Villa,1-0,Swansea City
+Sat Oct 20 2018,Blackburn Rovers,2-1,Leeds United
+Sat Oct 20 2018,Brentford,0-1,Bristol City
+Sat Oct 20 2018,Derby County,2-1,Sheffield United
+Sat Oct 20 2018,Hull City,1-1,Preston North End
+Sat Oct 20 2018,Ipswich Town,0-2,Queens Park Rangers
+Sat Oct 20 2018,Nottingham Forest,1-2,Norwich City
+Sat Oct 20 2018,Reading,3-1,Millwall
+Sat Oct 20 2018,Rotherham United,1-1,Bolton Wanderers
+Sat Oct 20 2018,Sheffield Wednesday,1-2,Middlesbrough
+Sat Oct 20 2018,Stoke City,0-1,Birmingham City
+Sat Oct 20 2018,Wigan Athletic,1-0,West Bromwich Albion
+Tue Oct 23 2018,Birmingham City,2-1,Reading
+Tue Oct 23 2018,Middlesbrough,0-0,Rotherham United
+Tue Oct 23 2018,Millwall,2-1,Wigan Athletic
+Tue Oct 23 2018,Norwich City,2-1,Aston Villa
+Tue Oct 23 2018,Queens Park Rangers,3-0,Sheffield Wednesday
+Tue Oct 23 2018,Sheffield United,1-1,Stoke City
+Tue Oct 23 2018,Swansea City,3-1,Blackburn Rovers
+Wed Oct 24 2018,Bolton Wanderers,0-3,Nottingham Forest
+Wed Oct 24 2018,Bristol City,1-0,Hull City
+Wed Oct 24 2018,Leeds United,2-0,Ipswich Town
+Wed Oct 24 2018,Preston North End,4-3,Brentford
+Wed Oct 24 2018,West Bromwich Albion,1-4,Derby County
+Fri Oct 26 2018,Queens Park Rangers,1-0,Aston Villa
+Sat Oct 27 2018,Birmingham City,3-1,Sheffield Wednesday
+Sat Oct 27 2018,Bolton Wanderers,0-1,Hull City
+Sat Oct 27 2018,Bristol City,0-1,Stoke City
+Sat Oct 27 2018,Leeds United,1-1,Nottingham Forest
+Sat Oct 27 2018,Middlesbrough,1-1,Derby County
+Sat Oct 27 2018,Millwall,3-0,Ipswich Town
+Sat Oct 27 2018,Norwich City,1-0,Brentford
+Sat Oct 27 2018,Preston North End,1-1,Rotherham United
+Sat Oct 27 2018,Sheffield United,4-2,Wigan Athletic
+Sat Oct 27 2018,Swansea City,2-0,Reading
+Sat Oct 27 2018,West Bromwich Albion,1-1,Blackburn Rovers
+Fri Nov 2 2018,Aston Villa,2-0,Bolton Wanderers
+Sat Nov 3 2018,Blackburn Rovers,1-0,Queens Park Rangers
+Sat Nov 3 2018,Brentford,2-0,Millwall
+Sat Nov 3 2018,Derby County,3-1,Birmingham City
+Sat Nov 3 2018,Hull City,1-0,West Bromwich Albion
+Sat Nov 3 2018,Ipswich Town,1-1,Preston North End
+Sat Nov 3 2018,Nottingham Forest,1-0,Sheffield United
+Sat Nov 3 2018,Reading,3-2,Bristol City
+Sat Nov 3 2018,Rotherham United,2-1,Swansea City
+Sat Nov 3 2018,Sheffield Wednesday,0-4,Norwich City
+Sat Nov 3 2018,Stoke City,0-0,Middlesbrough
+Sun Nov 4 2018,Wigan Athletic,1-2,Leeds United
+Fri Nov 9 2018,Sheffield United,0-0,Sheffield Wednesday
+Sat Nov 10 2018,Birmingham City,3-3,Hull City
+Sat Nov 10 2018,Blackburn Rovers,1-1,Rotherham United
+Sat Nov 10 2018,Bolton Wanderers,0-1,Swansea City
+Sat Nov 10 2018,Bristol City,0-1,Preston North End
+Sat Nov 10 2018,Derby County,0-3,Aston Villa
+Sat Nov 10 2018,Middlesbrough,2-0,Wigan Athletic
+Sat Nov 10 2018,Norwich City,4-3,Millwall
+Sat Nov 10 2018,Nottingham Forest,0-0,Stoke City
+Sat Nov 10 2018,Queens Park Rangers,3-2,Brentford
+Sat Nov 10 2018,Reading,2-2,Ipswich Town
+Sat Nov 10 2018,West Bromwich Albion,4-1,Leeds United
+Fri Nov 23 2018,Ipswich Town,1-2,West Bromwich Albion
+Sat Nov 24 2018,Brentford,1-2,Middlesbrough
+Sat Nov 24 2018,Hull City,0-2,Nottingham Forest
+Sat Nov 24 2018,Leeds United,2-0,Bristol City
+Sat Nov 24 2018,Millwall,1-1,Bolton Wanderers
+Sat Nov 24 2018,Preston North End,4-1,Blackburn Rovers
+Sat Nov 24 2018,Rotherham United,2-2,Sheffield United
+Sat Nov 24 2018,Sheffield Wednesday,1-2,Derby County
+Sat Nov 24 2018,Stoke City,2-2,Queens Park Rangers
+Sat Nov 24 2018,Swansea City,1-4,Norwich City
+Sat Nov 24 2018,Wigan Athletic,0-0,Reading
+Sun Nov 25 2018,Aston Villa,4-2,Birmingham City
+Tue Nov 27 2018,Brentford,2-3,Sheffield United
+Tue Nov 27 2018,Hull City,0-0,Norwich City
+Tue Nov 27 2018,Leeds United,1-0,Reading
+Tue Nov 27 2018,Preston North End,1-1,Middlesbrough
+Tue Nov 27 2018,Rotherham United,2-2,Queens Park Rangers
+Tue Nov 27 2018,Sheffield Wednesday,1-0,Bolton Wanderers
+Wed Nov 28 2018,Aston Villa,5-5,Nottingham Forest
+Wed Nov 28 2018,Ipswich Town,2-3,Bristol City
+Wed Nov 28 2018,Millwall,0-2,Birmingham City
+Wed Nov 28 2018,Stoke City,2-1,Derby County
+Wed Nov 28 2018,Swansea City,1-2,West Bromwich Albion
+Wed Nov 28 2018,Wigan Athletic,3-1,Blackburn Rovers
+Sat Dec 1 2018,Birmingham City,3-0,Preston North End
+Sat Dec 1 2018,Blackburn Rovers,4-2,Sheffield Wednesday
+Sat Dec 1 2018,Bolton Wanderers,1-1,Wigan Athletic
+Sat Dec 1 2018,Derby County,2-1,Swansea City
+Sat Dec 1 2018,Middlesbrough,0-3,Aston Villa
+Sat Dec 1 2018,Norwich City,3-1,Rotherham United
+Sat Dec 1 2018,Nottingham Forest,2-0,Ipswich Town
+Sat Dec 1 2018,Queens Park Rangers,2-3,Hull City
+Sat Dec 1 2018,Reading,2-2,Stoke City
+Sat Dec 1 2018,Sheffield United,0-1,Leeds United
+Sun Dec 2 2018,Bristol City,1-1,Millwall
+Mon Dec 3 2018,West Bromwich Albion,1-1,Brentford
+Fri Dec 7 2018,West Bromwich Albion,2-2,Aston Villa
+Sat Dec 8 2018,Birmingham City,0-1,Bristol City
+Sat Dec 8 2018,Brentford,2-3,Swansea City
+Sat Dec 8 2018,Leeds United,2-1,Queens Park Rangers
+Sat Dec 8 2018,Middlesbrough,1-1,Blackburn Rovers
+Sat Dec 8 2018,Millwall,2-2,Hull City
+Sat Dec 8 2018,Norwich City,3-2,Bolton Wanderers
+Sat Dec 8 2018,Nottingham Forest,0-1,Preston North End
+Sat Dec 8 2018,Reading,0-2,Sheffield United
+Sat Dec 8 2018,Sheffield Wednesday,2-2,Rotherham United
+Sat Dec 8 2018,Stoke City,2-0,Ipswich Town
+Sat Dec 8 2018,Wigan Athletic,0-1,Derby County
+Fri Dec 14 2018,Sheffield United,1-2,West Bromwich Albion
+Sat Dec 15 2018,Aston Villa,2-2,Stoke City
+Sat Dec 15 2018,Blackburn Rovers,2-2,Birmingham City
+Sat Dec 15 2018,Bolton Wanderers,0-1,Leeds United
+Sat Dec 15 2018,Bristol City,2-2,Norwich City
+Sat Dec 15 2018,Hull City,2-0,Brentford
+Sat Dec 15 2018,Ipswich Town,1-0,Wigan Athletic
+Sat Dec 15 2018,Preston North End,3-2,Millwall
+Sat Dec 15 2018,Queens Park Rangers,2-1,Middlesbrough
+Sat Dec 15 2018,Rotherham United,1-1,Reading
+Sat Dec 15 2018,Swansea City,2-1,Sheffield Wednesday
+Mon Dec 17 2018,Derby County,0-0,Nottingham Forest
+Sat Dec 22 2018,Blackburn Rovers,0-1,Norwich City
+Sat Dec 22 2018,Brentford,1-0,Bolton Wanderers
+Sat Dec 22 2018,Derby County,1-1,Bristol City
+Sat Dec 22 2018,Hull City,3-2,Swansea City
+Sat Dec 22 2018,Ipswich Town,1-1,Sheffield United
+Sat Dec 22 2018,Nottingham Forest,0-1,Queens Park Rangers
+Sat Dec 22 2018,Reading,0-1,Middlesbrough
+Sat Dec 22 2018,Rotherham United,0-4,West Bromwich Albion
+Sat Dec 22 2018,Sheffield Wednesday,1-0,Preston North End
+Sat Dec 22 2018,Stoke City,1-0,Millwall
+Sat Dec 22 2018,Wigan Athletic,0-3,Birmingham City
+Sun Dec 23 2018,Aston Villa,2-3,Leeds United
+Wed Dec 26 2018,Birmingham City,2-0,Stoke City
+Wed Dec 26 2018,Bolton Wanderers,2-1,Rotherham United
+Wed Dec 26 2018,Bristol City,1-1,Brentford
+Wed Dec 26 2018,Leeds United,3-2,Blackburn Rovers
+Wed Dec 26 2018,Middlesbrough,0-1,Sheffield Wednesday
+Wed Dec 26 2018,Millwall,1-0,Reading
+Wed Dec 26 2018,Norwich City,3-3,Nottingham Forest
+Wed Dec 26 2018,Preston North End,1-2,Hull City
+Wed Dec 26 2018,Queens Park Rangers,3-0,Ipswich Town
+Wed Dec 26 2018,Sheffield United,3-1,Derby County
+Wed Dec 26 2018,Swansea City,0-1,Aston Villa
+Wed Dec 26 2018,West Bromwich Albion,2-0,Wigan Athletic
+Sat Dec 29 2018,Birmingham City,0-0,Brentford
+Sat Dec 29 2018,Bolton Wanderers,0-0,Stoke City
+Sat Dec 29 2018,Bristol City,1-0,Rotherham United
+Sat Dec 29 2018,Leeds United,0-2,Hull City
+Sat Dec 29 2018,Middlesbrough,2-0,Ipswich Town
+Sat Dec 29 2018,Millwall,1-0,Nottingham Forest
+Sat Dec 29 2018,Norwich City,3-4,Derby County
+Sat Dec 29 2018,Preston North End,1-1,Aston Villa
+Sat Dec 29 2018,Queens Park Rangers,0-0,Reading
+Sat Dec 29 2018,Sheffield United,3-0,Blackburn Rovers
+Sat Dec 29 2018,Swansea City,2-2,Wigan Athletic
+Sat Dec 29 2018,West Bromwich Albion,1-1,Sheffield Wednesday
+Tue Jan 1 2019,Aston Villa,2-2,Queens Park Rangers
+Tue Jan 1 2019,Blackburn Rovers,2-1,West Bromwich Albion
+Tue Jan 1 2019,Brentford,1-1,Norwich City
+Tue Jan 1 2019,Derby County,1-1,Middlesbrough
+Tue Jan 1 2019,Hull City,6-0,Bolton Wanderers
+Tue Jan 1 2019,Ipswich Town,2-3,Millwall
+Tue Jan 1 2019,Nottingham Forest,4-2,Leeds United
+Tue Jan 1 2019,Reading,1-4,Swansea City
+Tue Jan 1 2019,Rotherham United,2-1,Preston North End
+Tue Jan 1 2019,Sheffield Wednesday,1-1,Birmingham City
+Tue Jan 1 2019,Stoke City,0-2,Bristol City
+Tue Jan 1 2019,Wigan Athletic,0-3,Sheffield United
+Fri Jan 11 2019,Leeds United,2-0,Derby County
+Sat Jan 12 2019,Birmingham City,1-2,Middlesbrough
+Sat Jan 12 2019,Brentford,3-1,Stoke City
+Sat Jan 12 2019,Bristol City,2-1,Bolton Wanderers
+Sat Jan 12 2019,Hull City,3-0,Sheffield Wednesday
+Sat Jan 12 2019,Ipswich Town,1-0,Rotherham United
+Sat Jan 12 2019,Millwall,0-2,Blackburn Rovers
+Sat Jan 12 2019,Preston North End,1-1,Swansea City
+Sat Jan 12 2019,Reading,2-0,Nottingham Forest
+Sat Jan 12 2019,Sheffield United,1-0,Queens Park Rangers
+Sat Jan 12 2019,West Bromwich Albion,1-1,Norwich City
+Sat Jan 12 2019,Wigan Athletic,3-0,Aston Villa
+Fri Jan 18 2019,Norwich City,3-1,Birmingham City
+Sat Jan 19 2019,Aston Villa,2-2,Hull City
+Sat Jan 19 2019,Blackburn Rovers,2-0,Ipswich Town
+Sat Jan 19 2019,Derby County,2-1,Reading
+Sat Jan 19 2019,Middlesbrough,1-1,Millwall
+Sat Jan 19 2019,Nottingham Forest,0-1,Bristol City
+Sat Jan 19 2019,Queens Park Rangers,1-4,Preston North End
+Sat Jan 19 2019,Rotherham United,2-4,Brentford
+Sat Jan 19 2019,Sheffield Wednesday,1-0,Wigan Athletic
+Sat Jan 19 2019,Stoke City,2-1,Leeds United
+Sat Jan 19 2019,Swansea City,1-0,Sheffield United
+Mon Jan 21 2019,Bolton Wanderers,0-2,West Bromwich Albion
+Sat Jan 26 2019,Aston Villa,2-1,Ipswich Town
+Sat Jan 26 2019,Blackburn Rovers,3-0,Hull City
+Sat Jan 26 2019,Norwich City,2-2,Sheffield United
+Sat Jan 26 2019,Nottingham Forest,3-1,Wigan Athletic
+Sat Jan 26 2019,Rotherham United,1-2,Leeds United
+Sat Jan 26 2019,Stoke City,0-2,Preston North End
+Tue Jan 29 2019,Bolton Wanderers,1-1,Reading
+Tue Jan 29 2019,Swansea City,3-3,Birmingham City
+Fri Feb 1 2019,Preston North End,0-0,Derby County
+Sat Feb 2 2019,Birmingham City,2-0,Nottingham Forest
+Sat Feb 2 2019,Brentford,5-2,Blackburn Rovers
+Sat Feb 2 2019,Bristol City,2-0,Swansea City
+Sat Feb 2 2019,Hull City,2-0,Stoke City
+Sat Feb 2 2019,Ipswich Town,0-1,Sheffield Wednesday
+Sat Feb 2 2019,Leeds United,1-3,Norwich City
+Sat Feb 2 2019,Millwall,0-0,Rotherham United
+Sat Feb 2 2019,Reading,0-0,Aston Villa
+Sat Feb 2 2019,Sheffield United,2-0,Bolton Wanderers
+Sat Feb 2 2019,West Bromwich Albion,2-3,Middlesbrough
+Sat Feb 2 2019,Wigan Athletic,2-1,Queens Park Rangers
+Fri Feb 8 2019,Aston Villa,3-3,Sheffield United
+Sat Feb 9 2019,Blackburn Rovers,0-1,Bristol City
+Sat Feb 9 2019,Bolton Wanderers,1-2,Preston North End
+Sat Feb 9 2019,Derby County,2-0,Hull City
+Sat Feb 9 2019,Middlesbrough,1-1,Leeds United
+Sat Feb 9 2019,Nottingham Forest,2-1,Brentford
+Sat Feb 9 2019,Queens Park Rangers,3-4,Birmingham City
+Sat Feb 9 2019,Rotherham United,1-1,Wigan Athletic
+Sat Feb 9 2019,Sheffield Wednesday,0-0,Reading
+Sat Feb 9 2019,Stoke City,0-1,West Bromwich Albion
+Sat Feb 9 2019,Swansea City,1-0,Millwall
+Sun Feb 10 2019,Norwich City,3-0,Ipswich Town
+Tue Feb 12 2019,Birmingham City,0-1,Bolton Wanderers
+Tue Feb 12 2019,Bristol City,2-1,Queens Park Rangers
+Tue Feb 12 2019,Hull City,2-2,Rotherham United
+Tue Feb 12 2019,Millwall,0-0,Sheffield Wednesday
+Tue Feb 12 2019,West Bromwich Albion,2-2,Nottingham Forest
+Wed Feb 13 2019,Brentford,1-0,Aston Villa
+Wed Feb 13 2019,Ipswich Town,1-1,Derby County
+Wed Feb 13 2019,Leeds United,2-1,Swansea City
+Wed Feb 13 2019,Preston North End,3-1,Norwich City
+Wed Feb 13 2019,Reading,2-1,Blackburn Rovers
+Wed Feb 13 2019,Sheffield United,1-0,Middlesbrough
+Wed Feb 13 2019,Wigan Athletic,0-0,Stoke City
+Sat Feb 16 2019,Aston Villa,0-2,West Bromwich Albion
+Sat Feb 16 2019,Bolton Wanderers,0-4,Norwich City
+Sat Feb 16 2019,Ipswich Town,1-1,Stoke City
+Sat Feb 16 2019,Preston North End,0-0,Nottingham Forest
+Sat Feb 16 2019,Rotherham United,2-2,Sheffield Wednesday
+Sat Feb 16 2019,Sheffield United,4-0,Reading
+Sun Feb 17 2019,Blackburn Rovers,0-1,Middlesbrough
+Tue Feb 19 2019,Queens Park Rangers,2-3,West Bromwich Albion
+Wed Feb 20 2019,Derby County,0-1,Millwall
+Sat Feb 23 2019,Birmingham City,2-2,Blackburn Rovers
+Sat Feb 23 2019,Brentford,5-1,Hull City
+Sat Feb 23 2019,Leeds United,2-1,Bolton Wanderers
+Sat Feb 23 2019,Middlesbrough,2-0,Queens Park Rangers
+Sat Feb 23 2019,Millwall,1-3,Preston North End
+Sat Feb 23 2019,Norwich City,3-2,Bristol City
+Sat Feb 23 2019,Reading,1-1,Rotherham United
+Sat Feb 23 2019,Sheffield Wednesday,3-1,Swansea City
+Sat Feb 23 2019,Stoke City,1-1,Aston Villa
+Sat Feb 23 2019,West Bromwich Albion,0-1,Sheffield United
+Sat Feb 23 2019,Wigan Athletic,1-1,Ipswich Town
+Mon Feb 25 2019,Nottingham Forest,1-0,Derby County
+Tue Feb 26 2019,Bristol City,1-2,Birmingham City
+Tue Feb 26 2019,Hull City,2-1,Millwall
+Tue Feb 26 2019,Queens Park Rangers,1-0,Leeds United
+Tue Feb 26 2019,Sheffield Wednesday,2-0,Brentford
+Fri Mar 1 2019,Leeds United,4-0,West Bromwich Albion
+Sat Mar 2 2019,Aston Villa,4-0,Derby County
+Sat Mar 2 2019,Brentford,3-0,Queens Park Rangers
+Sat Mar 2 2019,Hull City,2-0,Birmingham City
+Sat Mar 2 2019,Ipswich Town,1-2,Reading
+Sat Mar 2 2019,Millwall,1-3,Norwich City
+Sat Mar 2 2019,Preston North End,1-1,Bristol City
+Sat Mar 2 2019,Rotherham United,3-2,Blackburn Rovers
+Sat Mar 2 2019,Stoke City,2-0,Nottingham Forest
+Sat Mar 2 2019,Swansea City,2-0,Bolton Wanderers
+Sat Mar 2 2019,Wigan Athletic,0-0,Middlesbrough
+Mon Mar 4 2019,Sheffield Wednesday,0-0,Sheffield United
+Tue Mar 5 2019,Derby County,2-1,Wigan Athletic
+Fri Mar 8 2019,Norwich City,1-0,Swansea City
+Sat Mar 9 2019,Blackburn Rovers,0-1,Preston North End
+Sat Mar 9 2019,Bolton Wanderers,2-1,Millwall
+Sat Mar 9 2019,Bristol City,0-1,Leeds United
+Sat Mar 9 2019,Derby County,1-1,Sheffield Wednesday
+Sat Mar 9 2019,Middlesbrough,1-2,Brentford
+Sat Mar 9 2019,Nottingham Forest,3-0,Hull City
+Sat Mar 9 2019,Queens Park Rangers,0-0,Stoke City
+Sat Mar 9 2019,Reading,3-2,Wigan Athletic
+Sat Mar 9 2019,Sheffield United,2-0,Rotherham United
+Sat Mar 9 2019,West Bromwich Albion,1-1,Ipswich Town
+Sun Mar 10 2019,Birmingham City,0-1,Aston Villa
+Tue Mar 12 2019,Blackburn Rovers,3-0,Wigan Athletic
+Tue Mar 12 2019,Bolton Wanderers,0-2,Sheffield Wednesday
+Tue Mar 12 2019,Bristol City,1-1,Ipswich Town
+Tue Mar 12 2019,Reading,0-3,Leeds United
+Tue Mar 12 2019,Sheffield United,2-0,Brentford
+Wed Mar 13 2019,Birmingham City,0-2,Millwall
+Wed Mar 13 2019,Derby County,0-0,Stoke City
+Wed Mar 13 2019,Middlesbrough,1-2,Preston North End
+Wed Mar 13 2019,Norwich City,3-2,Hull City
+Wed Mar 13 2019,Nottingham Forest,1-3,Aston Villa
+Wed Mar 13 2019,Queens Park Rangers,1-2,Rotherham United
+Wed Mar 13 2019,West Bromwich Albion,3-0,Swansea City
+Sat Mar 16 2019,Aston Villa,3-0,Middlesbrough
+Sat Mar 16 2019,Brentford,0-1,West Bromwich Albion
+Sat Mar 16 2019,Hull City,2-2,Queens Park Rangers
+Sat Mar 16 2019,Ipswich Town,1-1,Nottingham Forest
+Sat Mar 16 2019,Leeds United,0-1,Sheffield United
+Sat Mar 16 2019,Preston North End,1-0,Birmingham City
+Sat Mar 16 2019,Rotherham United,1-2,Norwich City
+Sat Mar 16 2019,Sheffield Wednesday,4-2,Blackburn Rovers
+Sat Mar 16 2019,Stoke City,0-0,Reading
+Sat Mar 16 2019,Wigan Athletic,5-2,Bolton Wanderers
+Fri Mar 29 2019,West Bromwich Albion,3-2,Birmingham City
+Sat Mar 30 2019,Aston Villa,2-1,Blackburn Rovers
+Sat Mar 30 2019,Derby County,6-1,Rotherham United
+Sat Mar 30 2019,Ipswich Town,0-2,Hull City
+Sat Mar 30 2019,Leeds United,3-2,Millwall
+Sat Mar 30 2019,Middlesbrough,0-1,Norwich City
+Sat Mar 30 2019,Nottingham Forest,2-1,Swansea City
+Sat Mar 30 2019,Queens Park Rangers,1-2,Bolton Wanderers
+Sat Mar 30 2019,Reading,2-1,Preston North End
+Sat Mar 30 2019,Sheffield United,2-3,Bristol City
+Sat Mar 30 2019,Stoke City,0-0,Sheffield Wednesday
+Sat Mar 30 2019,Wigan Athletic,0-0,Brentford
+Tue Apr 2 2019,Middlesbrough,0-1,Bristol City
+Tue Apr 2 2019,Swansea City,3-0,Brentford
+Sat Apr 6 2019,Birmingham City,1-0,Leeds United
+Sat Apr 6 2019,Blackburn Rovers,0-1,Stoke City
+Sat Apr 6 2019,Bolton Wanderers,1-2,Ipswich Town
+Sat Apr 6 2019,Brentford,3-3,Derby County
+Sat Apr 6 2019,Bristol City,2-2,Wigan Athletic
+Sat Apr 6 2019,Hull City,3-1,Reading
+Sat Apr 6 2019,Millwall,2-0,West Bromwich Albion
+Sat Apr 6 2019,Norwich City,4-0,Queens Park Rangers
+Sat Apr 6 2019,Preston North End,0-1,Sheffield United
+Sat Apr 6 2019,Rotherham United,2-1,Nottingham Forest
+Sat Apr 6 2019,Sheffield Wednesday,1-3,Aston Villa
+Sat Apr 6 2019,Swansea City,3-1,Middlesbrough
+Tue Apr 9 2019,Blackburn Rovers,2-0,Derby County
+Tue Apr 9 2019,Bolton Wanderers,0-2,Middlesbrough
+Tue Apr 9 2019,Bristol City,3-2,West Bromwich Albion
+Tue Apr 9 2019,Preston North End,0-2,Leeds United
+Tue Apr 9 2019,Sheffield Wednesday,3-0,Nottingham Forest
+Tue Apr 9 2019,Swansea City,3-1,Stoke City
+Wed Apr 10 2019,Birmingham City,1-1,Sheffield United
+Wed Apr 10 2019,Brentford,2-0,Ipswich Town
+Wed Apr 10 2019,Hull City,2-1,Wigan Athletic
+Wed Apr 10 2019,Millwall,0-0,Queens Park Rangers
+Wed Apr 10 2019,Norwich City,2-2,Reading
+Wed Apr 10 2019,Rotherham United,1-2,Aston Villa
+Sat Apr 13 2019,Aston Villa,2-1,Bristol City
+Sat Apr 13 2019,Derby County,4-0,Bolton Wanderers
+Sat Apr 13 2019,Ipswich Town,1-1,Birmingham City
+Sat Apr 13 2019,Leeds United,1-0,Sheffield Wednesday
+Sat Apr 13 2019,Middlesbrough,1-0,Hull City
+Sat Apr 13 2019,Nottingham Forest,1-2,Blackburn Rovers
+Sat Apr 13 2019,Queens Park Rangers,4-0,Swansea City
+Sat Apr 13 2019,Reading,2-1,Brentford
+Sat Apr 13 2019,Sheffield United,1-1,Millwall
+Sat Apr 13 2019,Stoke City,2-2,Rotherham United
+Sat Apr 13 2019,West Bromwich Albion,4-1,Preston North End
+Sun Apr 14 2019,Wigan Athletic,1-1,Norwich City
+Fri Apr 19 2019,Birmingham City,2-2,Derby County
+Fri Apr 19 2019,Bolton Wanderers,0-2,Aston Villa
+Fri Apr 19 2019,Bristol City,1-1,Reading
+Fri Apr 19 2019,Leeds United,1-2,Wigan Athletic
+Fri Apr 19 2019,Middlesbrough,1-0,Stoke City
+Fri Apr 19 2019,Millwall,1-1,Brentford
+Fri Apr 19 2019,Norwich City,2-2,Sheffield Wednesday
+Fri Apr 19 2019,Preston North End,4-0,Ipswich Town
+Fri Apr 19 2019,Queens Park Rangers,1-2,Blackburn Rovers
+Fri Apr 19 2019,Sheffield United,2-0,Nottingham Forest
+Fri Apr 19 2019,Swansea City,4-3,Rotherham United
+Fri Apr 19 2019,West Bromwich Albion,3-2,Hull City
+Mon Apr 22 2019,Aston Villa,1-0,Millwall
+Mon Apr 22 2019,Blackburn Rovers,2-0,Bolton Wanderers
+Mon Apr 22 2019,Brentford,2-0,Leeds United
+Mon Apr 22 2019,Derby County,2-0,Queens Park Rangers
+Mon Apr 22 2019,Hull City,0-3,Sheffield United
+Mon Apr 22 2019,Ipswich Town,0-1,Swansea City
+Mon Apr 22 2019,Nottingham Forest,3-0,Middlesbrough
+Mon Apr 22 2019,Reading,0-0,West Bromwich Albion
+Mon Apr 22 2019,Rotherham United,1-3,Birmingham City
+Mon Apr 22 2019,Sheffield Wednesday,2-0,Bristol City
+Mon Apr 22 2019,Stoke City,2-2,Norwich City
+Mon Apr 22 2019,Wigan Athletic,2-0,Preston North End
+Sat Apr 27 2019,Birmingham City,1-1,Wigan Athletic
+Sat Apr 27 2019,Bristol City,0-2,Derby County
+Sat Apr 27 2019,Middlesbrough,2-1,Reading
+Sat Apr 27 2019,Millwall,0-0,Stoke City
+Sat Apr 27 2019,Norwich City,2-1,Blackburn Rovers
+Sat Apr 27 2019,Preston North End,3-3,Sheffield Wednesday
+Sat Apr 27 2019,Queens Park Rangers,0-1,Nottingham Forest
+Sat Apr 27 2019,Sheffield United,2-0,Ipswich Town
+Sat Apr 27 2019,Swansea City,2-2,Hull City
+Sat Apr 27 2019,West Bromwich Albion,2-1,Rotherham United
+Sun Apr 28 2019,Leeds United,1-1,Aston Villa
+Tue Apr 30 2019,Millwall,1-2,Bristol City
+Wed May 1 2019,Swansea City,1-1,Derby County
+Fri May 3 2019,Bolton Wanderers,0-1,Brentford
+Sun May 5 2019,Aston Villa,1-2,Norwich City
+Sun May 5 2019,Blackburn Rovers,2-2,Swansea City
+Sun May 5 2019,Brentford,3-0,Preston North End
+Sun May 5 2019,Derby County,3-1,West Bromwich Albion
+Sun May 5 2019,Hull City,1-1,Bristol City
+Sun May 5 2019,Ipswich Town,3-2,Leeds United
+Sun May 5 2019,Nottingham Forest,1-0,Bolton Wanderers
+Sun May 5 2019,Reading,0-0,Birmingham City
+Sun May 5 2019,Rotherham United,1-2,Middlesbrough
+Sun May 5 2019,Sheffield Wednesday,1-2,Queens Park Rangers
+Sun May 5 2019,Stoke City,2-2,Sheffield United
+Sun May 5 2019,Wigan Athletic,1-0,Millwall

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 24 1963,Stoke City,2-1,Tottenham Hotspur
+Sat Aug 24 1963,Ipswich Town,3-1,Burnley
+Sat Aug 24 1963,Blackburn Rovers,1-2,Liverpool
+Sat Aug 24 1963,Sheffield Wednesday,3-3,Manchester United
+Sat Aug 24 1963,Birmingham City,2-1,Bolton Wanderers
+Sat Aug 24 1963,West Bromwich Albion,1-1,Leicester City
+Sat Aug 24 1963,Arsenal,1-3,Wolverhampton Wanderers
+Sat Aug 24 1963,Blackpool,2-2,Sheffield United
+Sat Aug 24 1963,Nottingham Forest,0-1,Aston Villa
+Sat Aug 24 1963,Chelsea,0-0,West Ham United
+Sat Aug 24 1963,Everton,3-0,Fulham
+Mon Aug 26 1963,West Ham United,3-1,Blackpool
+Mon Aug 26 1963,Aston Villa,1-3,Stoke City
+Tue Aug 27 1963,Burnley,0-0,Chelsea
+Tue Aug 27 1963,Arsenal,3-2,West Bromwich Albion
+Wed Aug 28 1963,Sheffield United,0-1,Blackburn Rovers
+Wed Aug 28 1963,Leicester City,3-0,Birmingham City
+Wed Aug 28 1963,Manchester United,2-0,Ipswich Town
+Wed Aug 28 1963,Liverpool,1-2,Nottingham Forest
+Wed Aug 28 1963,Wolverhampton Wanderers,1-4,Tottenham Hotspur
+Wed Aug 28 1963,Fulham,2-0,Sheffield Wednesday
+Fri Aug 30 1963,West Ham United,2-2,Ipswich Town
+Sat Aug 31 1963,Fulham,2-1,Birmingham City
+Sat Aug 31 1963,Aston Villa,1-2,Blackburn Rovers
+Sat Aug 31 1963,Tottenham Hotspur,4-1,Nottingham Forest
+Sat Aug 31 1963,Sheffield United,1-1,Chelsea
+Sat Aug 31 1963,Liverpool,1-2,Blackpool
+Sat Aug 31 1963,Bolton Wanderers,1-2,West Bromwich Albion
+Sat Aug 31 1963,Manchester United,5-1,Everton
+Sat Aug 31 1963,Leicester City,7-2,Arsenal
+Sat Aug 31 1963,Burnley,3-1,Sheffield Wednesday
+Sat Aug 31 1963,Wolverhampton Wanderers,2-1,Stoke City
+Mon Sep 2 1963,Blackpool,0-1,West Ham United
+Tue Sep 3 1963,Ipswich Town,2-7,Manchester United
+Tue Sep 3 1963,Nottingham Forest,0-0,Liverpool
+Wed Sep 4 1963,Blackburn Rovers,2-2,Sheffield United
+Wed Sep 4 1963,Birmingham City,2-0,Leicester City
+Wed Sep 4 1963,Stoke City,2-2,Aston Villa
+Wed Sep 4 1963,Sheffield Wednesday,3-0,Fulham
+Wed Sep 4 1963,Chelsea,2-0,Burnley
+Wed Sep 4 1963,Tottenham Hotspur,4-3,Wolverhampton Wanderers
+Wed Sep 4 1963,West Bromwich Albion,4-0,Arsenal
+Wed Sep 4 1963,Bolton Wanderers,1-3,Everton
+Sat Sep 7 1963,Stoke City,3-3,Leicester City
+Sat Sep 7 1963,Blackburn Rovers,7-2,Tottenham Hotspur
+Sat Sep 7 1963,Everton,3-4,Burnley
+Sat Sep 7 1963,Arsenal,4-3,Bolton Wanderers
+Sat Sep 7 1963,Chelsea,1-3,Liverpool
+Sat Sep 7 1963,Sheffield Wednesday,3-1,Ipswich Town
+Sat Sep 7 1963,West Ham United,2-3,Sheffield United
+Sat Sep 7 1963,Birmingham City,1-1,Manchester United
+Sat Sep 7 1963,Blackpool,0-4,Aston Villa
+Sat Sep 7 1963,West Bromwich Albion,3-0,Fulham
+Sat Sep 7 1963,Nottingham Forest,3-0,Wolverhampton Wanderers
+Mon Sep 9 1963,West Ham United,0-2,Nottingham Forest
+Mon Sep 9 1963,Wolverhampton Wanderers,1-3,Liverpool
+Tue Sep 10 1963,Arsenal,3-0,Aston Villa
+Tue Sep 10 1963,Burnley,4-1,Fulham
+Wed Sep 11 1963,Birmingham City,0-1,West Bromwich Albion
+Wed Sep 11 1963,Manchester United,3-0,Blackpool
+Wed Sep 11 1963,Leicester City,2-0,Sheffield Wednesday
+Wed Sep 11 1963,Everton,2-0,Bolton Wanderers
+Wed Sep 11 1963,Chelsea,1-0,Blackburn Rovers
+Wed Sep 11 1963,Sheffield United,4-1,Stoke City
+Sat Sep 14 1963,Fulham,1-4,Arsenal
+Sat Sep 14 1963,Liverpool,1-2,West Ham United
+Sat Sep 14 1963,Burnley,2-1,Birmingham City
+Sat Sep 14 1963,Stoke City,0-1,Nottingham Forest
+Sat Sep 14 1963,Manchester United,1-0,West Bromwich Albion
+Sat Sep 14 1963,Bolton Wanderers,0-0,Leicester City
+Sat Sep 14 1963,Aston Villa,2-0,Chelsea
+Sat Sep 14 1963,Ipswich Town,0-0,Everton
+Sat Sep 14 1963,Sheffield United,1-1,Sheffield Wednesday
+Sat Sep 14 1963,Wolverhampton Wanderers,1-5,Blackburn Rovers
+Sat Sep 14 1963,Tottenham Hotspur,6-1,Blackpool
+Mon Sep 16 1963,Blackpool,1-0,Manchester United
+Mon Sep 16 1963,Liverpool,6-0,Wolverhampton Wanderers
+Mon Sep 16 1963,Aston Villa,2-4,Tottenham Hotspur
+Mon Sep 16 1963,Blackburn Rovers,2-2,Chelsea
+Tue Sep 17 1963,Nottingham Forest,3-1,West Ham United
+Wed Sep 18 1963,Bolton Wanderers,6-0,Ipswich Town
+Wed Sep 18 1963,West Bromwich Albion,3-1,Birmingham City
+Wed Sep 18 1963,Stoke City,0-2,Sheffield United
+Wed Sep 18 1963,Fulham,2-1,Burnley
+Sat Sep 21 1963,Nottingham Forest,3-1,Bolton Wanderers
+Sat Sep 21 1963,Everton,3-2,Sheffield Wednesday
+Sat Sep 21 1963,West Bromwich Albion,0-0,Burnley
+Sat Sep 21 1963,Birmingham City,1-0,Ipswich Town
+Sat Sep 21 1963,Chelsea,0-3,Tottenham Hotspur
+Sat Sep 21 1963,Sheffield United,3-0,Liverpool
+Sat Sep 21 1963,Blackpool,1-2,Wolverhampton Wanderers
+Sat Sep 21 1963,Arsenal,2-1,Manchester United
+Sat Sep 21 1963,West Ham United,0-1,Aston Villa
+Sat Sep 21 1963,Leicester City,0-1,Fulham
+Sat Sep 21 1963,Blackburn Rovers,1-0,Stoke City
+Sat Sep 28 1963,Aston Villa,0-1,Sheffield United
+Sat Sep 28 1963,Tottenham Hotspur,3-0,West Ham United
+Sat Sep 28 1963,Fulham,3-1,Bolton Wanderers
+Sat Sep 28 1963,Manchester United,3-1,Leicester City
+Sat Sep 28 1963,Burnley,0-3,Arsenal
+Sat Sep 28 1963,Sheffield Wednesday,2-1,Birmingham City
+Sat Sep 28 1963,Nottingham Forest,1-1,Blackburn Rovers
+Sat Sep 28 1963,Wolverhampton Wanderers,4-1,Chelsea
+Sat Sep 28 1963,Ipswich Town,1-2,West Bromwich Albion
+Sat Sep 28 1963,Liverpool,2-1,Everton
+Sat Sep 28 1963,Stoke City,1-2,Blackpool
+Mon Sep 30 1963,Blackpool,1-0,Fulham
+Tue Oct 1 1963,Burnley,3-0,Blackburn Rovers
+Tue Oct 1 1963,Ipswich Town,1-3,Bolton Wanderers
+Wed Oct 2 1963,Everton,2-1,Arsenal
+Wed Oct 2 1963,Chelsea,1-1,Manchester United
+Wed Oct 2 1963,Wolverhampton Wanderers,0-0,West Bromwich Albion
+Wed Oct 2 1963,Sheffield Wednesday,1-2,Leicester City
+Wed Oct 2 1963,Tottenham Hotspur,6-1,Birmingham City
+Sat Oct 5 1963,Arsenal,6-0,Ipswich Town
+Sat Oct 5 1963,Sheffield United,3-3,Tottenham Hotspur
+Sat Oct 5 1963,Birmingham City,0-2,Everton
+Sat Oct 5 1963,Bolton Wanderers,0-1,Manchester United
+Sat Oct 5 1963,Blackburn Rovers,2-0,Fulham
+Sat Oct 5 1963,Leicester City,0-0,Burnley
+Sat Oct 5 1963,Chelsea,3-3,Stoke City
+Sat Oct 5 1963,West Ham United,1-1,Wolverhampton Wanderers
+Sat Oct 5 1963,Liverpool,5-2,Aston Villa
+Sat Oct 5 1963,Blackpool,1-0,Nottingham Forest
+Sat Oct 5 1963,West Bromwich Albion,1-3,Sheffield Wednesday
+Mon Oct 7 1963,Aston Villa,0-1,Everton
+Mon Oct 7 1963,West Ham United,1-1,Burnley
+Tue Oct 8 1963,Nottingham Forest,2-0,Leicester City
+Wed Oct 9 1963,Stoke City,1-2,Arsenal
+Wed Oct 9 1963,Blackburn Rovers,3-0,Bolton Wanderers
+Wed Oct 9 1963,Liverpool,3-1,Sheffield Wednesday
+Wed Oct 9 1963,Sheffield United,3-1,Ipswich Town
+Sat Oct 12 1963,Burnley,1-0,Blackpool
+Sat Oct 12 1963,Ipswich Town,1-3,Chelsea
+Sat Oct 12 1963,West Bromwich Albion,4-3,Aston Villa
+Sat Oct 12 1963,Sheffield Wednesday,3-0,West Ham United
+Sat Oct 12 1963,Fulham,0-0,Nottingham Forest
+Sat Oct 12 1963,Bolton Wanderers,3-4,Stoke City
+Mon Oct 14 1963,Leicester City,0-1,Wolverhampton Wanderers
+Tue Oct 15 1963,Everton,4-1,Sheffield United
+Tue Oct 15 1963,Arsenal,4-4,Tottenham Hotspur
+Sat Oct 19 1963,Nottingham Forest,1-2,Manchester United
+Sat Oct 19 1963,West Ham United,4-2,Everton
+Sat Oct 19 1963,Liverpool,1-0,West Bromwich Albion
+Sat Oct 19 1963,Stoke City,1-1,Fulham
+Sat Oct 19 1963,Tottenham Hotspur,1-1,Leicester City
+Sat Oct 19 1963,Aston Villa,2-1,Arsenal
+Sat Oct 19 1963,Chelsea,1-2,Sheffield Wednesday
+Sat Oct 19 1963,Blackburn Rovers,1-2,Burnley
+Sat Oct 19 1963,Sheffield United,3-0,Birmingham City
+Sat Oct 19 1963,Wolverhampton Wanderers,2-2,Bolton Wanderers
+Sat Oct 19 1963,Blackpool,2-2,Ipswich Town
+Sat Oct 26 1963,Everton,1-0,Tottenham Hotspur
+Sat Oct 26 1963,Arsenal,4-2,Nottingham Forest
+Sat Oct 26 1963,Leicester City,4-3,Blackburn Rovers
+Sat Oct 26 1963,Fulham,0-1,Chelsea
+Sat Oct 26 1963,Burnley,1-2,Sheffield United
+Sat Oct 26 1963,West Bromwich Albion,2-3,Stoke City
+Sat Oct 26 1963,Ipswich Town,1-2,Liverpool
+Sat Oct 26 1963,Birmingham City,2-2,Wolverhampton Wanderers
+Sat Oct 26 1963,Sheffield Wednesday,1-0,Aston Villa
+Sat Oct 26 1963,Manchester United,0-1,West Ham United
+Sat Oct 26 1963,Bolton Wanderers,1-1,Blackpool
+Mon Oct 28 1963,Manchester United,2-2,Blackburn Rovers
+Sat Nov 2 1963,Blackburn Rovers,1-1,Sheffield Wednesday
+Sat Nov 2 1963,Chelsea,2-3,Birmingham City
+Sat Nov 2 1963,Sheffield United,2-2,Arsenal
+Sat Nov 2 1963,Blackpool,1-1,Everton
+Sat Nov 2 1963,Liverpool,0-1,Leicester City
+Sat Nov 2 1963,Nottingham Forest,3-1,Ipswich Town
+Sat Nov 2 1963,Aston Villa,3-0,Bolton Wanderers
+Sat Nov 2 1963,Stoke City,4-4,Burnley
+Sat Nov 2 1963,West Ham United,4-2,West Bromwich Albion
+Sat Nov 2 1963,Tottenham Hotspur,1-0,Fulham
+Sat Nov 2 1963,Wolverhampton Wanderers,2-0,Manchester United
+Tue Nov 5 1963,Arsenal,4-1,Birmingham City
+Sat Nov 9 1963,West Bromwich Albion,1-1,Chelsea
+Sat Nov 9 1963,Birmingham City,3-2,Blackpool
+Sat Nov 9 1963,Burnley,1-0,Wolverhampton Wanderers
+Sat Nov 9 1963,Arsenal,3-3,West Ham United
+Sat Nov 9 1963,Manchester United,4-1,Tottenham Hotspur
+Sat Nov 9 1963,Leicester City,0-1,Sheffield United
+Sat Nov 9 1963,Sheffield Wednesday,3-1,Nottingham Forest
+Sat Nov 9 1963,Ipswich Town,0-2,Stoke City
+Sat Nov 9 1963,Fulham,2-0,Aston Villa
+Sat Nov 9 1963,Bolton Wanderers,1-2,Liverpool
+Sat Nov 9 1963,Everton,2-4,Blackburn Rovers
+Sat Nov 16 1963,Liverpool,2-0,Fulham
+Sat Nov 16 1963,Wolverhampton Wanderers,2-1,Ipswich Town
+Sat Nov 16 1963,Tottenham Hotspur,3-2,Burnley
+Sat Nov 16 1963,Blackburn Rovers,3-0,Birmingham City
+Sat Nov 16 1963,Nottingham Forest,2-2,Everton
+Sat Nov 16 1963,Stoke City,4-4,Sheffield Wednesday
+Sat Nov 16 1963,Aston Villa,4-0,Manchester United
+Sat Nov 16 1963,Chelsea,3-1,Arsenal
+Sat Nov 16 1963,West Ham United,2-2,Leicester City
+Sat Nov 16 1963,Blackpool,1-0,West Bromwich Albion
+Sat Nov 16 1963,Sheffield United,0-1,Bolton Wanderers
+Sat Nov 23 1963,Burnley,2-0,Aston Villa
+Sat Nov 23 1963,Sheffield Wednesday,5-0,Wolverhampton Wanderers
+Sat Nov 23 1963,Ipswich Town,2-3,Tottenham Hotspur
+Sat Nov 23 1963,Birmingham City,3-3,Nottingham Forest
+Sat Nov 23 1963,West Bromwich Albion,1-3,Blackburn Rovers
+Sat Nov 23 1963,Fulham,3-1,Sheffield United
+Sat Nov 23 1963,Everton,2-0,Stoke City
+Sat Nov 23 1963,Bolton Wanderers,1-1,West Ham United
+Sat Nov 23 1963,Arsenal,5-3,Blackpool
+Sat Nov 23 1963,Manchester United,0-1,Liverpool
+Sat Nov 23 1963,Leicester City,2-4,Chelsea
+Sat Nov 30 1963,Wolverhampton Wanderers,0-0,Everton
+Sat Nov 30 1963,Liverpool,2-0,Burnley
+Sat Nov 30 1963,Chelsea,4-0,Bolton Wanderers
+Sat Nov 30 1963,Blackpool,3-3,Leicester City
+Sat Nov 30 1963,Stoke City,4-1,Birmingham City
+Sat Nov 30 1963,Blackburn Rovers,4-1,Arsenal
+Sat Nov 30 1963,Sheffield United,1-2,Manchester United
+Sat Nov 30 1963,Tottenham Hotspur,1-1,Sheffield Wednesday
+Sat Nov 30 1963,Nottingham Forest,0-3,West Bromwich Albion
+Sat Nov 30 1963,Aston Villa,0-0,Ipswich Town
+Sat Nov 30 1963,West Ham United,1-1,Fulham
+Sat Dec 7 1963,West Bromwich Albion,2-0,Sheffield United
+Sat Dec 7 1963,Everton,1-1,Chelsea
+Sat Dec 7 1963,Arsenal,1-1,Liverpool
+Sat Dec 7 1963,Burnley,1-1,Nottingham Forest
+Sat Dec 7 1963,Ipswich Town,0-0,Blackburn Rovers
+Sat Dec 7 1963,Bolton Wanderers,1-3,Tottenham Hotspur
+Sat Dec 7 1963,Manchester United,5-2,Stoke City
+Sat Dec 7 1963,Birmingham City,2-1,West Ham United
+Sat Dec 7 1963,Leicester City,0-0,Aston Villa
+Sat Dec 7 1963,Fulham,4-1,Wolverhampton Wanderers
+Sat Dec 7 1963,Sheffield Wednesday,1-0,Blackpool
+Tue Dec 10 1963,Arsenal,6-0,Everton
+Sat Dec 14 1963,Bolton Wanderers,0-2,Birmingham City
+Sat Dec 14 1963,Liverpool,1-2,Blackburn Rovers
+Sat Dec 14 1963,West Ham United,2-2,Chelsea
+Sat Dec 14 1963,Burnley,3-1,Ipswich Town
+Sat Dec 14 1963,Leicester City,0-2,West Bromwich Albion
+Sat Dec 14 1963,Aston Villa,3-0,Nottingham Forest
+Sat Dec 14 1963,Tottenham Hotspur,2-1,Stoke City
+Sat Dec 14 1963,Sheffield United,1-0,Blackpool
+Sat Dec 14 1963,Fulham,2-2,Everton
+Sat Dec 14 1963,Manchester United,3-1,Sheffield Wednesday
+Sat Dec 14 1963,Wolverhampton Wanderers,2-2,Arsenal
+Fri Dec 20 1963,Ipswich Town,3-2,West Ham United
+Sat Dec 21 1963,Blackpool,0-1,Liverpool
+Sat Dec 21 1963,West Bromwich Albion,1-1,Bolton Wanderers
+Sat Dec 21 1963,Everton,4-0,Manchester United
+Sat Dec 21 1963,Chelsea,3-2,Sheffield United
+Sat Dec 21 1963,Nottingham Forest,1-2,Tottenham Hotspur
+Sat Dec 21 1963,Arsenal,0-1,Leicester City
+Sat Dec 21 1963,Sheffield Wednesday,3-1,Burnley
+Sat Dec 21 1963,Birmingham City,0-0,Fulham
+Sat Dec 21 1963,Stoke City,0-2,Wolverhampton Wanderers
+Sat Dec 21 1963,Blackburn Rovers,2-0,Aston Villa
+Thu Dec 26 1963,Sheffield Wednesday,3-0,Bolton Wanderers
+Thu Dec 26 1963,West Ham United,2-8,Blackburn Rovers
+Thu Dec 26 1963,Fulham,10-1,Ipswich Town
+Thu Dec 26 1963,Nottingham Forest,3-3,Sheffield United
+Thu Dec 26 1963,Wolverhampton Wanderers,3-3,Aston Villa
+Thu Dec 26 1963,West Bromwich Albion,4-4,Tottenham Hotspur
+Thu Dec 26 1963,Blackpool,1-5,Chelsea
+Thu Dec 26 1963,Leicester City,2-0,Everton
+Thu Dec 26 1963,Burnley,6-1,Manchester United
+Thu Dec 26 1963,Liverpool,6-1,Stoke City
+Sat Dec 28 1963,Sheffield United,1-2,Nottingham Forest
+Sat Dec 28 1963,Birmingham City,1-4,Arsenal
+Sat Dec 28 1963,Chelsea,1-0,Blackpool
+Sat Dec 28 1963,Aston Villa,2-2,Wolverhampton Wanderers
+Sat Dec 28 1963,Everton,0-3,Leicester City
+Sat Dec 28 1963,Bolton Wanderers,3-0,Sheffield Wednesday
+Sat Dec 28 1963,Tottenham Hotspur,0-2,West Bromwich Albion
+Sat Dec 28 1963,Ipswich Town,4-2,Fulham
+Sat Dec 28 1963,Blackburn Rovers,1-3,West Ham United
+Sat Dec 28 1963,Manchester United,5-1,Burnley
+Sat Jan 11 1964,Liverpool,2-1,Chelsea
+Sat Jan 11 1964,Manchester United,1-2,Birmingham City
+Sat Jan 11 1964,Aston Villa,3-1,Blackpool
+Sat Jan 11 1964,Tottenham Hotspur,4-1,Blackburn Rovers
+Sat Jan 11 1964,Ipswich Town,1-4,Sheffield Wednesday
+Sat Jan 11 1964,Burnley,2-3,Everton
+Sat Jan 11 1964,Leicester City,2-1,Stoke City
+Sat Jan 11 1964,Wolverhampton Wanderers,2-3,Nottingham Forest
+Sat Jan 11 1964,Fulham,1-1,West Bromwich Albion
+Sat Jan 11 1964,Bolton Wanderers,1-1,Arsenal
+Sat Jan 11 1964,Sheffield United,2-1,West Ham United
+Sat Jan 18 1964,Blackpool,0-2,Tottenham Hotspur
+Sat Jan 18 1964,Sheffield Wednesday,3-0,Sheffield United
+Sat Jan 18 1964,Everton,1-1,Ipswich Town
+Sat Jan 18 1964,Chelsea,1-0,Aston Villa
+Sat Jan 18 1964,Blackburn Rovers,1-1,Wolverhampton Wanderers
+Sat Jan 18 1964,West Ham United,1-0,Liverpool
+Sat Jan 18 1964,Arsenal,2-2,Fulham
+Sat Jan 18 1964,Leicester City,1-0,Bolton Wanderers
+Sat Jan 18 1964,Birmingham City,0-0,Burnley
+Sat Jan 18 1964,Nottingham Forest,0-0,Stoke City
+Sat Jan 18 1964,West Bromwich Albion,1-4,Manchester United
+Sat Jan 25 1964,Tottenham Hotspur,3-1,Aston Villa
+Sat Feb 1 1964,Wolverhampton Wanderers,1-1,Blackpool
+Sat Feb 1 1964,Liverpool,6-1,Sheffield United
+Sat Feb 1 1964,Burnley,3-2,West Bromwich Albion
+Sat Feb 1 1964,Sheffield Wednesday,0-3,Everton
+Sat Feb 1 1964,Manchester United,3-1,Arsenal
+Sat Feb 1 1964,Stoke City,3-1,Blackburn Rovers
+Sat Feb 1 1964,Ipswich Town,3-2,Birmingham City
+Sat Feb 1 1964,Fulham,2-1,Leicester City
+Sat Feb 1 1964,Bolton Wanderers,2-3,Nottingham Forest
+Sat Feb 1 1964,Tottenham Hotspur,1-2,Chelsea
+Sat Feb 1 1964,Aston Villa,2-2,West Ham United
+Sat Feb 8 1964,West Ham United,4-0,Tottenham Hotspur
+Sat Feb 8 1964,Leicester City,3-2,Manchester United
+Sat Feb 8 1964,Blackburn Rovers,2-0,Nottingham Forest
+Sat Feb 8 1964,West Bromwich Albion,2-1,Ipswich Town
+Sat Feb 8 1964,Arsenal,3-2,Burnley
+Sat Feb 8 1964,Everton,3-1,Liverpool
+Sat Feb 8 1964,Bolton Wanderers,2-1,Fulham
+Sat Feb 8 1964,Birmingham City,1-2,Sheffield Wednesday
+Sat Feb 8 1964,Sheffield United,1-1,Aston Villa
+Sat Feb 8 1964,Chelsea,2-3,Wolverhampton Wanderers
+Sat Feb 8 1964,Blackpool,1-0,Stoke City
+Sat Feb 15 1964,Tottenham Hotspur,0-0,Sheffield United
+Sat Feb 15 1964,Nottingham Forest,0-1,Blackpool
+Sat Feb 15 1964,Sheffield Wednesday,2-2,West Bromwich Albion
+Mon Feb 17 1964,Wolverhampton Wanderers,0-2,West Ham United
+Tue Feb 18 1964,Ipswich Town,1-2,Arsenal
+Tue Feb 18 1964,Everton,3-0,Birmingham City
+Wed Feb 19 1964,Fulham,1-1,Blackburn Rovers
+Wed Feb 19 1964,Manchester United,5-0,Bolton Wanderers
+Wed Feb 19 1964,Aston Villa,2-2,Liverpool
+Sat Feb 22 1964,Chelsea,4-0,Ipswich Town
+Sat Feb 22 1964,Tottenham Hotspur,3-1,Arsenal
+Sat Feb 22 1964,Stoke City,0-1,Bolton Wanderers
+Sat Feb 22 1964,Blackpool,1-1,Burnley
+Sat Feb 22 1964,Blackburn Rovers,1-3,Manchester United
+Sat Feb 22 1964,Aston Villa,1-0,West Bromwich Albion
+Sat Feb 22 1964,Nottingham Forest,2-0,Fulham
+Sat Feb 22 1964,West Ham United,4-3,Sheffield Wednesday
+Sat Feb 22 1964,Liverpool,2-1,Birmingham City
+Sat Feb 22 1964,Sheffield United,0-0,Everton
+Sat Feb 22 1964,Wolverhampton Wanderers,1-2,Leicester City
+Fri Feb 28 1964,Everton,4-2,Aston Villa
+Sat Feb 29 1964,Sheffield Wednesday,3-2,Chelsea
+Sat Feb 29 1964,Ipswich Town,1-0,Sheffield United
+Sat Feb 29 1964,West Bromwich Albion,3-1,Wolverhampton Wanderers
+Sat Feb 29 1964,Fulham,1-1,Blackpool
+Sat Feb 29 1964,Bolton Wanderers,0-5,Blackburn Rovers
+Sat Feb 29 1964,Leicester City,1-1,Nottingham Forest
+Sat Feb 29 1964,Birmingham City,1-2,Tottenham Hotspur
+Sat Feb 29 1964,Arsenal,1-1,Stoke City
+Tue Mar 3 1964,Burnley,3-1,West Ham United
+Wed Mar 4 1964,Sheffield Wednesday,2-2,Liverpool
+Wed Mar 4 1964,Stoke City,2-0,Chelsea
+Sat Mar 7 1964,Aston Villa,2-2,Sheffield Wednesday
+Sat Mar 7 1964,Chelsea,1-2,Fulham
+Sat Mar 7 1964,Sheffield United,2-0,Burnley
+Sat Mar 7 1964,Wolverhampton Wanderers,5-1,Birmingham City
+Sat Mar 7 1964,Blackpool,2-0,Bolton Wanderers
+Sat Mar 7 1964,Stoke City,1-1,West Bromwich Albion
+Sat Mar 7 1964,Nottingham Forest,2-0,Arsenal
+Sat Mar 7 1964,Tottenham Hotspur,2-4,Everton
+Sat Mar 7 1964,Liverpool,6-0,Ipswich Town
+Sat Mar 7 1964,Blackburn Rovers,5-2,Leicester City
+Sat Mar 7 1964,West Ham United,0-2,Manchester United
+Tue Mar 10 1964,Burnley,2-0,Leicester City
+Fri Mar 13 1964,Birmingham City,2-2,Blackburn Rovers
+Fri Mar 13 1964,West Bromwich Albion,2-1,Blackpool
+Sat Mar 14 1964,Arsenal,2-4,Chelsea
+Sat Mar 14 1964,Fulham,1-0,Liverpool
+Sat Mar 14 1964,Everton,6-1,Nottingham Forest
+Wed Mar 18 1964,Leicester City,2-2,West Ham United
+Fri Mar 20 1964,Liverpool,2-0,Bolton Wanderers
+Fri Mar 20 1964,Blackpool,3-0,Birmingham City
+Sat Mar 21 1964,Nottingham Forest,3-2,Sheffield Wednesday
+Sat Mar 21 1964,Aston Villa,2-2,Fulham
+Sat Mar 21 1964,Stoke City,9-1,Ipswich Town
+Sat Mar 21 1964,Wolverhampton Wanderers,1-1,Burnley
+Sat Mar 21 1964,Sheffield United,0-1,Leicester City
+Sat Mar 21 1964,Tottenham Hotspur,2-3,Manchester United
+Sat Mar 21 1964,Blackburn Rovers,1-2,Everton
+Sat Mar 21 1964,Chelsea,3-1,West Bromwich Albion
+Sat Mar 21 1964,West Ham United,1-1,Arsenal
+Mon Mar 23 1964,Manchester United,1-1,Chelsea
+Tue Mar 24 1964,Arsenal,1-1,Sheffield Wednesday
+Fri Mar 27 1964,Tottenham Hotspur,1-3,Liverpool
+Fri Mar 27 1964,Fulham,2-2,Manchester United
+Fri Mar 27 1964,Everton,1-1,West Bromwich Albion
+Fri Mar 27 1964,West Ham United,4-1,Stoke City
+Fri Mar 27 1964,Blackburn Rovers,1-2,Blackpool
+Sat Mar 28 1964,Everton,3-1,Blackpool
+Sat Mar 28 1964,West Bromwich Albion,0-1,West Ham United
+Sat Mar 28 1964,Ipswich Town,4-3,Nottingham Forest
+Sat Mar 28 1964,Manchester United,2-2,Wolverhampton Wanderers
+Sat Mar 28 1964,Fulham,1-1,Tottenham Hotspur
+Sat Mar 28 1964,Birmingham City,3-4,Chelsea
+Sat Mar 28 1964,Sheffield Wednesday,5-2,Blackburn Rovers
+Sat Mar 28 1964,Leicester City,0-2,Liverpool
+Sat Mar 28 1964,Arsenal,1-3,Sheffield United
+Sat Mar 28 1964,Burnley,1-0,Stoke City
+Sat Mar 28 1964,Bolton Wanderers,1-1,Aston Villa
+Mon Mar 30 1964,Aston Villa,0-3,Birmingham City
+Mon Mar 30 1964,Wolverhampton Wanderers,1-1,Sheffield United
+Mon Mar 30 1964,Bolton Wanderers,2-1,Burnley
+Mon Mar 30 1964,Ipswich Town,1-1,Leicester City
+Mon Mar 30 1964,Blackpool,3-2,Blackburn Rovers
+Mon Mar 30 1964,Manchester United,3-0,Fulham
+Mon Mar 30 1964,Sheffield Wednesday,0-4,Arsenal
+Mon Mar 30 1964,Chelsea,1-0,Nottingham Forest
+Mon Mar 30 1964,Liverpool,3-1,Tottenham Hotspur
+Tue Mar 31 1964,West Bromwich Albion,4-2,Everton
+Tue Mar 31 1964,Leicester City,2-1,Ipswich Town
+Tue Mar 31 1964,Burnley,1-1,Bolton Wanderers
+Tue Mar 31 1964,Nottingham Forest,0-1,Chelsea
+Tue Mar 31 1964,Birmingham City,3-3,Aston Villa
+Tue Mar 31 1964,Stoke City,3-0,West Ham United
+Tue Mar 31 1964,Sheffield United,4-3,Wolverhampton Wanderers
+Sat Apr 4 1964,Liverpool,3-0,Manchester United
+Sat Apr 4 1964,Tottenham Hotspur,6-3,Ipswich Town
+Sat Apr 4 1964,Stoke City,3-2,Everton
+Sat Apr 4 1964,Wolverhampton Wanderers,1-1,Sheffield Wednesday
+Sat Apr 4 1964,Sheffield United,1-0,Fulham
+Sat Apr 4 1964,Nottingham Forest,4-0,Birmingham City
+Sat Apr 4 1964,West Ham United,2-3,Bolton Wanderers
+Sat Apr 4 1964,Aston Villa,2-0,Burnley
+Sat Apr 4 1964,Blackburn Rovers,0-2,West Bromwich Albion
+Sat Apr 4 1964,Blackpool,0-1,Arsenal
+Mon Apr 6 1964,Manchester United,1-0,Aston Villa
+Mon Apr 6 1964,Chelsea,1-0,Leicester City
+Wed Apr 8 1964,Sheffield Wednesday,2-0,Stoke City
+Wed Apr 8 1964,Bolton Wanderers,3-0,Sheffield United
+Sat Apr 11 1964,Everton,3-3,Wolverhampton Wanderers
+Sat Apr 11 1964,Fulham,2-0,West Ham United
+Sat Apr 11 1964,Birmingham City,0-1,Stoke City
+Sat Apr 11 1964,Leicester City,2-3,Blackpool
+Sat Apr 11 1964,Bolton Wanderers,1-0,Chelsea
+Sat Apr 11 1964,Arsenal,0-0,Blackburn Rovers
+Sat Apr 11 1964,Ipswich Town,4-3,Aston Villa
+Sat Apr 11 1964,West Bromwich Albion,2-3,Nottingham Forest
+Mon Apr 13 1964,Manchester United,2-1,Sheffield United
+Mon Apr 13 1964,Sheffield Wednesday,2-0,Tottenham Hotspur
+Tue Apr 14 1964,Ipswich Town,1-0,Wolverhampton Wanderers
+Tue Apr 14 1964,Burnley,0-3,Liverpool
+Fri Apr 17 1964,West Ham United,5-0,Birmingham City
+Sat Apr 18 1964,Chelsea,1-0,Everton
+Sat Apr 18 1964,Liverpool,5-0,Arsenal
+Sat Apr 18 1964,Aston Villa,1-3,Leicester City
+Sat Apr 18 1964,Stoke City,3-1,Manchester United
+Sat Apr 18 1964,Blackburn Rovers,3-1,Ipswich Town
+Sat Apr 18 1964,Sheffield United,2-1,West Bromwich Albion
+Sat Apr 18 1964,Wolverhampton Wanderers,4-0,Fulham
+Sat Apr 18 1964,Tottenham Hotspur,1-0,Bolton Wanderers
+Sat Apr 18 1964,Nottingham Forest,1-3,Burnley
+Sat Apr 18 1964,Blackpool,2-2,Sheffield Wednesday
+Tue Apr 21 1964,Burnley,7-2,Tottenham Hotspur
+Wed Apr 22 1964,Birmingham City,3-1,Liverpool
+Fri Apr 24 1964,Bolton Wanderers,0-4,Wolverhampton Wanderers
+Sat Apr 25 1964,Ipswich Town,4-3,Blackpool
+Sat Apr 25 1964,Manchester United,3-1,Nottingham Forest
+Sat Apr 25 1964,West Bromwich Albion,2-2,Liverpool
+Sat Apr 25 1964,Leicester City,0-1,Tottenham Hotspur
+Sat Apr 25 1964,Birmingham City,3-0,Sheffield United
+Sat Apr 25 1964,Everton,2-0,West Ham United
+Sat Apr 25 1964,Fulham,3-3,Stoke City
+Wed Apr 29 1964,Stoke City,3-1,Liverpool

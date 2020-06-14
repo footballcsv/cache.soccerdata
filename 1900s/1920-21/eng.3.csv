@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 28 1920,Merthyr Town,2-1,Crystal Palace
+Sat Aug 28 1920,Queens Park Rangers,1-2,Watford
+Sat Aug 28 1920,Millwall,2-0,Bristol Rovers
+Sat Aug 28 1920,Swindon Town,9-1,Luton Town
+Sat Aug 28 1920,Exeter City,3-0,Brentford
+Sat Aug 28 1920,Portsmouth,3-0,Swansea City
+Sat Aug 28 1920,Southend United,2-0,Brighton & Hove Albion
+Sat Aug 28 1920,Newport County,0-1,Reading
+Sat Aug 28 1920,Grimsby Town,2-0,Northampton Town
+Sat Aug 28 1920,Gillingham,1-1,Southampton
+Sat Aug 28 1920,Plymouth Argyle,1-1,Norwich City
+Mon Aug 30 1920,Luton Town,2-2,Portsmouth
+Mon Aug 30 1920,Brentford,1-0,Millwall
+Mon Aug 30 1920,Southampton,4-0,Swindon Town
+Mon Aug 30 1920,Grimsby Town,1-0,Southend United
+Wed Sep 1 1920,Brighton & Hove Albion,0-0,Merthyr Town
+Wed Sep 1 1920,Bristol Rovers,3-2,Newport County
+Wed Sep 1 1920,Crystal Palace,0-0,Plymouth Argyle
+Wed Sep 1 1920,Reading,1-2,Gillingham
+Wed Sep 1 1920,Exeter City,1-1,Norwich City
+Thu Sep 2 1920,Queens Park Rangers,1-2,Northampton Town
+Thu Sep 2 1920,Swansea City,2-1,Watford
+Sat Sep 4 1920,Norwich City,0-0,Plymouth Argyle
+Sat Sep 4 1920,Swansea City,0-0,Portsmouth
+Sat Sep 4 1920,Luton Town,2-0,Swindon Town
+Sat Sep 4 1920,Crystal Palace,3-0,Merthyr Town
+Sat Sep 4 1920,Bristol Rovers,1-2,Millwall
+Sat Sep 4 1920,Brentford,0-0,Exeter City
+Sat Sep 4 1920,Northampton Town,4-1,Grimsby Town
+Sat Sep 4 1920,Reading,4-0,Newport County
+Sat Sep 4 1920,Southampton,3-0,Gillingham
+Sat Sep 4 1920,Watford,0-2,Queens Park Rangers
+Sat Sep 4 1920,Brighton & Hove Albion,1-0,Southend United
+Mon Sep 6 1920,Swindon Town,3-2,Southampton
+Mon Sep 6 1920,Millwall,0-0,Brentford
+Mon Sep 6 1920,Northampton Town,0-3,Queens Park Rangers
+Mon Sep 6 1920,Southend United,3-1,Grimsby Town
+Mon Sep 6 1920,Merthyr Town,4-1,Brighton & Hove Albion
+Wed Sep 8 1920,Watford,3-0,Swansea City
+Wed Sep 8 1920,Gillingham,1-0,Reading
+Wed Sep 8 1920,Norwich City,0-0,Exeter City
+Wed Sep 8 1920,Portsmouth,3-0,Luton Town
+Wed Sep 8 1920,Plymouth Argyle,0-1,Crystal Palace
+Thu Sep 9 1920,Newport County,0-2,Bristol Rovers
+Sat Sep 11 1920,Queens Park Rangers,2-0,Reading
+Sat Sep 11 1920,Southend United,1-3,Swindon Town
+Sat Sep 11 1920,Plymouth Argyle,5-1,Newport County
+Sat Sep 11 1920,Bristol Rovers,2-0,Grimsby Town
+Sat Sep 11 1920,Exeter City,4-0,Millwall
+Sat Sep 11 1920,Norwich City,0-1,Crystal Palace
+Sat Sep 11 1920,Northampton Town,0-1,Watford
+Sat Sep 11 1920,Gillingham,0-0,Merthyr Town
+Sat Sep 11 1920,Luton Town,3-0,Swansea City
+Sat Sep 11 1920,Southampton,2-0,Portsmouth
+Sat Sep 11 1920,Brentford,2-0,Brighton & Hove Albion
+Mon Sep 13 1920,Northampton Town,0-2,Millwall
+Wed Sep 15 1920,Gillingham,1-1,Portsmouth
+Thu Sep 16 1920,Swansea City,5-2,Norwich City
+Sat Sep 18 1920,Reading,0-0,Queens Park Rangers
+Sat Sep 18 1920,Grimsby Town,3-1,Bristol Rovers
+Sat Sep 18 1920,Brighton & Hove Albion,4-0,Brentford
+Sat Sep 18 1920,Merthyr Town,6-1,Gillingham
+Sat Sep 18 1920,Millwall,2-0,Exeter City
+Sat Sep 18 1920,Crystal Palace,1-0,Norwich City
+Sat Sep 18 1920,Portsmouth,0-1,Southampton
+Sat Sep 18 1920,Swindon Town,3-0,Southend United
+Sat Sep 18 1920,Newport County,0-0,Plymouth Argyle
+Sat Sep 18 1920,Watford,7-1,Northampton Town
+Sat Sep 18 1920,Swansea City,1-1,Luton Town
+Sat Sep 25 1920,Plymouth Argyle,3-1,Gillingham
+Sat Sep 25 1920,Exeter City,0-1,Newport County
+Sat Sep 25 1920,Reading,4-1,Grimsby Town
+Sat Sep 25 1920,Norwich City,0-1,Southampton
+Sat Sep 25 1920,Brentford,0-4,Crystal Palace
+Sat Sep 25 1920,Queens Park Rangers,4-1,Luton Town
+Sat Sep 25 1920,Watford,3-0,Southend United
+Sat Sep 25 1920,Swindon Town,3-0,Merthyr Town
+Sat Sep 25 1920,Northampton Town,2-0,Swansea City
+Sat Sep 25 1920,Bristol Rovers,3-1,Brighton & Hove Albion
+Sat Sep 25 1920,Portsmouth,0-0,Millwall
+Wed Sep 29 1920,Brighton & Hove Albion,1-3,Grimsby Town
+Sat Oct 2 1920,Brighton & Hove Albion,2-0,Bristol Rovers
+Sat Oct 2 1920,Southampton,1-0,Norwich City
+Sat Oct 2 1920,Grimsby Town,2-0,Reading
+Sat Oct 2 1920,Merthyr Town,2-2,Swindon Town
+Sat Oct 2 1920,Crystal Palace,4-2,Brentford
+Sat Oct 2 1920,Gillingham,0-1,Plymouth Argyle
+Sat Oct 2 1920,Swansea City,2-2,Northampton Town
+Sat Oct 2 1920,Luton Town,2-1,Queens Park Rangers
+Sat Oct 2 1920,Newport County,2-0,Exeter City
+Sat Oct 2 1920,Southend United,4-1,Watford
+Sat Oct 2 1920,Millwall,1-0,Portsmouth
+Sat Oct 9 1920,Bristol Rovers,2-1,Crystal Palace
+Sat Oct 9 1920,Exeter City,2-1,Gillingham
+Sat Oct 9 1920,Northampton Town,1-0,Portsmouth
+Sat Oct 9 1920,Luton Town,3-1,Grimsby Town
+Sat Oct 9 1920,Norwich City,0-0,Brentford
+Sat Oct 9 1920,Newport County,3-1,Millwall
+Sat Oct 9 1920,Merthyr Town,2-0,Watford
+Sat Oct 9 1920,Southampton,3-0,Swansea City
+Sat Oct 9 1920,Reading,0-1,Brighton & Hove Albion
+Sat Oct 9 1920,Queens Park Rangers,2-0,Southend United
+Sat Oct 9 1920,Plymouth Argyle,0-0,Swindon Town
+Sat Oct 16 1920,Grimsby Town,0-1,Luton Town
+Sat Oct 16 1920,Millwall,1-0,Newport County
+Sat Oct 16 1920,Portsmouth,2-0,Northampton Town
+Sat Oct 16 1920,Watford,1-0,Merthyr Town
+Sat Oct 16 1920,Southend United,1-0,Queens Park Rangers
+Sat Oct 16 1920,Crystal Palace,3-0,Bristol Rovers
+Sat Oct 16 1920,Gillingham,2-1,Exeter City
+Sat Oct 16 1920,Swansea City,1-1,Southampton
+Sat Oct 16 1920,Brentford,3-1,Norwich City
+Sat Oct 16 1920,Swindon Town,1-1,Plymouth Argyle
+Sat Oct 16 1920,Brighton & Hove Albion,2-2,Reading
+Wed Oct 20 1920,Exeter City,0-0,Southend United
+Thu Oct 21 1920,Newport County,0-1,Swindon Town
+Sat Oct 23 1920,Swansea City,1-3,Queens Park Rangers
+Sat Oct 23 1920,Exeter City,1-0,Swindon Town
+Sat Oct 23 1920,Merthyr Town,3-1,Grimsby Town
+Sat Oct 23 1920,Southend United,1-2,Northampton Town
+Sat Oct 23 1920,Southampton,3-0,Brentford
+Sat Oct 23 1920,Reading,1-0,Crystal Palace
+Sat Oct 23 1920,Luton Town,3-2,Brighton & Hove Albion
+Sat Oct 23 1920,Millwall,4-0,Gillingham
+Sat Oct 23 1920,Plymouth Argyle,0-2,Watford
+Sat Oct 23 1920,Newport County,1-0,Portsmouth
+Sat Oct 23 1920,Bristol Rovers,2-2,Norwich City
+Sat Oct 30 1920,Portsmouth,0-2,Newport County
+Sat Oct 30 1920,Northampton Town,1-0,Southend United
+Sat Oct 30 1920,Crystal Palace,2-0,Reading
+Sat Oct 30 1920,Gillingham,0-0,Millwall
+Sat Oct 30 1920,Queens Park Rangers,1-1,Swansea City
+Sat Oct 30 1920,Swindon Town,1-1,Exeter City
+Sat Oct 30 1920,Norwich City,1-1,Bristol Rovers
+Sat Oct 30 1920,Brentford,1-1,Southampton
+Sat Oct 30 1920,Brighton & Hove Albion,1-1,Luton Town
+Sat Oct 30 1920,Watford,1-1,Plymouth Argyle
+Sat Oct 30 1920,Grimsby Town,1-1,Merthyr Town
+Wed Nov 3 1920,Crystal Palace,2-3,Southend United
+Sat Nov 6 1920,Newport County,1-0,Gillingham
+Sat Nov 6 1920,Swansea City,3-1,Grimsby Town
+Sat Nov 6 1920,Millwall,5-0,Swindon Town
+Sat Nov 6 1920,Southampton,2-2,Queens Park Rangers
+Sat Nov 6 1920,Reading,0-1,Norwich City
+Sat Nov 6 1920,Luton Town,2-2,Crystal Palace
+Sat Nov 6 1920,Southend United,2-1,Portsmouth
+Sat Nov 6 1920,Plymouth Argyle,5-0,Brighton & Hove Albion
+Sat Nov 6 1920,Bristol Rovers,2-1,Brentford
+Sat Nov 6 1920,Merthyr Town,1-0,Northampton Town
+Sat Nov 6 1920,Exeter City,1-2,Watford
+Sat Nov 13 1920,Crystal Palace,2-1,Luton Town
+Sat Nov 13 1920,Watford,0-0,Exeter City
+Sat Nov 13 1920,Portsmouth,3-0,Southend United
+Sat Nov 13 1920,Gillingham,1-4,Newport County
+Sat Nov 13 1920,Brentford,0-0,Bristol Rovers
+Sat Nov 13 1920,Norwich City,2-0,Reading
+Sat Nov 13 1920,Northampton Town,2-2,Merthyr Town
+Sat Nov 13 1920,Brighton & Hove Albion,1-0,Plymouth Argyle
+Sat Nov 13 1920,Swindon Town,4-1,Millwall
+Sat Nov 13 1920,Grimsby Town,0-2,Swansea City
+Sat Nov 13 1920,Queens Park Rangers,0-0,Southampton
+Sat Nov 20 1920,Grimsby Town,2-1,Queens Park Rangers
+Sat Nov 20 1920,Southampton,4-0,Bristol Rovers
+Sat Nov 20 1920,Plymouth Argyle,0-2,Northampton Town
+Sat Nov 20 1920,Luton Town,4-0,Norwich City
+Sat Nov 20 1920,Reading,2-1,Brentford
+Sat Nov 20 1920,Swansea City,0-0,Brighton & Hove Albion
+Sat Nov 20 1920,Millwall,1-0,Watford
+Sat Nov 20 1920,Exeter City,1-1,Crystal Palace
+Mon Nov 22 1920,Merthyr Town,2-0,Southend United
+Sat Nov 27 1920,Watford,1-0,Millwall
+Sat Nov 27 1920,Brighton & Hove Albion,1-1,Swansea City
+Sat Nov 27 1920,Crystal Palace,2-1,Exeter City
+Sat Nov 27 1920,Bristol Rovers,1-2,Southampton
+Sat Nov 27 1920,Portsmouth,2-2,Gillingham
+Sat Nov 27 1920,Swindon Town,5-0,Newport County
+Sat Nov 27 1920,Queens Park Rangers,2-0,Grimsby Town
+Sat Nov 27 1920,Norwich City,3-0,Luton Town
+Sat Nov 27 1920,Southend United,0-1,Merthyr Town
+Sat Nov 27 1920,Northampton Town,1-1,Plymouth Argyle
+Sat Nov 27 1920,Brentford,3-2,Reading
+Sat Dec 4 1920,Exeter City,4-0,Northampton Town
+Sat Dec 4 1920,Norwich City,2-0,Millwall
+Sat Dec 4 1920,Southend United,2-1,Plymouth Argyle
+Sat Dec 4 1920,Luton Town,2-0,Brentford
+Sat Dec 4 1920,Southampton,0-1,Grimsby Town
+Sat Dec 4 1920,Swansea City,0-0,Crystal Palace
+Sat Dec 4 1920,Brighton & Hove Albion,2-1,Queens Park Rangers
+Sat Dec 4 1920,Newport County,0-2,Watford
+Sat Dec 4 1920,Reading,2-1,Bristol Rovers
+Sat Dec 11 1920,Grimsby Town,3-0,Southampton
+Sat Dec 11 1920,Brentford,1-0,Luton Town
+Sat Dec 11 1920,Swindon Town,1-1,Gillingham
+Sat Dec 11 1920,Crystal Palace,0-1,Swansea City
+Sat Dec 11 1920,Plymouth Argyle,0-0,Southend United
+Sat Dec 11 1920,Bristol Rovers,3-2,Reading
+Sat Dec 11 1920,Queens Park Rangers,4-0,Brighton & Hove Albion
+Sat Dec 11 1920,Watford,5-1,Newport County
+Sat Dec 11 1920,Millwall,2-0,Norwich City
+Sat Dec 11 1920,Northampton Town,3-3,Exeter City
+Sat Dec 11 1920,Portsmouth,0-0,Merthyr Town
+Sat Dec 18 1920,Merthyr Town,0-0,Plymouth Argyle
+Sat Dec 18 1920,Queens Park Rangers,3-0,Crystal Palace
+Sat Dec 18 1920,Brentford,2-2,Newport County
+Sat Dec 18 1920,Portsmouth,1-1,Swindon Town
+Sat Dec 18 1920,Reading,0-4,Southampton
+Sat Dec 25 1920,Newport County,1-1,Southend United
+Sat Dec 25 1920,Plymouth Argyle,0-0,Exeter City
+Sat Dec 25 1920,Luton Town,1-1,Southampton
+Sat Dec 25 1920,Grimsby Town,1-1,Norwich City
+Sat Dec 25 1920,Watford,3-2,Portsmouth
+Sat Dec 25 1920,Brentford,0-2,Queens Park Rangers
+Sat Dec 25 1920,Reading,2-3,Swindon Town
+Sat Dec 25 1920,Brighton & Hove Albion,0-2,Crystal Palace
+Sat Dec 25 1920,Bristol Rovers,1-2,Swansea City
+Sat Dec 25 1920,Millwall,0-0,Merthyr Town
+Sat Dec 25 1920,Gillingham,2-5,Northampton Town
+Mon Dec 27 1920,Southampton,1-1,Luton Town
+Mon Dec 27 1920,Norwich City,0-0,Grimsby Town
+Mon Dec 27 1920,Merthyr Town,0-1,Millwall
+Mon Dec 27 1920,Crystal Palace,3-2,Brighton & Hove Albion
+Mon Dec 27 1920,Swansea City,2-2,Bristol Rovers
+Mon Dec 27 1920,Portsmouth,1-0,Watford
+Mon Dec 27 1920,Swindon Town,2-0,Reading
+Mon Dec 27 1920,Exeter City,1-1,Plymouth Argyle
+Mon Dec 27 1920,Northampton Town,2-0,Gillingham
+Mon Dec 27 1920,Queens Park Rangers,1-0,Brentford
+Mon Dec 27 1920,Southend United,2-1,Newport County
+Tue Dec 28 1920,Luton Town,5-0,Gillingham
+Sat Jan 1 1921,Watford,3-1,Gillingham
+Sat Jan 1 1921,Southampton,1-2,Reading
+Sat Jan 1 1921,Plymouth Argyle,2-1,Merthyr Town
+Sat Jan 1 1921,Southend United,0-0,Exeter City
+Sat Jan 1 1921,Norwich City,1-1,Swansea City
+Sat Jan 1 1921,Grimsby Town,2-2,Brighton & Hove Albion
+Sat Jan 1 1921,Millwall,1-0,Northampton Town
+Sat Jan 1 1921,Newport County,3-1,Brentford
+Sat Jan 1 1921,Swindon Town,5-2,Portsmouth
+Sat Jan 1 1921,Luton Town,1-2,Bristol Rovers
+Sat Jan 1 1921,Crystal Palace,0-0,Queens Park Rangers
+Thu Jan 13 1921,Newport County,2-0,Norwich City
+Sat Jan 15 1921,Northampton Town,1-0,Luton Town
+Sat Jan 15 1921,Gillingham,1-3,Brentford
+Sat Jan 15 1921,Southend United,1-2,Swansea City
+Sat Jan 15 1921,Exeter City,1-0,Brighton & Hove Albion
+Sat Jan 15 1921,Watford,0-0,Southampton
+Sat Jan 15 1921,Plymouth Argyle,0-0,Grimsby Town
+Sat Jan 15 1921,Merthyr Town,3-1,Queens Park Rangers
+Sat Jan 15 1921,Millwall,0-1,Crystal Palace
+Sat Jan 15 1921,Portsmouth,2-2,Reading
+Sat Jan 15 1921,Swindon Town,2-1,Bristol Rovers
+Sat Jan 22 1921,Brighton & Hove Albion,1-1,Exeter City
+Sat Jan 22 1921,Swansea City,2-0,Southend United
+Sat Jan 22 1921,Brentford,3-3,Gillingham
+Sat Jan 22 1921,Crystal Palace,3-2,Millwall
+Sat Jan 22 1921,Norwich City,3-0,Newport County
+Sat Jan 22 1921,Bristol Rovers,3-1,Swindon Town
+Sat Jan 22 1921,Luton Town,3-1,Northampton Town
+Sat Jan 22 1921,Reading,1-0,Portsmouth
+Sat Jan 22 1921,Queens Park Rangers,4-2,Merthyr Town
+Sat Jan 22 1921,Grimsby Town,1-1,Plymouth Argyle
+Sat Jan 22 1921,Southampton,4-1,Watford
+Sat Jan 29 1921,Newport County,1-1,Northampton Town
+Sat Jan 29 1921,Merthyr Town,7-1,Exeter City
+Sat Jan 29 1921,Gillingham,1-0,Bristol Rovers
+Sat Jan 29 1921,Reading,0-1,Millwall
+Sat Feb 5 1921,Norwich City,2-0,Queens Park Rangers
+Sat Feb 5 1921,Brentford,1-2,Swansea City
+Sat Feb 5 1921,Brighton & Hove Albion,1-1,Southampton
+Sat Feb 5 1921,Bristol Rovers,2-0,Gillingham
+Sat Feb 5 1921,Exeter City,3-3,Merthyr Town
+Sat Feb 5 1921,Northampton Town,0-2,Newport County
+Sat Feb 5 1921,Grimsby Town,1-0,Crystal Palace
+Sat Feb 5 1921,Reading,0-1,Luton Town
+Sat Feb 5 1921,Millwall,4-2,Southend United
+Sat Feb 5 1921,Portsmouth,1-1,Plymouth Argyle
+Sat Feb 5 1921,Watford,0-1,Swindon Town
+Wed Feb 9 1921,Luton Town,6-0,Reading
+Wed Feb 9 1921,Crystal Palace,2-0,Grimsby Town
+Sat Feb 12 1921,Exeter City,1-1,Grimsby Town
+Sat Feb 12 1921,Millwall,0-1,Brighton & Hove Albion
+Sat Feb 12 1921,Watford,1-2,Reading
+Sat Feb 12 1921,Southend United,1-1,Luton Town
+Sat Feb 12 1921,Northampton Town,2-0,Southampton
+Sat Feb 12 1921,Merthyr Town,0-3,Swansea City
+Sat Feb 12 1921,Swindon Town,1-0,Brentford
+Sat Feb 12 1921,Newport County,0-1,Crystal Palace
+Sat Feb 12 1921,Plymouth Argyle,1-0,Queens Park Rangers
+Sat Feb 12 1921,Gillingham,0-0,Norwich City
+Sat Feb 12 1921,Portsmouth,1-0,Bristol Rovers
+Thu Feb 17 1921,Queens Park Rangers,2-0,Norwich City
+Sat Feb 19 1921,Norwich City,2-1,Gillingham
+Sat Feb 19 1921,Brighton & Hove Albion,1-0,Millwall
+Sat Feb 19 1921,Bristol Rovers,2-2,Portsmouth
+Sat Feb 19 1921,Grimsby Town,2-0,Exeter City
+Sat Feb 19 1921,Brentford,0-1,Swindon Town
+Sat Feb 19 1921,Crystal Palace,2-0,Newport County
+Sat Feb 19 1921,Reading,0-0,Watford
+Sat Feb 19 1921,Swansea City,1-0,Merthyr Town
+Mon Feb 21 1921,Merthyr Town,2-1,Portsmouth
+Wed Feb 23 1921,Southampton,1-0,Brighton & Hove Albion
+Sat Feb 26 1921,Swindon Town,4-2,Norwich City
+Sat Feb 26 1921,Exeter City,0-1,Queens Park Rangers
+Sat Feb 26 1921,Northampton Town,1-0,Reading
+Sat Feb 26 1921,Merthyr Town,4-1,Luton Town
+Sat Feb 26 1921,Watford,2-1,Bristol Rovers
+Sat Feb 26 1921,Portsmouth,0-2,Brentford
+Sat Feb 26 1921,Millwall,0-1,Grimsby Town
+Sat Feb 26 1921,Plymouth Argyle,1-0,Swansea City
+Sat Feb 26 1921,Newport County,0-4,Brighton & Hove Albion
+Sat Feb 26 1921,Southend United,1-0,Southampton
+Sat Feb 26 1921,Gillingham,0-1,Crystal Palace
+Sat Mar 5 1921,Bristol Rovers,2-0,Watford
+Sat Mar 5 1921,Norwich City,3-2,Swindon Town
+Sat Mar 5 1921,Southampton,3-0,Southend United
+Sat Mar 5 1921,Crystal Palace,4-1,Gillingham
+Sat Mar 5 1921,Swansea City,3-0,Plymouth Argyle
+Sat Mar 5 1921,Brentford,1-2,Portsmouth
+Sat Mar 5 1921,Luton Town,1-0,Merthyr Town
+Sat Mar 5 1921,Queens Park Rangers,2-1,Exeter City
+Sat Mar 5 1921,Grimsby Town,0-2,Millwall
+Sat Mar 5 1921,Reading,4-0,Northampton Town
+Sat Mar 5 1921,Brighton & Hove Albion,1-0,Newport County
+Wed Mar 9 1921,Southampton,3-1,Northampton Town
+Sat Mar 12 1921,Portsmouth,2-1,Norwich City
+Sat Mar 12 1921,Millwall,0-0,Queens Park Rangers
+Sat Mar 12 1921,Gillingham,1-0,Brighton & Hove Albion
+Sat Mar 12 1921,Merthyr Town,1-1,Southampton
+Sat Mar 12 1921,Newport County,2-1,Grimsby Town
+Sat Mar 12 1921,Exeter City,1-2,Swansea City
+Sat Mar 12 1921,Swindon Town,1-3,Crystal Palace
+Sat Mar 12 1921,Watford,1-0,Brentford
+Sat Mar 12 1921,Northampton Town,1-2,Bristol Rovers
+Sat Mar 12 1921,Plymouth Argyle,1-0,Luton Town
+Sat Mar 12 1921,Southend United,1-0,Reading
+Wed Mar 16 1921,Gillingham,1-1,Watford
+Thu Mar 17 1921,Queens Park Rangers,4-0,Plymouth Argyle
+Sat Mar 19 1921,Luton Town,1-1,Plymouth Argyle
+Sat Mar 19 1921,Swansea City,2-1,Exeter City
+Sat Mar 19 1921,Queens Park Rangers,0-0,Millwall
+Sat Mar 19 1921,Reading,1-1,Southend United
+Sat Mar 19 1921,Crystal Palace,1-0,Swindon Town
+Sat Mar 19 1921,Norwich City,2-2,Portsmouth
+Sat Mar 19 1921,Brentford,1-0,Watford
+Sat Mar 19 1921,Brighton & Hove Albion,1-0,Gillingham
+Sat Mar 19 1921,Bristol Rovers,4-2,Northampton Town
+Sat Mar 19 1921,Southampton,5-0,Merthyr Town
+Sat Mar 19 1921,Grimsby Town,1-1,Newport County
+Fri Mar 25 1921,Watford,1-0,Luton Town
+Fri Mar 25 1921,Portsmouth,2-1,Exeter City
+Fri Mar 25 1921,Gillingham,1-1,Southend United
+Fri Mar 25 1921,Newport County,0-3,Merthyr Town
+Fri Mar 25 1921,Bristol Rovers,3-0,Queens Park Rangers
+Fri Mar 25 1921,Swansea City,2-1,Reading
+Fri Mar 25 1921,Plymouth Argyle,0-2,Millwall
+Fri Mar 25 1921,Brighton & Hove Albion,2-0,Norwich City
+Fri Mar 25 1921,Grimsby Town,2-0,Brentford
+Sat Mar 26 1921,Grimsby Town,2-0,Gillingham
+Sat Mar 26 1921,Crystal Palace,3-0,Portsmouth
+Sat Mar 26 1921,Queens Park Rangers,2-0,Newport County
+Sat Mar 26 1921,Swansea City,0-0,Millwall
+Sat Mar 26 1921,Brentford,1-1,Northampton Town
+Sat Mar 26 1921,Reading,2-0,Merthyr Town
+Sat Mar 26 1921,Norwich City,1-1,Watford
+Sat Mar 26 1921,Brighton & Hove Albion,0-3,Swindon Town
+Sat Mar 26 1921,Southampton,1-0,Plymouth Argyle
+Sat Mar 26 1921,Luton Town,3-0,Exeter City
+Sat Mar 26 1921,Bristol Rovers,2-1,Southend United
+Mon Mar 28 1921,Millwall,0-0,Plymouth Argyle
+Mon Mar 28 1921,Luton Town,1-0,Watford
+Mon Mar 28 1921,Swindon Town,2-1,Northampton Town
+Mon Mar 28 1921,Queens Park Rangers,2-1,Bristol Rovers
+Mon Mar 28 1921,Southend United,1-0,Gillingham
+Mon Mar 28 1921,Norwich City,3-0,Brighton & Hove Albion
+Mon Mar 28 1921,Southampton,1-1,Crystal Palace
+Mon Mar 28 1921,Merthyr Town,1-2,Newport County
+Mon Mar 28 1921,Brentford,5-0,Grimsby Town
+Mon Mar 28 1921,Exeter City,0-0,Portsmouth
+Mon Mar 28 1921,Reading,1-3,Swansea City
+Tue Mar 29 1921,Crystal Palace,1-1,Southampton
+Tue Mar 29 1921,Bristol Rovers,5-0,Luton Town
+Tue Mar 29 1921,Northampton Town,1-2,Swindon Town
+Sat Apr 2 1921,Merthyr Town,1-0,Reading
+Sat Apr 2 1921,Millwall,0-2,Swansea City
+Sat Apr 2 1921,Northampton Town,6-2,Brentford
+Sat Apr 2 1921,Southend United,1-0,Bristol Rovers
+Sat Apr 2 1921,Portsmouth,0-0,Crystal Palace
+Sat Apr 2 1921,Newport County,1-3,Queens Park Rangers
+Sat Apr 2 1921,Plymouth Argyle,0-0,Southampton
+Sat Apr 2 1921,Swindon Town,2-0,Brighton & Hove Albion
+Sat Apr 2 1921,Exeter City,1-0,Luton Town
+Sat Apr 2 1921,Gillingham,2-1,Grimsby Town
+Sat Apr 2 1921,Watford,2-0,Norwich City
+Wed Apr 6 1921,Southend United,1-2,Millwall
+Sat Apr 9 1921,Grimsby Town,3-0,Swindon Town
+Sat Apr 9 1921,Queens Park Rangers,0-1,Gillingham
+Sat Apr 9 1921,Brentford,2-2,Southend United
+Sat Apr 9 1921,Reading,1-1,Plymouth Argyle
+Sat Apr 9 1921,Bristol Rovers,1-1,Merthyr Town
+Sat Apr 9 1921,Norwich City,3-3,Northampton Town
+Sat Apr 9 1921,Luton Town,0-0,Millwall
+Sat Apr 9 1921,Southampton,3-0,Exeter City
+Sat Apr 9 1921,Newport County,1-1,Swansea City
+Sat Apr 9 1921,Brighton & Hove Albion,3-0,Portsmouth
+Sat Apr 9 1921,Crystal Palace,2-2,Watford
+Wed Apr 13 1921,Plymouth Argyle,2-0,Portsmouth
+Wed Apr 13 1921,Gillingham,1-1,Swindon Town
+Sat Apr 16 1921,Millwall,0-0,Luton Town
+Sat Apr 16 1921,Watford,1-1,Crystal Palace
+Sat Apr 16 1921,Portsmouth,3-0,Brighton & Hove Albion
+Sat Apr 16 1921,Southend United,4-1,Brentford
+Sat Apr 16 1921,Plymouth Argyle,1-1,Reading
+Sat Apr 16 1921,Gillingham,1-2,Queens Park Rangers
+Sat Apr 16 1921,Swindon Town,0-0,Grimsby Town
+Sat Apr 16 1921,Exeter City,1-0,Southampton
+Sat Apr 16 1921,Northampton Town,1-0,Norwich City
+Sat Apr 16 1921,Swansea City,1-2,Newport County
+Sat Apr 16 1921,Merthyr Town,2-2,Bristol Rovers
+Wed Apr 20 1921,Swindon Town,2-0,Watford
+Sat Apr 23 1921,Luton Town,2-2,Newport County
+Sat Apr 23 1921,Crystal Palace,5-1,Northampton Town
+Sat Apr 23 1921,Norwich City,3-1,Southend United
+Sat Apr 23 1921,Bristol Rovers,2-0,Plymouth Argyle
+Sat Apr 23 1921,Brighton & Hove Albion,0-3,Watford
+Sat Apr 23 1921,Swansea City,2-0,Gillingham
+Sat Apr 23 1921,Queens Park Rangers,1-0,Swindon Town
+Sat Apr 23 1921,Grimsby Town,0-3,Portsmouth
+Sat Apr 23 1921,Southampton,1-1,Millwall
+Sat Apr 23 1921,Reading,0-1,Exeter City
+Mon Apr 25 1921,Brentford,0-0,Merthyr Town
+Thu Apr 28 1921,Swansea City,1-1,Brentford
+Sat Apr 30 1921,Swindon Town,0-1,Queens Park Rangers
+Sat Apr 30 1921,Portsmouth,2-1,Grimsby Town
+Sat Apr 30 1921,Northampton Town,2-2,Crystal Palace
+Sat Apr 30 1921,Newport County,2-0,Luton Town
+Sat Apr 30 1921,Plymouth Argyle,2-1,Bristol Rovers
+Sat Apr 30 1921,Southend United,3-1,Norwich City
+Sat Apr 30 1921,Gillingham,2-1,Swansea City
+Sat Apr 30 1921,Merthyr Town,3-1,Brentford
+Sat Apr 30 1921,Millwall,0-1,Southampton
+Sat Apr 30 1921,Exeter City,0-1,Reading
+Sat Apr 30 1921,Watford,1-0,Brighton & Hove Albion
+Mon May 2 1921,Southampton,0-0,Newport County
+Mon May 2 1921,Luton Town,4-0,Southend United
+Mon May 2 1921,Swansea City,1-1,Swindon Town
+Mon May 2 1921,Grimsby Town,3-0,Watford
+Mon May 2 1921,Queens Park Rangers,0-0,Portsmouth
+Mon May 2 1921,Norwich City,0-0,Merthyr Town
+Mon May 2 1921,Northampton Town,1-0,Brighton & Hove Albion
+Mon May 2 1921,Brentford,0-0,Plymouth Argyle
+Mon May 2 1921,Bristol Rovers,5-0,Exeter City
+Sat May 7 1921,Merthyr Town,0-0,Norwich City
+Sat May 7 1921,Exeter City,1-0,Bristol Rovers
+Sat May 7 1921,Watford,4-2,Grimsby Town
+Sat May 7 1921,Plymouth Argyle,1-0,Brentford
+Sat May 7 1921,Millwall,2-0,Reading
+Sat May 7 1921,Swindon Town,0-0,Swansea City
+Sat May 7 1921,Brighton & Hove Albion,3-2,Northampton Town
+Sat May 7 1921,Newport County,0-0,Southampton
+Sat May 7 1921,Portsmouth,0-0,Queens Park Rangers
+Sat May 7 1921,Southend United,0-2,Crystal Palace
+Sat May 7 1921,Gillingham,0-0,Luton Town

@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 14 1993,Liverpool,2-0,Sheffield Wednesday
+Sat Aug 14 1993,Newcastle United,0-1,Tottenham Hotspur
+Sat Aug 14 1993,Southampton,0-2,Everton
+Sat Aug 14 1993,Arsenal,0-3,Coventry City
+Sat Aug 14 1993,Sheffield United,3-1,Swindon Town
+Sat Aug 14 1993,West Ham United,0-2,Wimbledon
+Sat Aug 14 1993,Aston Villa,4-1,Queens Park Rangers
+Sat Aug 14 1993,Manchester City,1-1,Leeds United
+Sat Aug 14 1993,Oldham Athletic,0-3,Ipswich Town
+Sat Aug 14 1993,Chelsea,1-2,Blackburn Rovers
+Sun Aug 15 1993,Norwich City,0-2,Manchester United
+Mon Aug 16 1993,Tottenham Hotspur,0-1,Arsenal
+Tue Aug 17 1993,Ipswich Town,1-0,Southampton
+Tue Aug 17 1993,Leeds United,1-0,West Ham United
+Tue Aug 17 1993,Wimbledon,1-1,Chelsea
+Tue Aug 17 1993,Everton,1-0,Manchester City
+Wed Aug 18 1993,Manchester United,3-0,Sheffield United
+Wed Aug 18 1993,Queens Park Rangers,1-3,Liverpool
+Wed Aug 18 1993,Blackburn Rovers,2-3,Norwich City
+Wed Aug 18 1993,Coventry City,2-1,Newcastle United
+Wed Aug 18 1993,Sheffield Wednesday,0-0,Aston Villa
+Wed Aug 18 1993,Swindon Town,0-1,Oldham Athletic
+Sat Aug 21 1993,Everton,4-2,Sheffield United
+Sat Aug 21 1993,Coventry City,1-1,West Ham United
+Sat Aug 21 1993,Ipswich Town,1-0,Chelsea
+Sat Aug 21 1993,Blackburn Rovers,1-0,Oldham Athletic
+Sat Aug 21 1993,Wimbledon,2-2,Aston Villa
+Sat Aug 21 1993,Manchester United,1-1,Newcastle United
+Sat Aug 21 1993,Sheffield Wednesday,0-1,Arsenal
+Sat Aug 21 1993,Queens Park Rangers,2-1,Southampton
+Sat Aug 21 1993,Leeds United,0-4,Norwich City
+Sat Aug 21 1993,Tottenham Hotspur,1-0,Manchester City
+Sun Aug 22 1993,Swindon Town,0-5,Liverpool
+Mon Aug 23 1993,Aston Villa,1-2,Manchester United
+Tue Aug 24 1993,Manchester City,0-2,Blackburn Rovers
+Tue Aug 24 1993,Arsenal,2-1,Leeds United
+Tue Aug 24 1993,Sheffield United,2-1,Wimbledon
+Tue Aug 24 1993,Oldham Athletic,3-3,Coventry City
+Wed Aug 25 1993,Southampton,5-1,Swindon Town
+Wed Aug 25 1993,Liverpool,1-2,Tottenham Hotspur
+Wed Aug 25 1993,Newcastle United,1-0,Everton
+Wed Aug 25 1993,West Ham United,2-0,Sheffield Wednesday
+Wed Aug 25 1993,Norwich City,1-0,Ipswich Town
+Wed Aug 25 1993,Chelsea,2-0,Queens Park Rangers
+Fri Aug 27 1993,Manchester City,1-1,Coventry City
+Sat Aug 28 1993,Chelsea,1-1,Sheffield Wednesday
+Sat Aug 28 1993,West Ham United,0-4,Queens Park Rangers
+Sat Aug 28 1993,Sheffield United,1-1,Ipswich Town
+Sat Aug 28 1993,Norwich City,0-0,Swindon Town
+Sat Aug 28 1993,Southampton,1-3,Manchester United
+Sat Aug 28 1993,Arsenal,2-0,Everton
+Sat Aug 28 1993,Liverpool,2-0,Leeds United
+Sat Aug 28 1993,Oldham Athletic,1-1,Wimbledon
+Sat Aug 28 1993,Aston Villa,1-0,Tottenham Hotspur
+Sun Aug 29 1993,Newcastle United,1-1,Blackburn Rovers
+Mon Aug 30 1993,Leeds United,1-0,Oldham Athletic
+Tue Aug 31 1993,Everton,0-1,Aston Villa
+Tue Aug 31 1993,Wimbledon,1-0,Southampton
+Tue Aug 31 1993,Ipswich Town,1-1,Newcastle United
+Wed Sep 1 1993,Manchester United,3-0,West Ham United
+Wed Sep 1 1993,Blackburn Rovers,1-1,Arsenal
+Wed Sep 1 1993,Coventry City,1-0,Liverpool
+Wed Sep 1 1993,Queens Park Rangers,2-1,Sheffield United
+Wed Sep 1 1993,Tottenham Hotspur,1-1,Chelsea
+Wed Sep 1 1993,Swindon Town,1-3,Manchester City
+Wed Sep 1 1993,Sheffield Wednesday,3-3,Norwich City
+Sat Sep 11 1993,Norwich City,0-1,Wimbledon
+Sat Sep 11 1993,Sheffield United,2-2,Tottenham Hotspur
+Sat Sep 11 1993,Arsenal,4-0,Ipswich Town
+Sat Sep 11 1993,Oldham Athletic,0-1,Everton
+Sat Sep 11 1993,Manchester City,3-0,Queens Park Rangers
+Sat Sep 11 1993,West Ham United,0-0,Swindon Town
+Sat Sep 11 1993,Aston Villa,0-0,Coventry City
+Sat Sep 11 1993,Southampton,0-2,Leeds United
+Sat Sep 11 1993,Chelsea,1-0,Manchester United
+Sun Sep 12 1993,Liverpool,0-1,Blackburn Rovers
+Mon Sep 13 1993,Newcastle United,4-2,Sheffield Wednesday
+Sat Sep 18 1993,Swindon Town,2-2,Newcastle United
+Sat Sep 18 1993,Coventry City,1-1,Chelsea
+Sat Sep 18 1993,Ipswich Town,1-2,Aston Villa
+Sat Sep 18 1993,Sheffield Wednesday,2-0,Southampton
+Sat Sep 18 1993,Blackburn Rovers,0-2,West Ham United
+Sat Sep 18 1993,Leeds United,2-1,Sheffield United
+Sat Sep 18 1993,Everton,2-0,Liverpool
+Sat Sep 18 1993,Tottenham Hotspur,5-0,Oldham Athletic
+Sat Sep 18 1993,Queens Park Rangers,2-2,Norwich City
+Sun Sep 19 1993,Manchester United,1-0,Arsenal
+Mon Sep 20 1993,Wimbledon,1-0,Manchester City
+Sat Sep 25 1993,Arsenal,1-0,Southampton
+Sat Sep 25 1993,Oldham Athletic,1-1,Aston Villa
+Sat Sep 25 1993,Coventry City,0-2,Leeds United
+Sat Sep 25 1993,Newcastle United,2-0,West Ham United
+Sat Sep 25 1993,Manchester United,4-2,Swindon Town
+Sat Sep 25 1993,Sheffield United,0-1,Manchester City
+Sat Sep 25 1993,Blackburn Rovers,1-1,Sheffield Wednesday
+Sat Sep 25 1993,Everton,1-5,Norwich City
+Sat Sep 25 1993,Chelsea,1-0,Liverpool
+Sun Sep 26 1993,Ipswich Town,2-2,Tottenham Hotspur
+Mon Sep 27 1993,Wimbledon,1-1,Queens Park Rangers
+Sat Oct 2 1993,Norwich City,1-0,Coventry City
+Sat Oct 2 1993,Southampton,3-3,Sheffield United
+Sat Oct 2 1993,Swindon Town,1-3,Blackburn Rovers
+Sat Oct 2 1993,Liverpool,0-0,Arsenal
+Sat Oct 2 1993,Aston Villa,0-2,Newcastle United
+Sat Oct 2 1993,West Ham United,1-0,Chelsea
+Sat Oct 2 1993,Leeds United,4-0,Wimbledon
+Sat Oct 2 1993,Sheffield Wednesday,2-3,Manchester United
+Sat Oct 2 1993,Queens Park Rangers,3-0,Ipswich Town
+Sun Oct 3 1993,Tottenham Hotspur,3-2,Everton
+Mon Oct 4 1993,Manchester City,1-1,Oldham Athletic
+Sat Oct 16 1993,Liverpool,2-1,Oldham Athletic
+Sat Oct 16 1993,Chelsea,1-2,Norwich City
+Sat Oct 16 1993,Newcastle United,1-2,Queens Park Rangers
+Sat Oct 16 1993,West Ham United,0-0,Aston Villa
+Sat Oct 16 1993,Arsenal,0-0,Manchester City
+Sat Oct 16 1993,Coventry City,1-1,Southampton
+Sat Oct 16 1993,Sheffield Wednesday,2-2,Wimbledon
+Sat Oct 16 1993,Swindon Town,1-1,Everton
+Sat Oct 16 1993,Manchester United,2-1,Tottenham Hotspur
+Sun Oct 17 1993,Ipswich Town,0-0,Leeds United
+Mon Oct 18 1993,Blackburn Rovers,0-0,Sheffield United
+Sat Oct 23 1993,Sheffield United,1-1,Sheffield Wednesday
+Sat Oct 23 1993,Queens Park Rangers,5-1,Coventry City
+Sat Oct 23 1993,Oldham Athletic,0-0,Arsenal
+Sat Oct 23 1993,Tottenham Hotspur,1-1,Swindon Town
+Sat Oct 23 1993,Everton,0-1,Manchester United
+Sat Oct 23 1993,Norwich City,0-0,West Ham United
+Sat Oct 23 1993,Leeds United,3-3,Blackburn Rovers
+Sat Oct 23 1993,Aston Villa,1-0,Chelsea
+Sat Oct 23 1993,Manchester City,1-1,Liverpool
+Sun Oct 24 1993,Southampton,2-1,Newcastle United
+Mon Oct 25 1993,Wimbledon,0-2,Ipswich Town
+Sat Oct 30 1993,Manchester United,2-1,Queens Park Rangers
+Sat Oct 30 1993,Chelsea,0-1,Oldham Athletic
+Sat Oct 30 1993,Newcastle United,4-0,Wimbledon
+Sat Oct 30 1993,Swindon Town,1-2,Aston Villa
+Sat Oct 30 1993,Arsenal,0-0,Norwich City
+Sat Oct 30 1993,Sheffield Wednesday,3-3,Leeds United
+Sat Oct 30 1993,Ipswich Town,0-2,Everton
+Sat Oct 30 1993,Liverpool,4-2,Southampton
+Sat Oct 30 1993,Blackburn Rovers,1-0,Tottenham Hotspur
+Sun Oct 31 1993,Coventry City,0-0,Sheffield United
+Mon Nov 1 1993,West Ham United,3-1,Manchester City
+Sat Nov 6 1993,Liverpool,2-0,West Ham United
+Sat Nov 6 1993,Ipswich Town,1-4,Sheffield Wednesday
+Sat Nov 6 1993,Southampton,1-0,Tottenham Hotspur
+Sat Nov 6 1993,Sheffield United,1-2,Norwich City
+Sat Nov 6 1993,Coventry City,2-1,Everton
+Sat Nov 6 1993,Wimbledon,3-0,Swindon Town
+Sat Nov 6 1993,Queens Park Rangers,1-0,Blackburn Rovers
+Sat Nov 6 1993,Leeds United,4-1,Chelsea
+Sat Nov 6 1993,Arsenal,1-2,Aston Villa
+Sun Nov 7 1993,Manchester City,2-3,Manchester United
+Mon Nov 8 1993,Oldham Athletic,1-3,Newcastle United
+Sat Nov 20 1993,Swindon Town,2-2,Ipswich Town
+Sat Nov 20 1993,Manchester United,3-1,Wimbledon
+Sat Nov 20 1993,Everton,0-3,Queens Park Rangers
+Sat Nov 20 1993,Tottenham Hotspur,1-1,Leeds United
+Sat Nov 20 1993,Norwich City,1-1,Manchester City
+Sat Nov 20 1993,West Ham United,2-0,Oldham Athletic
+Sat Nov 20 1993,Blackburn Rovers,2-0,Southampton
+Sat Nov 20 1993,Chelsea,0-2,Arsenal
+Sat Nov 20 1993,Aston Villa,1-0,Sheffield United
+Sat Nov 20 1993,Sheffield Wednesday,0-0,Coventry City
+Sun Nov 21 1993,Newcastle United,3-0,Liverpool
+Mon Nov 22 1993,Chelsea,0-0,Manchester City
+Tue Nov 23 1993,Blackburn Rovers,2-1,Coventry City
+Tue Nov 23 1993,Everton,1-1,Leeds United
+Wed Nov 24 1993,Tottenham Hotspur,1-1,Wimbledon
+Wed Nov 24 1993,Newcastle United,4-0,Sheffield United
+Wed Nov 24 1993,Swindon Town,1-0,Queens Park Rangers
+Wed Nov 24 1993,West Ham United,0-0,Arsenal
+Wed Nov 24 1993,Aston Villa,0-2,Southampton
+Wed Nov 24 1993,Sheffield Wednesday,3-0,Oldham Athletic
+Wed Nov 24 1993,Manchester United,0-0,Ipswich Town
+Sat Nov 27 1993,Manchester City,1-3,Sheffield Wednesday
+Sat Nov 27 1993,Wimbledon,1-1,Everton
+Sat Nov 27 1993,Queens Park Rangers,1-1,Tottenham Hotspur
+Sat Nov 27 1993,Sheffield United,1-0,Chelsea
+Sat Nov 27 1993,Coventry City,0-1,Manchester United
+Sat Nov 27 1993,Arsenal,2-1,Newcastle United
+Sat Nov 27 1993,Ipswich Town,1-0,Blackburn Rovers
+Sat Nov 27 1993,Leeds United,3-0,Swindon Town
+Sat Nov 27 1993,Oldham Athletic,2-1,Norwich City
+Sun Nov 28 1993,Liverpool,2-1,Aston Villa
+Mon Nov 29 1993,Southampton,0-2,West Ham United
+Sat Dec 4 1993,Ipswich Town,0-0,Oldham Athletic
+Sat Dec 4 1993,Swindon Town,0-0,Sheffield United
+Sat Dec 4 1993,Leeds United,3-2,Manchester City
+Sat Dec 4 1993,Coventry City,1-0,Arsenal
+Sat Dec 4 1993,Everton,1-0,Southampton
+Sat Dec 4 1993,Sheffield Wednesday,3-1,Liverpool
+Sat Dec 4 1993,Queens Park Rangers,2-2,Aston Villa
+Sat Dec 4 1993,Tottenham Hotspur,1-2,Newcastle United
+Sat Dec 4 1993,Manchester United,2-2,Norwich City
+Sat Dec 4 1993,Wimbledon,1-2,West Ham United
+Sun Dec 5 1993,Blackburn Rovers,2-0,Chelsea
+Mon Dec 6 1993,Arsenal,1-1,Tottenham Hotspur
+Tue Dec 7 1993,Sheffield United,0-3,Manchester United
+Tue Dec 7 1993,Oldham Athletic,2-1,Swindon Town
+Wed Dec 8 1993,Liverpool,3-2,Queens Park Rangers
+Wed Dec 8 1993,West Ham United,0-1,Leeds United
+Wed Dec 8 1993,Aston Villa,2-2,Sheffield Wednesday
+Wed Dec 8 1993,Manchester City,1-0,Everton
+Wed Dec 8 1993,Southampton,0-1,Ipswich Town
+Sat Dec 11 1993,Liverpool,2-2,Swindon Town
+Sat Dec 11 1993,Newcastle United,1-1,Manchester United
+Sat Dec 11 1993,Manchester City,0-2,Tottenham Hotspur
+Sat Dec 11 1993,Southampton,0-1,Queens Park Rangers
+Sat Dec 11 1993,Sheffield United,0-0,Everton
+Sat Dec 11 1993,Aston Villa,0-1,Wimbledon
+Sat Dec 11 1993,Chelsea,1-1,Ipswich Town
+Sat Dec 11 1993,West Ham United,3-2,Coventry City
+Sat Dec 11 1993,Oldham Athletic,1-2,Blackburn Rovers
+Sun Dec 12 1993,Arsenal,1-0,Sheffield Wednesday
+Mon Dec 13 1993,Norwich City,2-1,Leeds United
+Sat Dec 18 1993,Tottenham Hotspur,3-3,Liverpool
+Sat Dec 18 1993,Ipswich Town,2-1,Norwich City
+Sat Dec 18 1993,Blackburn Rovers,2-0,Manchester City
+Sat Dec 18 1993,Sheffield Wednesday,5-0,West Ham United
+Sat Dec 18 1993,Wimbledon,2-0,Sheffield United
+Sat Dec 18 1993,Coventry City,1-1,Oldham Athletic
+Sat Dec 18 1993,Swindon Town,2-1,Southampton
+Sat Dec 18 1993,Leeds United,2-1,Arsenal
+Sat Dec 18 1993,Everton,0-2,Newcastle United
+Sun Dec 19 1993,Manchester United,3-1,Aston Villa
+Wed Dec 22 1993,Newcastle United,1-1,Leeds United
+Sun Dec 26 1993,Manchester United,1-1,Blackburn Rovers
+Sun Dec 26 1993,Sheffield United,0-0,Liverpool
+Sun Dec 26 1993,Wimbledon,1-2,Coventry City
+Mon Dec 27 1993,Queens Park Rangers,2-0,Oldham Athletic
+Mon Dec 27 1993,Southampton,3-1,Chelsea
+Mon Dec 27 1993,Tottenham Hotspur,1-3,Norwich City
+Mon Dec 27 1993,Everton,0-2,Sheffield Wednesday
+Mon Dec 27 1993,Swindon Town,0-4,Arsenal
+Mon Dec 27 1993,Ipswich Town,1-1,West Ham United
+Tue Dec 28 1993,Manchester City,1-1,Southampton
+Tue Dec 28 1993,Chelsea,1-0,Newcastle United
+Tue Dec 28 1993,West Ham United,1-3,Tottenham Hotspur
+Tue Dec 28 1993,Liverpool,1-1,Wimbledon
+Wed Dec 29 1993,Blackburn Rovers,2-0,Everton
+Wed Dec 29 1993,Norwich City,1-2,Aston Villa
+Wed Dec 29 1993,Sheffield Wednesday,3-3,Swindon Town
+Wed Dec 29 1993,Arsenal,3-0,Sheffield United
+Wed Dec 29 1993,Oldham Athletic,2-5,Manchester United
+Wed Dec 29 1993,Leeds United,1-1,Queens Park Rangers
+Sat Jan 1 1994,Everton,0-1,West Ham United
+Sat Jan 1 1994,Swindon Town,1-3,Chelsea
+Sat Jan 1 1994,Southampton,0-1,Norwich City
+Sat Jan 1 1994,Sheffield United,2-1,Oldham Athletic
+Sat Jan 1 1994,Manchester United,0-0,Leeds United
+Sat Jan 1 1994,Wimbledon,0-3,Arsenal
+Sat Jan 1 1994,Aston Villa,0-1,Blackburn Rovers
+Sat Jan 1 1994,Newcastle United,2-0,Manchester City
+Sat Jan 1 1994,Ipswich Town,1-2,Liverpool
+Sat Jan 1 1994,Tottenham Hotspur,1-2,Coventry City
+Sat Jan 1 1994,Queens Park Rangers,1-2,Sheffield Wednesday
+Mon Jan 3 1994,Sheffield Wednesday,1-0,Tottenham Hotspur
+Mon Jan 3 1994,Chelsea,4-2,Everton
+Mon Jan 3 1994,Coventry City,1-1,Swindon Town
+Mon Jan 3 1994,West Ham United,0-0,Sheffield United
+Mon Jan 3 1994,Arsenal,0-0,Queens Park Rangers
+Tue Jan 4 1994,Norwich City,1-2,Newcastle United
+Tue Jan 4 1994,Liverpool,3-3,Manchester United
+Sat Jan 15 1994,Tottenham Hotspur,0-1,Manchester United
+Sat Jan 15 1994,Southampton,1-0,Coventry City
+Sat Jan 15 1994,Aston Villa,3-1,West Ham United
+Sat Jan 15 1994,Oldham Athletic,0-3,Liverpool
+Sat Jan 15 1994,Norwich City,1-1,Chelsea
+Sat Jan 15 1994,Manchester City,0-0,Arsenal
+Sat Jan 15 1994,Wimbledon,2-1,Sheffield Wednesday
+Sat Jan 15 1994,Leeds United,0-0,Ipswich Town
+Sat Jan 15 1994,Sheffield United,1-2,Blackburn Rovers
+Sat Jan 15 1994,Everton,6-2,Swindon Town
+Sun Jan 16 1994,Queens Park Rangers,1-2,Newcastle United
+Sat Jan 22 1994,Manchester United,1-0,Everton
+Sat Jan 22 1994,Liverpool,2-1,Manchester City
+Sat Jan 22 1994,Ipswich Town,0-0,Wimbledon
+Sat Jan 22 1994,Chelsea,1-1,Aston Villa
+Sat Jan 22 1994,Swindon Town,2-1,Tottenham Hotspur
+Sat Jan 22 1994,Sheffield Wednesday,3-1,Sheffield United
+Sat Jan 22 1994,Newcastle United,1-2,Southampton
+Sat Jan 22 1994,Coventry City,0-1,Queens Park Rangers
+Sat Jan 22 1994,Arsenal,1-1,Oldham Athletic
+Sun Jan 23 1994,Blackburn Rovers,2-1,Leeds United
+Mon Jan 24 1994,West Ham United,3-3,Norwich City
+Wed Feb 2 1994,Coventry City,1-0,Ipswich Town
+Sat Feb 5 1994,Manchester City,2-1,Ipswich Town
+Sat Feb 5 1994,Blackburn Rovers,3-0,Wimbledon
+Sat Feb 5 1994,Oldham Athletic,2-1,Southampton
+Sat Feb 5 1994,Queens Park Rangers,2-3,Manchester United
+Sat Feb 5 1994,Norwich City,2-2,Liverpool
+Sat Feb 5 1994,Everton,4-2,Chelsea
+Sat Feb 5 1994,Tottenham Hotspur,1-3,Sheffield Wednesday
+Sat Feb 5 1994,Swindon Town,3-1,Coventry City
+Sun Feb 6 1994,Aston Villa,1-0,Leeds United
+Sat Feb 12 1994,Sheffield United,0-0,Coventry City
+Sat Feb 12 1994,Wimbledon,4-2,Newcastle United
+Sat Feb 12 1994,Tottenham Hotspur,0-2,Blackburn Rovers
+Sat Feb 12 1994,Aston Villa,5-0,Swindon Town
+Sat Feb 12 1994,Oldham Athletic,2-1,Chelsea
+Sat Feb 12 1994,Everton,0-0,Ipswich Town
+Sat Feb 12 1994,Manchester City,0-0,West Ham United
+Sun Feb 13 1994,Norwich City,1-1,Arsenal
+Mon Feb 14 1994,Southampton,4-2,Liverpool
+Sat Feb 19 1994,Coventry City,4-0,Manchester City
+Sat Feb 19 1994,Blackburn Rovers,1-0,Newcastle United
+Sat Feb 19 1994,Swindon Town,3-3,Norwich City
+Sat Feb 19 1994,Leeds United,2-0,Liverpool
+Sat Feb 19 1994,Everton,1-1,Arsenal
+Tue Feb 22 1994,Norwich City,2-2,Blackburn Rovers
+Tue Feb 22 1994,Aston Villa,0-0,Manchester City
+Wed Feb 23 1994,Newcastle United,4-0,Coventry City
+Sat Feb 26 1994,Southampton,1-0,Wimbledon
+Sat Feb 26 1994,Norwich City,1-1,Sheffield Wednesday
+Sat Feb 26 1994,West Ham United,2-2,Manchester United
+Sat Feb 26 1994,Ipswich Town,3-2,Sheffield United
+Sat Feb 26 1994,Liverpool,1-0,Coventry City
+Sat Feb 26 1994,Manchester City,2-1,Swindon Town
+Sat Feb 26 1994,Arsenal,1-0,Blackburn Rovers
+Sun Feb 27 1994,Chelsea,4-3,Tottenham Hotspur
+Mon Feb 28 1994,Oldham Athletic,1-1,Leeds United
+Wed Mar 2 1994,Tottenham Hotspur,1-1,Aston Villa
+Sat Mar 5 1994,Blackburn Rovers,2-0,Liverpool
+Sat Mar 5 1994,Swindon Town,1-1,West Ham United
+Sat Mar 5 1994,Leeds United,0-0,Southampton
+Sat Mar 5 1994,Tottenham Hotspur,2-2,Sheffield United
+Sat Mar 5 1994,Wimbledon,3-1,Norwich City
+Sat Mar 5 1994,Queens Park Rangers,1-1,Manchester City
+Sat Mar 5 1994,Manchester United,0-1,Chelsea
+Sat Mar 5 1994,Everton,2-1,Oldham Athletic
+Sat Mar 5 1994,Sheffield Wednesday,0-1,Newcastle United
+Sat Mar 5 1994,Ipswich Town,1-5,Arsenal
+Sun Mar 6 1994,Coventry City,0-1,Aston Villa
+Sat Mar 12 1994,Aston Villa,0-1,Ipswich Town
+Sat Mar 12 1994,Manchester City,0-1,Wimbledon
+Sat Mar 12 1994,Norwich City,3-4,Queens Park Rangers
+Sat Mar 12 1994,Southampton,1-1,Sheffield Wednesday
+Sat Mar 12 1994,Newcastle United,7-1,Swindon Town
+Sun Mar 13 1994,Sheffield United,2-2,Leeds United
+Sun Mar 13 1994,Liverpool,2-1,Everton
+Wed Mar 16 1994,Manchester United,5-0,Sheffield Wednesday
+Wed Mar 16 1994,Leeds United,2-0,Aston Villa
+Wed Mar 16 1994,Chelsea,2-0,Wimbledon
+Wed Mar 16 1994,Sheffield United,1-1,Queens Park Rangers
+Sat Mar 19 1994,Queens Park Rangers,1-0,Wimbledon
+Sat Mar 19 1994,Liverpool,2-1,Chelsea
+Sat Mar 19 1994,West Ham United,2-4,Newcastle United
+Sat Mar 19 1994,Manchester City,0-0,Sheffield United
+Sat Mar 19 1994,Tottenham Hotspur,1-1,Ipswich Town
+Sat Mar 19 1994,Aston Villa,1-2,Oldham Athletic
+Sat Mar 19 1994,Southampton,0-4,Arsenal
+Sat Mar 19 1994,Leeds United,1-0,Coventry City
+Sat Mar 19 1994,Swindon Town,2-2,Manchester United
+Sun Mar 20 1994,Sheffield Wednesday,1-2,Blackburn Rovers
+Mon Mar 21 1994,Norwich City,3-0,Everton
+Tue Mar 22 1994,Arsenal,2-2,Manchester United
+Tue Mar 22 1994,Newcastle United,2-0,Ipswich Town
+Sat Mar 26 1994,Sheffield United,0-0,Southampton
+Sat Mar 26 1994,Blackburn Rovers,3-1,Swindon Town
+Sat Mar 26 1994,Chelsea,2-0,West Ham United
+Sat Mar 26 1994,Everton,0-1,Tottenham Hotspur
+Sat Mar 26 1994,Ipswich Town,1-3,Queens Park Rangers
+Sat Mar 26 1994,Coventry City,2-1,Norwich City
+Sat Mar 26 1994,Arsenal,1-0,Liverpool
+Sat Mar 26 1994,Oldham Athletic,0-0,Manchester City
+Sun Mar 27 1994,Wimbledon,1-0,Leeds United
+Mon Mar 28 1994,Sheffield United,3-2,West Ham United
+Tue Mar 29 1994,Wimbledon,4-1,Blackburn Rovers
+Tue Mar 29 1994,Newcastle United,3-0,Norwich City
+Tue Mar 29 1994,Ipswich Town,2-2,Manchester City
+Wed Mar 30 1994,Aston Villa,0-0,Everton
+Wed Mar 30 1994,Southampton,1-3,Oldham Athletic
+Wed Mar 30 1994,Manchester United,1-0,Liverpool
+Wed Mar 30 1994,Sheffield Wednesday,3-1,Chelsea
+Fri Apr 1 1994,Leeds United,1-1,Newcastle United
+Sat Apr 2 1994,Manchester City,3-0,Aston Villa
+Sat Apr 2 1994,Sheffield Wednesday,5-1,Everton
+Sat Apr 2 1994,Norwich City,1-2,Tottenham Hotspur
+Sat Apr 2 1994,Arsenal,1-1,Swindon Town
+Sat Apr 2 1994,Coventry City,1-2,Wimbledon
+Sat Apr 2 1994,Liverpool,1-2,Sheffield United
+Sat Apr 2 1994,Oldham Athletic,4-1,Queens Park Rangers
+Sat Apr 2 1994,Chelsea,2-0,Southampton
+Sat Apr 2 1994,Blackburn Rovers,2-0,Manchester United
+Sat Apr 2 1994,West Ham United,2-1,Ipswich Town
+Mon Apr 4 1994,Manchester United,3-2,Oldham Athletic
+Mon Apr 4 1994,Tottenham Hotspur,1-4,West Ham United
+Mon Apr 4 1994,Queens Park Rangers,0-4,Leeds United
+Mon Apr 4 1994,Wimbledon,1-1,Liverpool
+Mon Apr 4 1994,Newcastle United,0-0,Chelsea
+Mon Apr 4 1994,Southampton,0-1,Manchester City
+Mon Apr 4 1994,Everton,0-3,Blackburn Rovers
+Mon Apr 4 1994,Ipswich Town,0-2,Coventry City
+Mon Apr 4 1994,Swindon Town,0-1,Sheffield Wednesday
+Mon Apr 4 1994,Aston Villa,0-0,Norwich City
+Mon Apr 4 1994,Sheffield United,1-1,Arsenal
+Sat Apr 9 1994,West Ham United,0-1,Everton
+Sat Apr 9 1994,Coventry City,1-0,Tottenham Hotspur
+Sat Apr 9 1994,Sheffield Wednesday,3-1,Queens Park Rangers
+Sat Apr 9 1994,Norwich City,4-5,Southampton
+Sat Apr 9 1994,Manchester City,2-1,Newcastle United
+Sat Apr 9 1994,Liverpool,1-0,Ipswich Town
+Mon Apr 11 1994,Blackburn Rovers,1-0,Aston Villa
+Wed Apr 13 1994,Queens Park Rangers,1-1,Chelsea
+Sat Apr 16 1994,Southampton,3-1,Blackburn Rovers
+Sat Apr 16 1994,Oldham Athletic,1-2,West Ham United
+Sat Apr 16 1994,Arsenal,1-0,Chelsea
+Sat Apr 16 1994,Ipswich Town,1-1,Swindon Town
+Sat Apr 16 1994,Liverpool,0-2,Newcastle United
+Sat Apr 16 1994,Coventry City,1-1,Sheffield Wednesday
+Sat Apr 16 1994,Manchester City,1-1,Norwich City
+Sat Apr 16 1994,Queens Park Rangers,2-1,Everton
+Sat Apr 16 1994,Sheffield United,1-2,Aston Villa
+Sat Apr 16 1994,Wimbledon,1-0,Manchester United
+Sun Apr 17 1994,Leeds United,2-0,Tottenham Hotspur
+Tue Apr 19 1994,Arsenal,1-1,Wimbledon
+Sat Apr 23 1994,Aston Villa,1-2,Arsenal
+Sat Apr 23 1994,Tottenham Hotspur,3-0,Southampton
+Sat Apr 23 1994,Chelsea,1-1,Leeds United
+Sat Apr 23 1994,Newcastle United,3-2,Oldham Athletic
+Sat Apr 23 1994,Manchester United,2-0,Manchester City
+Sat Apr 23 1994,Swindon Town,2-4,Wimbledon
+Sat Apr 23 1994,West Ham United,1-2,Liverpool
+Sat Apr 23 1994,Norwich City,0-1,Sheffield United
+Sat Apr 23 1994,Sheffield Wednesday,5-0,Ipswich Town
+Sat Apr 23 1994,Everton,0-0,Coventry City
+Sun Apr 24 1994,Blackburn Rovers,1-1,Queens Park Rangers
+Tue Apr 26 1994,Wimbledon,3-0,Oldham Athletic
+Wed Apr 27 1994,West Ham United,1-2,Blackburn Rovers
+Wed Apr 27 1994,Chelsea,2-0,Swindon Town
+Wed Apr 27 1994,Queens Park Rangers,1-1,Arsenal
+Wed Apr 27 1994,Leeds United,0-2,Manchester United
+Wed Apr 27 1994,Newcastle United,5-1,Aston Villa
+Sat Apr 30 1994,Sheffield United,2-0,Newcastle United
+Sat Apr 30 1994,Queens Park Rangers,1-3,Swindon Town
+Sat Apr 30 1994,Arsenal,0-2,West Ham United
+Sat Apr 30 1994,Wimbledon,2-1,Tottenham Hotspur
+Sat Apr 30 1994,Liverpool,0-1,Norwich City
+Sat Apr 30 1994,Leeds United,3-0,Everton
+Sat Apr 30 1994,Manchester City,2-2,Chelsea
+Sat Apr 30 1994,Southampton,4-1,Aston Villa
+Sat Apr 30 1994,Oldham Athletic,0-0,Sheffield Wednesday
+Sun May 1 1994,Ipswich Town,1-2,Manchester United
+Mon May 2 1994,Coventry City,2-1,Blackburn Rovers
+Tue May 3 1994,Queens Park Rangers,0-0,West Ham United
+Tue May 3 1994,Leeds United,2-2,Sheffield Wednesday
+Tue May 3 1994,Oldham Athletic,1-1,Sheffield United
+Wed May 4 1994,Manchester United,2-0,Southampton
+Wed May 4 1994,Chelsea,1-2,Coventry City
+Thu May 5 1994,Oldham Athletic,0-2,Tottenham Hotspur
+Sat May 7 1994,Norwich City,1-1,Oldham Athletic
+Sat May 7 1994,Newcastle United,2-0,Arsenal
+Sat May 7 1994,Aston Villa,2-1,Liverpool
+Sat May 7 1994,Tottenham Hotspur,1-2,Queens Park Rangers
+Sat May 7 1994,West Ham United,3-3,Southampton
+Sat May 7 1994,Chelsea,3-2,Sheffield United
+Sat May 7 1994,Sheffield Wednesday,1-1,Manchester City
+Sat May 7 1994,Everton,3-2,Wimbledon
+Sat May 7 1994,Swindon Town,0-5,Leeds United
+Sat May 7 1994,Blackburn Rovers,0-0,Ipswich Town
+Sun May 8 1994,Manchester United,0-0,Coventry City

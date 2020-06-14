@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 23 1986,Hull City,2-0,West Bromwich Albion
+Sat Aug 23 1986,Blackburn Rovers,2-1,Leeds United
+Sat Aug 23 1986,Derby County,0-1,Oldham Athletic
+Sat Aug 23 1986,Reading,0-1,Millwall
+Sat Aug 23 1986,Barnsley,2-3,Crystal Palace
+Sat Aug 23 1986,Sheffield United,1-1,Shrewsbury Town
+Sat Aug 23 1986,Brighton & Hove Albion,0-0,Portsmouth
+Sat Aug 23 1986,Huddersfield Town,0-2,Sunderland
+Sat Aug 23 1986,Stoke City,0-2,Birmingham City
+Sat Aug 23 1986,Ipswich Town,1-1,Grimsby Town
+Sat Aug 23 1986,Bradford City,2-2,Plymouth Argyle
+Mon Aug 25 1986,Birmingham City,2-1,Bradford City
+Mon Aug 25 1986,West Bromwich Albion,1-0,Sheffield United
+Mon Aug 25 1986,Leeds United,2-1,Stoke City
+Mon Aug 25 1986,Oldham Athletic,2-0,Barnsley
+Tue Aug 26 1986,Millwall,0-1,Hull City
+Sat Aug 30 1986,Oldham Athletic,0-0,Hull City
+Sat Aug 30 1986,Portsmouth,1-1,Ipswich Town
+Sat Aug 30 1986,Sunderland,1-1,Brighton & Hove Albion
+Sat Aug 30 1986,Plymouth Argyle,1-0,Reading
+Sat Aug 30 1986,West Bromwich Albion,1-0,Huddersfield Town
+Sat Aug 30 1986,Shrewsbury Town,0-1,Blackburn Rovers
+Sat Aug 30 1986,Crystal Palace,1-0,Stoke City
+Sat Aug 30 1986,Birmingham City,1-1,Derby County
+Sat Aug 30 1986,Millwall,1-0,Barnsley
+Sat Aug 30 1986,Grimsby Town,0-0,Bradford City
+Sat Aug 30 1986,Leeds United,0-1,Sheffield United
+Tue Sep 2 1986,Ipswich Town,0-1,Oldham Athletic
+Tue Sep 2 1986,Stoke City,1-1,West Bromwich Albion
+Tue Sep 2 1986,Hull City,0-2,Portsmouth
+Tue Sep 2 1986,Barnsley,0-1,Leeds United
+Tue Sep 2 1986,Sheffield United,2-1,Millwall
+Wed Sep 3 1986,Bradford City,1-2,Crystal Palace
+Wed Sep 3 1986,Brighton & Hove Albion,2-0,Birmingham City
+Sat Sep 6 1986,Stoke City,2-0,Millwall
+Sat Sep 6 1986,Ipswich Town,1-0,Shrewsbury Town
+Sat Sep 6 1986,Blackburn Rovers,6-1,Sunderland
+Sat Sep 6 1986,Bradford City,0-3,Oldham Athletic
+Sat Sep 6 1986,Sheffield United,1-1,Birmingham City
+Sat Sep 6 1986,Reading,1-1,West Bromwich Albion
+Sat Sep 6 1986,Brighton & Hove Albion,0-1,Grimsby Town
+Sat Sep 6 1986,Hull City,0-3,Plymouth Argyle
+Sat Sep 6 1986,Huddersfield Town,1-1,Leeds United
+Sat Sep 6 1986,Barnsley,0-2,Portsmouth
+Sat Sep 6 1986,Derby County,1-0,Crystal Palace
+Tue Sep 9 1986,Crystal Palace,1-0,Huddersfield Town
+Sat Sep 13 1986,Crystal Palace,1-2,Sheffield United
+Sat Sep 13 1986,Portsmouth,1-0,Blackburn Rovers
+Sat Sep 13 1986,Leeds United,3-2,Reading
+Sat Sep 13 1986,Shrewsbury Town,1-0,Barnsley
+Sat Sep 13 1986,Birmingham City,1-1,Huddersfield Town
+Sat Sep 13 1986,Millwall,1-2,Bradford City
+Sat Sep 13 1986,Sunderland,1-0,Hull City
+Sat Sep 13 1986,West Bromwich Albion,3-4,Ipswich Town
+Sat Sep 13 1986,Oldham Athletic,2-0,Stoke City
+Sat Sep 13 1986,Grimsby Town,0-1,Derby County
+Sat Sep 13 1986,Plymouth Argyle,2-2,Brighton & Hove Albion
+Tue Sep 16 1986,Shrewsbury Town,1-0,Brighton & Hove Albion
+Sat Sep 20 1986,Reading,3-1,Shrewsbury Town
+Sat Sep 20 1986,Huddersfield Town,5-4,Oldham Athletic
+Sat Sep 20 1986,Blackburn Rovers,0-2,Crystal Palace
+Sat Sep 20 1986,Ipswich Town,1-1,Sunderland
+Sat Sep 20 1986,Stoke City,1-1,Portsmouth
+Sat Sep 20 1986,Bradford City,2-0,Leeds United
+Sat Sep 20 1986,Sheffield United,1-2,Grimsby Town
+Sat Sep 20 1986,Derby County,1-1,Millwall
+Sat Sep 20 1986,Brighton & Hove Albion,2-0,West Bromwich Albion
+Sat Sep 20 1986,Barnsley,1-1,Plymouth Argyle
+Sat Sep 20 1986,Hull City,3-2,Birmingham City
+Sat Sep 27 1986,Millwall,2-2,Blackburn Rovers
+Sat Sep 27 1986,Leeds United,3-0,Hull City
+Sat Sep 27 1986,Portsmouth,1-0,Huddersfield Town
+Sat Sep 27 1986,Oldham Athletic,1-1,Brighton & Hove Albion
+Sat Sep 27 1986,Crystal Palace,1-3,Reading
+Sat Sep 27 1986,Shrewsbury Town,0-1,Bradford City
+Sat Sep 27 1986,Grimsby Town,0-1,Barnsley
+Sat Sep 27 1986,Birmingham City,2-2,Ipswich Town
+Sat Sep 27 1986,Sunderland,2-0,Stoke City
+Sat Sep 27 1986,West Bromwich Albion,2-0,Derby County
+Tue Sep 30 1986,Blackburn Rovers,1-2,Plymouth Argyle
+Wed Oct 1 1986,Reading,2-3,Grimsby Town
+Wed Oct 1 1986,Derby County,3-2,Sunderland
+Sat Oct 4 1986,Reading,4-0,Blackburn Rovers
+Sat Oct 4 1986,Crystal Palace,2-1,Millwall
+Sat Oct 4 1986,West Bromwich Albion,2-0,Oldham Athletic
+Sat Oct 4 1986,Bradford City,1-1,Sheffield United
+Sat Oct 4 1986,Huddersfield Town,2-0,Derby County
+Sat Oct 4 1986,Sunderland,0-0,Portsmouth
+Sat Oct 4 1986,Plymouth Argyle,1-1,Leeds United
+Sat Oct 4 1986,Brighton & Hove Albion,1-0,Stoke City
+Sat Oct 4 1986,Shrewsbury Town,4-1,Grimsby Town
+Sat Oct 4 1986,Hull City,2-1,Ipswich Town
+Sat Oct 4 1986,Birmingham City,1-1,Barnsley
+Sat Oct 11 1986,Sheffield United,3-3,Reading
+Sat Oct 11 1986,Leeds United,3-0,Crystal Palace
+Sat Oct 11 1986,Derby County,1-1,Hull City
+Sat Oct 11 1986,Stoke City,2-0,Huddersfield Town
+Sat Oct 11 1986,Barnsley,2-0,Bradford City
+Sat Oct 11 1986,Millwall,4-0,Shrewsbury Town
+Sat Oct 11 1986,Blackburn Rovers,0-1,West Bromwich Albion
+Sat Oct 11 1986,Ipswich Town,1-0,Brighton & Hove Albion
+Sat Oct 11 1986,Oldham Athletic,1-1,Sunderland
+Sat Oct 11 1986,Grimsby Town,1-1,Plymouth Argyle
+Sat Oct 11 1986,Portsmouth,2-0,Birmingham City
+Tue Oct 14 1986,Plymouth Argyle,1-0,Sheffield United
+Fri Oct 17 1986,Oldham Athletic,2-1,Millwall
+Sat Oct 18 1986,Stoke City,1-0,Blackburn Rovers
+Sat Oct 18 1986,Leeds United,3-1,Portsmouth
+Sat Oct 18 1986,Hull City,0-2,Reading
+Sat Oct 18 1986,Bradford City,3-4,Ipswich Town
+Sat Oct 18 1986,Birmingham City,4-1,Crystal Palace
+Sat Oct 18 1986,West Bromwich Albion,1-1,Grimsby Town
+Sat Oct 18 1986,Shrewsbury Town,0-1,Derby County
+Sat Oct 18 1986,Brighton & Hove Albion,1-1,Barnsley
+Sat Oct 18 1986,Plymouth Argyle,2-4,Sunderland
+Sat Oct 18 1986,Sheffield United,0-0,Huddersfield Town
+Tue Oct 21 1986,Huddersfield Town,2-1,Shrewsbury Town
+Tue Oct 21 1986,Sunderland,1-1,Reading
+Tue Oct 21 1986,Portsmouth,3-1,Derby County
+Tue Oct 21 1986,Plymouth Argyle,2-0,Ipswich Town
+Sat Oct 25 1986,Derby County,4-1,Brighton & Hove Albion
+Sat Oct 25 1986,Barnsley,2-2,Sheffield United
+Sat Oct 25 1986,Crystal Palace,2-3,Shrewsbury Town
+Sat Oct 25 1986,Ipswich Town,2-0,Stoke City
+Sat Oct 25 1986,Portsmouth,2-1,West Bromwich Albion
+Sat Oct 25 1986,Huddersfield Town,1-3,Hull City
+Sat Oct 25 1986,Reading,2-3,Oldham Athletic
+Sat Oct 25 1986,Grimsby Town,0-0,Leeds United
+Sat Oct 25 1986,Sunderland,2-0,Birmingham City
+Sat Oct 25 1986,Millwall,3-1,Plymouth Argyle
+Sat Nov 1 1986,Brighton & Hove Albion,2-1,Hull City
+Sat Nov 1 1986,Leeds United,1-0,Shrewsbury Town
+Sat Nov 1 1986,Sheffield United,2-1,Sunderland
+Sat Nov 1 1986,Stoke City,0-2,Derby County
+Sat Nov 1 1986,Plymouth Argyle,3-1,Crystal Palace
+Sat Nov 1 1986,Grimsby Town,1-0,Millwall
+Sat Nov 1 1986,Ipswich Town,3-0,Huddersfield Town
+Sat Nov 1 1986,West Bromwich Albion,3-2,Birmingham City
+Sat Nov 1 1986,Bradford City,3-0,Reading
+Sat Nov 1 1986,Oldham Athletic,0-0,Portsmouth
+Sat Nov 1 1986,Barnsley,1-1,Blackburn Rovers
+Sat Nov 8 1986,Huddersfield Town,2-1,Brighton & Hove Albion
+Sat Nov 8 1986,Birmingham City,1-3,Oldham Athletic
+Sat Nov 8 1986,Shrewsbury Town,1-1,Plymouth Argyle
+Sat Nov 8 1986,Sunderland,0-3,West Bromwich Albion
+Sat Nov 8 1986,Reading,0-0,Barnsley
+Sat Nov 8 1986,Millwall,1-0,Leeds United
+Sat Nov 8 1986,Blackburn Rovers,0-2,Sheffield United
+Sat Nov 8 1986,Derby County,2-1,Ipswich Town
+Sat Nov 8 1986,Hull City,0-4,Stoke City
+Sat Nov 8 1986,Portsmouth,2-1,Bradford City
+Sat Nov 8 1986,Crystal Palace,0-3,Grimsby Town
+Sat Nov 15 1986,Reading,2-1,Brighton & Hove Albion
+Sat Nov 15 1986,Millwall,0-2,Birmingham City
+Sat Nov 15 1986,Plymouth Argyle,1-0,West Bromwich Albion
+Sat Nov 15 1986,Crystal Palace,3-3,Ipswich Town
+Sat Nov 15 1986,Leeds United,0-2,Oldham Athletic
+Sat Nov 15 1986,Blackburn Rovers,0-2,Hull City
+Sat Nov 15 1986,Shrewsbury Town,1-0,Portsmouth
+Sat Nov 15 1986,Bradford City,4-3,Huddersfield Town
+Sat Nov 15 1986,Grimsby Town,1-1,Sunderland
+Sat Nov 15 1986,Barnsley,0-1,Derby County
+Sat Nov 15 1986,Sheffield United,3-1,Stoke City
+Fri Nov 21 1986,Birmingham City,2-1,Leeds United
+Sat Nov 22 1986,Sunderland,1-1,Shrewsbury Town
+Sat Nov 22 1986,Hull City,2-1,Bradford City
+Sat Nov 22 1986,Oldham Athletic,1-0,Crystal Palace
+Sat Nov 22 1986,West Bromwich Albion,0-1,Millwall
+Sat Nov 22 1986,Stoke City,3-0,Reading
+Sat Nov 22 1986,Portsmouth,2-1,Grimsby Town
+Sat Nov 22 1986,Huddersfield Town,1-2,Plymouth Argyle
+Sat Nov 22 1986,Derby County,2-0,Sheffield United
+Sat Nov 22 1986,Brighton & Hove Albion,0-2,Blackburn Rovers
+Sat Nov 22 1986,Ipswich Town,1-0,Barnsley
+Sat Nov 29 1986,Shrewsbury Town,3-0,Hull City
+Sat Nov 29 1986,Grimsby Town,0-1,Birmingham City
+Sat Nov 29 1986,Blackburn Rovers,0-0,Ipswich Town
+Sat Nov 29 1986,Bradford City,1-4,Stoke City
+Sat Nov 29 1986,Crystal Palace,2-0,Sunderland
+Sat Nov 29 1986,Leeds United,2-0,Derby County
+Sat Nov 29 1986,Barnsley,2-2,West Bromwich Albion
+Sat Nov 29 1986,Sheffield United,0-1,Brighton & Hove Albion
+Sat Nov 29 1986,Millwall,1-1,Portsmouth
+Sat Nov 29 1986,Plymouth Argyle,3-2,Oldham Athletic
+Tue Dec 2 1986,Grimsby Town,1-0,Blackburn Rovers
+Sat Dec 6 1986,Birmingham City,1-1,Blackburn Rovers
+Sat Dec 6 1986,Portsmouth,2-0,Crystal Palace
+Sat Dec 6 1986,Stoke City,1-0,Plymouth Argyle
+Sat Dec 6 1986,Sunderland,1-1,Millwall
+Sat Dec 6 1986,West Bromwich Albion,3-0,Leeds United
+Sat Dec 6 1986,Hull City,1-1,Grimsby Town
+Sat Dec 6 1986,Derby County,3-0,Reading
+Sat Dec 6 1986,Oldham Athletic,3-0,Shrewsbury Town
+Sat Dec 6 1986,Ipswich Town,2-2,Sheffield United
+Sat Dec 6 1986,Brighton & Hove Albion,2-2,Bradford City
+Fri Dec 12 1986,Bradford City,1-3,West Bromwich Albion
+Sat Dec 13 1986,Shrewsbury Town,1-0,Birmingham City
+Sat Dec 13 1986,Grimsby Town,1-1,Stoke City
+Sat Dec 13 1986,Leeds United,3-1,Brighton & Hove Albion
+Sat Dec 13 1986,Crystal Palace,5-1,Hull City
+Sat Dec 13 1986,Reading,1-4,Ipswich Town
+Sat Dec 13 1986,Sheffield United,1-0,Portsmouth
+Sat Dec 13 1986,Plymouth Argyle,1-1,Derby County
+Sat Dec 13 1986,Millwall,4-0,Huddersfield Town
+Sat Dec 13 1986,Barnsley,1-0,Sunderland
+Fri Dec 19 1986,Birmingham City,2-1,Sheffield United
+Fri Dec 19 1986,West Bromwich Albion,1-2,Reading
+Fri Dec 19 1986,Ipswich Town,3-0,Plymouth Argyle
+Sat Dec 20 1986,Portsmouth,2-1,Barnsley
+Sat Dec 20 1986,Huddersfield Town,1-2,Crystal Palace
+Sun Dec 21 1986,Derby County,4-0,Grimsby Town
+Sun Dec 21 1986,Sunderland,3-0,Blackburn Rovers
+Sun Dec 21 1986,Oldham Athletic,2-1,Bradford City
+Sun Dec 21 1986,Brighton & Hove Albion,3-0,Shrewsbury Town
+Sun Dec 21 1986,Stoke City,7-2,Leeds United
+Fri Dec 26 1986,Leeds United,1-1,Sunderland
+Fri Dec 26 1986,Reading,2-2,Birmingham City
+Fri Dec 26 1986,Sheffield United,4-2,Hull City
+Fri Dec 26 1986,Bradford City,0-1,Derby County
+Fri Dec 26 1986,Grimsby Town,2-2,Oldham Athletic
+Fri Dec 26 1986,Shrewsbury Town,1-0,West Bromwich Albion
+Fri Dec 26 1986,Crystal Palace,2-0,Brighton & Hove Albion
+Fri Dec 26 1986,Barnsley,0-2,Stoke City
+Fri Dec 26 1986,Millwall,1-0,Ipswich Town
+Fri Dec 26 1986,Blackburn Rovers,1-2,Huddersfield Town
+Fri Dec 26 1986,Plymouth Argyle,2-3,Portsmouth
+Sat Dec 27 1986,Hull City,0-0,Blackburn Rovers
+Sat Dec 27 1986,Sunderland,0-1,Grimsby Town
+Sat Dec 27 1986,Huddersfield Town,5-2,Bradford City
+Sat Dec 27 1986,Derby County,3-2,Barnsley
+Sat Dec 27 1986,Brighton & Hove Albion,1-1,Reading
+Sat Dec 27 1986,West Bromwich Albion,0-0,Plymouth Argyle
+Sat Dec 27 1986,Oldham Athletic,0-1,Leeds United
+Sat Dec 27 1986,Ipswich Town,3-0,Crystal Palace
+Sat Dec 27 1986,Stoke City,5-2,Sheffield United
+Mon Dec 29 1986,Birmingham City,1-1,Millwall
+Mon Dec 29 1986,Portsmouth,3-0,Shrewsbury Town
+Thu Jan 1 1987,Brighton & Hove Albion,0-1,Millwall
+Thu Jan 1 1987,Ipswich Town,2-0,Leeds United
+Thu Jan 1 1987,Hull City,3-4,Barnsley
+Thu Jan 1 1987,Huddersfield Town,0-0,Grimsby Town
+Thu Jan 1 1987,Birmingham City,3-2,Plymouth Argyle
+Thu Jan 1 1987,Oldham Athletic,3-1,Sheffield United
+Thu Jan 1 1987,West Bromwich Albion,1-2,Crystal Palace
+Thu Jan 1 1987,Portsmouth,1-0,Reading
+Thu Jan 1 1987,Stoke City,1-0,Shrewsbury Town
+Sat Jan 3 1987,Grimsby Town,1-2,Brighton & Hove Albion
+Sat Jan 3 1987,Bradford City,0-0,Birmingham City
+Sat Jan 3 1987,Sheffield United,1-1,West Bromwich Albion
+Sat Jan 3 1987,Plymouth Argyle,4-0,Hull City
+Sat Jan 3 1987,Leeds United,1-1,Huddersfield Town
+Sat Jan 3 1987,Crystal Palace,1-0,Derby County
+Sat Jan 3 1987,Millwall,1-1,Stoke City
+Sat Jan 3 1987,Blackburn Rovers,1-0,Portsmouth
+Sat Jan 3 1987,Shrewsbury Town,2-1,Ipswich Town
+Sat Jan 3 1987,Barnsley,1-1,Oldham Athletic
+Sat Jan 17 1987,Bradford City,4-0,Millwall
+Sat Jan 17 1987,Blackburn Rovers,2-2,Grimsby Town
+Sat Jan 24 1987,Plymouth Argyle,3-2,Bradford City
+Sat Jan 24 1987,Shrewsbury Town,1-0,Sheffield United
+Sat Jan 24 1987,Oldham Athletic,1-4,Derby County
+Sat Jan 24 1987,Leeds United,0-0,Blackburn Rovers
+Sat Jan 24 1987,Crystal Palace,0-1,Barnsley
+Sat Jan 24 1987,West Bromwich Albion,1-1,Hull City
+Sat Jan 24 1987,Birmingham City,0-0,Stoke City
+Sat Jan 24 1987,Portsmouth,1-0,Brighton & Hove Albion
+Sat Jan 24 1987,Grimsby Town,1-1,Ipswich Town
+Sat Jan 24 1987,Millwall,2-1,Reading
+Sat Jan 24 1987,Sunderland,2-1,Huddersfield Town
+Sat Jan 31 1987,Reading,1-0,Sunderland
+Sat Jan 31 1987,Blackburn Rovers,1-0,Oldham Athletic
+Sat Feb 7 1987,Stoke City,3-1,Crystal Palace
+Sat Feb 7 1987,Reading,2-0,Plymouth Argyle
+Sat Feb 7 1987,Derby County,2-2,Birmingham City
+Sat Feb 7 1987,Hull City,1-0,Oldham Athletic
+Sat Feb 7 1987,Huddersfield Town,2-1,West Bromwich Albion
+Sat Feb 7 1987,Sheffield United,0-0,Leeds United
+Sat Feb 7 1987,Brighton & Hove Albion,0-3,Sunderland
+Sat Feb 7 1987,Barnsley,1-0,Millwall
+Sat Feb 7 1987,Ipswich Town,0-1,Portsmouth
+Sat Feb 7 1987,Blackburn Rovers,2-1,Shrewsbury Town
+Sat Feb 7 1987,Bradford City,4-2,Grimsby Town
+Sat Feb 14 1987,Leeds United,2-2,Barnsley
+Sat Feb 14 1987,Oldham Athletic,2-1,Ipswich Town
+Sat Feb 14 1987,Sunderland,1-2,Derby County
+Sat Feb 14 1987,Millwall,1-0,Sheffield United
+Sat Feb 14 1987,Shrewsbury Town,1-2,Huddersfield Town
+Sat Feb 14 1987,Birmingham City,2-0,Brighton & Hove Albion
+Sat Feb 14 1987,Plymouth Argyle,1-1,Blackburn Rovers
+Sat Feb 14 1987,Portsmouth,1-0,Hull City
+Sat Feb 14 1987,West Bromwich Albion,4-1,Stoke City
+Sat Feb 14 1987,Crystal Palace,1-1,Bradford City
+Sat Feb 14 1987,Grimsby Town,3-2,Reading
+Tue Feb 17 1987,Reading,3-2,Huddersfield Town
+Sat Feb 21 1987,Blackburn Rovers,1-0,Millwall
+Sat Feb 21 1987,Sheffield United,2-1,Plymouth Argyle
+Sat Feb 21 1987,Reading,1-0,Crystal Palace
+Sat Feb 21 1987,Derby County,1-1,West Bromwich Albion
+Sat Feb 21 1987,Ipswich Town,3-0,Birmingham City
+Sat Feb 21 1987,Huddersfield Town,2-0,Portsmouth
+Sat Feb 21 1987,Bradford City,0-0,Shrewsbury Town
+Sat Feb 21 1987,Brighton & Hove Albion,1-2,Oldham Athletic
+Tue Feb 24 1987,Barnsley,1-0,Grimsby Town
+Sat Feb 28 1987,Sunderland,1-0,Ipswich Town
+Sat Feb 28 1987,West Bromwich Albion,0-0,Brighton & Hove Albion
+Sat Feb 28 1987,Millwall,0-1,Derby County
+Sat Feb 28 1987,Crystal Palace,2-0,Blackburn Rovers
+Sat Feb 28 1987,Leeds United,1-0,Bradford City
+Sat Feb 28 1987,Shrewsbury Town,0-0,Reading
+Sat Feb 28 1987,Grimsby Town,1-0,Sheffield United
+Sat Feb 28 1987,Oldham Athletic,2-0,Huddersfield Town
+Sat Feb 28 1987,Birmingham City,0-0,Hull City
+Sat Feb 28 1987,Portsmouth,3-0,Stoke City
+Sat Feb 28 1987,Plymouth Argyle,2-0,Barnsley
+Tue Mar 3 1987,Barnsley,2-1,Shrewsbury Town
+Tue Mar 3 1987,Hull City,1-0,Sunderland
+Tue Mar 3 1987,Ipswich Town,1-0,West Bromwich Albion
+Tue Mar 3 1987,Huddersfield Town,2-2,Birmingham City
+Wed Mar 4 1987,Derby County,0-0,Portsmouth
+Fri Mar 6 1987,Oldham Athletic,4-0,Reading
+Sat Mar 7 1987,Plymouth Argyle,1-0,Millwall
+Sat Mar 7 1987,Leeds United,2-0,Grimsby Town
+Sat Mar 7 1987,Sheffield United,1-0,Barnsley
+Sat Mar 7 1987,Hull City,0-0,Huddersfield Town
+Sat Mar 7 1987,Bradford City,2-0,Blackburn Rovers
+Sat Mar 7 1987,Brighton & Hove Albion,0-1,Derby County
+Tue Mar 10 1987,Portsmouth,1-1,Leeds United
+Sat Mar 14 1987,Reading,1-0,Hull City
+Sat Mar 14 1987,Huddersfield Town,1-1,Sheffield United
+Sat Mar 14 1987,Millwall,0-0,Oldham Athletic
+Sat Mar 14 1987,Sunderland,2-1,Plymouth Argyle
+Sat Mar 14 1987,Crystal Palace,6-0,Birmingham City
+Sat Mar 14 1987,Derby County,3-1,Shrewsbury Town
+Sat Mar 14 1987,Barnsley,3-1,Brighton & Hove Albion
+Sat Mar 14 1987,Blackburn Rovers,2-1,Stoke City
+Sat Mar 14 1987,Ipswich Town,1-0,Bradford City
+Sat Mar 14 1987,Grimsby Town,3-1,West Bromwich Albion
+Tue Mar 17 1987,Stoke City,3-0,Sunderland
+Tue Mar 17 1987,Sheffield United,1-0,Crystal Palace
+Wed Mar 18 1987,Derby County,3-2,Blackburn Rovers
+Sat Mar 21 1987,Plymouth Argyle,5-0,Grimsby Town
+Sat Mar 21 1987,Hull City,1-1,Derby County
+Sat Mar 21 1987,Crystal Palace,1-0,Leeds United
+Sat Mar 21 1987,Bradford City,0-0,Barnsley
+Sat Mar 21 1987,Reading,2-0,Sheffield United
+Sat Mar 21 1987,Sunderland,0-2,Oldham Athletic
+Sat Mar 21 1987,Huddersfield Town,2-2,Stoke City
+Sat Mar 21 1987,Shrewsbury Town,1-2,Millwall
+Sat Mar 21 1987,Brighton & Hove Albion,1-2,Ipswich Town
+Sat Mar 21 1987,West Bromwich Albion,0-1,Blackburn Rovers
+Sat Mar 21 1987,Birmingham City,0-1,Portsmouth
+Tue Mar 24 1987,Shrewsbury Town,0-0,Crystal Palace
+Tue Mar 24 1987,Blackburn Rovers,2-1,Bradford City
+Wed Mar 25 1987,Stoke City,0-0,Ipswich Town
+Sat Mar 28 1987,Barnsley,2-2,Birmingham City
+Sat Mar 28 1987,Millwall,0-1,Crystal Palace
+Sat Mar 28 1987,Oldham Athletic,2-1,West Bromwich Albion
+Sat Mar 28 1987,Grimsby Town,0-1,Shrewsbury Town
+Sat Mar 28 1987,Leeds United,4-0,Plymouth Argyle
+Sat Mar 28 1987,Stoke City,1-1,Brighton & Hove Albion
+Sat Mar 28 1987,Sheffield United,2-2,Bradford City
+Sat Mar 28 1987,Portsmouth,3-1,Sunderland
+Sat Mar 28 1987,Ipswich Town,0-0,Hull City
+Tue Mar 31 1987,Birmingham City,2-0,Sunderland
+Tue Mar 31 1987,Huddersfield Town,2-2,Barnsley
+Fri Apr 3 1987,Brighton & Hove Albion,1-1,Huddersfield Town
+Sat Apr 4 1987,Sheffield United,4-1,Blackburn Rovers
+Sat Apr 4 1987,Grimsby Town,0-1,Crystal Palace
+Sat Apr 4 1987,Ipswich Town,0-2,Derby County
+Sat Apr 4 1987,Plymouth Argyle,3-2,Shrewsbury Town
+Sat Apr 4 1987,Oldham Athletic,2-2,Birmingham City
+Sat Apr 4 1987,Leeds United,2-0,Millwall
+Sat Apr 4 1987,Bradford City,1-0,Portsmouth
+Sat Apr 4 1987,Barnsley,2-0,Reading
+Sat Apr 4 1987,West Bromwich Albion,2-2,Sunderland
+Sat Apr 4 1987,Stoke City,1-1,Hull City
+Tue Apr 7 1987,Brighton & Hove Albion,1-1,Plymouth Argyle
+Wed Apr 8 1987,Hull City,0-0,Leeds United
+Wed Apr 8 1987,Derby County,2-0,Huddersfield Town
+Sat Apr 11 1987,Crystal Palace,0-0,Plymouth Argyle
+Sat Apr 11 1987,Millwall,1-0,Grimsby Town
+Sat Apr 11 1987,Derby County,0-0,Stoke City
+Sat Apr 11 1987,Reading,0-1,Bradford City
+Sat Apr 11 1987,Huddersfield Town,1-2,Ipswich Town
+Sat Apr 11 1987,Sunderland,1-2,Sheffield United
+Sat Apr 11 1987,Portsmouth,3-0,Oldham Athletic
+Sat Apr 11 1987,Blackburn Rovers,4-2,Barnsley
+Sun Apr 12 1987,Birmingham City,0-1,West Bromwich Albion
+Tue Apr 14 1987,Blackburn Rovers,0-0,Reading
+Tue Apr 14 1987,Hull City,2-1,Millwall
+Tue Apr 14 1987,Shrewsbury Town,0-2,Leeds United
+Fri Apr 17 1987,Blackburn Rovers,3-1,Derby County
+Sat Apr 18 1987,Shrewsbury Town,4-1,Stoke City
+Sat Apr 18 1987,Sheffield United,2-0,Oldham Athletic
+Sat Apr 18 1987,Grimsby Town,0-1,Huddersfield Town
+Sat Apr 18 1987,Plymouth Argyle,0-0,Birmingham City
+Sat Apr 18 1987,Bradford City,3-2,Sunderland
+Sat Apr 18 1987,Millwall,3-1,Brighton & Hove Albion
+Sat Apr 18 1987,Barnsley,1-1,Hull City
+Sat Apr 18 1987,Crystal Palace,1-1,West Bromwich Albion
+Sat Apr 18 1987,Leeds United,3-2,Ipswich Town
+Sat Apr 18 1987,Reading,2-2,Portsmouth
+Mon Apr 20 1987,Hull City,0-0,Sheffield United
+Mon Apr 20 1987,Stoke City,1-2,Barnsley
+Mon Apr 20 1987,Derby County,1-0,Bradford City
+Mon Apr 20 1987,West Bromwich Albion,1-2,Shrewsbury Town
+Mon Apr 20 1987,Sunderland,1-1,Leeds United
+Mon Apr 20 1987,Portsmouth,0-1,Plymouth Argyle
+Mon Apr 20 1987,Brighton & Hove Albion,2-0,Crystal Palace
+Mon Apr 20 1987,Birmingham City,1-1,Reading
+Mon Apr 20 1987,Huddersfield Town,1-2,Blackburn Rovers
+Tue Apr 21 1987,Ipswich Town,0-0,Millwall
+Tue Apr 21 1987,Oldham Athletic,1-1,Grimsby Town
+Wed Apr 22 1987,Reading,2-1,Leeds United
+Sat Apr 25 1987,Shrewsbury Town,0-1,Sunderland
+Sat Apr 25 1987,Reading,0-1,Stoke City
+Sat Apr 25 1987,Grimsby Town,0-2,Portsmouth
+Sat Apr 25 1987,Leeds United,4-0,Birmingham City
+Sat Apr 25 1987,Plymouth Argyle,1-1,Huddersfield Town
+Sat Apr 25 1987,Barnsley,2-1,Ipswich Town
+Sat Apr 25 1987,Bradford City,2-0,Hull City
+Sat Apr 25 1987,Millwall,0-1,West Bromwich Albion
+Sat Apr 25 1987,Crystal Palace,2-1,Oldham Athletic
+Sat Apr 25 1987,Blackburn Rovers,1-1,Brighton & Hove Albion
+Sat Apr 25 1987,Sheffield United,0-1,Derby County
+Tue Apr 28 1987,Stoke City,0-2,Oldham Athletic
+Tue Apr 28 1987,Hull City,1-0,Brighton & Hove Albion
+Tue Apr 28 1987,Sunderland,2-3,Bradford City
+Wed Apr 29 1987,West Bromwich Albion,1-0,Portsmouth
+Sat May 2 1987,Sunderland,1-0,Crystal Palace
+Sat May 2 1987,Oldham Athletic,2-1,Plymouth Argyle
+Sat May 2 1987,Ipswich Town,3-1,Blackburn Rovers
+Sat May 2 1987,Stoke City,2-3,Bradford City
+Sat May 2 1987,Brighton & Hove Albion,2-0,Sheffield United
+Sat May 2 1987,Hull City,3-0,Shrewsbury Town
+Sat May 2 1987,Derby County,2-1,Leeds United
+Sat May 2 1987,West Bromwich Albion,0-1,Barnsley
+Sat May 2 1987,Huddersfield Town,2-0,Reading
+Sat May 2 1987,Portsmouth,2-0,Millwall
+Sat May 2 1987,Birmingham City,1-0,Grimsby Town
+Mon May 4 1987,Plymouth Argyle,1-3,Stoke City
+Mon May 4 1987,Reading,2-0,Derby County
+Mon May 4 1987,Leeds United,3-2,West Bromwich Albion
+Mon May 4 1987,Crystal Palace,1-0,Portsmouth
+Mon May 4 1987,Barnsley,0-1,Huddersfield Town
+Mon May 4 1987,Sheffield United,0-0,Ipswich Town
+Mon May 4 1987,Bradford City,2-0,Brighton & Hove Albion
+Tue May 5 1987,Blackburn Rovers,1-0,Birmingham City
+Tue May 5 1987,Millwall,1-1,Sunderland
+Tue May 5 1987,Grimsby Town,2-2,Hull City
+Tue May 5 1987,Shrewsbury Town,2-0,Oldham Athletic
+Sat May 9 1987,Brighton & Hove Albion,0-1,Leeds United
+Sat May 9 1987,Birmingham City,0-2,Shrewsbury Town
+Sat May 9 1987,Stoke City,5-1,Grimsby Town
+Sat May 9 1987,Portsmouth,1-2,Sheffield United
+Sat May 9 1987,Ipswich Town,1-1,Reading
+Sat May 9 1987,Huddersfield Town,3-0,Millwall
+Sat May 9 1987,Hull City,3-0,Crystal Palace
+Sat May 9 1987,Sunderland,2-3,Barnsley
+Sat May 9 1987,West Bromwich Albion,2-2,Bradford City
+Sat May 9 1987,Derby County,4-2,Plymouth Argyle
+Sat May 9 1987,Oldham Athletic,3-0,Blackburn Rovers

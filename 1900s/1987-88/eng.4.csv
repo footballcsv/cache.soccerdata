@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 15 1987,Burnley,0-3,Colchester United
+Sat Aug 15 1987,Cardiff City,1-1,Leyton Orient
+Sat Aug 15 1987,Scarborough,2-2,Wolverhampton Wanderers
+Sat Aug 15 1987,Hartlepool United,0-0,Newport County
+Sat Aug 15 1987,Stockport County,0-2,Swansea City
+Sat Aug 15 1987,Bolton Wanderers,1-1,Crewe Alexandra
+Sat Aug 15 1987,Exeter City,3-0,Cambridge United
+Sat Aug 15 1987,Halifax Town,2-2,Darlington
+Sat Aug 15 1987,Peterborough United,1-0,Carlisle United
+Sat Aug 15 1987,Hereford United,0-0,Rochdale
+Sat Aug 15 1987,Torquay United,6-1,Wrexham
+Sat Aug 15 1987,Scunthorpe United,3-0,Tranmere Rovers
+Fri Aug 21 1987,Colchester United,0-1,Torquay United
+Fri Aug 21 1987,Tranmere Rovers,0-1,Hereford United
+Sat Aug 22 1987,Rochdale,1-1,Peterborough United
+Sat Aug 22 1987,Carlisle United,3-1,Scunthorpe United
+Sat Aug 22 1987,Wolverhampton Wanderers,0-1,Halifax Town
+Sat Aug 22 1987,Leyton Orient,3-1,Scarborough
+Sat Aug 22 1987,Darlington,1-2,Stockport County
+Sat Aug 22 1987,Swansea City,0-2,Exeter City
+Sat Aug 22 1987,Cambridge United,4-1,Crewe Alexandra
+Sat Aug 22 1987,Bolton Wanderers,1-0,Cardiff City
+Sat Aug 22 1987,Newport County,0-1,Burnley
+Sat Aug 22 1987,Wrexham,2-1,Hartlepool United
+Fri Aug 28 1987,Stockport County,1-2,Tranmere Rovers
+Fri Aug 28 1987,Halifax Town,1-2,Rochdale
+Sat Aug 29 1987,Scarborough,4-0,Bolton Wanderers
+Sat Aug 29 1987,Burnley,4-3,Carlisle United
+Sat Aug 29 1987,Torquay United,1-1,Leyton Orient
+Sat Aug 29 1987,Scunthorpe United,2-2,Colchester United
+Sat Aug 29 1987,Hereford United,1-2,Wolverhampton Wanderers
+Sat Aug 29 1987,Peterborough United,1-0,Cambridge United
+Sat Aug 29 1987,Cardiff City,1-0,Swansea City
+Sat Aug 29 1987,Hartlepool United,2-5,Darlington
+Sat Aug 29 1987,Crewe Alexandra,2-0,Wrexham
+Sat Aug 29 1987,Exeter City,3-0,Newport County
+Mon Aug 31 1987,Newport County,1-2,Stockport County
+Mon Aug 31 1987,Wrexham,2-2,Halifax Town
+Mon Aug 31 1987,Swansea City,2-1,Hartlepool United
+Mon Aug 31 1987,Carlisle United,3-1,Hereford United
+Mon Aug 31 1987,Tranmere Rovers,2-1,Exeter City
+Mon Aug 31 1987,Wolverhampton Wanderers,4-1,Scunthorpe United
+Mon Aug 31 1987,Bolton Wanderers,2-0,Peterborough United
+Mon Aug 31 1987,Rochdale,2-2,Crewe Alexandra
+Mon Aug 31 1987,Colchester United,1-3,Scarborough
+Mon Aug 31 1987,Darlington,1-1,Torquay United
+Tue Sep 1 1987,Leyton Orient,4-1,Burnley
+Tue Sep 1 1987,Cambridge United,0-0,Cardiff City
+Fri Sep 4 1987,Crewe Alexandra,0-0,Colchester United
+Fri Sep 4 1987,Stockport County,3-0,Carlisle United
+Sat Sep 5 1987,Burnley,1-0,Swansea City
+Sat Sep 5 1987,Cardiff City,3-2,Wolverhampton Wanderers
+Sat Sep 5 1987,Torquay United,0-1,Cambridge United
+Sat Sep 5 1987,Hereford United,0-3,Bolton Wanderers
+Sat Sep 5 1987,Halifax Town,3-1,Newport County
+Sat Sep 5 1987,Exeter City,1-1,Wrexham
+Sat Sep 5 1987,Hartlepool United,2-2,Leyton Orient
+Sat Sep 5 1987,Scarborough,2-0,Tranmere Rovers
+Sat Sep 5 1987,Scunthorpe United,1-0,Rochdale
+Sat Sep 5 1987,Peterborough United,1-2,Darlington
+Fri Sep 11 1987,Tranmere Rovers,0-1,Burnley
+Sat Sep 12 1987,Leyton Orient,2-3,Exeter City
+Sat Sep 12 1987,Cambridge United,3-3,Scunthorpe United
+Sat Sep 12 1987,Carlisle United,1-3,Hartlepool United
+Sat Sep 12 1987,Rochdale,0-1,Stockport County
+Sat Sep 12 1987,Wrexham,3-0,Cardiff City
+Sat Sep 12 1987,Bolton Wanderers,2-0,Halifax Town
+Sat Sep 12 1987,Darlington,2-1,Scarborough
+Sat Sep 12 1987,Colchester United,4-1,Peterborough United
+Sat Sep 12 1987,Swansea City,3-0,Hereford United
+Sat Sep 12 1987,Newport County,3-1,Torquay United
+Sat Sep 12 1987,Wolverhampton Wanderers,2-2,Crewe Alexandra
+Tue Sep 15 1987,Stockport County,1-2,Leyton Orient
+Tue Sep 15 1987,Scunthorpe United,1-1,Bolton Wanderers
+Tue Sep 15 1987,Crewe Alexandra,0-0,Tranmere Rovers
+Tue Sep 15 1987,Cardiff City,3-1,Darlington
+Tue Sep 15 1987,Burnley,1-0,Wrexham
+Tue Sep 15 1987,Torquay United,5-0,Rochdale
+Wed Sep 16 1987,Halifax Town,3-1,Swansea City
+Wed Sep 16 1987,Exeter City,1-1,Carlisle United
+Wed Sep 16 1987,Hereford United,1-0,Colchester United
+Wed Sep 16 1987,Peterborough United,1-1,Wolverhampton Wanderers
+Wed Sep 16 1987,Scarborough,3-1,Newport County
+Wed Sep 16 1987,Hartlepool United,2-1,Cambridge United
+Fri Sep 18 1987,Halifax Town,2-1,Tranmere Rovers
+Fri Sep 18 1987,Crewe Alexandra,3-3,Leyton Orient
+Sat Sep 19 1987,Hereford United,1-0,Darlington
+Sat Sep 19 1987,Scunthorpe United,3-1,Newport County
+Sat Sep 19 1987,Torquay United,2-1,Bolton Wanderers
+Sat Sep 19 1987,Scarborough,2-0,Swansea City
+Sat Sep 19 1987,Exeter City,1-1,Rochdale
+Sat Sep 19 1987,Cardiff City,4-2,Carlisle United
+Sat Sep 19 1987,Burnley,0-2,Cambridge United
+Sat Sep 19 1987,Stockport County,0-2,Wolverhampton Wanderers
+Sat Sep 19 1987,Hartlepool United,3-1,Colchester United
+Sat Sep 19 1987,Peterborough United,1-0,Wrexham
+Fri Sep 25 1987,Tranmere Rovers,0-1,Cardiff City
+Fri Sep 25 1987,Colchester United,0-2,Exeter City
+Sat Sep 26 1987,Leyton Orient,2-0,Peterborough United
+Sat Sep 26 1987,Wrexham,2-1,Stockport County
+Sat Sep 26 1987,Rochdale,2-1,Burnley
+Sat Sep 26 1987,Bolton Wanderers,1-2,Hartlepool United
+Sat Sep 26 1987,Cambridge United,2-1,Halifax Town
+Sat Sep 26 1987,Darlington,1-4,Scunthorpe United
+Sat Sep 26 1987,Swansea City,2-4,Crewe Alexandra
+Sat Sep 26 1987,Carlisle United,4-0,Scarborough
+Sat Sep 26 1987,Wolverhampton Wanderers,1-2,Torquay United
+Sun Sep 27 1987,Newport County,0-0,Hereford United
+Tue Sep 29 1987,Leyton Orient,4-1,Newport County
+Tue Sep 29 1987,Scunthorpe United,0-0,Stockport County
+Tue Sep 29 1987,Cardiff City,0-0,Halifax Town
+Tue Sep 29 1987,Carlisle United,3-3,Darlington
+Tue Sep 29 1987,Cambridge United,0-1,Wrexham
+Tue Sep 29 1987,Burnley,0-0,Crewe Alexandra
+Tue Sep 29 1987,Torquay United,0-1,Scarborough
+Tue Sep 29 1987,Wolverhampton Wanderers,2-0,Rochdale
+Tue Sep 29 1987,Colchester United,2-1,Swansea City
+Wed Sep 30 1987,Hartlepool United,3-1,Exeter City
+Wed Sep 30 1987,Hereford United,0-1,Peterborough United
+Fri Oct 2 1987,Stockport County,0-1,Cardiff City
+Sat Oct 3 1987,Newport County,1-2,Colchester United
+Sat Oct 3 1987,Wrexham,2-2,Leyton Orient
+Sat Oct 3 1987,Scarborough,1-0,Burnley
+Sat Oct 3 1987,Swansea City,1-1,Cambridge United
+Sat Oct 3 1987,Halifax Town,2-1,Hereford United
+Sat Oct 3 1987,Exeter City,0-1,Torquay United
+Sat Oct 3 1987,Peterborough United,1-1,Scunthorpe United
+Sat Oct 3 1987,Bolton Wanderers,1-0,Wolverhampton Wanderers
+Sat Oct 3 1987,Rochdale,1-2,Carlisle United
+Sat Oct 3 1987,Crewe Alexandra,1-1,Hartlepool United
+Sat Oct 3 1987,Darlington,0-0,Tranmere Rovers
+Fri Oct 9 1987,Tranmere Rovers,6-1,Rochdale
+Fri Oct 9 1987,Colchester United,0-0,Leyton Orient
+Sat Oct 10 1987,Scarborough,3-1,Exeter City
+Sat Oct 10 1987,Scunthorpe United,1-0,Halifax Town
+Sat Oct 10 1987,Darlington,1-0,Bolton Wanderers
+Sat Oct 10 1987,Cardiff City,0-1,Hereford United
+Sat Oct 10 1987,Carlisle United,0-1,Wolverhampton Wanderers
+Sat Oct 10 1987,Stockport County,0-1,Peterborough United
+Sat Oct 10 1987,Cambridge United,4-0,Newport County
+Sat Oct 10 1987,Torquay United,1-0,Crewe Alexandra
+Sat Oct 10 1987,Burnley,1-0,Hartlepool United
+Sat Oct 10 1987,Swansea City,2-1,Wrexham
+Fri Oct 16 1987,Halifax Town,2-0,Stockport County
+Sat Oct 17 1987,Leyton Orient,0-2,Cambridge United
+Sat Oct 17 1987,Wolverhampton Wanderers,3-0,Tranmere Rovers
+Sat Oct 17 1987,Rochdale,1-3,Darlington
+Sat Oct 17 1987,Exeter City,1-2,Burnley
+Sat Oct 17 1987,Swansea City,1-2,Newport County
+Sat Oct 17 1987,Bolton Wanderers,5-0,Carlisle United
+Sat Oct 17 1987,Wrexham,0-1,Colchester United
+Sat Oct 17 1987,Hartlepool United,0-0,Torquay United
+Sat Oct 17 1987,Hereford United,2-3,Scunthorpe United
+Sat Oct 17 1987,Crewe Alexandra,1-0,Scarborough
+Sat Oct 17 1987,Peterborough United,4-3,Cardiff City
+Tue Oct 20 1987,Crewe Alexandra,3-1,Stockport County
+Tue Oct 20 1987,Wolverhampton Wanderers,3-0,Cambridge United
+Tue Oct 20 1987,Burnley,1-1,Scunthorpe United
+Tue Oct 20 1987,Leyton Orient,8-0,Rochdale
+Tue Oct 20 1987,Tranmere Rovers,1-2,Swansea City
+Tue Oct 20 1987,Wrexham,0-1,Darlington
+Tue Oct 20 1987,Bolton Wanderers,1-0,Exeter City
+Tue Oct 20 1987,Cardiff City,2-1,Torquay United
+Tue Oct 20 1987,Colchester United,1-0,Carlisle United
+Wed Oct 21 1987,Hereford United,1-1,Scarborough
+Wed Oct 21 1987,Hartlepool United,2-1,Halifax Town
+Wed Oct 21 1987,Peterborough United,3-0,Newport County
+Fri Oct 23 1987,Stockport County,0-2,Hereford United
+Sat Oct 24 1987,Rochdale,2-2,Bolton Wanderers
+Sat Oct 24 1987,Swansea City,3-0,Leyton Orient
+Sat Oct 24 1987,Newport County,2-0,Wrexham
+Sat Oct 24 1987,Halifax Town,0-0,Peterborough United
+Sat Oct 24 1987,Scarborough,1-1,Hartlepool United
+Sat Oct 24 1987,Darlington,2-2,Wolverhampton Wanderers
+Sat Oct 24 1987,Cambridge United,0-1,Colchester United
+Sat Oct 24 1987,Torquay United,1-3,Burnley
+Sat Oct 24 1987,Carlisle United,3-2,Tranmere Rovers
+Sat Oct 24 1987,Scunthorpe United,2-1,Cardiff City
+Sat Oct 24 1987,Exeter City,3-1,Crewe Alexandra
+Fri Oct 30 1987,Colchester United,2-1,Darlington
+Fri Oct 30 1987,Tranmere Rovers,0-1,Cambridge United
+Sat Oct 31 1987,Hartlepool United,1-0,Scunthorpe United
+Sat Oct 31 1987,Bolton Wanderers,1-1,Swansea City
+Sat Oct 31 1987,Wrexham,1-0,Scarborough
+Sat Oct 31 1987,Cardiff City,1-0,Rochdale
+Sat Oct 31 1987,Leyton Orient,4-1,Halifax Town
+Sat Oct 31 1987,Peterborough United,0-2,Torquay United
+Sat Oct 31 1987,Burnley,1-1,Stockport County
+Sat Oct 31 1987,Hereford United,1-1,Exeter City
+Sat Oct 31 1987,Wolverhampton Wanderers,2-1,Newport County
+Sat Oct 31 1987,Crewe Alexandra,4-1,Carlisle United
+Tue Nov 3 1987,Swansea City,1-2,Wolverhampton Wanderers
+Tue Nov 3 1987,Halifax Town,2-1,Burnley
+Tue Nov 3 1987,Rochdale,1-4,Colchester United
+Tue Nov 3 1987,Newport County,0-1,Bolton Wanderers
+Tue Nov 3 1987,Torquay United,1-0,Tranmere Rovers
+Tue Nov 3 1987,Stockport County,1-0,Hartlepool United
+Tue Nov 3 1987,Carlisle United,1-2,Leyton Orient
+Tue Nov 3 1987,Darlington,1-0,Crewe Alexandra
+Tue Nov 3 1987,Scunthorpe United,3-1,Wrexham
+Tue Nov 3 1987,Cambridge United,0-1,Hereford United
+Wed Nov 4 1987,Scarborough,1-1,Cardiff City
+Fri Nov 6 1987,Tranmere Rovers,1-0,Wrexham
+Fri Nov 6 1987,Halifax Town,1-2,Colchester United
+Fri Nov 6 1987,Stockport County,2-1,Torquay United
+Sat Nov 7 1987,Hereford United,1-1,Crewe Alexandra
+Sat Nov 7 1987,Scunthorpe United,0-1,Scarborough
+Sat Nov 7 1987,Cardiff City,3-2,Exeter City
+Sat Nov 7 1987,Peterborough United,0-1,Hartlepool United
+Sat Nov 7 1987,Rochdale,2-3,Swansea City
+Sat Nov 7 1987,Bolton Wanderers,1-0,Leyton Orient
+Sat Nov 7 1987,Carlisle United,3-1,Newport County
+Sat Nov 7 1987,Wolverhampton Wanderers,3-0,Burnley
+Sun Nov 8 1987,Darlington,0-1,Cambridge United
+Fri Nov 20 1987,Leyton Orient,4-3,Darlington
+Sat Nov 21 1987,Newport County,1-2,Cardiff City
+Sat Nov 21 1987,Swansea City,2-1,Peterborough United
+Sat Nov 21 1987,Wrexham,4-0,Carlisle United
+Sat Nov 21 1987,Torquay United,1-0,Hereford United
+Sat Nov 21 1987,Hartlepool United,1-2,Tranmere Rovers
+Sat Nov 21 1987,Colchester United,0-1,Wolverhampton Wanderers
+Sat Nov 21 1987,Cambridge United,1-2,Rochdale
+Sat Nov 21 1987,Scarborough,1-1,Halifax Town
+Sat Nov 21 1987,Crewe Alexandra,2-2,Scunthorpe United
+Sat Nov 21 1987,Burnley,2-1,Bolton Wanderers
+Sat Nov 21 1987,Exeter City,2-1,Stockport County
+Fri Nov 27 1987,Halifax Town,1-2,Crewe Alexandra
+Fri Nov 27 1987,Stockport County,1-1,Colchester United
+Fri Nov 27 1987,Tranmere Rovers,4-0,Newport County
+Sat Nov 28 1987,Wolverhampton Wanderers,0-2,Wrexham
+Sat Nov 28 1987,Carlisle United,3-3,Torquay United
+Sat Nov 28 1987,Cardiff City,1-1,Hartlepool United
+Sat Nov 28 1987,Rochdale,1-1,Scarborough
+Sat Nov 28 1987,Scunthorpe United,1-2,Swansea City
+Sat Nov 28 1987,Peterborough United,5-0,Burnley
+Sat Nov 28 1987,Hereford United,0-3,Leyton Orient
+Sat Nov 28 1987,Bolton Wanderers,2-2,Cambridge United
+Tue Dec 8 1987,Darlington,4-1,Exeter City
+Fri Dec 11 1987,Cambridge United,2-0,Stockport County
+Fri Dec 11 1987,Colchester United,3-0,Bolton Wanderers
+Sat Dec 12 1987,Torquay United,1-2,Halifax Town
+Sat Dec 12 1987,Wrexham,2-3,Rochdale
+Sat Dec 12 1987,Crewe Alexandra,0-0,Cardiff City
+Sat Dec 12 1987,Swansea City,3-1,Carlisle United
+Sat Dec 12 1987,Exeter City,1-1,Scunthorpe United
+Sat Dec 12 1987,Hartlepool United,0-0,Wolverhampton Wanderers
+Sat Dec 12 1987,Leyton Orient,3-1,Tranmere Rovers
+Sat Dec 12 1987,Burnley,0-0,Hereford United
+Sat Dec 12 1987,Scarborough,1-1,Peterborough United
+Tue Dec 15 1987,Tranmere Rovers,2-0,Bolton Wanderers
+Fri Dec 18 1987,Scunthorpe United,2-3,Torquay United
+Fri Dec 18 1987,Tranmere Rovers,0-2,Colchester United
+Fri Dec 18 1987,Peterborough United,0-4,Crewe Alexandra
+Fri Dec 18 1987,Halifax Town,2-0,Exeter City
+Fri Dec 18 1987,Carlisle United,2-1,Cambridge United
+Sat Dec 19 1987,Stockport County,1-1,Scarborough
+Sat Dec 19 1987,Rochdale,3-0,Newport County
+Sat Dec 19 1987,Darlington,2-0,Swansea City
+Sat Dec 19 1987,Cardiff City,2-1,Burnley
+Sat Dec 19 1987,Wolverhampton Wanderers,2-0,Leyton Orient
+Sat Dec 19 1987,Bolton Wanderers,2-0,Wrexham
+Sat Dec 19 1987,Hereford United,4-2,Hartlepool United
+Sat Dec 26 1987,Scunthorpe United,1-0,Darlington
+Sat Dec 26 1987,Cardiff City,3-0,Tranmere Rovers
+Sat Dec 26 1987,Scarborough,3-1,Carlisle United
+Sat Dec 26 1987,Hereford United,4-2,Newport County
+Sat Dec 26 1987,Peterborough United,1-2,Leyton Orient
+Sat Dec 26 1987,Burnley,4-0,Rochdale
+Sat Dec 26 1987,Stockport County,1-1,Wrexham
+Sat Dec 26 1987,Hartlepool United,0-0,Bolton Wanderers
+Sat Dec 26 1987,Exeter City,0-2,Colchester United
+Sat Dec 26 1987,Halifax Town,1-1,Cambridge United
+Sat Dec 26 1987,Crewe Alexandra,2-2,Swansea City
+Mon Dec 28 1987,Wrexham,0-0,Hereford United
+Mon Dec 28 1987,Swansea City,1-1,Torquay United
+Mon Dec 28 1987,Tranmere Rovers,3-1,Peterborough United
+Mon Dec 28 1987,Leyton Orient,1-1,Scunthorpe United
+Mon Dec 28 1987,Wolverhampton Wanderers,3-0,Exeter City
+Mon Dec 28 1987,Newport County,1-2,Crewe Alexandra
+Mon Dec 28 1987,Colchester United,2-1,Cardiff City
+Mon Dec 28 1987,Rochdale,0-2,Hartlepool United
+Mon Dec 28 1987,Darlington,4-2,Burnley
+Mon Dec 28 1987,Bolton Wanderers,2-1,Stockport County
+Mon Dec 28 1987,Cambridge United,1-0,Scarborough
+Fri Jan 1 1988,Newport County,1-1,Exeter City
+Fri Jan 1 1988,Wolverhampton Wanderers,2-0,Hereford United
+Fri Jan 1 1988,Bolton Wanderers,3-1,Scarborough
+Fri Jan 1 1988,Tranmere Rovers,4-0,Stockport County
+Fri Jan 1 1988,Colchester United,0-3,Scunthorpe United
+Fri Jan 1 1988,Rochdale,0-0,Halifax Town
+Fri Jan 1 1988,Cambridge United,1-3,Peterborough United
+Fri Jan 1 1988,Swansea City,2-2,Cardiff City
+Fri Jan 1 1988,Carlisle United,3-4,Burnley
+Fri Jan 1 1988,Darlington,1-1,Hartlepool United
+Fri Jan 1 1988,Leyton Orient,0-2,Torquay United
+Fri Jan 1 1988,Wrexham,2-1,Crewe Alexandra
+Sat Jan 2 1988,Hartlepool United,0-0,Carlisle United
+Sat Jan 2 1988,Scarborough,0-1,Darlington
+Sat Jan 2 1988,Peterborough United,2-0,Colchester United
+Sat Jan 2 1988,Hereford United,0-0,Swansea City
+Sat Jan 2 1988,Burnley,1-1,Tranmere Rovers
+Sat Jan 2 1988,Crewe Alexandra,0-2,Wolverhampton Wanderers
+Sat Jan 2 1988,Stockport County,1-1,Rochdale
+Sat Jan 2 1988,Scunthorpe United,3-2,Cambridge United
+Sat Jan 2 1988,Exeter City,2-3,Leyton Orient
+Sat Jan 9 1988,Burnley,2-0,Newport County
+Sat Jan 9 1988,Peterborough United,1-1,Rochdale
+Sat Jan 9 1988,Exeter City,3-1,Swansea City
+Sat Jan 9 1988,Darlington,2-1,Carlisle United
+Sat Jan 9 1988,Hereford United,1-1,Tranmere Rovers
+Tue Jan 12 1988,Newport County,2-1,Darlington
+Tue Jan 12 1988,Halifax Town,0-0,Bolton Wanderers
+Fri Jan 15 1988,Colchester United,0-0,Hartlepool United
+Fri Jan 15 1988,Tranmere Rovers,2-0,Halifax Town
+Sat Jan 16 1988,Wolverhampton Wanderers,1-1,Stockport County
+Sat Jan 16 1988,Newport County,1-1,Scunthorpe United
+Sat Jan 16 1988,Leyton Orient,1-1,Crewe Alexandra
+Sat Jan 16 1988,Wrexham,3-1,Peterborough United
+Sat Jan 16 1988,Bolton Wanderers,1-2,Torquay United
+Sat Jan 16 1988,Carlisle United,0-0,Cardiff City
+Sat Jan 16 1988,Cambridge United,2-0,Burnley
+Sat Jan 16 1988,Swansea City,3-0,Scarborough
+Sat Jan 16 1988,Rochdale,0-0,Exeter City
+Sun Jan 17 1988,Darlington,3-1,Hereford United
+Sat Jan 23 1988,Leyton Orient,1-1,Stockport County
+Sat Jan 23 1988,Swansea City,1-1,Halifax Town
+Sat Jan 23 1988,Carlisle United,0-0,Exeter City
+Tue Jan 26 1988,Rochdale,1-1,Torquay United
+Tue Jan 26 1988,Hartlepool United,1-0,Wrexham
+Fri Jan 29 1988,Stockport County,5-1,Newport County
+Fri Jan 29 1988,Crewe Alexandra,0-1,Rochdale
+Sat Jan 30 1988,Scunthorpe United,0-1,Wolverhampton Wanderers
+Sat Jan 30 1988,Peterborough United,0-4,Bolton Wanderers
+Sat Jan 30 1988,Exeter City,0-1,Tranmere Rovers
+Sat Jan 30 1988,Cardiff City,4-0,Cambridge United
+Sat Jan 30 1988,Hereford United,2-0,Carlisle United
+Sat Jan 30 1988,Hartlepool United,0-2,Swansea City
+Sat Jan 30 1988,Scarborough,3-1,Colchester United
+Tue Feb 2 1988,Darlington,0-0,Cardiff City
+Tue Feb 2 1988,Wrexham,1-3,Burnley
+Fri Feb 5 1988,Newport County,1-0,Halifax Town
+Fri Feb 5 1988,Colchester United,1-4,Crewe Alexandra
+Sat Feb 6 1988,Swansea City,0-0,Burnley
+Sat Feb 6 1988,Wolverhampton Wanderers,1-4,Cardiff City
+Sat Feb 6 1988,Carlisle United,2-0,Stockport County
+Sat Feb 6 1988,Leyton Orient,0-2,Hartlepool United
+Sat Feb 6 1988,Cambridge United,1-0,Torquay United
+Sat Feb 6 1988,Bolton Wanderers,1-0,Hereford United
+Sat Feb 6 1988,Tranmere Rovers,1-0,Scarborough
+Sat Feb 6 1988,Rochdale,2-1,Scunthorpe United
+Fri Feb 12 1988,Stockport County,1-2,Bolton Wanderers
+Sat Feb 13 1988,Crewe Alexandra,2-1,Newport County
+Sat Feb 13 1988,Exeter City,2-4,Wolverhampton Wanderers
+Sat Feb 13 1988,Hartlepool United,1-1,Rochdale
+Sat Feb 13 1988,Peterborough United,2-1,Tranmere Rovers
+Sat Feb 13 1988,Cardiff City,1-0,Colchester United
+Sat Feb 13 1988,Scarborough,0-0,Cambridge United
+Sat Feb 13 1988,Hereford United,0-2,Wrexham
+Sat Feb 13 1988,Burnley,2-1,Darlington
+Sat Feb 13 1988,Scunthorpe United,3-2,Leyton Orient
+Tue Feb 16 1988,Halifax Town,2-1,Wolverhampton Wanderers
+Fri Feb 19 1988,Wolverhampton Wanderers,0-0,Scarborough
+Fri Feb 19 1988,Cambridge United,2-1,Exeter City
+Fri Feb 19 1988,Newport County,2-3,Hartlepool United
+Fri Feb 19 1988,Colchester United,0-1,Burnley
+Fri Feb 19 1988,Swansea City,1-1,Stockport County
+Sat Feb 20 1988,Tranmere Rovers,1-3,Scunthorpe United
+Sat Feb 20 1988,Wrexham,2-3,Torquay United
+Sat Feb 20 1988,Carlisle United,0-2,Peterborough United
+Sat Feb 20 1988,Leyton Orient,4-1,Cardiff City
+Sat Feb 20 1988,Rochdale,3-1,Hereford United
+Sat Feb 20 1988,Darlington,4-1,Halifax Town
+Sat Feb 20 1988,Crewe Alexandra,2-1,Bolton Wanderers
+Tue Feb 23 1988,Torquay United,0-0,Wolverhampton Wanderers
+Tue Feb 23 1988,Halifax Town,2-0,Wrexham
+Wed Feb 24 1988,Scarborough,3-1,Leyton Orient
+Wed Feb 24 1988,Peterborough United,1-2,Hereford United
+Fri Feb 26 1988,Tranmere Rovers,2-1,Darlington
+Fri Feb 26 1988,Colchester United,0-0,Newport County
+Sat Feb 27 1988,Wolverhampton Wanderers,4-0,Bolton Wanderers
+Sat Feb 27 1988,Cambridge United,0-3,Swansea City
+Sat Feb 27 1988,Cardiff City,0-0,Stockport County
+Sat Feb 27 1988,Burnley,0-1,Scarborough
+Sat Feb 27 1988,Torquay United,1-1,Exeter City
+Sat Feb 27 1988,Leyton Orient,2-1,Wrexham
+Sat Feb 27 1988,Carlisle United,2-0,Rochdale
+Sat Feb 27 1988,Hartlepool United,2-1,Crewe Alexandra
+Sat Feb 27 1988,Scunthorpe United,5-0,Peterborough United
+Sat Feb 27 1988,Hereford United,2-1,Halifax Town
+Tue Mar 1 1988,Crewe Alexandra,0-1,Burnley
+Tue Mar 1 1988,Halifax Town,0-1,Cardiff City
+Tue Mar 1 1988,Stockport County,1-1,Scunthorpe United
+Tue Mar 1 1988,Newport County,0-0,Leyton Orient
+Tue Mar 1 1988,Swansea City,1-2,Colchester United
+Tue Mar 1 1988,Bolton Wanderers,2-0,Tranmere Rovers
+Tue Mar 1 1988,Rochdale,0-1,Wolverhampton Wanderers
+Tue Mar 1 1988,Wrexham,3-0,Cambridge United
+Wed Mar 2 1988,Exeter City,1-0,Hartlepool United
+Wed Mar 2 1988,Scarborough,1-2,Torquay United
+Fri Mar 4 1988,Stockport County,1-0,Halifax Town
+Fri Mar 4 1988,Cardiff City,0-0,Peterborough United
+Fri Mar 4 1988,Colchester United,1-2,Wrexham
+Fri Mar 4 1988,Tranmere Rovers,3-0,Wolverhampton Wanderers
+Sat Mar 5 1988,Darlington,2-1,Rochdale
+Sat Mar 5 1988,Burnley,3-0,Exeter City
+Sat Mar 5 1988,Scarborough,2-0,Crewe Alexandra
+Sat Mar 5 1988,Scunthorpe United,3-0,Hereford United
+Sat Mar 5 1988,Cambridge United,2-0,Leyton Orient
+Sat Mar 5 1988,Newport County,1-2,Swansea City
+Sat Mar 5 1988,Torquay United,1-1,Hartlepool United
+Sat Mar 5 1988,Carlisle United,0-2,Bolton Wanderers
+Wed Mar 9 1988,Exeter City,0-1,Peterborough United
+Fri Mar 11 1988,Bolton Wanderers,1-1,Darlington
+Fri Mar 11 1988,Crewe Alexandra,0-1,Torquay United
+Sat Mar 12 1988,Peterborough United,0-0,Stockport County
+Sat Mar 12 1988,Halifax Town,2-2,Scunthorpe United
+Sat Mar 12 1988,Hartlepool United,2-1,Burnley
+Sat Mar 12 1988,Leyton Orient,0-0,Colchester United
+Sat Mar 12 1988,Rochdale,0-0,Tranmere Rovers
+Sat Mar 12 1988,Wrexham,1-2,Swansea City
+Sat Mar 12 1988,Newport County,0-0,Cambridge United
+Sat Mar 12 1988,Exeter City,1-0,Scarborough
+Sat Mar 12 1988,Wolverhampton Wanderers,3-1,Carlisle United
+Sun Mar 13 1988,Hereford United,1-2,Cardiff City
+Tue Mar 15 1988,Darlington,2-1,Peterborough United
+Wed Mar 16 1988,Cardiff City,1-1,Wrexham
+Fri Mar 18 1988,Stockport County,2-0,Burnley
+Fri Mar 18 1988,Swansea City,1-0,Bolton Wanderers
+Sat Mar 19 1988,Darlington,2-0,Colchester United
+Sat Mar 19 1988,Torquay United,0-0,Peterborough United
+Sat Mar 19 1988,Cambridge United,1-1,Tranmere Rovers
+Sat Mar 19 1988,Carlisle United,0-1,Crewe Alexandra
+Sat Mar 19 1988,Scunthorpe United,3-0,Hartlepool United
+Sat Mar 19 1988,Exeter City,2-2,Hereford United
+Sat Mar 19 1988,Scarborough,0-2,Wrexham
+Tue Mar 22 1988,Burnley,2-0,Leyton Orient
+Tue Mar 22 1988,Wrexham,3-0,Exeter City
+Tue Mar 22 1988,Wolverhampton Wanderers,0-1,Peterborough United
+Fri Mar 25 1988,Tranmere Rovers,3-0,Carlisle United
+Fri Mar 25 1988,Colchester United,0-0,Cambridge United
+Sat Mar 26 1988,Peterborough United,1-0,Halifax Town
+Sat Mar 26 1988,Hartlepool United,1-0,Scarborough
+Sat Mar 26 1988,Wolverhampton Wanderers,5-3,Darlington
+Sat Mar 26 1988,Cardiff City,0-1,Scunthorpe United
+Sat Mar 26 1988,Crewe Alexandra,0-0,Exeter City
+Sat Mar 26 1988,Bolton Wanderers,0-0,Rochdale
+Sat Mar 26 1988,Wrexham,4-1,Newport County
+Sat Mar 26 1988,Leyton Orient,3-0,Swansea City
+Sat Mar 26 1988,Hereford United,0-1,Stockport County
+Tue Mar 29 1988,Torquay United,0-1,Swansea City
+Tue Mar 29 1988,Rochdale,2-2,Cardiff City
+Fri Apr 1 1988,Crewe Alexandra,0-0,Hereford United
+Fri Apr 1 1988,Colchester United,2-1,Halifax Town
+Fri Apr 1 1988,Cambridge United,1-0,Darlington
+Sat Apr 2 1988,Torquay United,3-0,Stockport County
+Sat Apr 2 1988,Scarborough,0-0,Scunthorpe United
+Sat Apr 2 1988,Swansea City,0-3,Rochdale
+Sat Apr 2 1988,Exeter City,0-2,Cardiff City
+Sat Apr 2 1988,Newport County,1-2,Carlisle United
+Sat Apr 2 1988,Burnley,0-3,Wolverhampton Wanderers
+Sat Apr 2 1988,Leyton Orient,1-2,Bolton Wanderers
+Sat Apr 2 1988,Wrexham,3-0,Tranmere Rovers
+Sat Apr 2 1988,Hartlepool United,0-1,Peterborough United
+Mon Apr 4 1988,Bolton Wanderers,2-1,Burnley
+Mon Apr 4 1988,Peterborough United,0-1,Swansea City
+Mon Apr 4 1988,Carlisle United,0-4,Wrexham
+Mon Apr 4 1988,Tranmere Rovers,3-1,Hartlepool United
+Mon Apr 4 1988,Darlington,2-2,Leyton Orient
+Mon Apr 4 1988,Halifax Town,2-2,Scarborough
+Mon Apr 4 1988,Cardiff City,4-0,Newport County
+Mon Apr 4 1988,Stockport County,2-1,Exeter City
+Mon Apr 4 1988,Rochdale,2-1,Cambridge United
+Mon Apr 4 1988,Scunthorpe United,2-1,Crewe Alexandra
+Mon Apr 4 1988,Wolverhampton Wanderers,2-0,Colchester United
+Mon Apr 4 1988,Hereford United,0-0,Torquay United
+Fri Apr 8 1988,Burnley,3-1,Halifax Town
+Fri Apr 8 1988,Colchester United,1-0,Rochdale
+Sat Apr 9 1988,Newport County,0-4,Peterborough United
+Sat Apr 9 1988,Leyton Orient,4-1,Carlisle United
+Sat Apr 9 1988,Wrexham,2-1,Scunthorpe United
+Sat Apr 9 1988,Crewe Alexandra,3-1,Darlington
+Sat Apr 9 1988,Swansea City,1-2,Tranmere Rovers
+Sat Apr 9 1988,Hartlepool United,1-3,Stockport County
+Sat Apr 9 1988,Torquay United,2-0,Cardiff City
+Sat Apr 9 1988,Exeter City,1-1,Bolton Wanderers
+Sat Apr 9 1988,Scarborough,2-1,Hereford United
+Sun Apr 10 1988,Cambridge United,1-1,Wolverhampton Wanderers
+Tue Apr 12 1988,Scunthorpe United,1-0,Carlisle United
+Tue Apr 12 1988,Newport County,0-4,Scarborough
+Thu Apr 14 1988,Halifax Town,1-0,Leyton Orient
+Fri Apr 15 1988,Torquay United,0-0,Colchester United
+Fri Apr 15 1988,Cardiff City,1-0,Bolton Wanderers
+Fri Apr 15 1988,Crewe Alexandra,0-0,Cambridge United
+Tue Apr 19 1988,Bolton Wanderers,0-0,Scunthorpe United
+Tue Apr 19 1988,Carlisle United,1-1,Halifax Town
+Tue Apr 19 1988,Stockport County,1-1,Darlington
+Tue Apr 19 1988,Cambridge United,1-1,Hartlepool United
+Tue Apr 19 1988,Torquay United,6-1,Newport County
+Tue Apr 19 1988,Colchester United,1-0,Hereford United
+Fri Apr 22 1988,Stockport County,1-1,Crewe Alexandra
+Fri Apr 22 1988,Tranmere Rovers,1-1,Torquay United
+Sat Apr 23 1988,Carlisle United,4-0,Colchester United
+Sat Apr 23 1988,Darlington,2-1,Wrexham
+Sat Apr 23 1988,Hereford United,1-0,Cambridge United
+Sat Apr 23 1988,Bolton Wanderers,6-0,Newport County
+Sat Apr 23 1988,Wolverhampton Wanderers,2-0,Swansea City
+Sat Apr 23 1988,Scunthorpe United,1-1,Burnley
+Sat Apr 23 1988,Peterborough United,2-1,Exeter City
+Sat Apr 23 1988,Cardiff City,2-0,Scarborough
+Sat Apr 23 1988,Rochdale,1-3,Leyton Orient
+Sat Apr 23 1988,Halifax Town,3-1,Hartlepool United
+Mon Apr 25 1988,Tranmere Rovers,2-2,Crewe Alexandra
+Tue Apr 26 1988,Halifax Town,1-1,Carlisle United
+Tue Apr 26 1988,Newport County,1-3,Wolverhampton Wanderers
+Wed Apr 27 1988,Torquay United,0-0,Darlington
+Fri Apr 29 1988,Crewe Alexandra,0-0,Halifax Town
+Fri Apr 29 1988,Cambridge United,2-2,Bolton Wanderers
+Fri Apr 29 1988,Colchester United,2-0,Stockport County
+Sat Apr 30 1988,Torquay United,1-0,Carlisle United
+Sat Apr 30 1988,Wrexham,4-2,Wolverhampton Wanderers
+Sat Apr 30 1988,Swansea City,1-1,Scunthorpe United
+Sat Apr 30 1988,Exeter City,4-1,Darlington
+Sat Apr 30 1988,Burnley,1-2,Peterborough United
+Sat Apr 30 1988,Scarborough,2-1,Rochdale
+Sat Apr 30 1988,Hartlepool United,0-1,Cardiff City
+Sat Apr 30 1988,Newport County,0-3,Tranmere Rovers
+Sat Apr 30 1988,Leyton Orient,4-0,Hereford United
+Mon May 2 1988,Peterborough United,0-0,Scarborough
+Mon May 2 1988,Wolverhampton Wanderers,2-0,Hartlepool United
+Mon May 2 1988,Bolton Wanderers,4-0,Colchester United
+Mon May 2 1988,Stockport County,0-2,Cambridge United
+Mon May 2 1988,Tranmere Rovers,2-1,Leyton Orient
+Mon May 2 1988,Carlisle United,0-1,Swansea City
+Mon May 2 1988,Scunthorpe United,1-1,Exeter City
+Mon May 2 1988,Rochdale,1-2,Wrexham
+Mon May 2 1988,Hereford United,2-1,Burnley
+Mon May 2 1988,Darlington,0-2,Newport County
+Mon May 2 1988,Cardiff City,2-0,Crewe Alexandra
+Mon May 2 1988,Halifax Town,2-3,Torquay United
+Wed May 4 1988,Burnley,1-0,Torquay United
+Sat May 7 1988,Scarborough,1-1,Stockport County
+Sat May 7 1988,Cambridge United,1-2,Carlisle United
+Sat May 7 1988,Torquay United,1-2,Scunthorpe United
+Sat May 7 1988,Hartlepool United,1-2,Hereford United
+Sat May 7 1988,Exeter City,1-2,Halifax Town
+Sat May 7 1988,Newport County,0-1,Rochdale
+Sat May 7 1988,Leyton Orient,0-2,Wolverhampton Wanderers
+Sat May 7 1988,Burnley,1-2,Cardiff City
+Sat May 7 1988,Swansea City,3-0,Darlington
+Sat May 7 1988,Crewe Alexandra,0-1,Peterborough United
+Sat May 7 1988,Wrexham,0-1,Bolton Wanderers
+Sat May 7 1988,Colchester United,0-0,Tranmere Rovers

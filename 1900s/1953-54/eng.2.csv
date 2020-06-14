@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Wed Aug 19 1953,Stoke City,1-1,Brentford
+Wed Aug 19 1953,Leicester City,2-2,Derby County
+Wed Aug 19 1953,Luton Town,4-4,Oldham Athletic
+Wed Aug 19 1953,West Ham United,5-0,Lincoln City
+Wed Aug 19 1953,Nottingham Forest,3-3,Everton
+Wed Aug 19 1953,Birmingham City,2-0,Hull City
+Wed Aug 19 1953,Plymouth Argyle,1-1,Bury
+Wed Aug 19 1953,Swansea City,0-1,Doncaster Rovers
+Wed Aug 19 1953,Leeds United,6-0,Notts County
+Thu Aug 20 1953,Fulham,4-4,Bristol Rovers
+Thu Aug 20 1953,Rotherham United,1-4,Blackburn Rovers
+Sat Aug 22 1953,Fulham,0-1,Stoke City
+Sat Aug 22 1953,Oldham Athletic,0-0,Hull City
+Sat Aug 22 1953,Derby County,4-1,Brentford
+Sat Aug 22 1953,Doncaster Rovers,1-1,Lincoln City
+Sat Aug 22 1953,Bury,3-3,Notts County
+Sat Aug 22 1953,West Ham United,4-1,Leicester City
+Sat Aug 22 1953,Nottingham Forest,3-0,Plymouth Argyle
+Sat Aug 22 1953,Luton Town,1-1,Everton
+Sat Aug 22 1953,Birmingham City,6-0,Swansea City
+Sat Aug 22 1953,Leeds United,4-2,Rotherham United
+Sat Aug 22 1953,Blackburn Rovers,1-1,Bristol Rovers
+Mon Aug 24 1953,Hull City,1-3,Everton
+Mon Aug 24 1953,Bristol Rovers,0-1,Doncaster Rovers
+Mon Aug 24 1953,Plymouth Argyle,2-2,Birmingham City
+Mon Aug 24 1953,Leicester City,2-2,Fulham
+Mon Aug 24 1953,Stoke City,2-2,Derby County
+Mon Aug 24 1953,Rotherham United,5-0,West Ham United
+Wed Aug 26 1953,Lincoln City,0-0,Bury
+Wed Aug 26 1953,Luton Town,0-1,Nottingham Forest
+Thu Aug 27 1953,Notts County,2-0,Oldham Athletic
+Thu Aug 27 1953,Swansea City,4-3,Leeds United
+Thu Aug 27 1953,Brentford,1-4,Blackburn Rovers
+Sat Aug 29 1953,Plymouth Argyle,2-2,Luton Town
+Sat Aug 29 1953,Brentford,2-1,Fulham
+Sat Aug 29 1953,Rotherham United,1-0,Birmingham City
+Sat Aug 29 1953,Stoke City,1-1,West Ham United
+Sat Aug 29 1953,Leicester City,5-0,Leeds United
+Sat Aug 29 1953,Everton,3-1,Oldham Athletic
+Sat Aug 29 1953,Swansea City,2-1,Nottingham Forest
+Sat Aug 29 1953,Notts County,1-5,Doncaster Rovers
+Sat Aug 29 1953,Bristol Rovers,3-0,Derby County
+Sat Aug 29 1953,Lincoln City,8-0,Blackburn Rovers
+Sat Aug 29 1953,Hull City,3-0,Bury
+Mon Aug 31 1953,West Ham United,3-0,Rotherham United
+Mon Aug 31 1953,Blackburn Rovers,2-2,Brentford
+Tue Sep 1 1953,Oldham Athletic,1-3,Notts County
+Wed Sep 2 1953,Leeds United,3-2,Swansea City
+Wed Sep 2 1953,Everton,2-0,Hull City
+Wed Sep 2 1953,Derby County,1-1,Stoke City
+Wed Sep 2 1953,Nottingham Forest,2-1,Luton Town
+Wed Sep 2 1953,Birmingham City,3-0,Plymouth Argyle
+Wed Sep 2 1953,Fulham,1-1,Leicester City
+Wed Sep 2 1953,Doncaster Rovers,1-0,Bristol Rovers
+Wed Sep 2 1953,Bury,1-1,Lincoln City
+Sat Sep 5 1953,Doncaster Rovers,4-1,Hull City
+Sat Sep 5 1953,West Ham United,3-1,Fulham
+Sat Sep 5 1953,Birmingham City,1-2,Leicester City
+Sat Sep 5 1953,Bury,2-2,Everton
+Sat Sep 5 1953,Nottingham Forest,4-1,Rotherham United
+Sat Sep 5 1953,Oldham Athletic,1-1,Plymouth Argyle
+Sat Sep 5 1953,Blackburn Rovers,2-0,Notts County
+Sat Sep 5 1953,Derby County,2-0,Lincoln City
+Sat Sep 5 1953,Luton Town,2-0,Swansea City
+Sat Sep 5 1953,Brentford,0-3,Bristol Rovers
+Sat Sep 5 1953,Leeds United,1-1,Stoke City
+Mon Sep 7 1953,Bristol Rovers,2-0,Bury
+Mon Sep 7 1953,Leicester City,4-0,Stoke City
+Mon Sep 7 1953,Rotherham United,3-2,Fulham
+Mon Sep 7 1953,Plymouth Argyle,1-1,Leeds United
+Mon Sep 7 1953,Hull City,3-0,Nottingham Forest
+Wed Sep 9 1953,Lincoln City,3-1,Oldham Athletic
+Wed Sep 9 1953,Birmingham City,5-1,Luton Town
+Wed Sep 9 1953,Derby County,2-2,Blackburn Rovers
+Thu Sep 10 1953,Notts County,0-2,Everton
+Thu Sep 10 1953,Brentford,1-4,Doncaster Rovers
+Thu Sep 10 1953,Swansea City,1-1,West Ham United
+Sat Sep 12 1953,Stoke City,3-2,Birmingham City
+Sat Sep 12 1953,Swansea City,0-1,Plymouth Argyle
+Sat Sep 12 1953,Leicester City,1-0,Nottingham Forest
+Sat Sep 12 1953,Lincoln City,2-1,Brentford
+Sat Sep 12 1953,Notts County,0-1,Derby County
+Sat Sep 12 1953,Rotherham United,2-1,Luton Town
+Sat Sep 12 1953,Hull City,0-2,Blackburn Rovers
+Sat Sep 12 1953,Everton,4-1,Doncaster Rovers
+Sat Sep 12 1953,Oldham Athletic,0-0,Bury
+Sat Sep 12 1953,Fulham,1-3,Leeds United
+Sat Sep 12 1953,Bristol Rovers,2-2,West Ham United
+Mon Sep 14 1953,West Ham United,4-1,Swansea City
+Mon Sep 14 1953,Oldham Athletic,1-0,Lincoln City
+Mon Sep 14 1953,Stoke City,2-2,Leicester City
+Wed Sep 16 1953,Leeds United,1-1,Plymouth Argyle
+Wed Sep 16 1953,Luton Town,2-0,Birmingham City
+Wed Sep 16 1953,Nottingham Forest,2-0,Hull City
+Wed Sep 16 1953,Doncaster Rovers,3-0,Brentford
+Wed Sep 16 1953,Bury,3-1,Bristol Rovers
+Wed Sep 16 1953,Fulham,2-4,Rotherham United
+Sat Sep 19 1953,Leeds United,1-2,West Ham United
+Sat Sep 19 1953,Plymouth Argyle,0-2,Rotherham United
+Sat Sep 19 1953,Luton Town,2-2,Leicester City
+Sat Sep 19 1953,Bristol Rovers,0-1,Lincoln City
+Sat Sep 19 1953,Blackburn Rovers,0-0,Everton
+Sat Sep 19 1953,Nottingham Forest,5-4,Stoke City
+Sat Sep 19 1953,Doncaster Rovers,1-0,Oldham Athletic
+Sat Sep 19 1953,Brentford,0-0,Notts County
+Sat Sep 19 1953,Derby County,2-0,Hull City
+Sat Sep 19 1953,Birmingham City,2-2,Fulham
+Sat Sep 19 1953,Bury,1-2,Swansea City
+Mon Sep 21 1953,Rotherham United,2-2,Stoke City
+Wed Sep 23 1953,Everton,3-2,Notts County
+Sat Sep 26 1953,Leicester City,4-2,Plymouth Argyle
+Sat Sep 26 1953,Oldham Athletic,1-0,Blackburn Rovers
+Sat Sep 26 1953,Lincoln City,2-0,Leeds United
+Sat Sep 26 1953,Fulham,3-1,Nottingham Forest
+Sat Sep 26 1953,Bury,2-1,Doncaster Rovers
+Sat Sep 26 1953,West Ham United,1-2,Birmingham City
+Sat Sep 26 1953,Notts County,1-5,Bristol Rovers
+Sat Sep 26 1953,Hull City,2-0,Brentford
+Sat Sep 26 1953,Rotherham United,2-1,Swansea City
+Sat Sep 26 1953,Stoke City,1-1,Luton Town
+Sat Sep 26 1953,Everton,3-2,Derby County
+Sat Oct 3 1953,Swansea City,0-0,Leicester City
+Sat Oct 3 1953,Derby County,3-1,Oldham Athletic
+Sat Oct 3 1953,Bristol Rovers,4-2,Hull City
+Sat Oct 3 1953,Nottingham Forest,4-0,West Ham United
+Sat Oct 3 1953,Doncaster Rovers,1-2,Rotherham United
+Sat Oct 3 1953,Luton Town,1-2,Fulham
+Sat Oct 3 1953,Brentford,1-0,Everton
+Sat Oct 3 1953,Plymouth Argyle,1-1,Stoke City
+Sat Oct 3 1953,Birmingham City,3-3,Leeds United
+Sat Oct 3 1953,Lincoln City,3-0,Notts County
+Sat Oct 3 1953,Blackburn Rovers,4-2,Bury
+Sat Oct 10 1953,Leeds United,3-3,Bristol Rovers
+Sat Oct 10 1953,Plymouth Argyle,4-0,Everton
+Sat Oct 10 1953,Leicester City,2-0,Doncaster Rovers
+Sat Oct 10 1953,Fulham,5-2,Derby County
+Sat Oct 10 1953,Luton Town,3-1,Hull City
+Sat Oct 10 1953,Swansea City,4-0,Oldham Athletic
+Sat Oct 10 1953,West Ham United,0-1,Brentford
+Sat Oct 10 1953,Nottingham Forest,5-0,Notts County
+Sat Oct 10 1953,Birmingham City,1-0,Lincoln City
+Sat Oct 10 1953,Rotherham United,1-0,Bury
+Sat Oct 10 1953,Stoke City,3-0,Blackburn Rovers
+Sat Oct 17 1953,Hull City,2-0,Plymouth Argyle
+Sat Oct 17 1953,Doncaster Rovers,1-0,Stoke City
+Sat Oct 17 1953,Bristol Rovers,1-1,Birmingham City
+Sat Oct 17 1953,Brentford,2-1,Leeds United
+Sat Oct 17 1953,Oldham Athletic,2-3,Rotherham United
+Sat Oct 17 1953,Lincoln City,2-2,Nottingham Forest
+Sat Oct 17 1953,Notts County,1-2,Luton Town
+Sat Oct 17 1953,Blackburn Rovers,5-1,Fulham
+Sat Oct 17 1953,Everton,2-2,Swansea City
+Sat Oct 17 1953,Derby County,2-1,West Ham United
+Sat Oct 17 1953,Bury,2-5,Leicester City
+Sat Oct 24 1953,Swansea City,1-0,Hull City
+Sat Oct 24 1953,Plymouth Argyle,3-3,Notts County
+Sat Oct 24 1953,Birmingham City,5-1,Brentford
+Sat Oct 24 1953,Fulham,1-2,Doncaster Rovers
+Sat Oct 24 1953,Nottingham Forest,3-1,Bristol Rovers
+Sat Oct 24 1953,Stoke City,4-0,Bury
+Sat Oct 24 1953,Leicester City,1-0,Oldham Athletic
+Sat Oct 24 1953,West Ham United,2-1,Blackburn Rovers
+Sat Oct 24 1953,Rotherham United,1-2,Everton
+Sat Oct 24 1953,Leeds United,3-1,Derby County
+Sat Oct 24 1953,Luton Town,1-0,Lincoln City
+Sat Oct 31 1953,Lincoln City,2-0,Plymouth Argyle
+Sat Oct 31 1953,Brentford,1-1,Nottingham Forest
+Sat Oct 31 1953,Bury,1-3,Fulham
+Sat Oct 31 1953,Derby County,2-4,Birmingham City
+Sat Oct 31 1953,Notts County,3-0,Swansea City
+Sat Oct 31 1953,Oldham Athletic,1-0,Stoke City
+Sat Oct 31 1953,Doncaster Rovers,2-0,West Ham United
+Sat Oct 31 1953,Hull City,1-0,Rotherham United
+Sat Oct 31 1953,Bristol Rovers,3-3,Luton Town
+Sat Oct 31 1953,Everton,1-2,Leicester City
+Sat Oct 31 1953,Blackburn Rovers,2-2,Leeds United
+Sat Nov 7 1953,Stoke City,2-4,Everton
+Sat Nov 7 1953,Plymouth Argyle,3-3,Bristol Rovers
+Sat Nov 7 1953,Rotherham United,0-1,Notts County
+Sat Nov 7 1953,Swansea City,4-2,Lincoln City
+Sat Nov 7 1953,West Ham United,5-0,Bury
+Sat Nov 7 1953,Leeds United,3-1,Doncaster Rovers
+Sat Nov 7 1953,Luton Town,1-1,Brentford
+Sat Nov 7 1953,Fulham,3-1,Oldham Athletic
+Sat Nov 7 1953,Leicester City,1-3,Hull City
+Sat Nov 7 1953,Nottingham Forest,4-2,Derby County
+Sat Nov 7 1953,Birmingham City,0-0,Blackburn Rovers
+Sat Nov 14 1953,Hull City,1-2,Stoke City
+Sat Nov 14 1953,Brentford,1-0,Plymouth Argyle
+Sat Nov 14 1953,Bristol Rovers,0-1,Swansea City
+Sat Nov 14 1953,Doncaster Rovers,3-1,Birmingham City
+Sat Nov 14 1953,Lincoln City,4-3,Rotherham United
+Sat Nov 14 1953,Derby County,1-2,Luton Town
+Sat Nov 14 1953,Bury,4-4,Leeds United
+Sat Nov 14 1953,Notts County,1-1,Leicester City
+Sat Nov 14 1953,Blackburn Rovers,2-0,Nottingham Forest
+Sat Nov 14 1953,Everton,2-2,Fulham
+Sat Nov 14 1953,Oldham Athletic,3-1,West Ham United
+Sat Nov 21 1953,West Ham United,1-1,Everton
+Sat Nov 21 1953,Plymouth Argyle,3-2,Derby County
+Sat Nov 21 1953,Leeds United,2-1,Oldham Athletic
+Sat Nov 21 1953,Birmingham City,0-0,Bury
+Sat Nov 21 1953,Fulham,5-1,Hull City
+Sat Nov 21 1953,Rotherham United,1-1,Bristol Rovers
+Sat Nov 21 1953,Leicester City,9-2,Lincoln City
+Sat Nov 21 1953,Stoke City,0-1,Notts County
+Sat Nov 21 1953,Luton Town,2-1,Blackburn Rovers
+Sat Nov 21 1953,Swansea City,1-0,Brentford
+Sat Nov 21 1953,Nottingham Forest,2-2,Doncaster Rovers
+Sat Nov 28 1953,Hull City,2-1,West Ham United
+Sat Nov 28 1953,Lincoln City,1-1,Stoke City
+Sat Nov 28 1953,Oldham Athletic,2-3,Birmingham City
+Sat Nov 28 1953,Everton,2-1,Leeds United
+Sat Nov 28 1953,Bristol Rovers,3-0,Leicester City
+Sat Nov 28 1953,Notts County,0-0,Fulham
+Sat Nov 28 1953,Bury,2-1,Nottingham Forest
+Sat Nov 28 1953,Derby County,4-2,Swansea City
+Sat Nov 28 1953,Brentford,0-1,Rotherham United
+Sat Nov 28 1953,Doncaster Rovers,1-3,Luton Town
+Sat Nov 28 1953,Blackburn Rovers,2-3,Plymouth Argyle
+Sat Dec 5 1953,Leeds United,0-0,Hull City
+Sat Dec 5 1953,Luton Town,3-2,Bury
+Sat Dec 5 1953,Swansea City,2-1,Blackburn Rovers
+Sat Dec 5 1953,Fulham,4-1,Lincoln City
+Sat Dec 5 1953,Nottingham Forest,1-1,Oldham Athletic
+Sat Dec 5 1953,Plymouth Argyle,0-0,Doncaster Rovers
+Sat Dec 5 1953,West Ham United,1-2,Notts County
+Sat Dec 5 1953,Stoke City,3-2,Bristol Rovers
+Sat Dec 5 1953,Leicester City,6-0,Brentford
+Sat Dec 5 1953,Birmingham City,5-1,Everton
+Sat Dec 5 1953,Rotherham United,5-2,Derby County
+Sat Dec 12 1953,Bury,3-0,Plymouth Argyle
+Sat Dec 12 1953,Everton,3-3,Nottingham Forest
+Sat Dec 12 1953,Derby County,2-1,Leicester City
+Sat Dec 12 1953,Hull City,3-0,Birmingham City
+Sat Dec 12 1953,Oldham Athletic,1-2,Luton Town
+Sat Dec 12 1953,Lincoln City,1-2,West Ham United
+Sat Dec 12 1953,Doncaster Rovers,1-0,Swansea City
+Sat Dec 12 1953,Blackburn Rovers,3-0,Rotherham United
+Sat Dec 12 1953,Bristol Rovers,2-1,Fulham
+Sat Dec 12 1953,Brentford,0-0,Stoke City
+Sat Dec 12 1953,Notts County,2-0,Leeds United
+Sat Dec 19 1953,Plymouth Argyle,1-0,Nottingham Forest
+Sat Dec 19 1953,Notts County,0-0,Bury
+Sat Dec 19 1953,Stoke City,1-3,Fulham
+Sat Dec 19 1953,Brentford,0-0,Derby County
+Sat Dec 19 1953,Bristol Rovers,1-2,Blackburn Rovers
+Sat Dec 19 1953,Hull City,8-0,Oldham Athletic
+Sat Dec 19 1953,Everton,2-1,Luton Town
+Sat Dec 19 1953,Swansea City,1-3,Birmingham City
+Sat Dec 19 1953,Lincoln City,0-2,Doncaster Rovers
+Sat Dec 19 1953,Leicester City,2-1,West Ham United
+Sat Dec 19 1953,Rotherham United,2-4,Leeds United
+Fri Dec 25 1953,Brentford,3-1,Oldham Athletic
+Fri Dec 25 1953,Blackburn Rovers,2-0,Doncaster Rovers
+Fri Dec 25 1953,Bury,4-0,Derby County
+Fri Dec 25 1953,Birmingham City,3-0,Notts County
+Fri Dec 25 1953,Fulham,3-1,Plymouth Argyle
+Fri Dec 25 1953,Everton,4-0,Bristol Rovers
+Fri Dec 25 1953,Leicester City,4-1,Rotherham United
+Fri Dec 25 1953,West Ham United,1-0,Luton Town
+Fri Dec 25 1953,Nottingham Forest,5-2,Leeds United
+Sat Dec 26 1953,Derby County,3-1,Bury
+Sat Dec 26 1953,Leeds United,0-2,Nottingham Forest
+Sat Dec 26 1953,Plymouth Argyle,2-2,Fulham
+Sat Dec 26 1953,Luton Town,3-1,West Ham United
+Sat Dec 26 1953,Doncaster Rovers,0-2,Blackburn Rovers
+Sat Dec 26 1953,Notts County,2-1,Birmingham City
+Sat Dec 26 1953,Rotherham United,1-1,Leicester City
+Sat Dec 26 1953,Swansea City,2-2,Stoke City
+Sat Dec 26 1953,Oldham Athletic,2-0,Brentford
+Sat Dec 26 1953,Hull City,3-0,Lincoln City
+Mon Dec 28 1953,Stoke City,5-0,Swansea City
+Mon Dec 28 1953,Bristol Rovers,0-0,Everton
+Mon Dec 28 1953,Lincoln City,3-0,Hull City
+Fri Jan 1 1954,Blackburn Rovers,0-3,Derby County
+Sat Jan 2 1954,Birmingham City,2-3,Rotherham United
+Sat Jan 2 1954,Luton Town,2-1,Plymouth Argyle
+Sat Jan 2 1954,Leeds United,7-1,Leicester City
+Sat Jan 2 1954,Derby County,0-1,Bristol Rovers
+Sat Jan 2 1954,Nottingham Forest,2-1,Swansea City
+Sat Jan 2 1954,Doncaster Rovers,4-2,Notts County
+Sat Jan 2 1954,Blackburn Rovers,6-0,Lincoln City
+Sat Jan 2 1954,Fulham,4-1,Brentford
+Sat Jan 16 1954,Notts County,0-5,Blackburn Rovers
+Sat Jan 16 1954,Fulham,3-4,West Ham United
+Sat Jan 16 1954,Lincoln City,2-2,Derby County
+Sat Jan 16 1954,Rotherham United,3-0,Nottingham Forest
+Sat Jan 16 1954,Hull City,3-1,Doncaster Rovers
+Sat Jan 16 1954,Bristol Rovers,0-0,Brentford
+Sat Jan 16 1954,Everton,0-0,Bury
+Sat Jan 16 1954,Swansea City,1-1,Luton Town
+Sat Jan 16 1954,Stoke City,4-0,Leeds United
+Sat Jan 16 1954,Plymouth Argyle,5-0,Oldham Athletic
+Sat Jan 16 1954,Leicester City,3-4,Birmingham City
+Sat Jan 23 1954,Plymouth Argyle,1-1,Swansea City
+Sat Jan 23 1954,Blackburn Rovers,3-1,Hull City
+Sat Jan 23 1954,Brentford,0-1,Lincoln City
+Sat Jan 23 1954,Doncaster Rovers,2-2,Everton
+Sat Jan 23 1954,Birmingham City,1-0,Stoke City
+Sat Jan 23 1954,Derby County,0-0,Notts County
+Sat Jan 23 1954,West Ham United,1-1,Bristol Rovers
+Sat Jan 23 1954,Luton Town,1-1,Rotherham United
+Sat Jan 23 1954,Bury,1-0,Oldham Athletic
+Sat Jan 23 1954,Nottingham Forest,3-1,Leicester City
+Sat Jan 23 1954,Leeds United,1-2,Fulham
+Sat Jan 30 1954,Bury,1-1,Brentford
+Sat Feb 6 1954,West Ham United,5-2,Leeds United
+Sat Feb 6 1954,Everton,1-1,Blackburn Rovers
+Sat Feb 6 1954,Rotherham United,2-1,Plymouth Argyle
+Sat Feb 6 1954,Swansea City,2-1,Bury
+Sat Feb 6 1954,Hull City,3-0,Derby County
+Sat Feb 6 1954,Stoke City,1-1,Nottingham Forest
+Sat Feb 6 1954,Oldham Athletic,2-2,Doncaster Rovers
+Sat Feb 6 1954,Fulham,5-2,Birmingham City
+Sat Feb 6 1954,Notts County,2-0,Brentford
+Sat Feb 6 1954,Leicester City,2-1,Luton Town
+Sat Feb 6 1954,Lincoln City,1-2,Bristol Rovers
+Sat Feb 13 1954,Blackburn Rovers,4-0,Oldham Athletic
+Sat Feb 13 1954,Swansea City,0-2,Rotherham United
+Sat Feb 13 1954,Doncaster Rovers,0-1,Bury
+Sat Feb 13 1954,Leeds United,5-2,Lincoln City
+Sat Feb 13 1954,Plymouth Argyle,0-3,Leicester City
+Sat Feb 13 1954,Bristol Rovers,1-1,Notts County
+Sat Feb 13 1954,Brentford,2-2,Hull City
+Sat Feb 13 1954,Derby County,2-6,Everton
+Sat Feb 13 1954,Birmingham City,2-0,West Ham United
+Sat Feb 13 1954,Luton Town,0-1,Stoke City
+Sat Feb 13 1954,Nottingham Forest,4-1,Fulham
+Sat Feb 20 1954,Oldham Athletic,0-0,Derby County
+Sat Feb 20 1954,Bury,0-0,Blackburn Rovers
+Sat Feb 20 1954,Leeds United,1-1,Birmingham City
+Sat Feb 20 1954,West Ham United,1-1,Nottingham Forest
+Sat Feb 20 1954,Fulham,5-1,Luton Town
+Sat Feb 20 1954,Notts County,1-1,Lincoln City
+Tue Feb 23 1954,Leicester City,4-1,Swansea City
+Wed Feb 24 1954,Everton,6-1,Brentford
+Sat Feb 27 1954,Bury,3-0,Rotherham United
+Sat Feb 27 1954,Notts County,1-1,Nottingham Forest
+Sat Feb 27 1954,Everton,8-4,Plymouth Argyle
+Sat Feb 27 1954,Hull City,1-2,Luton Town
+Sat Feb 27 1954,Oldham Athletic,2-2,Swansea City
+Sat Feb 27 1954,Blackburn Rovers,3-0,Stoke City
+Sat Feb 27 1954,Bristol Rovers,1-1,Leeds United
+Sat Feb 27 1954,Brentford,3-1,West Ham United
+Sat Feb 27 1954,Lincoln City,0-1,Birmingham City
+Sat Feb 27 1954,Doncaster Rovers,0-2,Leicester City
+Sat Feb 27 1954,Derby County,3-3,Fulham
+Sat Mar 6 1954,West Ham United,0-0,Derby County
+Sat Mar 6 1954,Leicester City,2-0,Bury
+Sat Mar 6 1954,Birmingham City,1-1,Bristol Rovers
+Sat Mar 6 1954,Leeds United,4-0,Brentford
+Sat Mar 6 1954,Swansea City,0-2,Everton
+Sat Mar 6 1954,Rotherham United,7-0,Oldham Athletic
+Sat Mar 6 1954,Fulham,2-3,Blackburn Rovers
+Sat Mar 6 1954,Plymouth Argyle,2-2,Hull City
+Sat Mar 6 1954,Luton Town,2-1,Notts County
+Sat Mar 6 1954,Nottingham Forest,4-2,Lincoln City
+Sat Mar 6 1954,Stoke City,2-2,Doncaster Rovers
+Sat Mar 13 1954,Doncaster Rovers,2-2,Fulham
+Sat Mar 13 1954,Bristol Rovers,1-0,Nottingham Forest
+Sat Mar 13 1954,Notts County,2-0,Plymouth Argyle
+Sat Mar 13 1954,Hull City,4-3,Swansea City
+Sat Mar 13 1954,Bury,0-6,Stoke City
+Sat Mar 13 1954,Lincoln City,1-1,Luton Town
+Sat Mar 13 1954,Blackburn Rovers,4-1,West Ham United
+Sat Mar 13 1954,Derby County,0-2,Leeds United
+Sat Mar 13 1954,Everton,3-0,Rotherham United
+Sat Mar 13 1954,Brentford,2-0,Birmingham City
+Sat Mar 20 1954,Plymouth Argyle,1-2,Lincoln City
+Sat Mar 20 1954,Luton Town,1-1,Bristol Rovers
+Sat Mar 20 1954,West Ham United,2-1,Doncaster Rovers
+Sat Mar 20 1954,Rotherham United,3-2,Hull City
+Sat Mar 20 1954,Swansea City,2-2,Notts County
+Sat Mar 20 1954,Leicester City,2-2,Everton
+Sat Mar 20 1954,Stoke City,0-1,Oldham Athletic
+Sat Mar 20 1954,Nottingham Forest,2-1,Brentford
+Sat Mar 20 1954,Birmingham City,3-0,Derby County
+Sat Mar 20 1954,Leeds United,3-2,Blackburn Rovers
+Sat Mar 20 1954,Fulham,3-0,Bury
+Sat Mar 27 1954,Brentford,3-1,Swansea City
+Sat Mar 27 1954,Hull City,2-1,Fulham
+Sat Mar 27 1954,Lincoln City,3-1,Leicester City
+Sat Mar 27 1954,Bristol Rovers,1-0,Rotherham United
+Sat Mar 27 1954,Notts County,2-1,Stoke City
+Sat Mar 27 1954,Blackburn Rovers,2-0,Luton Town
+Sat Mar 27 1954,Everton,1-2,West Ham United
+Sat Mar 27 1954,Derby County,1-4,Plymouth Argyle
+Sat Mar 27 1954,Doncaster Rovers,1-3,Nottingham Forest
+Sat Mar 27 1954,Oldham Athletic,4-2,Leeds United
+Sat Mar 27 1954,Bury,1-1,Birmingham City
+Sat Apr 3 1954,Swansea City,2-1,Derby County
+Sat Apr 3 1954,Birmingham City,2-1,Oldham Athletic
+Sat Apr 3 1954,Leeds United,3-1,Everton
+Sat Apr 3 1954,Rotherham United,1-1,Brentford
+Sat Apr 3 1954,Fulham,4-3,Notts County
+Sat Apr 3 1954,Nottingham Forest,2-2,Bury
+Sat Apr 3 1954,Stoke City,4-1,Lincoln City
+Sat Apr 3 1954,Leicester City,1-0,Bristol Rovers
+Sat Apr 3 1954,West Ham United,1-0,Hull City
+Sat Apr 3 1954,Luton Town,2-0,Doncaster Rovers
+Sat Apr 3 1954,Plymouth Argyle,1-1,Blackburn Rovers
+Tue Apr 6 1954,Oldham Athletic,0-2,Leicester City
+Wed Apr 7 1954,Bury,3-0,Hull City
+Sat Apr 10 1954,Brentford,0-1,Luton Town
+Sat Apr 10 1954,Bristol Rovers,3-1,Plymouth Argyle
+Sat Apr 10 1954,Bury,2-0,West Ham United
+Sat Apr 10 1954,Derby County,1-2,Nottingham Forest
+Sat Apr 10 1954,Blackburn Rovers,3-0,Birmingham City
+Sat Apr 10 1954,Everton,1-1,Stoke City
+Sat Apr 10 1954,Oldham Athletic,2-3,Fulham
+Sat Apr 10 1954,Lincoln City,3-1,Swansea City
+Sat Apr 10 1954,Notts County,1-2,Rotherham United
+Sat Apr 10 1954,Hull City,0-3,Leicester City
+Sat Apr 10 1954,Doncaster Rovers,0-0,Leeds United
+Mon Apr 12 1954,Hull City,4-1,Bristol Rovers
+Mon Apr 12 1954,West Ham United,2-2,Stoke City
+Fri Apr 16 1954,West Ham United,2-2,Plymouth Argyle
+Fri Apr 16 1954,Brentford,2-1,Bury
+Fri Apr 16 1954,Doncaster Rovers,1-3,Derby County
+Fri Apr 16 1954,Blackburn Rovers,3-0,Leicester City
+Fri Apr 16 1954,Swansea City,2-0,Fulham
+Fri Apr 16 1954,Nottingham Forest,1-1,Birmingham City
+Fri Apr 16 1954,Everton,3-1,Lincoln City
+Fri Apr 16 1954,Hull City,0-2,Notts County
+Fri Apr 16 1954,Luton Town,1-1,Leeds United
+Fri Apr 16 1954,Bristol Rovers,1-0,Oldham Athletic
+Sat Apr 17 1954,Swansea City,3-1,Bristol Rovers
+Sat Apr 17 1954,Luton Town,2-1,Derby County
+Sat Apr 17 1954,Birmingham City,0-1,Doncaster Rovers
+Sat Apr 17 1954,Leeds United,3-4,Bury
+Sat Apr 17 1954,Plymouth Argyle,3-2,Brentford
+Sat Apr 17 1954,Fulham,0-0,Everton
+Sat Apr 17 1954,Stoke City,0-1,Hull City
+Sat Apr 17 1954,Rotherham United,4-1,Lincoln City
+Sat Apr 17 1954,Leicester City,2-2,Notts County
+Sat Apr 17 1954,West Ham United,0-1,Oldham Athletic
+Sat Apr 17 1954,Nottingham Forest,0-1,Blackburn Rovers
+Mon Apr 19 1954,Notts County,1-1,Hull City
+Mon Apr 19 1954,Oldham Athletic,0-0,Bristol Rovers
+Mon Apr 19 1954,Leicester City,4-0,Blackburn Rovers
+Mon Apr 19 1954,Lincoln City,1-1,Everton
+Mon Apr 19 1954,Derby County,2-0,Doncaster Rovers
+Mon Apr 19 1954,Birmingham City,2-2,Nottingham Forest
+Mon Apr 19 1954,Stoke City,1-1,Rotherham United
+Mon Apr 19 1954,Plymouth Argyle,2-1,West Ham United
+Mon Apr 19 1954,Leeds United,2-1,Luton Town
+Mon Apr 19 1954,Fulham,4-3,Swansea City
+Sat Apr 24 1954,Hull City,1-1,Leeds United
+Sat Apr 24 1954,Derby County,1-1,Rotherham United
+Sat Apr 24 1954,Lincoln City,4-2,Fulham
+Sat Apr 24 1954,Bristol Rovers,3-2,Stoke City
+Sat Apr 24 1954,Oldham Athletic,1-3,Nottingham Forest
+Sat Apr 24 1954,Bury,0-1,Luton Town
+Sat Apr 24 1954,Doncaster Rovers,3-3,Plymouth Argyle
+Sat Apr 24 1954,Blackburn Rovers,1-0,Swansea City
+Sat Apr 24 1954,Notts County,3-1,West Ham United
+Sat Apr 24 1954,Everton,1-0,Birmingham City
+Sat Apr 24 1954,Brentford,1-3,Leicester City
+Mon Apr 26 1954,Stoke City,3-2,Plymouth Argyle
+Thu Apr 29 1954,Oldham Athletic,0-4,Everton
+Thu Apr 29 1954,Rotherham United,4-0,Doncaster Rovers

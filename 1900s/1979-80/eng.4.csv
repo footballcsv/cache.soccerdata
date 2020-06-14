@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 18 1979,Doncaster Rovers,2-1,Northampton Town
+Sat Aug 18 1979,Torquay United,3-0,Scunthorpe United
+Sat Aug 18 1979,Newport County,2-1,Port Vale
+Sat Aug 18 1979,Lincoln City,0-1,Peterborough United
+Sat Aug 18 1979,Tranmere Rovers,2-0,Halifax Town
+Sat Aug 18 1979,Rochdale,0-2,AFC Bournemouth
+Sat Aug 18 1979,Darlington,2-2,Wigan Athletic
+Sat Aug 18 1979,Bradford City,4-0,Crewe Alexandra
+Sat Aug 18 1979,Hereford United,3-1,York City
+Sat Aug 18 1979,Hartlepool United,0-3,Portsmouth
+Sat Aug 18 1979,Huddersfield Town,2-0,Aldershot
+Sat Aug 18 1979,Walsall,2-1,Stockport County
+Mon Aug 20 1979,Port Vale,0-1,Hereford United
+Mon Aug 20 1979,Stockport County,1-1,Rochdale
+Tue Aug 21 1979,Aldershot,0-1,Newport County
+Tue Aug 21 1979,Scunthorpe United,1-3,Hartlepool United
+Tue Aug 21 1979,Halifax Town,1-1,Doncaster Rovers
+Tue Aug 21 1979,Portsmouth,3-0,Torquay United
+Tue Aug 21 1979,York City,3-1,Darlington
+Tue Aug 21 1979,AFC Bournemouth,1-1,Walsall
+Wed Aug 22 1979,Wigan Athletic,1-2,Huddersfield Town
+Wed Aug 22 1979,Northampton Town,1-2,Bradford City
+Wed Aug 22 1979,Peterborough United,1-2,Tranmere Rovers
+Wed Aug 22 1979,Crewe Alexandra,0-2,Lincoln City
+Fri Aug 24 1979,Crewe Alexandra,2-2,Torquay United
+Fri Aug 24 1979,Rochdale,1-0,Hartlepool United
+Sat Aug 25 1979,Hereford United,1-0,Darlington
+Sat Aug 25 1979,York City,0-2,Lincoln City
+Sat Aug 25 1979,Portsmouth,6-1,Scunthorpe United
+Sat Aug 25 1979,Stockport County,1-2,Wigan Athletic
+Sat Aug 25 1979,Huddersfield Town,3-0,Doncaster Rovers
+Sat Aug 25 1979,Bradford City,2-0,Tranmere Rovers
+Sat Aug 25 1979,Northampton Town,1-2,Walsall
+Sat Aug 25 1979,AFC Bournemouth,3-2,Newport County
+Sat Aug 25 1979,Aldershot,3-1,Port Vale
+Sat Aug 25 1979,Peterborough United,2-1,Halifax Town
+Fri Aug 31 1979,Darlington,3-1,Rochdale
+Fri Aug 31 1979,Tranmere Rovers,0-1,Stockport County
+Sat Sep 1 1979,Newport County,2-0,York City
+Sat Sep 1 1979,Hartlepool United,1-0,Aldershot
+Sat Sep 1 1979,Port Vale,0-1,Peterborough United
+Sat Sep 1 1979,Scunthorpe United,2-1,AFC Bournemouth
+Sat Sep 1 1979,Halifax Town,3-1,Crewe Alexandra
+Sat Sep 1 1979,Wigan Athletic,1-2,Portsmouth
+Sat Sep 1 1979,Lincoln City,2-0,Huddersfield Town
+Sat Sep 1 1979,Walsall,3-2,Hereford United
+Sat Sep 1 1979,Doncaster Rovers,0-3,Bradford City
+Sat Sep 1 1979,Torquay United,2-2,Northampton Town
+Fri Sep 7 1979,Northampton Town,0-0,Halifax Town
+Fri Sep 7 1979,Crewe Alexandra,0-2,Port Vale
+Sat Sep 8 1979,Rochdale,1-1,Walsall
+Sat Sep 8 1979,Portsmouth,1-0,Stockport County
+Sat Sep 8 1979,Huddersfield Town,2-1,Newport County
+Sat Sep 8 1979,AFC Bournemouth,1-2,Wigan Athletic
+Sat Sep 8 1979,Hereford United,1-2,Tranmere Rovers
+Sat Sep 8 1979,Hartlepool United,3-1,Darlington
+Sat Sep 8 1979,Aldershot,2-0,Scunthorpe United
+Sat Sep 8 1979,York City,0-2,Peterborough United
+Sat Sep 8 1979,Bradford City,1-1,Lincoln City
+Tue Sep 11 1979,Doncaster Rovers,5-3,Torquay United
+Fri Sep 14 1979,Stockport County,1-1,AFC Bournemouth
+Fri Sep 14 1979,Tranmere Rovers,4-1,Portsmouth
+Fri Sep 14 1979,Scunthorpe United,1-1,Huddersfield Town
+Sat Sep 15 1979,Wigan Athletic,2-5,York City
+Sat Sep 15 1979,Darlington,0-0,Aldershot
+Sat Sep 15 1979,Torquay United,3-0,Rochdale
+Sat Sep 15 1979,Peterborough United,3-0,Crewe Alexandra
+Sat Sep 15 1979,Lincoln City,1-1,Doncaster Rovers
+Sat Sep 15 1979,Walsall,3-1,Hartlepool United
+Sat Sep 15 1979,Newport County,1-2,Bradford City
+Sat Sep 15 1979,Port Vale,5-0,Northampton Town
+Sat Sep 15 1979,Halifax Town,1-0,Hereford United
+Mon Sep 17 1979,Tranmere Rovers,1-0,Doncaster Rovers
+Mon Sep 17 1979,Port Vale,1-2,Bradford City
+Mon Sep 17 1979,Stockport County,1-1,Darlington
+Tue Sep 18 1979,Portsmouth,4-0,AFC Bournemouth
+Tue Sep 18 1979,Halifax Town,1-0,Rochdale
+Tue Sep 18 1979,Newport County,2-1,Northampton Town
+Tue Sep 18 1979,Walsall,3-0,Lincoln City
+Tue Sep 18 1979,Scunthorpe United,6-1,York City
+Wed Sep 19 1979,Crewe Alexandra,1-3,Huddersfield Town
+Wed Sep 19 1979,Torquay United,1-1,Hereford United
+Wed Sep 19 1979,Peterborough United,1-3,Aldershot
+Wed Sep 19 1979,Wigan Athletic,2-1,Hartlepool United
+Sat Sep 22 1979,Lincoln City,3-0,Tranmere Rovers
+Sat Sep 22 1979,Hereford United,2-1,Wigan Athletic
+Sat Sep 22 1979,AFC Bournemouth,0-1,Halifax Town
+Sat Sep 22 1979,Rochdale,1-2,Portsmouth
+Sat Sep 22 1979,Hartlepool United,2-2,Torquay United
+Sat Sep 22 1979,York City,2-2,Stockport County
+Sat Sep 22 1979,Northampton Town,1-0,Peterborough United
+Sat Sep 22 1979,Huddersfield Town,7-1,Port Vale
+Sat Sep 22 1979,Aldershot,3-0,Crewe Alexandra
+Sat Sep 22 1979,Doncaster Rovers,1-3,Newport County
+Sat Sep 22 1979,Bradford City,2-0,Scunthorpe United
+Sat Sep 22 1979,Darlington,1-3,Walsall
+Fri Sep 28 1979,Stockport County,1-2,Huddersfield Town
+Fri Sep 28 1979,Scunthorpe United,0-0,Doncaster Rovers
+Fri Sep 28 1979,Tranmere Rovers,0-5,AFC Bournemouth
+Sat Sep 29 1979,Peterborough United,2-0,Hereford United
+Sat Sep 29 1979,Portsmouth,5-2,York City
+Sat Sep 29 1979,Torquay United,4-0,Darlington
+Sat Sep 29 1979,Walsall,1-1,Aldershot
+Sat Sep 29 1979,Crewe Alexandra,2-1,Northampton Town
+Sat Sep 29 1979,Halifax Town,2-1,Hartlepool United
+Sat Sep 29 1979,Newport County,1-1,Lincoln City
+Sat Sep 29 1979,Port Vale,5-1,Rochdale
+Sat Sep 29 1979,Wigan Athletic,4-1,Bradford City
+Tue Oct 2 1979,AFC Bournemouth,0-1,Portsmouth
+Tue Oct 2 1979,Darlington,3-0,Stockport County
+Tue Oct 2 1979,Doncaster Rovers,1-1,Tranmere Rovers
+Tue Oct 2 1979,Huddersfield Town,3-0,Crewe Alexandra
+Tue Oct 2 1979,Northampton Town,3-2,Newport County
+Tue Oct 2 1979,Bradford City,2-0,Port Vale
+Tue Oct 2 1979,York City,2-0,Scunthorpe United
+Tue Oct 2 1979,Rochdale,2-2,Halifax Town
+Wed Oct 3 1979,Hereford United,0-0,Torquay United
+Wed Oct 3 1979,Lincoln City,2-2,Walsall
+Fri Oct 5 1979,Stockport County,2-1,Hereford United
+Sat Oct 6 1979,Wigan Athletic,0-3,Torquay United
+Sat Oct 6 1979,Northampton Town,2-1,Tranmere Rovers
+Sat Oct 6 1979,Crewe Alexandra,1-2,Doncaster Rovers
+Sat Oct 6 1979,AFC Bournemouth,2-1,Hartlepool United
+Sat Oct 6 1979,Peterborough United,1-3,Huddersfield Town
+Sat Oct 6 1979,Port Vale,1-2,Lincoln City
+Sat Oct 6 1979,Aldershot,3-1,Bradford City
+Sat Oct 6 1979,Portsmouth,4-3,Darlington
+Sat Oct 6 1979,York City,3-2,Rochdale
+Sat Oct 6 1979,Halifax Town,2-1,Newport County
+Sat Oct 6 1979,Scunthorpe United,2-2,Walsall
+Mon Oct 8 1979,Tranmere Rovers,3-0,Peterborough United
+Tue Oct 9 1979,Walsall,0-0,AFC Bournemouth
+Tue Oct 9 1979,Darlington,2-1,York City
+Tue Oct 9 1979,Rochdale,0-1,Stockport County
+Tue Oct 9 1979,Doncaster Rovers,2-1,Halifax Town
+Tue Oct 9 1979,Huddersfield Town,4-0,Wigan Athletic
+Tue Oct 9 1979,Newport County,4-2,Aldershot
+Tue Oct 9 1979,Hartlepool United,3-2,Scunthorpe United
+Wed Oct 10 1979,Bradford City,3-1,Northampton Town
+Wed Oct 10 1979,Hereford United,0-0,Port Vale
+Wed Oct 10 1979,Torquay United,2-1,Portsmouth
+Wed Oct 10 1979,Lincoln City,3-0,Crewe Alexandra
+Fri Oct 12 1979,York City,1-1,AFC Bournemouth
+Fri Oct 12 1979,Rochdale,0-0,Peterborough United
+Sat Oct 13 1979,Hartlepool United,2-1,Port Vale
+Sat Oct 13 1979,Darlington,1-1,Halifax Town
+Sat Oct 13 1979,Aldershot,2-0,Northampton Town
+Sat Oct 13 1979,Lincoln City,4-0,Scunthorpe United
+Sat Oct 13 1979,Huddersfield Town,1-3,Portsmouth
+Sat Oct 13 1979,Hereford United,2-0,Crewe Alexandra
+Sat Oct 13 1979,Bradford City,6-1,Stockport County
+Sat Oct 13 1979,Newport County,2-0,Tranmere Rovers
+Sat Oct 13 1979,Walsall,1-1,Torquay United
+Sat Oct 13 1979,Doncaster Rovers,3-1,Wigan Athletic
+Fri Oct 19 1979,Tranmere Rovers,1-2,York City
+Fri Oct 19 1979,Stockport County,0-3,Doncaster Rovers
+Sat Oct 20 1979,Scunthorpe United,1-3,Newport County
+Sat Oct 20 1979,Port Vale,2-0,Darlington
+Sat Oct 20 1979,Halifax Town,2-1,Walsall
+Sat Oct 20 1979,Crewe Alexandra,2-1,Rochdale
+Sat Oct 20 1979,Torquay United,2-1,Aldershot
+Sat Oct 20 1979,Portsmouth,4-1,Bradford City
+Sat Oct 20 1979,Wigan Athletic,2-1,Lincoln City
+Sat Oct 20 1979,Northampton Town,2-0,Hereford United
+Sat Oct 20 1979,AFC Bournemouth,1-3,Huddersfield Town
+Sat Oct 20 1979,Peterborough United,2-0,Hartlepool United
+Mon Oct 22 1979,Port Vale,0-1,Tranmere Rovers
+Mon Oct 22 1979,Stockport County,0-0,Hartlepool United
+Tue Oct 23 1979,Northampton Town,4-2,Huddersfield Town
+Tue Oct 23 1979,Halifax Town,0-1,Bradford City
+Tue Oct 23 1979,York City,1-3,Doncaster Rovers
+Tue Oct 23 1979,Portsmouth,0-2,Newport County
+Tue Oct 23 1979,Aldershot,2-0,Lincoln City
+Tue Oct 23 1979,AFC Bournemouth,2-2,Hereford United
+Tue Oct 23 1979,Scunthorpe United,3-0,Darlington
+Wed Oct 24 1979,Peterborough United,2-1,Torquay United
+Wed Oct 24 1979,Wigan Athletic,1-1,Rochdale
+Wed Oct 24 1979,Crewe Alexandra,1-2,Walsall
+Fri Oct 26 1979,Rochdale,3-2,Northampton Town
+Fri Oct 26 1979,Tranmere Rovers,1-2,Scunthorpe United
+Fri Oct 26 1979,Doncaster Rovers,2-0,Portsmouth
+Sat Oct 27 1979,Darlington,1-1,Peterborough United
+Sat Oct 27 1979,Hartlepool United,3-1,Crewe Alexandra
+Sat Oct 27 1979,Torquay United,3-0,Halifax Town
+Sat Oct 27 1979,Walsall,2-1,Port Vale
+Sat Oct 27 1979,Hereford United,0-1,Aldershot
+Sat Oct 27 1979,Lincoln City,1-0,Stockport County
+Sat Oct 27 1979,Newport County,3-2,Wigan Athletic
+Sat Oct 27 1979,Huddersfield Town,2-2,York City
+Sat Oct 27 1979,Bradford City,2-2,AFC Bournemouth
+Tue Oct 30 1979,Aldershot,2-0,Peterborough United
+Fri Nov 2 1979,Stockport County,1-0,Walsall
+Sat Nov 3 1979,AFC Bournemouth,4-0,Rochdale
+Sat Nov 3 1979,Port Vale,2-0,Newport County
+Sat Nov 3 1979,York City,3-1,Hereford United
+Sat Nov 3 1979,Aldershot,0-2,Huddersfield Town
+Sat Nov 3 1979,Peterborough United,3-1,Lincoln City
+Sat Nov 3 1979,Scunthorpe United,1-1,Torquay United
+Sat Nov 3 1979,Wigan Athletic,4-1,Darlington
+Sat Nov 3 1979,Northampton Town,1-0,Doncaster Rovers
+Sat Nov 3 1979,Crewe Alexandra,2-0,Bradford City
+Sat Nov 3 1979,Halifax Town,0-0,Tranmere Rovers
+Sat Nov 3 1979,Portsmouth,2-1,Hartlepool United
+Tue Nov 6 1979,Doncaster Rovers,2-0,York City
+Tue Nov 6 1979,Newport County,4-3,Portsmouth
+Tue Nov 6 1979,Hartlepool United,1-2,Stockport County
+Tue Nov 6 1979,Huddersfield Town,5-0,Northampton Town
+Tue Nov 6 1979,Walsall,1-0,Crewe Alexandra
+Tue Nov 6 1979,Rochdale,0-2,Wigan Athletic
+Tue Nov 6 1979,Darlington,3-1,Scunthorpe United
+Wed Nov 7 1979,Bradford City,2-0,Halifax Town
+Wed Nov 7 1979,Hereford United,2-1,AFC Bournemouth
+Wed Nov 7 1979,Torquay United,2-0,Peterborough United
+Fri Nov 9 1979,Doncaster Rovers,2-1,Peterborough United
+Sat Nov 10 1979,Hartlepool United,3-0,Hereford United
+Sat Nov 10 1979,Torquay United,4-3,York City
+Sat Nov 10 1979,Halifax Town,0-0,Port Vale
+Sat Nov 10 1979,Darlington,0-0,Northampton Town
+Sat Nov 10 1979,Scunthorpe United,1-1,Stockport County
+Sat Nov 10 1979,Bradford City,0-0,Huddersfield Town
+Sat Nov 10 1979,Walsall,1-1,Portsmouth
+Sat Nov 10 1979,Lincoln City,1-1,AFC Bournemouth
+Sat Nov 10 1979,Newport County,1-1,Crewe Alexandra
+Mon Nov 12 1979,Tranmere Rovers,1-1,Port Vale
+Sat Nov 17 1979,Wigan Athletic,4-1,Scunthorpe United
+Sat Nov 17 1979,Crewe Alexandra,0-0,Darlington
+Sat Nov 17 1979,Huddersfield Town,1-1,Tranmere Rovers
+Sat Nov 17 1979,Hereford United,1-1,Rochdale
+Sat Nov 17 1979,Stockport County,0-5,Newport County
+Sat Nov 17 1979,AFC Bournemouth,0-0,Doncaster Rovers
+Sat Nov 17 1979,Peterborough United,1-3,Walsall
+Sat Nov 17 1979,Port Vale,1-1,Torquay United
+Sat Nov 17 1979,Northampton Town,2-1,Hartlepool United
+Sat Nov 17 1979,York City,2-2,Bradford City
+Sat Nov 17 1979,Portsmouth,4-0,Lincoln City
+Sat Nov 17 1979,Aldershot,3-1,Halifax Town
+Fri Nov 30 1979,Stockport County,2-1,Crewe Alexandra
+Fri Nov 30 1979,Tranmere Rovers,2-0,Torquay United
+Fri Nov 30 1979,Scunthorpe United,2-0,Rochdale
+Fri Nov 30 1979,Lincoln City,3-3,Hartlepool United
+Sat Dec 1 1979,Portsmouth,3-1,Halifax Town
+Sat Dec 1 1979,Huddersfield Town,0-1,Hereford United
+Sat Dec 1 1979,Newport County,4-0,Darlington
+Sat Dec 1 1979,Bradford City,0-1,Walsall
+Sat Dec 1 1979,Doncaster Rovers,1-1,Aldershot
+Sat Dec 1 1979,AFC Bournemouth,0-0,Peterborough United
+Sat Dec 1 1979,Wigan Athletic,0-0,Northampton Town
+Sat Dec 1 1979,York City,5-1,Port Vale
+Tue Dec 4 1979,Rochdale,2-1,Aldershot
+Fri Dec 7 1979,Port Vale,1-2,Stockport County
+Fri Dec 7 1979,Crewe Alexandra,0-0,AFC Bournemouth
+Sat Dec 8 1979,Aldershot,2-2,York City
+Sat Dec 8 1979,Darlington,3-1,Tranmere Rovers
+Sat Dec 8 1979,Walsall,1-1,Wigan Athletic
+Sat Dec 8 1979,Torquay United,3-1,Huddersfield Town
+Sat Dec 8 1979,Hartlepool United,0-0,Newport County
+Sat Dec 8 1979,Hereford United,0-2,Bradford City
+Sat Dec 8 1979,Northampton Town,0-0,Scunthorpe United
+Sat Dec 8 1979,Peterborough United,0-0,Portsmouth
+Sat Dec 8 1979,Halifax Town,1-0,Lincoln City
+Sat Dec 15 1979,Newport County,2-1,Scunthorpe United
+Fri Dec 21 1979,Tranmere Rovers,1-2,Aldershot
+Fri Dec 21 1979,Portsmouth,2-2,Port Vale
+Fri Dec 21 1979,Stockport County,4-0,Torquay United
+Fri Dec 21 1979,Huddersfield Town,5-1,Rochdale
+Fri Dec 21 1979,Newport County,1-1,Peterborough United
+Fri Dec 21 1979,Bradford City,2-0,Hartlepool United
+Fri Dec 21 1979,Wigan Athletic,2-0,Crewe Alexandra
+Fri Dec 21 1979,AFC Bournemouth,2-2,Northampton Town
+Fri Dec 21 1979,York City,0-1,Walsall
+Fri Dec 21 1979,Doncaster Rovers,0-1,Darlington
+Fri Dec 21 1979,Scunthorpe United,1-0,Halifax Town
+Wed Dec 26 1979,Port Vale,1-0,Scunthorpe United
+Wed Dec 26 1979,Halifax Town,2-1,Huddersfield Town
+Wed Dec 26 1979,Crewe Alexandra,0-0,Tranmere Rovers
+Wed Dec 26 1979,Hereford United,0-0,Portsmouth
+Wed Dec 26 1979,Torquay United,2-0,Newport County
+Wed Dec 26 1979,Aldershot,0-1,AFC Bournemouth
+Wed Dec 26 1979,Walsall,3-1,Doncaster Rovers
+Wed Dec 26 1979,Hartlepool United,3-1,York City
+Wed Dec 26 1979,Northampton Town,2-0,Stockport County
+Wed Dec 26 1979,Peterborough United,1-2,Wigan Athletic
+Fri Dec 28 1979,Tranmere Rovers,4-0,Bradford City
+Sat Dec 29 1979,Portsmouth,6-1,Northampton Town
+Sat Dec 29 1979,Torquay United,1-0,Crewe Alexandra
+Sat Dec 29 1979,Hartlepool United,1-1,Rochdale
+Sat Dec 29 1979,AFC Bournemouth,1-0,Darlington
+Sat Dec 29 1979,Wigan Athletic,3-1,Stockport County
+Sat Dec 29 1979,Port Vale,0-2,Aldershot
+Sat Dec 29 1979,Halifax Town,0-0,Peterborough United
+Sat Dec 29 1979,Doncaster Rovers,1-2,Huddersfield Town
+Sat Dec 29 1979,Lincoln City,1-1,York City
+Sat Dec 29 1979,Newport County,0-1,Walsall
+Sat Dec 29 1979,Scunthorpe United,1-0,Hereford United
+Tue Jan 1 1980,Huddersfield Town,2-1,Darlington
+Tue Jan 1 1980,Bradford City,1-2,Rochdale
+Tue Jan 1 1980,AFC Bournemouth,1-2,Torquay United
+Tue Jan 1 1980,Portsmouth,1-3,Aldershot
+Tue Jan 1 1980,Newport County,1-0,Hereford United
+Sat Jan 5 1980,Hereford United,2-2,Doncaster Rovers
+Sat Jan 5 1980,Peterborough United,3-1,Scunthorpe United
+Sat Jan 5 1980,Northampton Town,2-0,York City
+Sat Jan 5 1980,Port Vale,1-1,AFC Bournemouth
+Sat Jan 5 1980,Walsall,1-1,Huddersfield Town
+Sat Jan 5 1980,Hartlepool United,2-1,Tranmere Rovers
+Fri Jan 11 1980,Rochdale,2-2,Darlington
+Fri Jan 11 1980,Stockport County,2-2,Tranmere Rovers
+Sat Jan 12 1980,Aldershot,0-2,Hartlepool United
+Sat Jan 12 1980,Bradford City,1-1,Peterborough United
+Sat Jan 12 1980,Hereford United,0-1,Walsall
+Sat Jan 12 1980,Doncaster Rovers,2-3,Port Vale
+Sat Jan 12 1980,Crewe Alexandra,2-1,Halifax Town
+Sat Jan 12 1980,York City,2-1,Newport County
+Sat Jan 12 1980,Huddersfield Town,3-2,Lincoln City
+Sat Jan 12 1980,Portsmouth,1-1,Wigan Athletic
+Fri Jan 18 1980,Newport County,2-2,Huddersfield Town
+Sat Jan 19 1980,Torquay United,2-2,Doncaster Rovers
+Sat Jan 19 1980,Darlington,0-1,Hartlepool United
+Mon Jan 21 1980,Stockport County,1-0,Peterborough United
+Fri Jan 25 1980,Tranmere Rovers,5-1,Rochdale
+Sat Jan 26 1980,Bradford City,3-1,Doncaster Rovers
+Sat Jan 26 1980,Lincoln City,2-0,Torquay United
+Sat Jan 26 1980,Darlington,1-1,Hereford United
+Sat Jan 26 1980,Peterborough United,3-0,Port Vale
+Sat Jan 26 1980,Hartlepool United,1-1,Huddersfield Town
+Sat Jan 26 1980,Newport County,0-0,AFC Bournemouth
+Sat Jan 26 1980,Scunthorpe United,1-0,Portsmouth
+Sat Jan 26 1980,Aldershot,2-0,Stockport County
+Sat Jan 26 1980,Walsall,5-1,Northampton Town
+Sat Jan 26 1980,York City,2-2,Crewe Alexandra
+Wed Jan 30 1980,Lincoln City,1-0,Bradford City
+Fri Feb 1 1980,Crewe Alexandra,1-4,Peterborough United
+Sat Feb 2 1980,Aldershot,1-1,Darlington
+Sat Feb 2 1980,Portsmouth,1-1,Tranmere Rovers
+Sat Feb 2 1980,Northampton Town,3-1,Port Vale
+Sat Feb 2 1980,AFC Bournemouth,2-0,Stockport County
+Sat Feb 2 1980,Doncaster Rovers,1-1,Lincoln City
+Sat Feb 2 1980,Hartlepool United,2-2,Walsall
+Sat Feb 2 1980,Hereford United,2-0,Halifax Town
+Sat Feb 2 1980,York City,1-2,Wigan Athletic
+Wed Feb 6 1980,Wigan Athletic,2-1,AFC Bournemouth
+Wed Feb 6 1980,Lincoln City,2-0,Hereford United
+Fri Feb 8 1980,Stockport County,1-0,York City
+Sat Feb 9 1980,Crewe Alexandra,1-0,Aldershot
+Sat Feb 9 1980,Wigan Athletic,1-1,Hereford United
+Sat Feb 9 1980,Peterborough United,0-0,Northampton Town
+Sat Feb 9 1980,Scunthorpe United,3-3,Bradford City
+Sat Feb 9 1980,Walsall,1-1,Darlington
+Sat Feb 9 1980,Tranmere Rovers,1-0,Lincoln City
+Sat Feb 9 1980,Port Vale,1-1,Huddersfield Town
+Sat Feb 9 1980,Portsmouth,3-0,Rochdale
+Sat Feb 9 1980,Halifax Town,2-0,AFC Bournemouth
+Tue Feb 12 1980,Crewe Alexandra,1-1,Portsmouth
+Tue Feb 12 1980,York City,2-2,Halifax Town
+Tue Feb 12 1980,Rochdale,3-2,Doncaster Rovers
+Wed Feb 13 1980,Lincoln City,0-0,Northampton Town
+Fri Feb 15 1980,Rochdale,0-2,Port Vale
+Sat Feb 16 1980,Darlington,2-0,Torquay United
+Sat Feb 16 1980,Lincoln City,2-1,Newport County
+Sat Feb 16 1980,Huddersfield Town,5-0,Stockport County
+Sat Feb 16 1980,Hereford United,0-1,Peterborough United
+Sat Feb 16 1980,Bradford City,2-1,Wigan Athletic
+Sat Feb 16 1980,Hartlepool United,1-2,Halifax Town
+Sat Feb 16 1980,York City,1-0,Portsmouth
+Sat Feb 16 1980,Doncaster Rovers,5-0,Scunthorpe United
+Sat Feb 16 1980,Northampton Town,1-0,Crewe Alexandra
+Sat Feb 16 1980,AFC Bournemouth,2-1,Tranmere Rovers
+Sat Feb 16 1980,Aldershot,1-1,Walsall
+Tue Feb 19 1980,Walsall,2-0,Rochdale
+Wed Feb 20 1980,Port Vale,2-0,Crewe Alexandra
+Fri Feb 22 1980,Stockport County,2-2,Bradford City
+Fri Feb 22 1980,Tranmere Rovers,0-2,Newport County
+Sat Feb 23 1980,Peterborough United,2-0,Rochdale
+Sat Feb 23 1980,Portsmouth,4-1,Huddersfield Town
+Sat Feb 23 1980,Northampton Town,2-1,Aldershot
+Sat Feb 23 1980,Port Vale,1-1,Hartlepool United
+Sat Feb 23 1980,Torquay United,0-1,Walsall
+Sat Feb 23 1980,Crewe Alexandra,1-0,Hereford United
+Sat Feb 23 1980,Scunthorpe United,1-0,Lincoln City
+Sat Feb 23 1980,AFC Bournemouth,0-0,York City
+Sat Feb 23 1980,Halifax Town,1-1,Darlington
+Tue Feb 26 1980,Newport County,2-1,Doncaster Rovers
+Tue Feb 26 1980,Darlington,3-4,Bradford City
+Fri Feb 29 1980,Lincoln City,4-0,Wigan Athletic
+Sat Mar 1 1980,Bradford City,0-0,Portsmouth
+Sat Mar 1 1980,Rochdale,0-0,Crewe Alexandra
+Sat Mar 1 1980,Huddersfield Town,2-0,AFC Bournemouth
+Sat Mar 1 1980,Darlington,1-1,Port Vale
+Sat Mar 1 1980,Walsall,2-0,Halifax Town
+Sat Mar 1 1980,Hartlepool United,1-2,Peterborough United
+Sat Mar 1 1980,Hereford United,0-1,Northampton Town
+Sat Mar 1 1980,Aldershot,1-1,Torquay United
+Sat Mar 1 1980,York City,0-1,Tranmere Rovers
+Sat Mar 1 1980,Doncaster Rovers,1-1,Stockport County
+Tue Mar 4 1980,Scunthorpe United,1-1,Crewe Alexandra
+Tue Mar 4 1980,Halifax Town,2-1,Northampton Town
+Tue Mar 4 1980,Darlington,1-1,Lincoln City
+Tue Mar 4 1980,Tranmere Rovers,0-1,Walsall
+Wed Mar 5 1980,Peterborough United,2-1,York City
+Wed Mar 5 1980,Torquay United,2-3,Bradford City
+Wed Mar 5 1980,Wigan Athletic,2-1,Aldershot
+Sat Mar 8 1980,Portsmouth,2-0,Doncaster Rovers
+Sat Mar 8 1980,Crewe Alexandra,2-1,Hartlepool United
+Sat Mar 8 1980,Stockport County,2-1,Lincoln City
+Sat Mar 8 1980,AFC Bournemouth,1-1,Bradford City
+Sat Mar 8 1980,Port Vale,2-2,Walsall
+Sat Mar 8 1980,York City,0-4,Huddersfield Town
+Sat Mar 8 1980,Wigan Athletic,0-1,Newport County
+Sat Mar 8 1980,Aldershot,3-3,Hereford United
+Sat Mar 8 1980,Peterborough United,3-0,Darlington
+Sat Mar 8 1980,Scunthorpe United,2-2,Tranmere Rovers
+Sat Mar 8 1980,Northampton Town,0-0,Rochdale
+Mon Mar 10 1980,Tranmere Rovers,1-3,Wigan Athletic
+Mon Mar 10 1980,Stockport County,1-1,Portsmouth
+Tue Mar 11 1980,Rochdale,1-1,Lincoln City
+Tue Mar 11 1980,Doncaster Rovers,0-2,Hartlepool United
+Fri Mar 14 1980,Tranmere Rovers,1-1,Northampton Town
+Fri Mar 14 1980,Torquay United,2-2,Wigan Athletic
+Fri Mar 14 1980,Rochdale,0-2,York City
+Fri Mar 14 1980,Newport County,5-2,Halifax Town
+Sat Mar 15 1980,Hartlepool United,3-1,AFC Bournemouth
+Sat Mar 15 1980,Hereford United,2-0,Stockport County
+Sat Mar 15 1980,Bradford City,2-0,Aldershot
+Sat Mar 15 1980,Lincoln City,3-0,Port Vale
+Sat Mar 15 1980,Walsall,1-1,Scunthorpe United
+Sat Mar 15 1980,Darlington,1-1,Portsmouth
+Sat Mar 15 1980,Huddersfield Town,0-0,Peterborough United
+Tue Mar 18 1980,Northampton Town,3-0,Torquay United
+Wed Mar 19 1980,Halifax Town,0-0,Wigan Athletic
+Wed Mar 19 1980,Lincoln City,1-1,Aldershot
+Fri Mar 21 1980,Stockport County,1-2,Scunthorpe United
+Sat Mar 22 1980,Port Vale,1-0,Halifax Town
+Sat Mar 22 1980,AFC Bournemouth,0-0,Lincoln City
+Sat Mar 22 1980,Huddersfield Town,0-0,Bradford City
+Sat Mar 22 1980,Northampton Town,2-0,Darlington
+Sat Mar 22 1980,Aldershot,3-0,Rochdale
+Sat Mar 22 1980,Portsmouth,1-2,Walsall
+Sat Mar 22 1980,Wigan Athletic,0-0,Tranmere Rovers
+Sat Mar 22 1980,Hereford United,2-1,Hartlepool United
+Sat Mar 22 1980,York City,1-0,Torquay United
+Sat Mar 22 1980,Peterborough United,3-2,Doncaster Rovers
+Sat Mar 22 1980,Crewe Alexandra,0-3,Newport County
+Tue Mar 25 1980,Tranmere Rovers,0-0,Hereford United
+Tue Mar 25 1980,AFC Bournemouth,3-3,Scunthorpe United
+Wed Mar 26 1980,Wigan Athletic,3-1,Port Vale
+Sat Mar 29 1980,Darlington,0-0,Crewe Alexandra
+Sat Mar 29 1980,Tranmere Rovers,0-0,Huddersfield Town
+Sat Mar 29 1980,Scunthorpe United,1-3,Wigan Athletic
+Sat Mar 29 1980,Bradford City,1-2,York City
+Sat Mar 29 1980,Hartlepool United,2-1,Northampton Town
+Sat Mar 29 1980,Walsall,2-3,Peterborough United
+Sat Mar 29 1980,Halifax Town,1-0,Aldershot
+Sat Mar 29 1980,Lincoln City,1-0,Portsmouth
+Sat Mar 29 1980,Doncaster Rovers,1-0,AFC Bournemouth
+Sat Mar 29 1980,Newport County,3-1,Stockport County
+Sat Mar 29 1980,Torquay United,1-1,Port Vale
+Tue Apr 1 1980,Walsall,3-1,York City
+Tue Apr 1 1980,Port Vale,2-3,Portsmouth
+Tue Apr 1 1980,Rochdale,0-2,Huddersfield Town
+Wed Apr 2 1980,Torquay United,0-0,Stockport County
+Wed Apr 2 1980,Hereford United,0-0,Lincoln City
+Fri Apr 4 1980,Stockport County,2-0,Northampton Town
+Fri Apr 4 1980,Crewe Alexandra,2-1,Wigan Athletic
+Fri Apr 4 1980,Darlington,2-1,Doncaster Rovers
+Fri Apr 4 1980,Hartlepool United,0-1,Bradford City
+Sat Apr 5 1980,Lincoln City,0-0,Rochdale
+Sat Apr 5 1980,AFC Bournemouth,3-1,Aldershot
+Sat Apr 5 1980,Newport County,3-0,Torquay United
+Sat Apr 5 1980,Bradford City,3-0,Darlington
+Sat Apr 5 1980,Portsmouth,0-0,Hereford United
+Sat Apr 5 1980,Huddersfield Town,5-0,Halifax Town
+Sat Apr 5 1980,Scunthorpe United,1-0,Port Vale
+Sat Apr 5 1980,Tranmere Rovers,2-0,Crewe Alexandra
+Sat Apr 5 1980,Doncaster Rovers,1-1,Walsall
+Sat Apr 5 1980,York City,2-1,Hartlepool United
+Sat Apr 5 1980,Wigan Athletic,2-1,Peterborough United
+Mon Apr 7 1980,Crewe Alexandra,1-1,Scunthorpe United
+Mon Apr 7 1980,Hereford United,0-2,Newport County
+Mon Apr 7 1980,Halifax Town,1-1,York City
+Mon Apr 7 1980,Rochdale,0-1,Bradford City
+Mon Apr 7 1980,Aldershot,1-2,Portsmouth
+Mon Apr 7 1980,Torquay United,0-0,AFC Bournemouth
+Mon Apr 7 1980,Walsall,2-0,Tranmere Rovers
+Mon Apr 7 1980,Port Vale,1-1,Wigan Athletic
+Mon Apr 7 1980,Northampton Town,0-0,Lincoln City
+Mon Apr 7 1980,Peterborough United,1-1,Stockport County
+Tue Apr 8 1980,Hartlepool United,1-2,Doncaster Rovers
+Tue Apr 8 1980,Darlington,2-3,Huddersfield Town
+Tue Apr 8 1980,Halifax Town,2-2,Scunthorpe United
+Tue Apr 8 1980,Peterborough United,0-1,Newport County
+Tue Apr 8 1980,Northampton Town,0-1,AFC Bournemouth
+Fri Apr 11 1980,Tranmere Rovers,1-0,Hartlepool United
+Fri Apr 11 1980,Stockport County,0-4,Aldershot
+Fri Apr 11 1980,Doncaster Rovers,1-0,Hereford United
+Sat Apr 12 1980,Wigan Athletic,3-1,Halifax Town
+Sat Apr 12 1980,Scunthorpe United,1-0,Peterborough United
+Sat Apr 12 1980,Lincoln City,2-1,Darlington
+Sat Apr 12 1980,Newport County,1-0,Rochdale
+Sat Apr 12 1980,York City,1-2,Northampton Town
+Sat Apr 12 1980,Huddersfield Town,1-1,Walsall
+Sat Apr 12 1980,Portsmouth,1-1,Crewe Alexandra
+Sat Apr 12 1980,AFC Bournemouth,3-1,Port Vale
+Sat Apr 12 1980,Bradford City,1-1,Torquay United
+Tue Apr 15 1980,Rochdale,0-0,Torquay United
+Tue Apr 15 1980,Huddersfield Town,2-1,Scunthorpe United
+Tue Apr 15 1980,Hartlepool United,1-1,Wigan Athletic
+Fri Apr 18 1980,Rochdale,0-1,Scunthorpe United
+Sat Apr 19 1980,Walsall,1-1,Bradford City
+Sat Apr 19 1980,Crewe Alexandra,1-0,Stockport County
+Sat Apr 19 1980,Darlington,1-1,Newport County
+Sat Apr 19 1980,Hartlepool United,0-0,Lincoln City
+Sat Apr 19 1980,Port Vale,1-2,York City
+Sat Apr 19 1980,Torquay United,3-1,Tranmere Rovers
+Sat Apr 19 1980,Hereford United,1-3,Huddersfield Town
+Sat Apr 19 1980,Northampton Town,1-1,Wigan Athletic
+Sat Apr 19 1980,Halifax Town,1-2,Portsmouth
+Sat Apr 19 1980,Aldershot,1-1,Doncaster Rovers
+Sat Apr 19 1980,Peterborough United,2-0,AFC Bournemouth
+Tue Apr 22 1980,Halifax Town,1-3,Stockport County
+Tue Apr 22 1980,Scunthorpe United,1-1,Aldershot
+Tue Apr 22 1980,Doncaster Rovers,1-1,Crewe Alexandra
+Tue Apr 22 1980,Bradford City,3-0,Newport County
+Wed Apr 23 1980,Torquay United,3-1,Hartlepool United
+Fri Apr 25 1980,Lincoln City,4-0,Halifax Town
+Fri Apr 25 1980,Stockport County,0-1,Port Vale
+Fri Apr 25 1980,Scunthorpe United,3-0,Northampton Town
+Sat Apr 26 1980,Portsmouth,4-0,Peterborough United
+Sat Apr 26 1980,Wigan Athletic,3-0,Walsall
+Sat Apr 26 1980,Bradford City,1-0,Hereford United
+Sat Apr 26 1980,Huddersfield Town,4-2,Torquay United
+Sat Apr 26 1980,York City,1-1,Aldershot
+Sat Apr 26 1980,Tranmere Rovers,1-2,Darlington
+Sat Apr 26 1980,Newport County,1-0,Hartlepool United
+Sat Apr 26 1980,Doncaster Rovers,2-0,Rochdale
+Sat Apr 26 1980,AFC Bournemouth,0-1,Crewe Alexandra
+Tue Apr 29 1980,Rochdale,2-0,Newport County
+Tue Apr 29 1980,Halifax Town,3-3,Torquay United
+Wed Apr 30 1980,Wigan Athletic,0-0,Doncaster Rovers
+Fri May 2 1980,Rochdale,2-0,Tranmere Rovers
+Fri May 2 1980,Stockport County,4-1,Halifax Town
+Sat May 3 1980,Port Vale,3-0,Doncaster Rovers
+Sat May 3 1980,Walsall,2-4,Newport County
+Sat May 3 1980,Northampton Town,0-2,Portsmouth
+Sat May 3 1980,Huddersfield Town,2-1,Hartlepool United
+Sat May 3 1980,Torquay United,2-5,Lincoln City
+Sat May 3 1980,Hereford United,1-1,Scunthorpe United
+Sat May 3 1980,Crewe Alexandra,2-0,York City
+Sat May 3 1980,Darlington,0-1,AFC Bournemouth
+Sat May 3 1980,Aldershot,0-3,Wigan Athletic
+Sat May 3 1980,Peterborough United,1-0,Bradford City
+Tue May 6 1980,Rochdale,0-2,Hereford United
+Tue May 6 1980,Aldershot,0-0,Tranmere Rovers

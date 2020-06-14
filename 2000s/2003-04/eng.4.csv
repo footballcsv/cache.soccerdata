@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 9 2003,Hull City,4-1,Darlington
+Sat Aug 9 2003,Carlisle United,1-2,York City
+Sat Aug 9 2003,Leyton Orient,1-3,Doncaster Rovers
+Sat Aug 9 2003,Rochdale,1-3,Yeovil
+Sat Aug 9 2003,Lincoln City,0-1,Oxford United
+Sat Aug 9 2003,Scunthorpe United,1-2,Bristol Rovers
+Sat Aug 9 2003,Southend United,2-0,Cheltenham
+Sat Aug 9 2003,Huddersfield Town,2-2,Cambridge United
+Sat Aug 9 2003,Northampton Town,0-1,Torquay United
+Sat Aug 9 2003,Macclesfield,0-0,Boston United
+Sat Aug 9 2003,Swansea City,4-2,Bury
+Sat Aug 9 2003,Kidderminster Harriers,2-1,Mansfield Town
+Sat Aug 16 2003,Torquay United,1-0,Lincoln City
+Sat Aug 16 2003,Cheltenham,3-4,Swansea City
+Sat Aug 16 2003,York City,1-0,Northampton Town
+Sat Aug 16 2003,Bristol Rovers,0-0,Rochdale
+Sat Aug 16 2003,Oxford United,2-1,Hull City
+Sat Aug 16 2003,Yeovil,3-0,Carlisle United
+Sat Aug 16 2003,Boston United,2-2,Huddersfield Town
+Sat Aug 16 2003,Darlington,0-2,Kidderminster Harriers
+Sat Aug 16 2003,Cambridge United,3-1,Macclesfield
+Sat Aug 16 2003,Mansfield Town,1-1,Leyton Orient
+Sat Aug 16 2003,Bury,2-3,Scunthorpe United
+Sat Aug 16 2003,Doncaster Rovers,2-0,Southend United
+Fri Aug 22 2003,Northampton Town,1-0,Darlington
+Fri Aug 22 2003,Swansea City,3-0,Boston United
+Sat Aug 23 2003,Huddersfield Town,0-1,York City
+Sat Aug 23 2003,Kidderminster Harriers,0-2,Bury
+Sat Aug 23 2003,Macclesfield,1-1,Torquay United
+Sat Aug 23 2003,Leyton Orient,2-0,Yeovil
+Sat Aug 23 2003,Lincoln City,0-0,Doncaster Rovers
+Sat Aug 23 2003,Southend United,0-3,Mansfield Town
+Sat Aug 23 2003,Scunthorpe United,1-1,Oxford United
+Sat Aug 23 2003,Carlisle United,0-2,Bristol Rovers
+Sat Aug 23 2003,Hull City,3-3,Cheltenham
+Sat Aug 23 2003,Rochdale,2-2,Cambridge United
+Mon Aug 25 2003,Cambridge United,0-2,Hull City
+Mon Aug 25 2003,Doncaster Rovers,1-1,Huddersfield Town
+Mon Aug 25 2003,Darlington,2-1,Leyton Orient
+Mon Aug 25 2003,Bristol Rovers,2-2,Macclesfield
+Mon Aug 25 2003,Torquay United,1-3,Rochdale
+Mon Aug 25 2003,Bury,2-1,Lincoln City
+Mon Aug 25 2003,Boston United,1-0,Carlisle United
+Mon Aug 25 2003,Cheltenham,2-1,Kidderminster Harriers
+Mon Aug 25 2003,Oxford United,3-0,Swansea City
+Mon Aug 25 2003,Yeovil,0-2,Northampton Town
+Tue Aug 26 2003,York City,2-0,Southend United
+Tue Aug 26 2003,Mansfield Town,5-0,Scunthorpe United
+Sat Aug 30 2003,Carlisle United,0-0,Cambridge United
+Sat Aug 30 2003,Huddersfield Town,2-1,Bristol Rovers
+Sat Aug 30 2003,Kidderminster Harriers,1-1,Oxford United
+Sat Aug 30 2003,Scunthorpe United,2-1,Torquay United
+Sat Aug 30 2003,Lincoln City,3-0,York City
+Sat Aug 30 2003,Hull City,2-1,Boston United
+Sat Aug 30 2003,Leyton Orient,1-4,Cheltenham
+Sat Aug 30 2003,Rochdale,4-2,Darlington
+Sat Aug 30 2003,Swansea City,4-1,Mansfield Town
+Sat Aug 30 2003,Northampton Town,1-0,Doncaster Rovers
+Sat Aug 30 2003,Southend United,1-0,Bury
+Sat Aug 30 2003,Macclesfield,4-1,Yeovil
+Fri Sep 5 2003,Cheltenham,4-3,Northampton Town
+Fri Sep 5 2003,Cambridge United,0-0,Lincoln City
+Sat Sep 6 2003,Bristol Rovers,1-0,Kidderminster Harriers
+Sat Sep 6 2003,York City,1-2,Rochdale
+Sat Sep 6 2003,Yeovil,2-0,Swansea City
+Sat Sep 6 2003,Mansfield Town,3-2,Macclesfield
+Sat Sep 6 2003,Bury,2-1,Huddersfield Town
+Sat Sep 6 2003,Oxford United,2-0,Southend United
+Sat Sep 6 2003,Torquay United,2-1,Leyton Orient
+Sat Sep 6 2003,Darlington,2-0,Carlisle United
+Sat Sep 6 2003,Boston United,1-1,Scunthorpe United
+Mon Sep 8 2003,Doncaster Rovers,0-0,Hull City
+Sat Sep 13 2003,Lincoln City,0-0,Leyton Orient
+Sat Sep 13 2003,Huddersfield Town,3-0,Northampton Town
+Sat Sep 13 2003,Scunthorpe United,2-2,Swansea City
+Sat Sep 13 2003,Hull City,3-2,Southend United
+Sat Sep 13 2003,Macclesfield,1-1,Kidderminster Harriers
+Sat Sep 13 2003,Cambridge United,1-1,Torquay United
+Sat Sep 13 2003,Carlisle United,3-2,Rochdale
+Sat Sep 13 2003,Darlington,2-1,Doncaster Rovers
+Sat Sep 13 2003,Oxford United,1-1,Mansfield Town
+Sat Sep 13 2003,Yeovil,3-0,York City
+Sat Sep 13 2003,Bristol Rovers,2-0,Boston United
+Sat Sep 13 2003,Bury,1-1,Cheltenham
+Tue Sep 16 2003,York City,1-1,Darlington
+Tue Sep 16 2003,Doncaster Rovers,0-1,Yeovil
+Tue Sep 16 2003,Cheltenham,0-0,Oxford United
+Tue Sep 16 2003,Torquay United,2-1,Bristol Rovers
+Tue Sep 16 2003,Southend United,0-2,Lincoln City
+Tue Sep 16 2003,Kidderminster Harriers,0-2,Scunthorpe United
+Tue Sep 16 2003,Rochdale,1-1,Huddersfield Town
+Tue Sep 16 2003,Mansfield Town,5-3,Bury
+Tue Sep 16 2003,Northampton Town,2-0,Carlisle United
+Tue Sep 16 2003,Swansea City,3-0,Macclesfield
+Tue Sep 16 2003,Leyton Orient,1-1,Hull City
+Wed Sep 17 2003,Boston United,1-2,Cambridge United
+Sat Sep 20 2003,Mansfield Town,0-1,Yeovil
+Sat Sep 20 2003,Swansea City,2-0,Huddersfield Town
+Sat Sep 20 2003,Cheltenham,0-3,Cambridge United
+Sat Sep 20 2003,York City,2-1,Bristol Rovers
+Sat Sep 20 2003,Southend United,2-2,Carlisle United
+Sat Sep 20 2003,Kidderminster Harriers,1-2,Lincoln City
+Sat Sep 20 2003,Rochdale,0-2,Hull City
+Sat Sep 20 2003,Boston United,1-0,Bury
+Sat Sep 20 2003,Northampton Town,0-0,Macclesfield
+Sat Sep 20 2003,Torquay United,2-2,Darlington
+Sat Sep 20 2003,Leyton Orient,1-1,Scunthorpe United
+Sat Sep 20 2003,Doncaster Rovers,2-0,Oxford United
+Sat Sep 27 2003,Macclesfield,0-0,York City
+Sat Sep 27 2003,Huddersfield Town,3-0,Leyton Orient
+Sat Sep 27 2003,Oxford United,3-0,Northampton Town
+Sat Sep 27 2003,Carlisle United,1-2,Swansea City
+Sat Sep 27 2003,Bury,1-3,Doncaster Rovers
+Sat Sep 27 2003,Lincoln City,1-1,Rochdale
+Sat Sep 27 2003,Yeovil,0-2,Torquay United
+Sat Sep 27 2003,Hull City,6-1,Kidderminster Harriers
+Sat Sep 27 2003,Darlington,3-0,Boston United
+Sat Sep 27 2003,Scunthorpe United,1-1,Southend United
+Sat Sep 27 2003,Bristol Rovers,2-0,Cheltenham
+Sat Sep 27 2003,Cambridge United,1-2,Mansfield Town
+Tue Sep 30 2003,Darlington,0-0,Southend United
+Tue Sep 30 2003,Hull City,1-0,Swansea City
+Tue Sep 30 2003,Scunthorpe United,5-2,Cheltenham
+Tue Sep 30 2003,Carlisle United,0-1,Leyton Orient
+Tue Sep 30 2003,Bristol Rovers,1-3,Mansfield Town
+Tue Sep 30 2003,Macclesfield,2-1,Rochdale
+Tue Sep 30 2003,Cambridge United,3-3,Doncaster Rovers
+Tue Sep 30 2003,Lincoln City,0-0,Northampton Town
+Tue Sep 30 2003,Yeovil,2-0,Boston United
+Tue Sep 30 2003,Huddersfield Town,1-0,Kidderminster Harriers
+Tue Sep 30 2003,Bury,2-0,York City
+Wed Oct 1 2003,Oxford United,1-0,Torquay United
+Sat Oct 4 2003,Leyton Orient,2-0,Macclesfield
+Sat Oct 4 2003,Rochdale,2-0,Scunthorpe United
+Sat Oct 4 2003,Kidderminster Harriers,2-1,Carlisle United
+Sat Oct 4 2003,Torquay United,3-1,Bury
+Sat Oct 4 2003,Cheltenham,3-1,Yeovil
+Sat Oct 4 2003,York City,2-0,Cambridge United
+Sat Oct 4 2003,Mansfield Town,3-1,Darlington
+Sat Oct 4 2003,Southend United,1-2,Huddersfield Town
+Sat Oct 4 2003,Boston United,1-1,Oxford United
+Sat Oct 4 2003,Swansea City,2-2,Lincoln City
+Sat Oct 4 2003,Northampton Town,1-5,Hull City
+Sat Oct 4 2003,Doncaster Rovers,5-1,Bristol Rovers
+Sat Oct 11 2003,Macclesfield,1-3,Doncaster Rovers
+Sat Oct 11 2003,Kidderminster Harriers,1-2,Southend United
+Sat Oct 11 2003,Boston United,3-1,Cheltenham
+Sat Oct 11 2003,Scunthorpe United,1-3,Lincoln City
+Sat Oct 11 2003,Darlington,0-4,Bristol Rovers
+Sat Oct 11 2003,Cambridge United,1-2,Bury
+Sat Oct 11 2003,Oxford United,1-0,Yeovil
+Sat Oct 11 2003,Huddersfield Town,1-0,Torquay United
+Sat Oct 11 2003,Rochdale,1-1,Northampton Town
+Sat Oct 11 2003,Mansfield Town,2-0,York City
+Sat Oct 11 2003,Leyton Orient,1-2,Swansea City
+Sun Oct 12 2003,Hull City,2-1,Carlisle United
+Fri Oct 17 2003,Northampton Town,1-1,Scunthorpe United
+Sat Oct 18 2003,Carlisle United,0-1,Macclesfield
+Sat Oct 18 2003,Doncaster Rovers,4-2,Mansfield Town
+Sat Oct 18 2003,Swansea City,0-0,Kidderminster Harriers
+Sat Oct 18 2003,Bristol Rovers,0-2,Cambridge United
+Sat Oct 18 2003,Bury,0-4,Oxford United
+Sat Oct 18 2003,York City,1-1,Boston United
+Sat Oct 18 2003,Southend United,1-2,Leyton Orient
+Sat Oct 18 2003,Torquay United,1-1,Hull City
+Sat Oct 18 2003,Yeovil,1-0,Darlington
+Sat Oct 18 2003,Lincoln City,3-1,Huddersfield Town
+Sat Oct 18 2003,Cheltenham,0-2,Rochdale
+Tue Oct 21 2003,Yeovil,2-1,Huddersfield Town
+Tue Oct 21 2003,Bury,0-0,Hull City
+Tue Oct 21 2003,Bristol Rovers,1-1,Leyton Orient
+Tue Oct 21 2003,Carlisle United,1-4,Scunthorpe United
+Tue Oct 21 2003,Cheltenham,2-1,Darlington
+Tue Oct 21 2003,York City,2-2,Oxford United
+Tue Oct 21 2003,Lincoln City,3-2,Macclesfield
+Tue Oct 21 2003,Swansea City,0-2,Cambridge United
+Tue Oct 21 2003,Northampton Town,0-1,Kidderminster Harriers
+Tue Oct 21 2003,Doncaster Rovers,2-1,Rochdale
+Tue Oct 21 2003,Torquay United,1-0,Mansfield Town
+Tue Oct 21 2003,Southend United,0-2,Boston United
+Sat Oct 25 2003,Boston United,4-0,Torquay United
+Sat Oct 25 2003,Macclesfield,1-2,Southend United
+Sat Oct 25 2003,Rochdale,0-1,Swansea City
+Sat Oct 25 2003,Scunthorpe United,0-0,York City
+Sat Oct 25 2003,Oxford United,0-0,Bristol Rovers
+Sat Oct 25 2003,Mansfield Town,4-0,Cheltenham
+Sat Oct 25 2003,Cambridge United,1-4,Yeovil
+Sat Oct 25 2003,Leyton Orient,1-1,Northampton Town
+Sat Oct 25 2003,Huddersfield Town,2-1,Carlisle United
+Sat Oct 25 2003,Darlington,1-3,Bury
+Sat Oct 25 2003,Kidderminster Harriers,0-2,Doncaster Rovers
+Sat Oct 25 2003,Hull City,3-0,Lincoln City
+Sat Nov 1 2003,Cheltenham,1-1,York City
+Sat Nov 1 2003,Scunthorpe United,6-2,Huddersfield Town
+Sat Nov 1 2003,Swansea City,0-0,Bristol Rovers
+Sat Nov 1 2003,Lincoln City,2-0,Carlisle United
+Sat Nov 1 2003,Leyton Orient,2-1,Rochdale
+Sat Nov 1 2003,Oxford United,3-1,Darlington
+Sat Nov 1 2003,Bury,2-1,Yeovil
+Sat Nov 1 2003,Mansfield Town,2-1,Boston United
+Sat Nov 1 2003,Doncaster Rovers,1-0,Torquay United
+Sat Nov 1 2003,Southend United,0-1,Northampton Town
+Sat Nov 1 2003,Kidderminster Harriers,2-2,Cambridge United
+Sat Nov 1 2003,Hull City,2-2,Macclesfield
+Sat Nov 15 2003,Yeovil,4-0,Southend United
+Sat Nov 15 2003,Cambridge United,1-1,Oxford United
+Sat Nov 15 2003,York City,1-0,Doncaster Rovers
+Sat Nov 15 2003,Carlisle United,0-2,Mansfield Town
+Sat Nov 15 2003,Macclesfield,2-2,Scunthorpe United
+Sat Nov 15 2003,Darlington,0-0,Lincoln City
+Sat Nov 15 2003,Boston United,3-0,Leyton Orient
+Sat Nov 15 2003,Bristol Rovers,1-2,Bury
+Sat Nov 15 2003,Huddersfield Town,3-1,Hull City
+Sat Nov 15 2003,Torquay United,3-1,Cheltenham
+Sat Nov 15 2003,Rochdale,0-1,Kidderminster Harriers
+Mon Nov 17 2003,Northampton Town,2-1,Swansea City
+Sat Nov 22 2003,Leyton Orient,2-2,York City
+Sat Nov 22 2003,Scunthorpe United,4-0,Cambridge United
+Sat Nov 22 2003,Lincoln City,3-1,Bristol Rovers
+Sat Nov 22 2003,Bury,1-0,Northampton Town
+Sat Nov 22 2003,Cheltenham,2-1,Carlisle United
+Sat Nov 22 2003,Mansfield Town,3-3,Huddersfield Town
+Sat Nov 22 2003,Kidderminster Harriers,1-2,Torquay United
+Sat Nov 22 2003,Swansea City,1-0,Darlington
+Sat Nov 22 2003,Doncaster Rovers,3-0,Boston United
+Sat Nov 22 2003,Southend United,4-0,Rochdale
+Sat Nov 22 2003,Oxford United,3-1,Macclesfield
+Sat Nov 22 2003,Hull City,0-0,Yeovil
+Sat Nov 29 2003,Torquay United,3-0,Southend United
+Sat Nov 29 2003,Huddersfield Town,0-0,Cheltenham
+Sat Nov 29 2003,Bristol Rovers,2-1,Hull City
+Sat Nov 29 2003,Rochdale,1-2,Oxford United
+Sat Nov 29 2003,Boston United,2-2,Kidderminster Harriers
+Sat Nov 29 2003,Northampton Town,0-3,Mansfield Town
+Sat Nov 29 2003,Darlington,2-2,Scunthorpe United
+Sat Nov 29 2003,Carlisle United,0-1,Doncaster Rovers
+Sat Nov 29 2003,Macclesfield,1-0,Bury
+Sat Nov 29 2003,Cambridge United,1-4,Leyton Orient
+Sat Nov 29 2003,York City,0-0,Swansea City
+Sat Nov 29 2003,Yeovil,3-1,Lincoln City
+Sat Dec 6 2003,Hull City,2-0,Bury
+Sat Dec 6 2003,Darlington,3-0,York City
+Sat Dec 13 2003,Kidderminster Harriers,2-1,Leyton Orient
+Sat Dec 13 2003,Cambridge United,1-0,Darlington
+Sat Dec 13 2003,Bury,1-2,Rochdale
+Sat Dec 13 2003,Torquay United,1-1,York City
+Sat Dec 13 2003,Oxford United,2-1,Carlisle United
+Sat Dec 13 2003,Cheltenham,1-3,Doncaster Rovers
+Sat Dec 13 2003,Mansfield Town,1-2,Lincoln City
+Sat Dec 13 2003,Macclesfield,4-0,Huddersfield Town
+Sat Dec 13 2003,Swansea City,2-3,Southend United
+Sat Dec 13 2003,Scunthorpe United,1-1,Hull City
+Sat Dec 13 2003,Boston United,1-1,Northampton Town
+Sat Dec 13 2003,Bristol Rovers,0-1,Yeovil
+Fri Dec 19 2003,Northampton Town,1-2,Cambridge United
+Fri Dec 19 2003,Doncaster Rovers,3-1,Swansea City
+Sat Dec 20 2003,Leyton Orient,2-0,Bury
+Sat Dec 20 2003,Yeovil,2-1,Scunthorpe United
+Sat Dec 20 2003,Rochdale,1-0,Boston United
+Sat Dec 20 2003,Southend United,0-1,Bristol Rovers
+Sat Dec 20 2003,Darlington,0-1,Macclesfield
+Sat Dec 20 2003,Hull City,0-1,Mansfield Town
+Sat Dec 20 2003,Carlisle United,2-0,Torquay United
+Sat Dec 20 2003,Huddersfield Town,1-1,Oxford United
+Sun Dec 21 2003,York City,1-0,Kidderminster Harriers
+Fri Dec 26 2003,Torquay United,0-0,Swansea City
+Fri Dec 26 2003,Cambridge United,0-1,Southend United
+Fri Dec 26 2003,Yeovil,1-2,Kidderminster Harriers
+Fri Dec 26 2003,Cheltenham,3-2,Macclesfield
+Fri Dec 26 2003,Doncaster Rovers,1-0,Scunthorpe United
+Fri Dec 26 2003,Boston United,0-1,Lincoln City
+Fri Dec 26 2003,Oxford United,2-1,Leyton Orient
+Fri Dec 26 2003,York City,0-2,Hull City
+Fri Dec 26 2003,Bury,1-3,Carlisle United
+Fri Dec 26 2003,Bristol Rovers,1-2,Northampton Town
+Fri Dec 26 2003,Mansfield Town,1-0,Rochdale
+Fri Dec 26 2003,Darlington,0-1,Huddersfield Town
+Sun Dec 28 2003,Rochdale,1-2,York City
+Sun Dec 28 2003,Southend United,0-1,Oxford United
+Sun Dec 28 2003,Lincoln City,2-2,Cambridge United
+Sun Dec 28 2003,Carlisle United,1-1,Darlington
+Sun Dec 28 2003,Leyton Orient,0-0,Torquay United
+Sun Dec 28 2003,Hull City,3-1,Doncaster Rovers
+Sun Dec 28 2003,Kidderminster Harriers,1-0,Bristol Rovers
+Sun Dec 28 2003,Macclesfield,1-1,Mansfield Town
+Sun Dec 28 2003,Huddersfield Town,1-0,Bury
+Sun Dec 28 2003,Northampton Town,1-0,Cheltenham
+Sun Dec 28 2003,Scunthorpe United,0-1,Boston United
+Sun Dec 28 2003,Swansea City,3-2,Yeovil
+Sat Jan 3 2004,Rochdale,1-0,Torquay United
+Sat Jan 3 2004,Huddersfield Town,3-1,Doncaster Rovers
+Sat Jan 3 2004,Hull City,2-0,Cambridge United
+Sat Jan 3 2004,Carlisle United,2-1,Boston United
+Sat Jan 3 2004,Leyton Orient,1-0,Darlington
+Sat Jan 3 2004,Lincoln City,2-1,Bury
+Tue Jan 6 2004,Swansea City,0-0,Oxford United
+Fri Jan 9 2004,Cheltenham,1-1,Southend United
+Sat Jan 10 2004,Oxford United,0-0,Lincoln City
+Sat Jan 10 2004,Mansfield Town,1-0,Kidderminster Harriers
+Sat Jan 10 2004,Yeovil,1-0,Rochdale
+Sat Jan 10 2004,Cambridge United,1-2,Huddersfield Town
+Sat Jan 10 2004,Doncaster Rovers,5-0,Leyton Orient
+Sat Jan 10 2004,York City,2-0,Carlisle United
+Sat Jan 10 2004,Bury,2-0,Swansea City
+Sat Jan 10 2004,Boston United,3-1,Macclesfield
+Sat Jan 10 2004,Torquay United,3-1,Northampton Town
+Sat Jan 10 2004,Bristol Rovers,1-0,Scunthorpe United
+Sat Jan 10 2004,Darlington,0-1,Hull City
+Tue Jan 13 2004,Lincoln City,0-0,Cheltenham
+Tue Jan 13 2004,Macclesfield,2-1,Bristol Rovers
+Sat Jan 17 2004,Rochdale,2-2,Bristol Rovers
+Sat Jan 17 2004,Leyton Orient,3-1,Mansfield Town
+Sat Jan 17 2004,Hull City,4-2,Oxford United
+Sat Jan 17 2004,Kidderminster Harriers,1-1,Darlington
+Sat Jan 17 2004,Scunthorpe United,0-0,Bury
+Sat Jan 17 2004,Carlisle United,2-0,Yeovil
+Sat Jan 17 2004,Macclesfield,0-1,Cambridge United
+Sat Jan 17 2004,Southend United,0-2,Doncaster Rovers
+Sat Jan 17 2004,Lincoln City,1-3,Torquay United
+Sat Jan 17 2004,Swansea City,0-0,Cheltenham
+Sat Jan 17 2004,Northampton Town,2-1,York City
+Sat Jan 17 2004,Huddersfield Town,2-0,Boston United
+Fri Jan 23 2004,Doncaster Rovers,0-2,Lincoln City
+Sat Jan 24 2004,Bury,0-0,Kidderminster Harriers
+Sat Jan 24 2004,Cambridge United,0-0,Rochdale
+Sat Jan 24 2004,Yeovil,1-2,Leyton Orient
+Sat Jan 24 2004,Cheltenham,0-2,Hull City
+Sat Jan 24 2004,Torquay United,4-1,Macclesfield
+Sat Jan 24 2004,Mansfield Town,1-0,Southend United
+Sat Jan 24 2004,Bristol Rovers,1-0,Carlisle United
+Sun Jan 25 2004,York City,0-2,Huddersfield Town
+Tue Jan 27 2004,Scunthorpe United,0-0,Mansfield Town
+Tue Jan 27 2004,Southend United,0-0,York City
+Fri Jan 30 2004,Doncaster Rovers,1-0,Northampton Town
+Sat Jan 31 2004,Oxford United,2-1,Kidderminster Harriers
+Sat Jan 31 2004,Yeovil,2-2,Macclesfield
+Sat Jan 31 2004,Cheltenham,1-0,Leyton Orient
+Sat Jan 31 2004,Darlington,1-0,Rochdale
+Tue Feb 3 2004,Northampton Town,2-0,Yeovil
+Sat Feb 7 2004,Southend United,1-0,Cambridge United
+Sat Feb 7 2004,Rochdale,3-0,Mansfield Town
+Sat Feb 7 2004,Swansea City,1-2,Torquay United
+Sat Feb 7 2004,Macclesfield,1-2,Cheltenham
+Sat Feb 7 2004,Hull City,2-1,York City
+Sat Feb 7 2004,Scunthorpe United,2-2,Doncaster Rovers
+Sat Feb 7 2004,Carlisle United,2-1,Bury
+Sat Feb 7 2004,Northampton Town,2-0,Bristol Rovers
+Sat Feb 7 2004,Leyton Orient,1-0,Oxford United
+Sat Feb 7 2004,Huddersfield Town,0-2,Darlington
+Sat Feb 7 2004,Kidderminster Harriers,0-1,Yeovil
+Sat Feb 7 2004,Lincoln City,1-1,Boston United
+Tue Feb 10 2004,Kidderminster Harriers,0-0,Cheltenham
+Wed Feb 11 2004,Oxford United,3-2,Scunthorpe United
+Sat Feb 14 2004,Southend United,3-0,Kidderminster Harriers
+Sat Feb 14 2004,York City,1-2,Mansfield Town
+Sat Feb 14 2004,Cheltenham,1-0,Boston United
+Sat Feb 14 2004,Bury,1-0,Cambridge United
+Sat Feb 14 2004,Bristol Rovers,0-3,Darlington
+Sat Feb 14 2004,Torquay United,0-1,Huddersfield Town
+Sat Feb 14 2004,Doncaster Rovers,1-0,Macclesfield
+Sat Feb 14 2004,Yeovil,1-0,Oxford United
+Sat Feb 14 2004,Lincoln City,1-1,Scunthorpe United
+Sat Feb 14 2004,Carlisle United,1-1,Hull City
+Sat Feb 14 2004,Northampton Town,3-1,Rochdale
+Tue Feb 17 2004,Bristol Rovers,1-1,Huddersfield Town
+Tue Feb 17 2004,Cambridge United,2-2,Carlisle United
+Tue Feb 17 2004,Darlington,1-2,Northampton Town
+Tue Feb 17 2004,York City,1-4,Lincoln City
+Wed Feb 18 2004,Boston United,1-1,Swansea City
+Sat Feb 21 2004,Mansfield Town,1-2,Doncaster Rovers
+Sat Feb 21 2004,Oxford United,1-1,Bury
+Sat Feb 21 2004,Darlington,3-2,Yeovil
+Sat Feb 21 2004,Macclesfield,1-1,Carlisle United
+Sat Feb 21 2004,Rochdale,0-0,Cheltenham
+Sat Feb 21 2004,Huddersfield Town,2-1,Lincoln City
+Sat Feb 21 2004,Boston United,2-0,York City
+Sat Feb 21 2004,Kidderminster Harriers,2-0,Swansea City
+Sat Feb 21 2004,Leyton Orient,2-1,Southend United
+Sat Feb 21 2004,Scunthorpe United,1-0,Northampton Town
+Sat Feb 21 2004,Cambridge United,3-1,Bristol Rovers
+Sat Feb 21 2004,Hull City,0-1,Torquay United
+Tue Feb 24 2004,Swansea City,2-1,Leyton Orient
+Tue Feb 24 2004,Torquay United,1-0,Scunthorpe United
+Tue Feb 24 2004,Bury,1-1,Southend United
+Fri Feb 27 2004,Doncaster Rovers,5-0,Kidderminster Harriers
+Sat Feb 28 2004,Northampton Town,1-0,Leyton Orient
+Sat Feb 28 2004,Torquay United,2-0,Boston United
+Sat Feb 28 2004,Cheltenham,4-2,Mansfield Town
+Sat Feb 28 2004,Bury,1-1,Darlington
+Sat Feb 28 2004,Lincoln City,2-0,Hull City
+Sat Feb 28 2004,Bristol Rovers,1-1,Oxford United
+Sat Feb 28 2004,Yeovil,4-1,Cambridge United
+Sat Feb 28 2004,Southend United,1-0,Macclesfield
+Tue Mar 2 2004,Cambridge United,0-1,Swansea City
+Tue Mar 2 2004,Huddersfield Town,3-1,Yeovil
+Tue Mar 2 2004,Kidderminster Harriers,2-1,Northampton Town
+Tue Mar 2 2004,Leyton Orient,1-1,Bristol Rovers
+Wed Mar 3 2004,Boston United,0-2,Southend United
+Wed Mar 3 2004,Oxford United,0-0,York City
+Fri Mar 5 2004,Swansea City,1-1,Doncaster Rovers
+Sat Mar 6 2004,Boston United,2-0,Rochdale
+Sat Mar 6 2004,Macclesfield,0-1,Darlington
+Sat Mar 6 2004,Bury,1-1,Leyton Orient
+Sat Mar 6 2004,Scunthorpe United,3-0,Yeovil
+Sat Mar 6 2004,Torquay United,4-1,Carlisle United
+Sat Mar 6 2004,Cambridge United,0-1,Northampton Town
+Sat Mar 6 2004,Mansfield Town,1-0,Hull City
+Sat Mar 6 2004,Cheltenham,3-2,Lincoln City
+Sat Mar 6 2004,Kidderminster Harriers,4-1,York City
+Sat Mar 6 2004,Oxford United,0-1,Huddersfield Town
+Sat Mar 6 2004,Bristol Rovers,1-1,Southend United
+Tue Mar 9 2004,York City,1-3,Scunthorpe United
+Tue Mar 9 2004,Darlington,2-1,Cheltenham
+Tue Mar 9 2004,Carlisle United,1-0,Huddersfield Town
+Tue Mar 9 2004,Swansea City,1-1,Rochdale
+Sat Mar 13 2004,Southend United,1-1,Swansea City
+Sat Mar 13 2004,Lincoln City,4-1,Mansfield Town
+Sat Mar 13 2004,York City,0-0,Torquay United
+Sat Mar 13 2004,Yeovil,4-0,Bristol Rovers
+Sat Mar 13 2004,Leyton Orient,1-1,Kidderminster Harriers
+Sat Mar 13 2004,Northampton Town,2-0,Boston United
+Sat Mar 13 2004,Darlington,3-4,Cambridge United
+Sat Mar 13 2004,Carlisle United,2-0,Oxford United
+Sat Mar 13 2004,Huddersfield Town,4-0,Macclesfield
+Sat Mar 13 2004,Hull City,2-1,Scunthorpe United
+Sat Mar 13 2004,Rochdale,0-0,Bury
+Sat Mar 13 2004,Doncaster Rovers,1-1,Cheltenham
+Tue Mar 16 2004,Scunthorpe United,0-2,Kidderminster Harriers
+Tue Mar 16 2004,Bristol Rovers,2-2,Torquay United
+Tue Mar 16 2004,Carlisle United,1-1,Northampton Town
+Tue Mar 16 2004,Bury,3-0,Mansfield Town
+Tue Mar 16 2004,Lincoln City,2-2,Southend United
+Tue Mar 16 2004,Hull City,3-0,Leyton Orient
+Tue Mar 16 2004,Huddersfield Town,1-1,Rochdale
+Tue Mar 16 2004,Macclesfield,2-1,Swansea City
+Tue Mar 16 2004,Yeovil,0-1,Doncaster Rovers
+Tue Mar 16 2004,Cambridge United,0-1,Boston United
+Wed Mar 17 2004,Oxford United,1-0,Cheltenham
+Sat Mar 20 2004,Boston United,1-0,Bristol Rovers
+Sat Mar 20 2004,Rochdale,2-0,Carlisle United
+Sat Mar 20 2004,Swansea City,4-2,Scunthorpe United
+Sat Mar 20 2004,Torquay United,3-0,Cambridge United
+Sat Mar 20 2004,Cheltenham,1-2,Bury
+Sat Mar 20 2004,Doncaster Rovers,1-1,Darlington
+Sat Mar 20 2004,Kidderminster Harriers,1-4,Macclesfield
+Sat Mar 20 2004,Leyton Orient,0-2,Lincoln City
+Tue Mar 23 2004,Scunthorpe United,2-3,Carlisle United
+Tue Mar 23 2004,Mansfield Town,1-1,Swansea City
+Sat Mar 27 2004,Carlisle United,1-2,Southend United
+Sat Mar 27 2004,Cambridge United,2-1,Cheltenham
+Sat Mar 27 2004,Bristol Rovers,3-0,York City
+Sat Mar 27 2004,Lincoln City,1-1,Kidderminster Harriers
+Sat Mar 27 2004,Oxford United,0-0,Doncaster Rovers
+Sat Mar 27 2004,Bury,1-3,Boston United
+Sat Mar 27 2004,Hull City,1-0,Rochdale
+Sat Mar 27 2004,Scunthorpe United,1-1,Leyton Orient
+Sat Mar 27 2004,Huddersfield Town,3-0,Swansea City
+Sat Mar 27 2004,Darlington,1-1,Torquay United
+Sat Mar 27 2004,Yeovil,1-1,Mansfield Town
+Sat Mar 27 2004,Macclesfield,0-4,Northampton Town
+Tue Mar 30 2004,Macclesfield,0-0,Lincoln City
+Tue Mar 30 2004,Rochdale,1-1,Doncaster Rovers
+Tue Mar 30 2004,Mansfield Town,2-1,Torquay United
+Wed Mar 31 2004,Boston United,1-2,Hull City
+Fri Apr 2 2004,Southend United,4-2,Scunthorpe United
+Sat Apr 3 2004,Boston United,1-0,Darlington
+Sat Apr 3 2004,Torquay United,2-2,Yeovil
+Sat Apr 3 2004,Kidderminster Harriers,1-1,Hull City
+Sat Apr 3 2004,Northampton Town,2-1,Oxford United
+Sat Apr 3 2004,Doncaster Rovers,3-1,Bury
+Sat Apr 3 2004,Mansfield Town,1-1,Cambridge United
+Sat Apr 3 2004,Swansea City,1-2,Carlisle United
+Sat Apr 3 2004,Cheltenham,1-2,Bristol Rovers
+Sat Apr 3 2004,Leyton Orient,1-1,Huddersfield Town
+Sat Apr 3 2004,Rochdale,0-3,Lincoln City
+Sun Apr 4 2004,York City,0-2,Macclesfield
+Tue Apr 6 2004,Mansfield Town,3-1,Oxford United
+Fri Apr 9 2004,Cambridge United,2-0,York City
+Fri Apr 9 2004,Oxford United,0-0,Boston United
+Fri Apr 9 2004,Bury,2-1,Torquay United
+Sat Apr 10 2004,Darlington,1-0,Mansfield Town
+Sat Apr 10 2004,Huddersfield Town,1-0,Southend United
+Sat Apr 10 2004,Carlisle United,1-0,Kidderminster Harriers
+Sat Apr 10 2004,Lincoln City,2-1,Swansea City
+Sat Apr 10 2004,Scunthorpe United,2-2,Rochdale
+Sat Apr 10 2004,Yeovil,0-0,Cheltenham
+Sat Apr 10 2004,Hull City,2-3,Northampton Town
+Sat Apr 10 2004,Bristol Rovers,1-2,Doncaster Rovers
+Sat Apr 10 2004,Macclesfield,1-0,Leyton Orient
+Mon Apr 12 2004,Leyton Orient,1-1,Carlisle United
+Mon Apr 12 2004,Southend United,3-2,Darlington
+Mon Apr 12 2004,Rochdale,1-2,Macclesfield
+Mon Apr 12 2004,Doncaster Rovers,2-0,Cambridge United
+Mon Apr 12 2004,Mansfield Town,0-0,Bristol Rovers
+Mon Apr 12 2004,Swansea City,2-3,Hull City
+Mon Apr 12 2004,Torquay United,3-0,Oxford United
+Mon Apr 12 2004,Kidderminster Harriers,2-1,Huddersfield Town
+Mon Apr 12 2004,Cheltenham,2-1,Scunthorpe United
+Mon Apr 12 2004,Northampton Town,1-1,Lincoln City
+Mon Apr 12 2004,Boston United,3-2,Yeovil
+Tue Apr 13 2004,York City,1-1,Bury
+Sat Apr 17 2004,Huddersfield Town,3-2,Scunthorpe United
+Sat Apr 17 2004,York City,0-2,Cheltenham
+Sat Apr 17 2004,Northampton Town,2-2,Southend United
+Sat Apr 17 2004,Boston United,1-2,Mansfield Town
+Sat Apr 17 2004,Rochdale,3-0,Leyton Orient
+Sat Apr 17 2004,Bristol Rovers,2-1,Swansea City
+Sat Apr 17 2004,Cambridge United,0-0,Kidderminster Harriers
+Sat Apr 17 2004,Yeovil,2-1,Bury
+Sat Apr 17 2004,Macclesfield,1-1,Hull City
+Sat Apr 17 2004,Darlington,2-0,Oxford United
+Sat Apr 17 2004,Torquay United,1-0,Doncaster Rovers
+Sat Apr 17 2004,Carlisle United,0-2,Lincoln City
+Tue Apr 20 2004,Northampton Town,0-1,Huddersfield Town
+Tue Apr 20 2004,York City,1-2,Yeovil
+Tue Apr 20 2004,Southend United,2-2,Hull City
+Sat Apr 24 2004,Mansfield Town,2-3,Carlisle United
+Sat Apr 24 2004,Bury,0-0,Bristol Rovers
+Sat Apr 24 2004,Lincoln City,1-1,Darlington
+Sat Apr 24 2004,Swansea City,0-2,Northampton Town
+Sat Apr 24 2004,Leyton Orient,1-3,Boston United
+Sat Apr 24 2004,Cheltenham,1-3,Torquay United
+Sat Apr 24 2004,Doncaster Rovers,3-1,York City
+Sat Apr 24 2004,Southend United,0-2,Yeovil
+Sat Apr 24 2004,Oxford United,2-2,Cambridge United
+Sat Apr 24 2004,Kidderminster Harriers,0-1,Rochdale
+Sat Apr 24 2004,Hull City,0-0,Huddersfield Town
+Sat Apr 24 2004,Scunthorpe United,1-0,Macclesfield
+Sat May 1 2004,Darlington,1-2,Swansea City
+Sat May 1 2004,Carlisle United,1-1,Cheltenham
+Sat May 1 2004,Yeovil,1-2,Hull City
+Sat May 1 2004,Boston United,0-0,Doncaster Rovers
+Sat May 1 2004,Cambridge United,3-2,Scunthorpe United
+Sat May 1 2004,Huddersfield Town,1-3,Mansfield Town
+Sat May 1 2004,Rochdale,1-1,Southend United
+Sat May 1 2004,Northampton Town,3-2,Bury
+Sat May 1 2004,Torquay United,1-1,Kidderminster Harriers
+Sat May 1 2004,Bristol Rovers,3-1,Lincoln City
+Sat May 1 2004,Macclesfield,2-1,Oxford United
+Sat May 1 2004,York City,1-2,Leyton Orient
+Sat May 8 2004,Swansea City,0-0,York City
+Sat May 8 2004,Lincoln City,2-3,Yeovil
+Sat May 8 2004,Leyton Orient,0-1,Cambridge United
+Sat May 8 2004,Mansfield Town,1-2,Northampton Town
+Sat May 8 2004,Bury,2-0,Macclesfield
+Sat May 8 2004,Kidderminster Harriers,2-0,Boston United
+Sat May 8 2004,Southend United,1-2,Torquay United
+Sat May 8 2004,Oxford United,2-0,Rochdale
+Sat May 8 2004,Hull City,3-0,Bristol Rovers
+Sat May 8 2004,Doncaster Rovers,1-0,Carlisle United
+Sat May 8 2004,Scunthorpe United,0-1,Darlington
+Sat May 8 2004,Cheltenham,1-1,Huddersfield Town

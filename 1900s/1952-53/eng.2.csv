@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 23 1952,Brentford,1-0,Lincoln City
+Sat Aug 23 1952,West Ham United,1-0,Southampton
+Sat Aug 23 1952,Nottingham Forest,1-2,Blackburn Rovers
+Sat Aug 23 1952,Leicester City,3-0,Notts County
+Sat Aug 23 1952,Huddersfield Town,1-0,Leeds United
+Sat Aug 23 1952,Plymouth Argyle,2-1,Luton Town
+Sat Aug 23 1952,Fulham,2-0,Bury
+Sat Aug 23 1952,Everton,0-2,Hull City
+Sat Aug 23 1952,Swansea City,1-2,Sheffield United
+Sat Aug 23 1952,Rotherham United,1-1,Birmingham City
+Sat Aug 23 1952,Doncaster Rovers,1-1,Barnsley
+Mon Aug 25 1952,Hull City,1-0,West Ham United
+Mon Aug 25 1952,Sheffield United,1-0,Everton
+Mon Aug 25 1952,Leicester City,6-1,Fulham
+Wed Aug 27 1952,Doncaster Rovers,2-3,Swansea City
+Wed Aug 27 1952,Huddersfield Town,0-0,Brentford
+Wed Aug 27 1952,Southampton,2-3,Plymouth Argyle
+Wed Aug 27 1952,Barnsley,0-2,Nottingham Forest
+Wed Aug 27 1952,Bury,2-2,Leeds United
+Wed Aug 27 1952,Luton Town,0-1,Birmingham City
+Wed Aug 27 1952,Lincoln City,4-1,Blackburn Rovers
+Thu Aug 28 1952,Notts County,2-1,Rotherham United
+Sat Aug 30 1952,Hull City,2-2,Brentford
+Sat Aug 30 1952,Barnsley,3-1,Swansea City
+Sat Aug 30 1952,Blackburn Rovers,3-1,Everton
+Sat Aug 30 1952,Bury,1-1,West Ham United
+Sat Aug 30 1952,Lincoln City,2-0,Doncaster Rovers
+Sat Aug 30 1952,Birmingham City,1-4,Fulham
+Sat Aug 30 1952,Sheffield United,0-2,Huddersfield Town
+Sat Aug 30 1952,Leeds United,1-1,Plymouth Argyle
+Sat Aug 30 1952,Southampton,5-2,Leicester City
+Sat Aug 30 1952,Luton Town,2-1,Rotherham United
+Sat Aug 30 1952,Notts County,3-2,Nottingham Forest
+Mon Sep 1 1952,Rotherham United,2-3,Notts County
+Mon Sep 1 1952,Blackburn Rovers,0-2,Lincoln City
+Mon Sep 1 1952,West Ham United,0-0,Hull City
+Wed Sep 3 1952,Birmingham City,2-2,Luton Town
+Wed Sep 3 1952,Fulham,4-6,Leicester City
+Wed Sep 3 1952,Nottingham Forest,3-0,Barnsley
+Wed Sep 3 1952,Brentford,1-3,Huddersfield Town
+Wed Sep 3 1952,Leeds United,2-0,Bury
+Wed Sep 3 1952,Everton,0-0,Sheffield United
+Wed Sep 3 1952,Plymouth Argyle,3-1,Southampton
+Thu Sep 4 1952,Swansea City,2-1,Doncaster Rovers
+Sat Sep 6 1952,Notts County,1-2,Southampton
+Sat Sep 6 1952,Leicester City,3-2,Bury
+Sat Sep 6 1952,Swansea City,1-1,Lincoln City
+Sat Sep 6 1952,Plymouth Argyle,5-2,Sheffield United
+Sat Sep 6 1952,Huddersfield Town,6-0,Barnsley
+Sat Sep 6 1952,Brentford,3-2,Blackburn Rovers
+Sat Sep 6 1952,Doncaster Rovers,3-1,Hull City
+Sat Sep 6 1952,Everton,3-0,Nottingham Forest
+Sat Sep 6 1952,Fulham,2-0,Luton Town
+Sat Sep 6 1952,West Ham United,1-2,Birmingham City
+Sat Sep 6 1952,Rotherham United,3-1,Leeds United
+Mon Sep 8 1952,Leicester City,0-0,West Ham United
+Mon Sep 8 1952,Sheffield United,3-2,Brentford
+Mon Sep 8 1952,Blackburn Rovers,2-0,Hull City
+Tue Sep 9 1952,Doncaster Rovers,1-1,Huddersfield Town
+Wed Sep 10 1952,Southampton,2-3,Rotherham United
+Wed Sep 10 1952,Barnsley,2-3,Everton
+Wed Sep 10 1952,Leeds United,0-1,Birmingham City
+Wed Sep 10 1952,Lincoln City,2-3,Nottingham Forest
+Wed Sep 10 1952,Luton Town,3-1,Swansea City
+Thu Sep 11 1952,Notts County,1-1,Fulham
+Sat Sep 13 1952,Hull City,1-1,Swansea City
+Sat Sep 13 1952,Plymouth Argyle,4-3,Rotherham United
+Sat Sep 13 1952,Southampton,1-1,Everton
+Sat Sep 13 1952,Birmingham City,3-1,Leicester City
+Sat Sep 13 1952,Leeds United,2-0,Fulham
+Sat Sep 13 1952,Blackburn Rovers,2-1,Doncaster Rovers
+Sat Sep 13 1952,Bury,0-1,Notts County
+Sat Sep 13 1952,Barnsley,1-3,Sheffield United
+Sat Sep 13 1952,Luton Town,0-0,West Ham United
+Sat Sep 13 1952,Nottingham Forest,3-0,Brentford
+Sat Sep 13 1952,Lincoln City,2-2,Huddersfield Town
+Mon Sep 15 1952,Hull City,3-0,Blackburn Rovers
+Mon Sep 15 1952,Rotherham United,2-2,Southampton
+Mon Sep 15 1952,West Ham United,4-1,Leicester City
+Wed Sep 17 1952,Brentford,0-0,Sheffield United
+Wed Sep 17 1952,Fulham,6-0,Notts County
+Wed Sep 17 1952,Birmingham City,2-2,Leeds United
+Wed Sep 17 1952,Nottingham Forest,1-1,Lincoln City
+Wed Sep 17 1952,Plymouth Argyle,0-0,Bury
+Wed Sep 17 1952,Huddersfield Town,3-1,Doncaster Rovers
+Thu Sep 18 1952,Swansea City,4-2,Luton Town
+Sat Sep 20 1952,Huddersfield Town,1-1,Hull City
+Sat Sep 20 1952,Sheffield United,6-1,Lincoln City
+Sat Sep 20 1952,Swansea City,1-1,Blackburn Rovers
+Sat Sep 20 1952,Leicester City,1-1,Luton Town
+Sat Sep 20 1952,Southampton,1-2,Bury
+Sat Sep 20 1952,West Ham United,2-2,Leeds United
+Sat Sep 20 1952,Rotherham United,3-1,Barnsley
+Sat Sep 20 1952,Doncaster Rovers,1-0,Nottingham Forest
+Sat Sep 20 1952,Brentford,2-4,Everton
+Sat Sep 20 1952,Notts County,2-0,Birmingham City
+Sat Sep 20 1952,Fulham,2-1,Plymouth Argyle
+Mon Sep 22 1952,Sheffield United,2-0,Nottingham Forest
+Wed Sep 24 1952,Leeds United,1-1,Southampton
+Sat Sep 27 1952,Nottingham Forest,6-4,Swansea City
+Sat Sep 27 1952,Leeds United,0-1,Leicester City
+Sat Sep 27 1952,Luton Town,5-1,Notts County
+Sat Sep 27 1952,Blackburn Rovers,1-1,Huddersfield Town
+Sat Sep 27 1952,Rotherham United,1-0,Fulham
+Sat Sep 27 1952,Bury,3-0,Brentford
+Sat Sep 27 1952,Everton,7-1,Doncaster Rovers
+Sat Sep 27 1952,Birmingham City,2-0,Southampton
+Sat Sep 27 1952,Lincoln City,1-1,Barnsley
+Sat Sep 27 1952,Hull City,4-0,Sheffield United
+Sat Sep 27 1952,Plymouth Argyle,1-1,West Ham United
+Sat Oct 4 1952,Doncaster Rovers,0-2,Brentford
+Sat Oct 4 1952,Barnsley,5-1,Hull City
+Sat Oct 4 1952,Swansea City,2-2,Everton
+Sat Oct 4 1952,Huddersfield Town,1-2,Nottingham Forest
+Sat Oct 4 1952,Southampton,1-3,Luton Town
+Sat Oct 4 1952,Bury,3-0,Birmingham City
+Sat Oct 4 1952,Sheffield United,3-0,Blackburn Rovers
+Sat Oct 4 1952,Fulham,4-2,Lincoln City
+Sat Oct 4 1952,West Ham United,2-4,Rotherham United
+Sat Oct 4 1952,Notts County,3-2,Leeds United
+Sat Oct 4 1952,Leicester City,2-0,Plymouth Argyle
+Sat Oct 11 1952,Hull City,3-1,Fulham
+Sat Oct 11 1952,Huddersfield Town,3-0,Luton Town
+Sat Oct 11 1952,Blackburn Rovers,3-0,West Ham United
+Sat Oct 11 1952,Barnsley,0-3,Plymouth Argyle
+Sat Oct 11 1952,Doncaster Rovers,1-1,Bury
+Sat Oct 11 1952,Nottingham Forest,1-3,Leicester City
+Sat Oct 11 1952,Brentford,3-0,Southampton
+Sat Oct 11 1952,Everton,1-0,Notts County
+Sat Oct 11 1952,Sheffield United,2-1,Leeds United
+Sat Oct 11 1952,Swansea City,1-1,Birmingham City
+Sat Oct 11 1952,Lincoln City,1-3,Rotherham United
+Sat Oct 18 1952,Bury,1-3,Swansea City
+Sat Oct 18 1952,Leicester City,4-2,Everton
+Sat Oct 18 1952,Fulham,2-1,Blackburn Rovers
+Sat Oct 18 1952,Leeds United,4-1,Barnsley
+Sat Oct 18 1952,Rotherham United,2-1,Hull City
+Sat Oct 18 1952,Plymouth Argyle,0-0,Lincoln City
+Sat Oct 18 1952,Luton Town,4-1,Sheffield United
+Sat Oct 18 1952,Southampton,3-3,Doncaster Rovers
+Sat Oct 18 1952,Notts County,4-0,Brentford
+Sat Oct 18 1952,Birmingham City,0-2,Huddersfield Town
+Sat Oct 18 1952,West Ham United,3-2,Nottingham Forest
+Sat Oct 25 1952,Everton,2-0,West Ham United
+Sat Oct 25 1952,Blackburn Rovers,0-1,Rotherham United
+Sat Oct 25 1952,Lincoln City,1-1,Leeds United
+Sat Oct 25 1952,Brentford,4-2,Leicester City
+Sat Oct 25 1952,Nottingham Forest,0-1,Fulham
+Sat Oct 25 1952,Sheffield United,2-2,Birmingham City
+Sat Oct 25 1952,Hull City,0-1,Plymouth Argyle
+Sat Oct 25 1952,Swansea City,1-2,Southampton
+Sat Oct 25 1952,Huddersfield Town,2-0,Bury
+Sat Oct 25 1952,Barnsley,2-3,Luton Town
+Sat Nov 1 1952,Birmingham City,3-1,Barnsley
+Sat Nov 1 1952,West Ham United,3-1,Brentford
+Sat Nov 1 1952,Fulham,3-0,Everton
+Sat Nov 1 1952,Rotherham United,2-3,Nottingham Forest
+Sat Nov 1 1952,Plymouth Argyle,3-1,Blackburn Rovers
+Sat Nov 1 1952,Leicester City,4-2,Doncaster Rovers
+Sat Nov 1 1952,Notts County,3-4,Swansea City
+Sat Nov 1 1952,Bury,0-4,Sheffield United
+Sat Nov 1 1952,Luton Town,4-0,Lincoln City
+Sat Nov 1 1952,Southampton,0-2,Huddersfield Town
+Sat Nov 1 1952,Leeds United,3-1,Hull City
+Sat Nov 8 1952,Swansea City,1-1,Leicester City
+Sat Nov 8 1952,Huddersfield Town,1-0,Notts County
+Sat Nov 8 1952,Barnsley,3-2,Bury
+Sat Nov 8 1952,Sheffield United,5-3,Southampton
+Sat Nov 8 1952,Hull City,0-2,Luton Town
+Sat Nov 8 1952,Everton,0-1,Rotherham United
+Sat Nov 8 1952,Brentford,2-2,Fulham
+Sat Nov 8 1952,Lincoln City,1-1,Birmingham City
+Sat Nov 8 1952,Blackburn Rovers,1-1,Leeds United
+Sat Nov 8 1952,Nottingham Forest,3-1,Plymouth Argyle
+Sat Nov 8 1952,Doncaster Rovers,1-1,West Ham United
+Sat Nov 15 1952,West Ham United,3-0,Swansea City
+Sat Nov 15 1952,Birmingham City,4-3,Hull City
+Sat Nov 15 1952,Rotherham United,4-1,Brentford
+Sat Nov 15 1952,Southampton,1-2,Barnsley
+Sat Nov 15 1952,Notts County,0-3,Sheffield United
+Sat Nov 15 1952,Fulham,1-3,Doncaster Rovers
+Sat Nov 15 1952,Plymouth Argyle,1-0,Everton
+Sat Nov 15 1952,Luton Town,6-0,Blackburn Rovers
+Sat Nov 15 1952,Bury,2-2,Lincoln City
+Sat Nov 15 1952,Leicester City,2-1,Huddersfield Town
+Sat Nov 22 1952,Doncaster Rovers,2-1,Rotherham United
+Sat Nov 22 1952,Swansea City,1-1,Fulham
+Sat Nov 22 1952,Nottingham Forest,4-3,Luton Town
+Sat Nov 22 1952,Huddersfield Town,0-1,West Ham United
+Sat Nov 22 1952,Brentford,1-2,Plymouth Argyle
+Sat Nov 22 1952,Everton,2-2,Leeds United
+Sat Nov 22 1952,Barnsley,1-2,Notts County
+Sat Nov 22 1952,Lincoln City,2-2,Southampton
+Sat Nov 22 1952,Hull City,0-2,Bury
+Sat Nov 22 1952,Sheffield United,7-2,Leicester City
+Sat Nov 22 1952,Blackburn Rovers,1-2,Birmingham City
+Sat Nov 29 1952,Rotherham United,2-1,Swansea City
+Sat Nov 29 1952,Luton Town,4-2,Everton
+Sat Nov 29 1952,West Ham United,1-1,Sheffield United
+Sat Nov 29 1952,Bury,1-0,Blackburn Rovers
+Sat Nov 29 1952,Southampton,5-1,Hull City
+Sat Nov 29 1952,Leeds United,3-2,Brentford
+Sat Nov 29 1952,Leicester City,2-2,Barnsley
+Sat Nov 29 1952,Fulham,0-2,Huddersfield Town
+Sat Nov 29 1952,Plymouth Argyle,0-0,Doncaster Rovers
+Sat Nov 29 1952,Birmingham City,0-5,Nottingham Forest
+Sat Nov 29 1952,Notts County,1-1,Lincoln City
+Sat Dec 6 1952,Everton,1-1,Birmingham City
+Sat Dec 6 1952,Lincoln City,3-2,Leicester City
+Sat Dec 6 1952,Swansea City,2-2,Plymouth Argyle
+Sat Dec 6 1952,Barnsley,2-0,West Ham United
+Sat Dec 6 1952,Nottingham Forest,4-1,Bury
+Sat Dec 6 1952,Hull City,6-0,Notts County
+Sat Dec 6 1952,Huddersfield Town,1-0,Rotherham United
+Sat Dec 6 1952,Blackburn Rovers,3-0,Southampton
+Sat Dec 6 1952,Sheffield United,2-1,Fulham
+Sat Dec 6 1952,Doncaster Rovers,0-0,Leeds United
+Sat Dec 13 1952,Rotherham United,0-2,Sheffield United
+Sat Dec 13 1952,Luton Town,1-2,Doncaster Rovers
+Sat Dec 13 1952,Southampton,2-2,Nottingham Forest
+Sat Dec 13 1952,West Ham United,5-1,Lincoln City
+Sat Dec 13 1952,Plymouth Argyle,0-2,Huddersfield Town
+Sat Dec 13 1952,Fulham,3-1,Barnsley
+Sat Dec 13 1952,Notts County,5-0,Blackburn Rovers
+Sat Dec 13 1952,Birmingham City,3-1,Brentford
+Sat Dec 13 1952,Bury,0-5,Everton
+Sat Dec 13 1952,Leeds United,5-1,Swansea City
+Sat Dec 13 1952,Leicester City,5-0,Hull City
+Sat Dec 20 1952,Hull City,1-0,Everton
+Sat Dec 20 1952,Notts County,2-2,Leicester City
+Sat Dec 20 1952,Birmingham City,4-0,Rotherham United
+Sat Dec 20 1952,Bury,1-1,Fulham
+Sat Dec 20 1952,Blackburn Rovers,2-1,Nottingham Forest
+Sat Dec 20 1952,Southampton,1-2,West Ham United
+Sat Dec 20 1952,Lincoln City,0-0,Brentford
+Sat Dec 20 1952,Sheffield United,7-1,Swansea City
+Sat Dec 20 1952,Leeds United,2-1,Huddersfield Town
+Sat Dec 20 1952,Barnsley,2-2,Doncaster Rovers
+Sat Dec 20 1952,Luton Town,1-0,Plymouth Argyle
+Thu Dec 25 1952,Huddersfield Town,3-0,Swansea City
+Thu Dec 25 1952,Birmingham City,4-0,Plymouth Argyle
+Thu Dec 25 1952,Blackburn Rovers,2-0,Leicester City
+Thu Dec 25 1952,West Ham United,2-2,Notts County
+Thu Dec 25 1952,Sheffield United,2-2,Doncaster Rovers
+Thu Dec 25 1952,Brentford,4-0,Barnsley
+Fri Dec 26 1952,Doncaster Rovers,0-2,Sheffield United
+Fri Dec 26 1952,Barnsley,0-2,Brentford
+Fri Dec 26 1952,Luton Town,2-0,Leeds United
+Fri Dec 26 1952,Nottingham Forest,4-1,Hull City
+Fri Dec 26 1952,Rotherham United,6-1,Bury
+Fri Dec 26 1952,Lincoln City,1-1,Everton
+Fri Dec 26 1952,Fulham,1-1,Southampton
+Sat Dec 27 1952,Leeds United,2-2,Luton Town
+Sat Dec 27 1952,Southampton,5-3,Fulham
+Sat Dec 27 1952,Notts County,1-1,West Ham United
+Sat Dec 27 1952,Bury,2-0,Rotherham United
+Sat Dec 27 1952,Leicester City,2-1,Blackburn Rovers
+Sat Dec 27 1952,Hull City,3-1,Nottingham Forest
+Sat Dec 27 1952,Plymouth Argyle,2-1,Birmingham City
+Sat Dec 27 1952,Swansea City,3-3,Huddersfield Town
+Thu Jan 1 1953,Blackburn Rovers,3-2,Notts County
+Thu Jan 1 1953,Bury,3-2,Plymouth Argyle
+Thu Jan 1 1953,Sheffield United,1-4,Rotherham United
+Thu Jan 1 1953,Everton,2-1,Barnsley
+Sat Jan 3 1953,Rotherham United,1-3,Luton Town
+Sat Jan 3 1953,Nottingham Forest,1-0,Notts County
+Sat Jan 3 1953,Everton,0-3,Blackburn Rovers
+Sat Jan 3 1953,Fulham,3-1,Birmingham City
+Sat Jan 3 1953,Plymouth Argyle,0-1,Leeds United
+Sat Jan 3 1953,Leicester City,4-1,Southampton
+Sat Jan 3 1953,Swansea City,3-0,Barnsley
+Sat Jan 3 1953,Brentford,1-0,Hull City
+Sat Jan 3 1953,Huddersfield Town,1-1,Sheffield United
+Sat Jan 3 1953,Doncaster Rovers,2-0,Lincoln City
+Sat Jan 3 1953,West Ham United,3-2,Bury
+Sat Jan 17 1953,Barnsley,2-4,Huddersfield Town
+Sat Jan 17 1953,Sheffield United,5-0,Plymouth Argyle
+Sat Jan 17 1953,Bury,1-4,Leicester City
+Sat Jan 17 1953,Lincoln City,3-1,Swansea City
+Sat Jan 17 1953,Nottingham Forest,3-3,Everton
+Sat Jan 17 1953,Luton Town,2-0,Fulham
+Sat Jan 17 1953,Hull City,1-1,Doncaster Rovers
+Sat Jan 17 1953,Birmingham City,2-0,West Ham United
+Sat Jan 17 1953,Southampton,1-1,Notts County
+Sat Jan 17 1953,Leeds United,4-0,Rotherham United
+Sat Jan 17 1953,Blackburn Rovers,3-0,Brentford
+Sat Jan 24 1953,Everton,2-2,Southampton
+Sat Jan 24 1953,Rotherham United,2-3,Plymouth Argyle
+Sat Jan 24 1953,Sheffield United,3-0,Barnsley
+Sat Jan 24 1953,Fulham,2-1,Leeds United
+Sat Jan 24 1953,Doncaster Rovers,3-3,Blackburn Rovers
+Sat Jan 24 1953,Brentford,1-1,Nottingham Forest
+Sat Jan 24 1953,Notts County,2-1,Bury
+Sat Jan 24 1953,West Ham United,0-1,Luton Town
+Sat Jan 24 1953,Swansea City,3-0,Hull City
+Sat Jan 24 1953,Leicester City,3-4,Birmingham City
+Sat Jan 24 1953,Huddersfield Town,5-0,Lincoln City
+Sat Jan 31 1953,Doncaster Rovers,0-0,Fulham
+Sat Feb 7 1953,Luton Town,2-0,Leicester City
+Sat Feb 7 1953,Nottingham Forest,2-2,Doncaster Rovers
+Sat Feb 7 1953,Lincoln City,3-2,Sheffield United
+Sat Feb 7 1953,Hull City,0-2,Huddersfield Town
+Sat Feb 7 1953,Bury,0-0,Southampton
+Sat Feb 7 1953,Leeds United,3-2,West Ham United
+Sat Feb 7 1953,Birmingham City,3-2,Notts County
+Sat Feb 7 1953,Blackburn Rovers,3-0,Swansea City
+Sat Feb 7 1953,Plymouth Argyle,3-1,Fulham
+Sat Feb 7 1953,Barnsley,2-3,Rotherham United
+Sat Feb 7 1953,Everton,5-0,Brentford
+Sat Feb 14 1953,Barnsley,1-1,Lincoln City
+Sat Feb 14 1953,Brentford,2-2,Bury
+Sat Feb 14 1953,Leicester City,3-3,Leeds United
+Sat Feb 14 1953,Swansea City,2-1,Nottingham Forest
+Sat Feb 14 1953,Huddersfield Town,0-3,Blackburn Rovers
+Wed Feb 18 1953,Fulham,4-1,Rotherham United
+Wed Feb 18 1953,Doncaster Rovers,3-0,Everton
+Wed Feb 18 1953,West Ham United,0-1,Plymouth Argyle
+Thu Feb 19 1953,Notts County,1-2,Luton Town
+Sat Feb 21 1953,Rotherham United,1-1,West Ham United
+Sat Feb 21 1953,Luton Town,1-2,Southampton
+Sat Feb 21 1953,Leeds United,3-1,Notts County
+Sat Feb 21 1953,Everton,0-0,Swansea City
+Sat Feb 21 1953,Plymouth Argyle,2-1,Leicester City
+Sat Feb 21 1953,Blackburn Rovers,1-2,Sheffield United
+Sat Feb 21 1953,Lincoln City,2-2,Fulham
+Sat Feb 21 1953,Hull City,2-2,Barnsley
+Sat Feb 21 1953,Birmingham City,0-2,Bury
+Sat Feb 21 1953,Nottingham Forest,1-0,Huddersfield Town
+Sat Feb 21 1953,Brentford,1-0,Doncaster Rovers
+Sat Feb 28 1953,Fulham,2-1,Hull City
+Sat Feb 28 1953,Leicester City,1-1,Nottingham Forest
+Sat Feb 28 1953,Rotherham United,3-2,Lincoln City
+Sat Feb 28 1953,Bury,2-1,Doncaster Rovers
+Sat Feb 28 1953,West Ham United,0-0,Blackburn Rovers
+Sat Feb 28 1953,Leeds United,0-3,Sheffield United
+Sat Feb 28 1953,Southampton,0-2,Brentford
+Sat Feb 28 1953,Plymouth Argyle,4-0,Barnsley
+Sat Feb 28 1953,Luton Town,0-2,Huddersfield Town
+Thu Mar 5 1953,Notts County,2-2,Everton
+Sat Mar 7 1953,Barnsley,2-2,Leeds United
+Sat Mar 7 1953,Everton,2-2,Leicester City
+Sat Mar 7 1953,Doncaster Rovers,1-0,Southampton
+Sat Mar 7 1953,Sheffield United,1-1,Luton Town
+Sat Mar 7 1953,Brentford,5-0,Notts County
+Sat Mar 7 1953,Hull City,3-2,Rotherham United
+Sat Mar 7 1953,Huddersfield Town,1-1,Birmingham City
+Sat Mar 7 1953,Swansea City,2-0,Bury
+Sat Mar 7 1953,Blackburn Rovers,2-2,Fulham
+Sat Mar 7 1953,Nottingham Forest,0-0,West Ham United
+Sat Mar 7 1953,Lincoln City,0-0,Plymouth Argyle
+Wed Mar 11 1953,Birmingham City,1-4,Swansea City
+Sat Mar 14 1953,Notts County,4-3,Doncaster Rovers
+Sat Mar 14 1953,Leeds United,2-1,Lincoln City
+Sat Mar 14 1953,Luton Town,6-0,Barnsley
+Sat Mar 14 1953,Birmingham City,1-2,Sheffield United
+Sat Mar 14 1953,West Ham United,3-1,Everton
+Sat Mar 14 1953,Southampton,1-4,Swansea City
+Sat Mar 14 1953,Leicester City,2-3,Brentford
+Sat Mar 14 1953,Bury,1-1,Huddersfield Town
+Sat Mar 14 1953,Rotherham United,0-0,Blackburn Rovers
+Sat Mar 14 1953,Plymouth Argyle,1-2,Hull City
+Sat Mar 14 1953,Fulham,0-1,Nottingham Forest
+Sat Mar 21 1953,Barnsley,1-3,Birmingham City
+Sat Mar 21 1953,Blackburn Rovers,1-3,Plymouth Argyle
+Sat Mar 21 1953,Doncaster Rovers,0-0,Leicester City
+Sat Mar 21 1953,Nottingham Forest,4-3,Rotherham United
+Sat Mar 21 1953,Hull City,1-0,Leeds United
+Sat Mar 21 1953,Swansea City,5-1,Notts County
+Sat Mar 21 1953,Brentford,1-4,West Ham United
+Sat Mar 21 1953,Sheffield United,3-1,Bury
+Sat Mar 21 1953,Lincoln City,1-2,Luton Town
+Sat Mar 21 1953,Huddersfield Town,5-0,Southampton
+Wed Mar 25 1953,Everton,3-3,Fulham
+Sat Mar 28 1953,Birmingham City,2-2,Lincoln City
+Sat Mar 28 1953,Plymouth Argyle,0-3,Nottingham Forest
+Sat Mar 28 1953,Leeds United,0-3,Blackburn Rovers
+Sat Mar 28 1953,Luton Town,3-2,Hull City
+Sat Mar 28 1953,West Ham United,1-3,Doncaster Rovers
+Sat Mar 28 1953,Rotherham United,2-2,Everton
+Sat Mar 28 1953,Leicester City,2-1,Swansea City
+Sat Mar 28 1953,Southampton,4-4,Sheffield United
+Sat Mar 28 1953,Bury,5-2,Barnsley
+Sat Mar 28 1953,Fulham,5-0,Brentford
+Sat Mar 28 1953,Notts County,1-0,Huddersfield Town
+Fri Apr 3 1953,Notts County,0-4,Plymouth Argyle
+Fri Apr 3 1953,Brentford,0-0,Swansea City
+Fri Apr 3 1953,Bury,1-0,Luton Town
+Fri Apr 3 1953,Lincoln City,2-1,Hull City
+Fri Apr 3 1953,West Ham United,1-2,Fulham
+Fri Apr 3 1953,Blackburn Rovers,2-0,Barnsley
+Fri Apr 3 1953,Doncaster Rovers,1-0,Birmingham City
+Sat Apr 4 1953,Huddersfield Town,1-0,Leicester City
+Sat Apr 4 1953,Brentford,1-1,Rotherham United
+Sat Apr 4 1953,Sheffield United,2-1,Notts County
+Sat Apr 4 1953,Nottingham Forest,2-1,Leeds United
+Sat Apr 4 1953,Hull City,2-0,Birmingham City
+Sat Apr 4 1953,Lincoln City,4-0,Bury
+Sat Apr 4 1953,Blackburn Rovers,1-1,Luton Town
+Sat Apr 4 1953,Swansea City,4-1,West Ham United
+Sat Apr 4 1953,Barnsley,0-1,Southampton
+Sat Apr 4 1953,Everton,2-0,Plymouth Argyle
+Mon Apr 6 1953,Hull City,1-1,Lincoln City
+Mon Apr 6 1953,Fulham,2-3,West Ham United
+Mon Apr 6 1953,Nottingham Forest,1-1,Sheffield United
+Mon Apr 6 1953,Swansea City,3-2,Brentford
+Mon Apr 6 1953,Luton Town,4-1,Bury
+Mon Apr 6 1953,Birmingham City,2-1,Doncaster Rovers
+Mon Apr 6 1953,Plymouth Argyle,2-2,Notts County
+Mon Apr 6 1953,Barnsley,1-4,Blackburn Rovers
+Mon Apr 6 1953,Southampton,2-2,Leeds United
+Mon Apr 6 1953,Rotherham United,0-0,Leicester City
+Mon Apr 6 1953,Everton,2-1,Huddersfield Town
+Tue Apr 7 1953,Leicester City,3-2,Rotherham United
+Tue Apr 7 1953,Huddersfield Town,8-2,Everton
+Sat Apr 11 1953,Luton Town,3-0,Nottingham Forest
+Sat Apr 11 1953,West Ham United,0-1,Huddersfield Town
+Sat Apr 11 1953,Southampton,1-0,Lincoln City
+Sat Apr 11 1953,Fulham,3-1,Swansea City
+Sat Apr 11 1953,Leicester City,0-0,Sheffield United
+Sat Apr 11 1953,Birmingham City,1-2,Blackburn Rovers
+Sat Apr 11 1953,Plymouth Argyle,1-0,Brentford
+Sat Apr 11 1953,Notts County,1-0,Barnsley
+Sat Apr 11 1953,Rotherham United,4-2,Doncaster Rovers
+Sat Apr 11 1953,Bury,2-1,Hull City
+Sat Apr 11 1953,Leeds United,2-0,Everton
+Wed Apr 15 1953,Everton,3-0,Bury
+Wed Apr 15 1953,Southampton,1-1,Birmingham City
+Thu Apr 16 1953,Hull City,1-1,Leicester City
+Thu Apr 16 1953,Swansea City,3-2,Leeds United
+Sat Apr 18 1953,Swansea City,0-0,Rotherham United
+Sat Apr 18 1953,Lincoln City,3-0,Notts County
+Sat Apr 18 1953,Hull City,1-0,Southampton
+Sat Apr 18 1953,Blackburn Rovers,4-0,Bury
+Sat Apr 18 1953,Huddersfield Town,4-2,Fulham
+Sat Apr 18 1953,Doncaster Rovers,1-1,Plymouth Argyle
+Sat Apr 18 1953,Barnsley,0-3,Leicester City
+Sat Apr 18 1953,Sheffield United,3-1,West Ham United
+Sat Apr 18 1953,Nottingham Forest,0-2,Birmingham City
+Sat Apr 18 1953,Brentford,3-3,Leeds United
+Sat Apr 18 1953,Everton,1-1,Luton Town
+Wed Apr 22 1953,Brentford,1-1,Luton Town
+Wed Apr 22 1953,Leeds United,2-1,Nottingham Forest
+Wed Apr 22 1953,Everton,0-3,Lincoln City
+Wed Apr 22 1953,Doncaster Rovers,2-0,Notts County
+Sat Apr 25 1953,Fulham,1-2,Sheffield United
+Sat Apr 25 1953,Bury,2-0,Nottingham Forest
+Sat Apr 25 1953,Leeds United,1-1,Doncaster Rovers
+Sat Apr 25 1953,Luton Town,0-1,Brentford
+Sat Apr 25 1953,Plymouth Argyle,3-2,Swansea City
+Sat Apr 25 1953,West Ham United,3-1,Barnsley
+Sat Apr 25 1953,Birmingham City,4-2,Everton
+Sat Apr 25 1953,Rotherham United,0-0,Huddersfield Town
+Sat Apr 25 1953,Leicester City,3-2,Lincoln City
+Sat Apr 25 1953,Notts County,2-0,Hull City
+Sat Apr 25 1953,Southampton,6-1,Blackburn Rovers
+Wed Apr 29 1953,Barnsley,1-1,Fulham
+Wed Apr 29 1953,Sheffield United,0-2,Hull City
+Wed Apr 29 1953,Nottingham Forest,2-3,Southampton
+Thu Apr 30 1953,Doncaster Rovers,1-0,Luton Town
+Fri May 1 1953,Huddersfield Town,4-0,Plymouth Argyle
+Fri May 1 1953,Lincoln City,3-1,West Ham United
+Fri May 1 1953,Brentford,1-2,Birmingham City

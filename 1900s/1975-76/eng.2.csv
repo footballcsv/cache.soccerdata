@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 16 1975,Carlisle United,1-1,Oxford United
+Sat Aug 16 1975,Leyton Orient,1-1,Blackburn Rovers
+Sat Aug 16 1975,Sunderland,2-1,Chelsea
+Sat Aug 16 1975,Bristol City,1-0,Bolton Wanderers
+Sat Aug 16 1975,York City,2-1,Portsmouth
+Sat Aug 16 1975,Luton Town,2-0,Hull City
+Sat Aug 16 1975,Fulham,0-0,Blackpool
+Sat Aug 16 1975,Nottingham Forest,2-0,Plymouth Argyle
+Sat Aug 16 1975,Charlton Athletic,1-2,Notts County
+Sat Aug 16 1975,Southampton,3-0,West Bromwich Albion
+Sat Aug 16 1975,Oldham Athletic,2-0,Bristol Rovers
+Tue Aug 19 1975,Bristol City,3-0,Sunderland
+Tue Aug 19 1975,Hull City,1-0,Blackpool
+Tue Aug 19 1975,Leyton Orient,1-1,Notts County
+Wed Aug 20 1975,Fulham,3-0,Carlisle United
+Wed Aug 20 1975,Oxford United,2-0,Bolton Wanderers
+Wed Aug 20 1975,West Bromwich Albion,0-0,Chelsea
+Sat Aug 23 1975,Hull City,3-1,Bristol City
+Sat Aug 23 1975,Bolton Wanderers,2-2,Fulham
+Sat Aug 23 1975,Oxford United,1-1,Sunderland
+Sat Aug 23 1975,Blackpool,1-0,Leyton Orient
+Sat Aug 23 1975,Bristol Rovers,2-1,York City
+Sat Aug 23 1975,Chelsea,3-1,Carlisle United
+Sat Aug 23 1975,West Bromwich Albion,1-0,Luton Town
+Sat Aug 23 1975,Plymouth Argyle,1-0,Charlton Athletic
+Sat Aug 23 1975,Portsmouth,1-1,Nottingham Forest
+Sat Aug 23 1975,Blackburn Rovers,4-1,Oldham Athletic
+Sat Aug 23 1975,Notts County,0-0,Southampton
+Tue Aug 26 1975,Southampton,3-1,Bristol City
+Tue Aug 26 1975,Sunderland,2-0,Fulham
+Wed Aug 27 1975,Chelsea,3-1,Oxford United
+Fri Aug 29 1975,Charlton Athletic,2-1,Oxford United
+Fri Aug 29 1975,Leyton Orient,0-1,Portsmouth
+Fri Aug 29 1975,Southampton,1-0,Plymouth Argyle
+Sat Aug 30 1975,Carlisle United,0-1,Blackburn Rovers
+Sat Aug 30 1975,Bristol City,1-1,Bristol Rovers
+Sat Aug 30 1975,Sunderland,2-0,Blackpool
+Sat Aug 30 1975,Oldham Athletic,1-0,Hull City
+Sat Aug 30 1975,Luton Town,3-0,Chelsea
+Sat Aug 30 1975,Fulham,4-0,West Bromwich Albion
+Sat Aug 30 1975,York City,1-2,Bolton Wanderers
+Sat Aug 30 1975,Nottingham Forest,0-1,Notts County
+Sat Sep 6 1975,Bristol Rovers,0-0,Charlton Athletic
+Sat Sep 6 1975,West Bromwich Albion,2-2,York City
+Sat Sep 6 1975,Blackburn Rovers,1-2,Bristol City
+Sat Sep 6 1975,Hull City,1-0,Leyton Orient
+Sat Sep 6 1975,Bolton Wanderers,3-0,Southampton
+Sat Sep 6 1975,Oxford United,1-3,Fulham
+Sat Sep 6 1975,Portsmouth,0-2,Luton Town
+Sat Sep 6 1975,Chelsea,0-0,Nottingham Forest
+Sat Sep 6 1975,Plymouth Argyle,1-0,Sunderland
+Sat Sep 6 1975,Blackpool,1-1,Oldham Athletic
+Sat Sep 6 1975,Notts County,1-0,Carlisle United
+Fri Sep 12 1975,Bristol City,4-1,Oxford United
+Sat Sep 13 1975,Charlton Athletic,1-1,Blackpool
+Sat Sep 13 1975,Southampton,2-1,Blackburn Rovers
+Sat Sep 13 1975,York City,1-2,Notts County
+Sat Sep 13 1975,Fulham,0-2,Bristol Rovers
+Sat Sep 13 1975,Carlisle United,2-1,Portsmouth
+Sat Sep 13 1975,Leyton Orient,1-0,Plymouth Argyle
+Sat Sep 13 1975,Nottingham Forest,1-2,Hull City
+Sat Sep 13 1975,Luton Town,0-2,Bolton Wanderers
+Sat Sep 13 1975,Sunderland,2-0,West Bromwich Albion
+Sat Sep 13 1975,Oldham Athletic,2-1,Chelsea
+Sat Sep 20 1975,West Bromwich Albion,1-1,Charlton Athletic
+Sat Sep 20 1975,Plymouth Argyle,1-1,York City
+Sat Sep 20 1975,Chelsea,1-1,Bristol City
+Sat Sep 20 1975,Bolton Wanderers,1-1,Leyton Orient
+Sat Sep 20 1975,Oxford United,0-1,Nottingham Forest
+Sat Sep 20 1975,Notts County,1-0,Luton Town
+Sat Sep 20 1975,Hull City,1-2,Fulham
+Sat Sep 20 1975,Bristol Rovers,0-1,Carlisle United
+Sat Sep 20 1975,Blackpool,4-3,Southampton
+Sat Sep 20 1975,Portsmouth,1-1,Oldham Athletic
+Sat Sep 20 1975,Blackburn Rovers,0-1,Sunderland
+Tue Sep 23 1975,Bristol Rovers,2-2,Bolton Wanderers
+Tue Sep 23 1975,Leyton Orient,1-0,York City
+Tue Sep 23 1975,Sunderland,3-2,Carlisle United
+Tue Sep 23 1975,Portsmouth,1-1,Chelsea
+Tue Sep 23 1975,Hull City,0-2,Notts County
+Wed Sep 24 1975,Luton Town,1-1,Plymouth Argyle
+Wed Sep 24 1975,Blackburn Rovers,0-2,Blackpool
+Wed Sep 24 1975,Nottingham Forest,1-2,Charlton Athletic
+Fri Sep 26 1975,Leyton Orient,0-0,Bristol Rovers
+Fri Sep 26 1975,Charlton Athletic,1-0,Hull City
+Sat Sep 27 1975,Fulham,2-0,Chelsea
+Sat Sep 27 1975,Nottingham Forest,1-2,Bolton Wanderers
+Sat Sep 27 1975,York City,2-0,Oxford United
+Sat Sep 27 1975,Southampton,4-0,Portsmouth
+Sat Sep 27 1975,Luton Town,1-1,Blackburn Rovers
+Sat Sep 27 1975,Bristol City,2-0,Blackpool
+Sat Sep 27 1975,Carlisle United,1-1,West Bromwich Albion
+Sat Sep 27 1975,Oldham Athletic,3-2,Plymouth Argyle
+Sat Sep 27 1975,Sunderland,4-0,Notts County
+Sat Oct 4 1975,Portsmouth,0-0,Sunderland
+Sat Oct 4 1975,Bristol Rovers,4-2,Nottingham Forest
+Sat Oct 4 1975,West Bromwich Albion,1-1,Oldham Athletic
+Sat Oct 4 1975,Plymouth Argyle,2-1,Carlisle United
+Sat Oct 4 1975,Hull City,0-0,Southampton
+Sat Oct 4 1975,Bolton Wanderers,5-0,Charlton Athletic
+Sat Oct 4 1975,Chelsea,0-0,York City
+Sat Oct 4 1975,Blackburn Rovers,0-1,Fulham
+Sat Oct 4 1975,Oxford United,2-1,Leyton Orient
+Sat Oct 4 1975,Blackpool,3-2,Luton Town
+Sat Oct 4 1975,Notts County,1-1,Bristol City
+Tue Oct 7 1975,Oldham Athletic,2-4,Bristol City
+Sat Oct 11 1975,Notts County,0-1,Oxford United
+Sat Oct 11 1975,Blackburn Rovers,0-0,West Bromwich Albion
+Sat Oct 11 1975,Bristol City,4-0,Charlton Athletic
+Sat Oct 11 1975,Blackpool,0-0,Portsmouth
+Sat Oct 11 1975,Hull City,0-0,Bristol Rovers
+Sat Oct 11 1975,Fulham,0-0,Nottingham Forest
+Sat Oct 11 1975,Southampton,4-1,Chelsea
+Sat Oct 11 1975,Plymouth Argyle,2-3,Bolton Wanderers
+Sat Oct 11 1975,Sunderland,3-1,Leyton Orient
+Sat Oct 11 1975,Carlisle United,1-1,Luton Town
+Sat Oct 11 1975,Oldham Athletic,2-0,York City
+Sat Oct 18 1975,York City,1-4,Bristol City
+Sat Oct 18 1975,Leyton Orient,1-0,Carlisle United
+Sat Oct 18 1975,Oxford United,0-0,Blackburn Rovers
+Sat Oct 18 1975,Chelsea,2-0,Blackpool
+Sat Oct 18 1975,West Bromwich Albion,1-0,Plymouth Argyle
+Sat Oct 18 1975,Nottingham Forest,3-1,Southampton
+Sat Oct 18 1975,Bristol Rovers,1-0,Sunderland
+Sat Oct 18 1975,Luton Town,1-0,Fulham
+Sat Oct 18 1975,Bolton Wanderers,2-1,Notts County
+Sat Oct 18 1975,Charlton Athletic,3-1,Oldham Athletic
+Sat Oct 18 1975,Portsmouth,1-1,Hull City
+Tue Oct 21 1975,York City,1-3,Charlton Athletic
+Tue Oct 21 1975,Portsmouth,1-2,Bristol Rovers
+Tue Oct 21 1975,Nottingham Forest,0-0,Luton Town
+Tue Oct 21 1975,Plymouth Argyle,2-2,Blackburn Rovers
+Tue Oct 21 1975,Oldham Athletic,3-2,Southampton
+Sat Oct 25 1975,Bristol City,0-2,West Bromwich Albion
+Sat Oct 25 1975,Blackpool,1-4,Bristol Rovers
+Sat Oct 25 1975,Oldham Athletic,0-0,Nottingham Forest
+Sat Oct 25 1975,Notts County,2-0,Portsmouth
+Sat Oct 25 1975,Blackburn Rovers,1-1,Chelsea
+Sat Oct 25 1975,Plymouth Argyle,2-1,Oxford United
+Sat Oct 25 1975,Fulham,1-1,Leyton Orient
+Sat Oct 25 1975,Sunderland,2-0,Luton Town
+Sat Oct 25 1975,Southampton,2-0,York City
+Sat Oct 25 1975,Carlisle United,1-1,Charlton Athletic
+Sat Oct 25 1975,Hull City,2-2,Bolton Wanderers
+Fri Oct 31 1975,Charlton Athletic,4-1,Southampton
+Sat Nov 1 1975,Oxford United,2-3,Hull City
+Sat Nov 1 1975,Chelsea,2-2,Plymouth Argyle
+Sat Nov 1 1975,Bolton Wanderers,1-0,Blackpool
+Sat Nov 1 1975,York City,1-4,Sunderland
+Sat Nov 1 1975,Bristol Rovers,1-1,Blackburn Rovers
+Sat Nov 1 1975,Leyton Orient,2-0,Oldham Athletic
+Sat Nov 1 1975,Nottingham Forest,4-0,Carlisle United
+Sat Nov 1 1975,Portsmouth,0-1,Fulham
+Sat Nov 1 1975,Luton Town,0-0,Bristol City
+Sat Nov 1 1975,West Bromwich Albion,0-0,Notts County
+Tue Nov 4 1975,Notts County,1-0,Plymouth Argyle
+Tue Nov 4 1975,Blackpool,1-1,Nottingham Forest
+Tue Nov 4 1975,Bolton Wanderers,4-1,Portsmouth
+Tue Nov 4 1975,Carlisle United,2-1,Oldham Athletic
+Tue Nov 4 1975,Luton Town,4-0,York City
+Tue Nov 4 1975,Blackburn Rovers,1-0,Hull City
+Tue Nov 4 1975,Bristol Rovers,1-1,West Bromwich Albion
+Fri Nov 7 1975,Bristol City,0-0,Leyton Orient
+Sat Nov 8 1975,Blackburn Rovers,1-1,Bolton Wanderers
+Sat Nov 8 1975,Southampton,3-1,Luton Town
+Sat Nov 8 1975,Plymouth Argyle,3-1,Portsmouth
+Sat Nov 8 1975,Notts County,1-1,Bristol Rovers
+Sat Nov 8 1975,Blackpool,0-1,West Bromwich Albion
+Sat Nov 8 1975,Fulham,1-1,Charlton Athletic
+Sat Nov 8 1975,Oldham Athletic,1-1,Oxford United
+Sat Nov 8 1975,Hull City,1-2,Chelsea
+Sat Nov 8 1975,Carlisle United,1-0,York City
+Sat Nov 8 1975,Sunderland,3-0,Nottingham Forest
+Wed Nov 12 1975,Oxford United,0-1,West Bromwich Albion
+Sat Nov 15 1975,Bristol Rovers,0-0,Plymouth Argyle
+Sat Nov 15 1975,Oxford United,1-3,Blackpool
+Sat Nov 15 1975,Charlton Athletic,1-2,Sunderland
+Sat Nov 15 1975,Luton Town,2-3,Oldham Athletic
+Sat Nov 15 1975,Bolton Wanderers,0-0,Carlisle United
+Sat Nov 15 1975,West Bromwich Albion,2-0,Hull City
+Sat Nov 15 1975,York City,1-0,Fulham
+Sat Nov 15 1975,Leyton Orient,2-1,Southampton
+Sat Nov 15 1975,Nottingham Forest,1-0,Bristol City
+Sat Nov 15 1975,Portsmouth,0-1,Blackburn Rovers
+Sat Nov 15 1975,Chelsea,2-0,Notts County
+Sat Nov 22 1975,Bristol City,4-1,York City
+Sat Nov 22 1975,Hull City,1-0,Portsmouth
+Sat Nov 22 1975,Notts County,1-1,Bolton Wanderers
+Sat Nov 22 1975,Plymouth Argyle,2-1,West Bromwich Albion
+Sat Nov 22 1975,Blackburn Rovers,0-0,Oxford United
+Sat Nov 22 1975,Southampton,0-3,Nottingham Forest
+Sat Nov 22 1975,Sunderland,1-1,Bristol Rovers
+Sat Nov 22 1975,Fulham,2-0,Luton Town
+Sat Nov 22 1975,Oldham Athletic,2-0,Charlton Athletic
+Sat Nov 22 1975,Carlisle United,1-2,Leyton Orient
+Sat Nov 22 1975,Blackpool,0-2,Chelsea
+Sat Nov 29 1975,Carlisle United,1-0,Southampton
+Sat Nov 29 1975,Blackpool,1-0,Notts County
+Sat Nov 29 1975,Sunderland,2-0,Oldham Athletic
+Sat Nov 29 1975,Luton Town,1-0,Leyton Orient
+Sat Nov 29 1975,Bolton Wanderers,1-2,West Bromwich Albion
+Sat Nov 29 1975,Bristol Rovers,1-2,Chelsea
+Sat Nov 29 1975,Blackburn Rovers,2-0,Charlton Athletic
+Sat Nov 29 1975,Nottingham Forest,1-0,York City
+Sat Nov 29 1975,Hull City,4-0,Plymouth Argyle
+Sat Nov 29 1975,Portsmouth,0-2,Oxford United
+Sat Nov 29 1975,Fulham,1-2,Bristol City
+Wed Dec 3 1975,Charlton Athletic,1-5,Luton Town
+Sat Dec 6 1975,Chelsea,0-1,Bolton Wanderers
+Sat Dec 6 1975,York City,1-2,Hull City
+Sat Dec 6 1975,Oxford United,2-1,Bristol Rovers
+Sat Dec 6 1975,Bristol City,0-0,Carlisle United
+Sat Dec 6 1975,Southampton,4-0,Sunderland
+Sat Dec 6 1975,Plymouth Argyle,1-2,Blackpool
+Sat Dec 6 1975,Oldham Athletic,2-2,Fulham
+Sat Dec 6 1975,Leyton Orient,1-1,Nottingham Forest
+Sat Dec 6 1975,Notts County,3-0,Blackburn Rovers
+Sat Dec 6 1975,West Bromwich Albion,3-1,Portsmouth
+Fri Dec 12 1975,Charlton Athletic,2-0,Plymouth Argyle
+Fri Dec 12 1975,Leyton Orient,0-1,Blackpool
+Sat Dec 13 1975,York City,0-0,Bristol Rovers
+Sat Dec 13 1975,Luton Town,2-1,West Bromwich Albion
+Sat Dec 13 1975,Fulham,1-2,Bolton Wanderers
+Sat Dec 13 1975,Nottingham Forest,0-1,Portsmouth
+Sat Dec 13 1975,Southampton,2-1,Notts County
+Sat Dec 13 1975,Carlisle United,2-1,Chelsea
+Sat Dec 13 1975,Oldham Athletic,2-1,Blackburn Rovers
+Sat Dec 13 1975,Sunderland,1-0,Oxford United
+Sat Dec 13 1975,Bristol City,3-0,Hull City
+Fri Dec 19 1975,West Bromwich Albion,0-2,Southampton
+Sat Dec 20 1975,Oxford United,0-0,Carlisle United
+Sat Dec 20 1975,Blackpool,1-1,Fulham
+Sat Dec 20 1975,Blackburn Rovers,1-1,Leyton Orient
+Sat Dec 20 1975,Plymouth Argyle,1-0,Nottingham Forest
+Sat Dec 20 1975,Bolton Wanderers,1-0,Bristol City
+Sat Dec 20 1975,Notts County,2-0,Charlton Athletic
+Sat Dec 20 1975,Chelsea,1-0,Sunderland
+Sat Dec 20 1975,Bristol Rovers,1-0,Oldham Athletic
+Sat Dec 20 1975,Hull City,1-2,Luton Town
+Sat Dec 20 1975,Portsmouth,0-1,York City
+Fri Dec 26 1975,Sunderland,3-1,Hull City
+Fri Dec 26 1975,Fulham,3-2,Notts County
+Fri Dec 26 1975,Bristol City,2-2,Plymouth Argyle
+Fri Dec 26 1975,Oldham Athletic,2-1,Bolton Wanderers
+Fri Dec 26 1975,Charlton Athletic,1-3,Portsmouth
+Fri Dec 26 1975,Luton Town,3-2,Oxford United
+Fri Dec 26 1975,Nottingham Forest,0-2,West Bromwich Albion
+Fri Dec 26 1975,York City,2-1,Blackburn Rovers
+Fri Dec 26 1975,Southampton,3-0,Bristol Rovers
+Fri Dec 26 1975,Carlisle United,1-0,Blackpool
+Fri Dec 26 1975,Leyton Orient,3-1,Chelsea
+Sat Dec 27 1975,Portsmouth,0-1,Bristol City
+Sat Dec 27 1975,West Bromwich Albion,1-1,Leyton Orient
+Sat Dec 27 1975,Plymouth Argyle,4-0,Fulham
+Sat Dec 27 1975,Chelsea,2-3,Charlton Athletic
+Sat Dec 27 1975,Bristol Rovers,0-1,Luton Town
+Sat Dec 27 1975,Hull City,2-3,Carlisle United
+Sat Dec 27 1975,Bolton Wanderers,2-1,Sunderland
+Sat Dec 27 1975,Blackburn Rovers,1-4,Nottingham Forest
+Sat Dec 27 1975,Blackpool,0-0,York City
+Sat Dec 27 1975,Oxford United,1-2,Southampton
+Sat Dec 27 1975,Notts County,5-1,Oldham Athletic
+Sat Jan 10 1976,Chelsea,0-3,Oldham Athletic
+Sat Jan 10 1976,West Bromwich Albion,0-0,Sunderland
+Sat Jan 10 1976,Oxford United,1-1,Bristol City
+Sat Jan 10 1976,Hull City,1-0,Nottingham Forest
+Sat Jan 10 1976,Plymouth Argyle,3-0,Leyton Orient
+Sat Jan 10 1976,Notts County,4-0,York City
+Sat Jan 10 1976,Bristol Rovers,1-0,Fulham
+Sat Jan 10 1976,Blackpool,2-1,Charlton Athletic
+Sat Jan 10 1976,Portsmouth,1-0,Carlisle United
+Sat Jan 17 1976,Southampton,0-0,Bolton Wanderers
+Sat Jan 17 1976,Oldham Athletic,1-0,Blackpool
+Sat Jan 17 1976,Bristol City,1-0,Blackburn Rovers
+Sat Jan 17 1976,Sunderland,2-1,Plymouth Argyle
+Sat Jan 17 1976,Luton Town,3-1,Portsmouth
+Sat Jan 17 1976,Charlton Athletic,3-0,Bristol Rovers
+Sat Jan 17 1976,Leyton Orient,1-0,Hull City
+Sat Jan 17 1976,Carlisle United,1-2,Notts County
+Sat Jan 17 1976,Nottingham Forest,1-3,Chelsea
+Sat Jan 17 1976,York City,0-1,West Bromwich Albion
+Sat Jan 17 1976,Fulham,1-1,Oxford United
+Sat Jan 24 1976,Plymouth Argyle,0-0,Bristol City
+Tue Jan 27 1976,Bolton Wanderers,3-0,Luton Town
+Wed Jan 28 1976,Blackburn Rovers,1-1,Southampton
+Sat Jan 31 1976,Blackburn Rovers,3-1,Plymouth Argyle
+Sat Jan 31 1976,Bristol Rovers,2-0,Portsmouth
+Sat Jan 31 1976,Carlisle United,2-2,Fulham
+Sat Jan 31 1976,Southampton,3-2,Oldham Athletic
+Sat Jan 31 1976,Charlton Athletic,3-2,York City
+Sat Jan 31 1976,Chelsea,1-2,West Bromwich Albion
+Sat Jan 31 1976,Blackpool,2-2,Hull City
+Sat Jan 31 1976,Luton Town,1-1,Nottingham Forest
+Fri Feb 6 1976,Hull City,0-1,Blackburn Rovers
+Sat Feb 7 1976,Fulham,2-0,Sunderland
+Sat Feb 7 1976,Nottingham Forest,3-0,Blackpool
+Sat Feb 7 1976,Portsmouth,0-1,Bolton Wanderers
+Sat Feb 7 1976,Bristol City,1-1,Southampton
+Sat Feb 7 1976,York City,2-3,Luton Town
+Sat Feb 7 1976,Oldham Athletic,2-2,Carlisle United
+Sat Feb 7 1976,West Bromwich Albion,3-0,Bristol Rovers
+Sat Feb 7 1976,Plymouth Argyle,1-3,Notts County
+Sat Feb 7 1976,Oxford United,1-1,Chelsea
+Sat Feb 14 1976,Portsmouth,2-0,Plymouth Argyle
+Sat Feb 14 1976,York City,1-2,Carlisle United
+Sat Feb 14 1976,Leyton Orient,0-1,Bristol City
+Sat Feb 14 1976,Oxford United,1-1,Oldham Athletic
+Sat Feb 14 1976,Bristol Rovers,0-0,Notts County
+Tue Feb 17 1976,Charlton Athletic,3-2,Fulham
+Wed Feb 18 1976,Chelsea,0-0,Hull City
+Sat Feb 21 1976,Notts County,3-2,Chelsea
+Sat Feb 21 1976,Sunderland,4-1,Charlton Athletic
+Sat Feb 21 1976,Bristol City,0-2,Nottingham Forest
+Sat Feb 21 1976,Blackburn Rovers,0-3,Portsmouth
+Sat Feb 21 1976,Plymouth Argyle,3-0,Bristol Rovers
+Sat Feb 21 1976,Carlisle United,3-2,Bolton Wanderers
+Sat Feb 21 1976,Oldham Athletic,1-1,Luton Town
+Sat Feb 21 1976,Hull City,2-1,West Bromwich Albion
+Sat Feb 21 1976,Fulham,2-0,York City
+Sat Feb 21 1976,Southampton,3-0,Leyton Orient
+Sat Feb 21 1976,Blackpool,2-0,Oxford United
+Tue Feb 24 1976,Notts County,1-2,Hull City
+Tue Feb 24 1976,Carlisle United,2-2,Sunderland
+Tue Feb 24 1976,York City,0-2,Leyton Orient
+Tue Feb 24 1976,Southampton,2-1,Fulham
+Tue Feb 24 1976,Plymouth Argyle,3-0,Luton Town
+Tue Feb 24 1976,Charlton Athletic,2-2,Nottingham Forest
+Tue Feb 24 1976,Bristol City,1-0,Oldham Athletic
+Tue Feb 24 1976,Blackpool,1-1,Blackburn Rovers
+Wed Feb 25 1976,Chelsea,2-0,Portsmouth
+Wed Feb 25 1976,West Bromwich Albion,2-0,Oxford United
+Fri Feb 27 1976,Charlton Athletic,4-2,Carlisle United
+Sat Feb 28 1976,York City,2-1,Southampton
+Sat Feb 28 1976,Nottingham Forest,4-3,Oldham Athletic
+Sat Feb 28 1976,Leyton Orient,2-0,Fulham
+Sat Feb 28 1976,Bolton Wanderers,1-0,Hull City
+Sat Feb 28 1976,Bristol Rovers,1-1,Blackpool
+Sat Feb 28 1976,Oxford United,2-2,Plymouth Argyle
+Sat Feb 28 1976,Chelsea,3-1,Blackburn Rovers
+Sat Feb 28 1976,Portsmouth,1-3,Notts County
+Sat Feb 28 1976,Luton Town,2-0,Sunderland
+Tue Mar 2 1976,Leyton Orient,0-1,Charlton Athletic
+Tue Mar 2 1976,Luton Town,1-0,Southampton
+Tue Mar 2 1976,Bolton Wanderers,0-1,Oxford United
+Sat Mar 6 1976,Bristol City,3-0,Luton Town
+Sat Mar 6 1976,Notts County,0-2,West Bromwich Albion
+Sat Mar 6 1976,Oldham Athletic,1-1,Leyton Orient
+Sat Mar 6 1976,Blackburn Rovers,1-2,Bristol Rovers
+Sat Mar 6 1976,Plymouth Argyle,0-3,Chelsea
+Sat Mar 6 1976,Blackpool,1-1,Bolton Wanderers
+Sat Mar 6 1976,Carlisle United,1-1,Nottingham Forest
+Sat Mar 6 1976,Hull City,2-0,Oxford United
+Sat Mar 6 1976,Fulham,0-1,Portsmouth
+Tue Mar 9 1976,Fulham,1-0,Southampton
+Fri Mar 12 1976,Charlton Athletic,2-2,Bristol City
+Sat Mar 13 1976,York City,1-0,Oldham Athletic
+Sat Mar 13 1976,Bolton Wanderers,0-0,Plymouth Argyle
+Sat Mar 13 1976,West Bromwich Albion,2-2,Blackburn Rovers
+Sat Mar 13 1976,Portsmouth,2-0,Blackpool
+Sat Mar 13 1976,Leyton Orient,0-2,Sunderland
+Sat Mar 13 1976,Nottingham Forest,1-0,Fulham
+Sat Mar 13 1976,Oxford United,2-1,Notts County
+Sat Mar 13 1976,Chelsea,1-1,Southampton
+Sat Mar 13 1976,Bristol Rovers,0-1,Hull City
+Sat Mar 13 1976,Luton Town,3-0,Carlisle United
+Wed Mar 17 1976,West Bromwich Albion,0-1,Bristol City
+Wed Mar 17 1976,Nottingham Forest,2-1,Sunderland
+Sat Mar 20 1976,Oxford United,1-0,Portsmouth
+Sat Mar 20 1976,Leyton Orient,3-0,Luton Town
+Sat Mar 20 1976,York City,3-2,Nottingham Forest
+Sat Mar 20 1976,Charlton Athletic,2-1,Blackburn Rovers
+Sat Mar 20 1976,Plymouth Argyle,1-1,Hull City
+Sat Mar 20 1976,Notts County,1-2,Blackpool
+Sat Mar 20 1976,Oldham Athletic,1-1,Sunderland
+Sat Mar 20 1976,Southampton,1-1,Carlisle United
+Sat Mar 20 1976,Bristol City,0-0,Fulham
+Sat Mar 20 1976,West Bromwich Albion,2-0,Bolton Wanderers
+Sat Mar 20 1976,Chelsea,0-0,Bristol Rovers
+Tue Mar 23 1976,Sunderland,1-1,Bristol City
+Tue Mar 23 1976,Bolton Wanderers,0-1,Blackburn Rovers
+Tue Mar 23 1976,Charlton Athletic,1-1,Leyton Orient
+Sat Mar 27 1976,Luton Town,1-1,Charlton Athletic
+Sat Mar 27 1976,Bolton Wanderers,2-1,Chelsea
+Sat Mar 27 1976,Fulham,1-0,Oldham Athletic
+Sat Mar 27 1976,Portsmouth,0-1,West Bromwich Albion
+Sat Mar 27 1976,Bristol Rovers,0-1,Oxford United
+Sat Mar 27 1976,Blackburn Rovers,2-1,Notts County
+Sat Mar 27 1976,Blackpool,0-0,Plymouth Argyle
+Sat Mar 27 1976,Carlisle United,0-1,Bristol City
+Sat Mar 27 1976,Hull City,1-1,York City
+Sat Mar 27 1976,Nottingham Forest,1-0,Leyton Orient
+Sat Mar 27 1976,Sunderland,3-0,Southampton
+Tue Mar 30 1976,Sunderland,1-0,York City
+Wed Mar 31 1976,West Bromwich Albion,0-0,Blackpool
+Sat Apr 3 1976,Blackpool,2-1,Bristol City
+Sat Apr 3 1976,Blackburn Rovers,3-0,Luton Town
+Sat Apr 3 1976,Bristol Rovers,1-1,Leyton Orient
+Sat Apr 3 1976,West Bromwich Albion,3-0,Carlisle United
+Sat Apr 3 1976,Bolton Wanderers,0-0,Nottingham Forest
+Sat Apr 3 1976,Notts County,0-0,Sunderland
+Sat Apr 3 1976,Oxford United,1-0,York City
+Sat Apr 3 1976,Hull City,2-2,Charlton Athletic
+Sat Apr 3 1976,Plymouth Argyle,2-1,Oldham Athletic
+Tue Apr 6 1976,Chelsea,0-0,Fulham
+Tue Apr 6 1976,Portsmouth,0-1,Southampton
+Fri Apr 9 1976,Charlton Athletic,2-1,West Bromwich Albion
+Sat Apr 10 1976,Southampton,3-1,Blackpool
+Sat Apr 10 1976,Fulham,1-1,Hull City
+Sat Apr 10 1976,Bristol City,2-2,Chelsea
+Sat Apr 10 1976,York City,3-1,Plymouth Argyle
+Sat Apr 10 1976,Sunderland,3-0,Blackburn Rovers
+Sat Apr 10 1976,Carlisle United,4-2,Bristol Rovers
+Sat Apr 10 1976,Leyton Orient,0-0,Bolton Wanderers
+Sat Apr 10 1976,Oldham Athletic,5-2,Portsmouth
+Sat Apr 10 1976,Luton Town,1-1,Notts County
+Sat Apr 10 1976,Nottingham Forest,4-0,Oxford United
+Mon Apr 12 1976,Southampton,3-2,Charlton Athletic
+Tue Apr 13 1976,Portsmouth,2-1,Leyton Orient
+Tue Apr 13 1976,Notts County,0-0,Nottingham Forest
+Tue Apr 13 1976,Bolton Wanderers,1-2,York City
+Wed Apr 14 1976,West Bromwich Albion,3-1,Fulham
+Fri Apr 16 1976,Hull City,3-0,Oldham Athletic
+Fri Apr 16 1976,Plymouth Argyle,1-0,Southampton
+Fri Apr 16 1976,Chelsea,2-2,Luton Town
+Fri Apr 16 1976,Bristol Rovers,0-0,Bristol City
+Fri Apr 16 1976,Blackburn Rovers,1-0,Carlisle United
+Fri Apr 16 1976,Oxford United,1-0,Charlton Athletic
+Sat Apr 17 1976,West Bromwich Albion,2-0,Nottingham Forest
+Sat Apr 17 1976,Hull City,1-4,Sunderland
+Sat Apr 17 1976,Blackpool,2-1,Carlisle United
+Sat Apr 17 1976,Notts County,4-0,Fulham
+Sat Apr 17 1976,Bolton Wanderers,4-0,Oldham Athletic
+Sat Apr 17 1976,Chelsea,0-2,Leyton Orient
+Sat Apr 17 1976,Bristol Rovers,2-0,Southampton
+Sat Apr 17 1976,Oxford United,1-3,Luton Town
+Sat Apr 17 1976,Portsmouth,2-2,Charlton Athletic
+Sat Apr 17 1976,Blackburn Rovers,4-0,York City
+Mon Apr 19 1976,Fulham,0-0,Plymouth Argyle
+Mon Apr 19 1976,Charlton Athletic,1-1,Chelsea
+Mon Apr 19 1976,Southampton,2-1,Oxford United
+Mon Apr 19 1976,Sunderland,2-1,Bolton Wanderers
+Mon Apr 19 1976,Oldham Athletic,2-2,Notts County
+Mon Apr 19 1976,York City,1-1,Blackpool
+Mon Apr 19 1976,Luton Town,3-1,Bristol Rovers
+Tue Apr 20 1976,Carlisle United,0-0,Hull City
+Tue Apr 20 1976,Bristol City,1-0,Portsmouth
+Tue Apr 20 1976,Nottingham Forest,1-0,Blackburn Rovers
+Tue Apr 20 1976,Leyton Orient,0-0,West Bromwich Albion
+Tue Apr 20 1976,Blackpool,1-0,Sunderland
+Sat Apr 24 1976,Carlisle United,2-0,Plymouth Argyle
+Sat Apr 24 1976,York City,2-2,Chelsea
+Sat Apr 24 1976,Charlton Athletic,0-4,Bolton Wanderers
+Sat Apr 24 1976,Oldham Athletic,0-1,West Bromwich Albion
+Sat Apr 24 1976,Leyton Orient,2-1,Oxford United
+Sat Apr 24 1976,Nottingham Forest,3-0,Bristol Rovers
+Sat Apr 24 1976,Sunderland,2-0,Portsmouth
+Sat Apr 24 1976,Southampton,1-0,Hull City
+Sat Apr 24 1976,Bristol City,1-2,Notts County
+Sat Apr 24 1976,Luton Town,3-0,Blackpool
+Sat Apr 24 1976,Fulham,1-1,Blackburn Rovers
+Tue Apr 27 1976,Notts County,2-0,Leyton Orient
+Wed Apr 28 1976,Bolton Wanderers,3-1,Bristol Rovers

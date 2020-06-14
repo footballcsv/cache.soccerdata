@@ -1,0 +1,381 @@
+Date,Team 1,FT,Team 2
+Fri Aug 10 2018,Manchester United,2-1,Leicester City
+Sat Aug 11 2018,AFC Bournemouth,2-0,Cardiff City
+Sat Aug 11 2018,Fulham,0-2,Crystal Palace
+Sat Aug 11 2018,Huddersfield Town,0-3,Chelsea
+Sat Aug 11 2018,Newcastle United,1-2,Tottenham Hotspur
+Sat Aug 11 2018,Watford,2-0,Brighton & Hove Albion
+Sat Aug 11 2018,Wolverhampton Wanderers,2-2,Everton
+Sun Aug 12 2018,Arsenal,0-2,Manchester City
+Sun Aug 12 2018,Liverpool,4-0,West Ham United
+Sun Aug 12 2018,Southampton,0-0,Burnley
+Sat Aug 18 2018,Cardiff City,0-0,Newcastle United
+Sat Aug 18 2018,Chelsea,3-2,Arsenal
+Sat Aug 18 2018,Everton,2-1,Southampton
+Sat Aug 18 2018,Leicester City,2-0,Wolverhampton Wanderers
+Sat Aug 18 2018,Tottenham Hotspur,3-1,Fulham
+Sat Aug 18 2018,West Ham United,1-2,AFC Bournemouth
+Sun Aug 19 2018,Brighton & Hove Albion,3-2,Manchester United
+Sun Aug 19 2018,Burnley,1-3,Watford
+Sun Aug 19 2018,Manchester City,6-1,Huddersfield Town
+Mon Aug 20 2018,Crystal Palace,0-2,Liverpool
+Sat Aug 25 2018,AFC Bournemouth,2-2,Everton
+Sat Aug 25 2018,Arsenal,3-1,West Ham United
+Sat Aug 25 2018,Huddersfield Town,0-0,Cardiff City
+Sat Aug 25 2018,Liverpool,1-0,Brighton & Hove Albion
+Sat Aug 25 2018,Southampton,1-2,Leicester City
+Sat Aug 25 2018,Wolverhampton Wanderers,1-1,Manchester City
+Sun Aug 26 2018,Fulham,4-2,Burnley
+Sun Aug 26 2018,Newcastle United,1-2,Chelsea
+Sun Aug 26 2018,Watford,2-1,Crystal Palace
+Mon Aug 27 2018,Manchester United,0-3,Tottenham Hotspur
+Sat Sep 1 2018,Brighton & Hove Albion,2-2,Fulham
+Sat Sep 1 2018,Chelsea,2-0,AFC Bournemouth
+Sat Sep 1 2018,Crystal Palace,0-2,Southampton
+Sat Sep 1 2018,Everton,1-1,Huddersfield Town
+Sat Sep 1 2018,Leicester City,1-2,Liverpool
+Sat Sep 1 2018,Manchester City,2-1,Newcastle United
+Sat Sep 1 2018,West Ham United,0-1,Wolverhampton Wanderers
+Sun Sep 2 2018,Burnley,0-2,Manchester United
+Sun Sep 2 2018,Cardiff City,2-3,Arsenal
+Sun Sep 2 2018,Watford,2-1,Tottenham Hotspur
+Sat Sep 15 2018,AFC Bournemouth,4-2,Leicester City
+Sat Sep 15 2018,Chelsea,4-1,Cardiff City
+Sat Sep 15 2018,Huddersfield Town,0-1,Crystal Palace
+Sat Sep 15 2018,Manchester City,3-0,Fulham
+Sat Sep 15 2018,Newcastle United,1-2,Arsenal
+Sat Sep 15 2018,Tottenham Hotspur,1-2,Liverpool
+Sat Sep 15 2018,Watford,1-2,Manchester United
+Sun Sep 16 2018,Everton,1-3,West Ham United
+Sun Sep 16 2018,Wolverhampton Wanderers,1-0,Burnley
+Mon Sep 17 2018,Southampton,2-2,Brighton & Hove Albion
+Sat Sep 22 2018,Brighton & Hove Albion,1-2,Tottenham Hotspur
+Sat Sep 22 2018,Burnley,4-0,AFC Bournemouth
+Sat Sep 22 2018,Cardiff City,0-5,Manchester City
+Sat Sep 22 2018,Crystal Palace,0-0,Newcastle United
+Sat Sep 22 2018,Fulham,1-1,Watford
+Sat Sep 22 2018,Leicester City,3-1,Huddersfield Town
+Sat Sep 22 2018,Liverpool,3-0,Southampton
+Sat Sep 22 2018,Manchester United,1-1,Wolverhampton Wanderers
+Sun Sep 23 2018,Arsenal,2-0,Everton
+Sun Sep 23 2018,West Ham United,0-0,Chelsea
+Sat Sep 29 2018,Arsenal,2-0,Watford
+Sat Sep 29 2018,Chelsea,1-1,Liverpool
+Sat Sep 29 2018,Everton,3-0,Fulham
+Sat Sep 29 2018,Huddersfield Town,0-2,Tottenham Hotspur
+Sat Sep 29 2018,Manchester City,2-0,Brighton & Hove Albion
+Sat Sep 29 2018,Newcastle United,0-2,Leicester City
+Sat Sep 29 2018,West Ham United,3-1,Manchester United
+Sat Sep 29 2018,Wolverhampton Wanderers,2-0,Southampton
+Sun Sep 30 2018,Cardiff City,1-2,Burnley
+Mon Oct 1 2018,AFC Bournemouth,2-1,Crystal Palace
+Fri Oct 5 2018,Brighton & Hove Albion,1-0,West Ham United
+Sat Oct 6 2018,Burnley,1-1,Huddersfield Town
+Sat Oct 6 2018,Crystal Palace,0-1,Wolverhampton Wanderers
+Sat Oct 6 2018,Leicester City,1-2,Everton
+Sat Oct 6 2018,Manchester United,3-2,Newcastle United
+Sat Oct 6 2018,Tottenham Hotspur,1-0,Cardiff City
+Sat Oct 6 2018,Watford,0-4,AFC Bournemouth
+Sun Oct 7 2018,Fulham,1-5,Arsenal
+Sun Oct 7 2018,Liverpool,0-0,Manchester City
+Sun Oct 7 2018,Southampton,0-3,Chelsea
+Sat Oct 20 2018,AFC Bournemouth,0-0,Southampton
+Sat Oct 20 2018,Cardiff City,4-2,Fulham
+Sat Oct 20 2018,Chelsea,2-2,Manchester United
+Sat Oct 20 2018,Huddersfield Town,0-1,Liverpool
+Sat Oct 20 2018,Manchester City,5-0,Burnley
+Sat Oct 20 2018,Newcastle United,0-1,Brighton & Hove Albion
+Sat Oct 20 2018,West Ham United,0-1,Tottenham Hotspur
+Sat Oct 20 2018,Wolverhampton Wanderers,0-2,Watford
+Sun Oct 21 2018,Everton,2-0,Crystal Palace
+Mon Oct 22 2018,Arsenal,3-1,Leicester City
+Sat Oct 27 2018,Brighton & Hove Albion,1-0,Wolverhampton Wanderers
+Sat Oct 27 2018,Fulham,0-3,AFC Bournemouth
+Sat Oct 27 2018,Leicester City,1-1,West Ham United
+Sat Oct 27 2018,Liverpool,4-1,Cardiff City
+Sat Oct 27 2018,Southampton,0-0,Newcastle United
+Sat Oct 27 2018,Watford,3-0,Huddersfield Town
+Sun Oct 28 2018,Burnley,0-4,Chelsea
+Sun Oct 28 2018,Crystal Palace,2-2,Arsenal
+Sun Oct 28 2018,Manchester United,2-1,Everton
+Mon Oct 29 2018,Tottenham Hotspur,0-1,Manchester City
+Sat Nov 3 2018,AFC Bournemouth,1-2,Manchester United
+Sat Nov 3 2018,Arsenal,1-1,Liverpool
+Sat Nov 3 2018,Cardiff City,0-1,Leicester City
+Sat Nov 3 2018,Everton,3-1,Brighton & Hove Albion
+Sat Nov 3 2018,Newcastle United,1-0,Watford
+Sat Nov 3 2018,West Ham United,4-2,Burnley
+Sat Nov 3 2018,Wolverhampton Wanderers,2-3,Tottenham Hotspur
+Sun Nov 4 2018,Chelsea,3-1,Crystal Palace
+Sun Nov 4 2018,Manchester City,6-1,Southampton
+Mon Nov 5 2018,Huddersfield Town,1-0,Fulham
+Sat Nov 10 2018,Cardiff City,2-1,Brighton & Hove Albion
+Sat Nov 10 2018,Crystal Palace,0-1,Tottenham Hotspur
+Sat Nov 10 2018,Huddersfield Town,1-1,West Ham United
+Sat Nov 10 2018,Leicester City,0-0,Burnley
+Sat Nov 10 2018,Newcastle United,2-1,AFC Bournemouth
+Sat Nov 10 2018,Southampton,1-1,Watford
+Sun Nov 11 2018,Arsenal,1-1,Wolverhampton Wanderers
+Sun Nov 11 2018,Chelsea,0-0,Everton
+Sun Nov 11 2018,Liverpool,2-0,Fulham
+Sun Nov 11 2018,Manchester City,3-1,Manchester United
+Sat Nov 24 2018,Brighton & Hove Albion,1-1,Leicester City
+Sat Nov 24 2018,Everton,1-0,Cardiff City
+Sat Nov 24 2018,Fulham,3-2,Southampton
+Sat Nov 24 2018,Manchester United,0-0,Crystal Palace
+Sat Nov 24 2018,Tottenham Hotspur,3-1,Chelsea
+Sat Nov 24 2018,Watford,0-3,Liverpool
+Sat Nov 24 2018,West Ham United,0-4,Manchester City
+Sun Nov 25 2018,AFC Bournemouth,1-2,Arsenal
+Sun Nov 25 2018,Wolverhampton Wanderers,0-2,Huddersfield Town
+Mon Nov 26 2018,Burnley,1-2,Newcastle United
+Fri Nov 30 2018,Cardiff City,2-1,Wolverhampton Wanderers
+Sat Dec 1 2018,Huddersfield Town,1-2,Brighton & Hove Albion
+Sat Dec 1 2018,Leicester City,2-0,Watford
+Sat Dec 1 2018,Manchester City,3-1,AFC Bournemouth
+Sat Dec 1 2018,Newcastle United,0-3,West Ham United
+Sat Dec 1 2018,Southampton,2-2,Manchester United
+Sat Dec 1 2018,Crystal Palace,2-0,Burnley
+Sun Dec 2 2018,Chelsea,2-0,Fulham
+Sun Dec 2 2018,Liverpool,1-0,Everton
+Sun Dec 2 2018,Arsenal,4-2,Tottenham Hotspur
+Tue Dec 4 2018,AFC Bournemouth,2-1,Huddersfield Town
+Tue Dec 4 2018,Watford,1-2,Manchester City
+Tue Dec 4 2018,West Ham United,3-1,Cardiff City
+Tue Dec 4 2018,Brighton & Hove Albion,3-1,Crystal Palace
+Wed Dec 5 2018,Everton,1-1,Newcastle United
+Wed Dec 5 2018,Fulham,1-1,Leicester City
+Wed Dec 5 2018,Manchester United,2-2,Arsenal
+Wed Dec 5 2018,Tottenham Hotspur,3-1,Southampton
+Wed Dec 5 2018,Burnley,1-3,Liverpool
+Wed Dec 5 2018,Wolverhampton Wanderers,2-1,Chelsea
+Sat Dec 8 2018,Arsenal,1-0,Huddersfield Town
+Sat Dec 8 2018,Burnley,1-0,Brighton & Hove Albion
+Sat Dec 8 2018,Cardiff City,1-0,Southampton
+Sat Dec 8 2018,Chelsea,2-0,Manchester City
+Sat Dec 8 2018,AFC Bournemouth,0-4,Liverpool
+Sat Dec 8 2018,Manchester United,4-1,Fulham
+Sat Dec 8 2018,West Ham United,3-2,Crystal Palace
+Sat Dec 8 2018,Leicester City,0-2,Tottenham Hotspur
+Sun Dec 9 2018,Newcastle United,1-2,Wolverhampton Wanderers
+Mon Dec 10 2018,Everton,2-2,Watford
+Sat Dec 15 2018,Fulham,0-2,West Ham United
+Sat Dec 15 2018,Huddersfield Town,0-1,Newcastle United
+Sat Dec 15 2018,Manchester City,3-1,Everton
+Sat Dec 15 2018,Crystal Palace,1-0,Leicester City
+Sat Dec 15 2018,Watford,3-2,Cardiff City
+Sat Dec 15 2018,Wolverhampton Wanderers,2-0,AFC Bournemouth
+Sat Dec 15 2018,Tottenham Hotspur,1-0,Burnley
+Sun Dec 16 2018,Liverpool,3-1,Manchester United
+Sun Dec 16 2018,Southampton,3-2,Arsenal
+Sun Dec 16 2018,Brighton & Hove Albion,1-2,Chelsea
+Fri Dec 21 2018,Wolverhampton Wanderers,0-2,Liverpool
+Sat Dec 22 2018,Huddersfield Town,1-3,Southampton
+Sat Dec 22 2018,AFC Bournemouth,2-0,Brighton & Hove Albion
+Sat Dec 22 2018,Chelsea,0-1,Leicester City
+Sat Dec 22 2018,Arsenal,3-1,Burnley
+Sat Dec 22 2018,Manchester City,2-3,Crystal Palace
+Sat Dec 22 2018,Newcastle United,0-0,Fulham
+Sat Dec 22 2018,Cardiff City,1-5,Manchester United
+Sat Dec 22 2018,West Ham United,0-2,Watford
+Sun Dec 23 2018,Everton,2-6,Tottenham Hotspur
+Wed Dec 26 2018,Leicester City,2-1,Manchester City
+Wed Dec 26 2018,Brighton & Hove Albion,1-1,Arsenal
+Wed Dec 26 2018,Fulham,1-1,Wolverhampton Wanderers
+Wed Dec 26 2018,Burnley,1-5,Everton
+Wed Dec 26 2018,Liverpool,4-0,Newcastle United
+Wed Dec 26 2018,Manchester United,3-1,Huddersfield Town
+Wed Dec 26 2018,Tottenham Hotspur,5-0,AFC Bournemouth
+Wed Dec 26 2018,Watford,1-2,Chelsea
+Wed Dec 26 2018,Crystal Palace,0-0,Cardiff City
+Thu Dec 27 2018,Southampton,1-2,West Ham United
+Sat Dec 29 2018,Liverpool,5-1,Arsenal
+Sat Dec 29 2018,Leicester City,0-1,Cardiff City
+Sat Dec 29 2018,Brighton & Hove Albion,1-0,Everton
+Sat Dec 29 2018,Tottenham Hotspur,1-3,Wolverhampton Wanderers
+Sat Dec 29 2018,Watford,1-1,Newcastle United
+Sat Dec 29 2018,Fulham,1-0,Huddersfield Town
+Sun Dec 30 2018,Crystal Palace,0-1,Chelsea
+Sun Dec 30 2018,Manchester United,4-1,AFC Bournemouth
+Sun Dec 30 2018,Southampton,1-3,Manchester City
+Sun Dec 30 2018,Burnley,2-0,West Ham United
+Tue Jan 1 2019,Cardiff City,0-3,Tottenham Hotspur
+Tue Jan 1 2019,Everton,0-1,Leicester City
+Tue Jan 1 2019,Arsenal,4-1,Fulham
+Wed Jan 2 2019,Chelsea,0-0,Southampton
+Wed Jan 2 2019,Huddersfield Town,1-2,Burnley
+Wed Jan 2 2019,AFC Bournemouth,3-3,Watford
+Wed Jan 2 2019,Newcastle United,0-2,Manchester United
+Wed Jan 2 2019,Wolverhampton Wanderers,0-2,Crystal Palace
+Wed Jan 2 2019,West Ham United,2-2,Brighton & Hove Albion
+Thu Jan 3 2019,Manchester City,2-1,Liverpool
+Sat Jan 12 2019,Crystal Palace,1-2,Watford
+Sat Jan 12 2019,Brighton & Hove Albion,0-1,Liverpool
+Sat Jan 12 2019,Chelsea,2-1,Newcastle United
+Sat Jan 12 2019,Burnley,2-1,Fulham
+Sat Jan 12 2019,Leicester City,1-2,Southampton
+Sat Jan 12 2019,West Ham United,1-0,Arsenal
+Sat Jan 12 2019,Cardiff City,0-0,Huddersfield Town
+Sun Jan 13 2019,Tottenham Hotspur,0-1,Manchester United
+Sun Jan 13 2019,Everton,2-0,AFC Bournemouth
+Mon Jan 14 2019,Manchester City,3-0,Wolverhampton Wanderers
+Sat Jan 19 2019,Manchester United,2-1,Brighton & Hove Albion
+Sat Jan 19 2019,Liverpool,4-3,Crystal Palace
+Sat Jan 19 2019,Arsenal,2-0,Chelsea
+Sat Jan 19 2019,Newcastle United,3-0,Cardiff City
+Sat Jan 19 2019,Southampton,2-1,Everton
+Sat Jan 19 2019,Watford,0-0,Burnley
+Sat Jan 19 2019,AFC Bournemouth,2-0,West Ham United
+Sat Jan 19 2019,Wolverhampton Wanderers,4-3,Leicester City
+Sun Jan 20 2019,Huddersfield Town,0-3,Manchester City
+Sun Jan 20 2019,Fulham,1-2,Tottenham Hotspur
+Tue Jan 29 2019,Huddersfield Town,0-1,Everton
+Tue Jan 29 2019,Fulham,4-2,Brighton & Hove Albion
+Tue Jan 29 2019,Manchester United,2-2,Burnley
+Tue Jan 29 2019,Arsenal,2-1,Cardiff City
+Tue Jan 29 2019,Wolverhampton Wanderers,3-0,West Ham United
+Tue Jan 29 2019,Newcastle United,2-1,Manchester City
+Wed Jan 30 2019,Liverpool,1-1,Leicester City
+Wed Jan 30 2019,AFC Bournemouth,4-0,Chelsea
+Wed Jan 30 2019,Tottenham Hotspur,2-1,Watford
+Wed Jan 30 2019,Southampton,1-1,Crystal Palace
+Sat Feb 2 2019,Burnley,1-1,Southampton
+Sat Feb 2 2019,Cardiff City,2-0,AFC Bournemouth
+Sat Feb 2 2019,Brighton & Hove Albion,0-0,Watford
+Sat Feb 2 2019,Crystal Palace,2-0,Fulham
+Sat Feb 2 2019,Everton,1-3,Wolverhampton Wanderers
+Sat Feb 2 2019,Tottenham Hotspur,1-0,Newcastle United
+Sat Feb 2 2019,Chelsea,5-0,Huddersfield Town
+Sun Feb 3 2019,Manchester City,3-1,Arsenal
+Sun Feb 3 2019,Leicester City,0-1,Manchester United
+Mon Feb 4 2019,West Ham United,1-1,Liverpool
+Wed Feb 6 2019,Everton,0-2,Manchester City
+Sat Feb 9 2019,Fulham,0-3,Manchester United
+Sat Feb 9 2019,Crystal Palace,1-1,West Ham United
+Sat Feb 9 2019,Huddersfield Town,1-2,Arsenal
+Sat Feb 9 2019,Liverpool,3-0,AFC Bournemouth
+Sat Feb 9 2019,Brighton & Hove Albion,1-3,Burnley
+Sat Feb 9 2019,Watford,1-0,Everton
+Sat Feb 9 2019,Southampton,1-2,Cardiff City
+Sun Feb 10 2019,Tottenham Hotspur,3-1,Leicester City
+Sun Feb 10 2019,Manchester City,6-0,Chelsea
+Mon Feb 11 2019,Wolverhampton Wanderers,1-1,Newcastle United
+Fri Feb 22 2019,West Ham United,3-1,Fulham
+Fri Feb 22 2019,Cardiff City,1-5,Watford
+Sat Feb 23 2019,Burnley,2-1,Tottenham Hotspur
+Sat Feb 23 2019,Leicester City,1-4,Crystal Palace
+Sat Feb 23 2019,AFC Bournemouth,1-1,Wolverhampton Wanderers
+Sat Feb 23 2019,Newcastle United,2-0,Huddersfield Town
+Sun Feb 24 2019,Manchester United,0-0,Liverpool
+Sun Feb 24 2019,Arsenal,2-0,Southampton
+Tue Feb 26 2019,Huddersfield Town,1-0,Wolverhampton Wanderers
+Tue Feb 26 2019,Leicester City,2-1,Brighton & Hove Albion
+Tue Feb 26 2019,Newcastle United,2-0,Burnley
+Tue Feb 26 2019,Cardiff City,0-3,Everton
+Wed Feb 27 2019,Chelsea,2-0,Tottenham Hotspur
+Wed Feb 27 2019,Crystal Palace,1-3,Manchester United
+Wed Feb 27 2019,Liverpool,5-0,Watford
+Wed Feb 27 2019,Arsenal,5-1,AFC Bournemouth
+Wed Feb 27 2019,Southampton,2-0,Fulham
+Wed Feb 27 2019,Manchester City,1-0,West Ham United
+Sat Mar 2 2019,Brighton & Hove Albion,1-0,Huddersfield Town
+Sat Mar 2 2019,Burnley,1-3,Crystal Palace
+Sat Mar 2 2019,Manchester United,3-2,Southampton
+Sat Mar 2 2019,Tottenham Hotspur,1-1,Arsenal
+Sat Mar 2 2019,AFC Bournemouth,0-1,Manchester City
+Sat Mar 2 2019,Wolverhampton Wanderers,2-0,Cardiff City
+Sat Mar 2 2019,West Ham United,2-0,Newcastle United
+Sun Mar 3 2019,Fulham,1-2,Chelsea
+Sun Mar 3 2019,Everton,0-0,Liverpool
+Sun Mar 3 2019,Watford,2-1,Leicester City
+Sat Mar 9 2019,Crystal Palace,1-2,Brighton & Hove Albion
+Sat Mar 9 2019,Huddersfield Town,0-2,AFC Bournemouth
+Sat Mar 9 2019,Leicester City,3-1,Fulham
+Sat Mar 9 2019,Manchester City,3-1,Watford
+Sat Mar 9 2019,Newcastle United,3-2,Everton
+Sat Mar 9 2019,Southampton,2-1,Tottenham Hotspur
+Sat Mar 9 2019,Cardiff City,2-0,West Ham United
+Sun Mar 10 2019,Chelsea,1-1,Wolverhampton Wanderers
+Sun Mar 10 2019,Liverpool,4-2,Burnley
+Sun Mar 10 2019,Arsenal,2-0,Manchester United
+Sat Mar 16 2019,Burnley,1-2,Leicester City
+Sat Mar 16 2019,West Ham United,4-3,Huddersfield Town
+Sat Mar 16 2019,AFC Bournemouth,2-2,Newcastle United
+Sun Mar 17 2019,Fulham,1-2,Liverpool
+Sun Mar 17 2019,Everton,2-0,Chelsea
+Sat Mar 30 2019,Burnley,2-0,Wolverhampton Wanderers
+Sat Mar 30 2019,Crystal Palace,2-0,Huddersfield Town
+Sat Mar 30 2019,Fulham,0-2,Manchester City
+Sat Mar 30 2019,Leicester City,2-0,AFC Bournemouth
+Sat Mar 30 2019,Manchester United,2-1,Watford
+Sat Mar 30 2019,Brighton & Hove Albion,0-1,Southampton
+Sat Mar 30 2019,West Ham United,0-2,Everton
+Sun Mar 31 2019,Liverpool,2-1,Tottenham Hotspur
+Sun Mar 31 2019,Cardiff City,1-2,Chelsea
+Mon Apr 1 2019,Arsenal,2-0,Newcastle United
+Tue Apr 2 2019,Watford,4-1,Fulham
+Tue Apr 2 2019,Wolverhampton Wanderers,2-1,Manchester United
+Wed Apr 3 2019,Chelsea,3-0,Brighton & Hove Albion
+Wed Apr 3 2019,Tottenham Hotspur,2-0,Crystal Palace
+Wed Apr 3 2019,Manchester City,2-0,Cardiff City
+Fri Apr 5 2019,Southampton,1-3,Liverpool
+Sat Apr 6 2019,Huddersfield Town,1-4,Leicester City
+Sat Apr 6 2019,Newcastle United,0-1,Crystal Palace
+Sat Apr 6 2019,AFC Bournemouth,1-3,Burnley
+Sun Apr 7 2019,Everton,1-0,Arsenal
+Mon Apr 8 2019,Chelsea,2-0,West Ham United
+Fri Apr 12 2019,Leicester City,0-1,Newcastle United
+Sat Apr 13 2019,Southampton,3-1,Wolverhampton Wanderers
+Sat Apr 13 2019,Fulham,2-0,Everton
+Sat Apr 13 2019,Brighton & Hove Albion,0-5,AFC Bournemouth
+Sat Apr 13 2019,Burnley,2-0,Cardiff City
+Sat Apr 13 2019,Manchester United,2-1,West Ham United
+Sat Apr 13 2019,Tottenham Hotspur,4-0,Huddersfield Town
+Sun Apr 14 2019,Crystal Palace,1-3,Manchester City
+Sun Apr 14 2019,Liverpool,2-0,Chelsea
+Mon Apr 15 2019,Watford,0-1,Arsenal
+Tue Apr 16 2019,Brighton & Hove Albion,0-2,Cardiff City
+Sat Apr 20 2019,Manchester City,1-0,Tottenham Hotspur
+Sat Apr 20 2019,Huddersfield Town,1-2,Watford
+Sat Apr 20 2019,AFC Bournemouth,0-1,Fulham
+Sat Apr 20 2019,West Ham United,2-2,Leicester City
+Sat Apr 20 2019,Wolverhampton Wanderers,0-0,Brighton & Hove Albion
+Sat Apr 20 2019,Newcastle United,3-1,Southampton
+Sun Apr 21 2019,Cardiff City,0-2,Liverpool
+Sun Apr 21 2019,Everton,4-0,Manchester United
+Sun Apr 21 2019,Arsenal,2-3,Crystal Palace
+Mon Apr 22 2019,Chelsea,2-2,Burnley
+Tue Apr 23 2019,Tottenham Hotspur,1-0,Brighton & Hove Albion
+Tue Apr 23 2019,Watford,1-1,Southampton
+Wed Apr 24 2019,Wolverhampton Wanderers,3-1,Arsenal
+Wed Apr 24 2019,Manchester United,0-2,Manchester City
+Fri Apr 26 2019,Liverpool,5-0,Huddersfield Town
+Sat Apr 27 2019,Brighton & Hove Albion,1-1,Newcastle United
+Sat Apr 27 2019,Fulham,1-0,Cardiff City
+Sat Apr 27 2019,Southampton,3-3,AFC Bournemouth
+Sat Apr 27 2019,Tottenham Hotspur,0-1,West Ham United
+Sat Apr 27 2019,Watford,1-2,Wolverhampton Wanderers
+Sat Apr 27 2019,Crystal Palace,0-0,Everton
+Sun Apr 28 2019,Leicester City,3-0,Arsenal
+Sun Apr 28 2019,Manchester United,1-1,Chelsea
+Sun Apr 28 2019,Burnley,0-1,Manchester City
+Fri May 3 2019,Everton,2-0,Burnley
+Sat May 4 2019,Newcastle United,2-3,Liverpool
+Sat May 4 2019,AFC Bournemouth,1-0,Tottenham Hotspur
+Sat May 4 2019,West Ham United,3-0,Southampton
+Sat May 4 2019,Wolverhampton Wanderers,1-0,Fulham
+Sat May 4 2019,Cardiff City,2-3,Crystal Palace
+Sun May 5 2019,Chelsea,3-0,Watford
+Sun May 5 2019,Huddersfield Town,1-1,Manchester United
+Sun May 5 2019,Arsenal,1-1,Brighton & Hove Albion
+Mon May 6 2019,Manchester City,1-0,Leicester City
+Sun May 12 2019,Burnley,1-3,Arsenal
+Sun May 12 2019,Crystal Palace,5-3,AFC Bournemouth
+Sun May 12 2019,Fulham,0-4,Newcastle United
+Sun May 12 2019,Brighton & Hove Albion,1-4,Manchester City
+Sun May 12 2019,Liverpool,2-0,Wolverhampton Wanderers
+Sun May 12 2019,Manchester United,0-2,Cardiff City
+Sun May 12 2019,Southampton,1-1,Huddersfield Town
+Sun May 12 2019,Tottenham Hotspur,2-2,Everton
+Sun May 12 2019,Watford,1-4,West Ham United
+Sun May 12 2019,Leicester City,0-0,Chelsea

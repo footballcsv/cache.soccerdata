@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 15 1992,Leicester City,2-1,Luton Town
+Sat Aug 15 1992,Oxford United,2-1,Bristol Rovers
+Sat Aug 15 1992,Tranmere Rovers,2-0,Cambridge United
+Sat Aug 15 1992,Swindon Town,1-0,Sunderland
+Sat Aug 15 1992,Peterborough United,1-0,Derby County
+Sat Aug 15 1992,Charlton Athletic,3-1,Grimsby Town
+Sat Aug 15 1992,Watford,3-1,Millwall
+Sat Aug 15 1992,Brentford,0-2,Wolverhampton Wanderers
+Sat Aug 15 1992,Bristol City,3-3,Portsmouth
+Sat Aug 15 1992,Newcastle United,3-2,Southend United
+Sun Aug 16 1992,Barnsley,0-1,West Ham United
+Sun Aug 16 1992,Birmingham City,1-0,Notts County
+Tue Aug 18 1992,Wolverhampton Wanderers,3-0,Leicester City
+Tue Aug 18 1992,Cambridge United,0-1,Charlton Athletic
+Wed Aug 19 1992,Bristol Rovers,3-4,Swindon Town
+Sat Aug 22 1992,West Ham United,0-1,Charlton Athletic
+Sat Aug 22 1992,Bristol Rovers,2-1,Brentford
+Sat Aug 22 1992,Southend United,0-1,Peterborough United
+Sat Aug 22 1992,Wolverhampton Wanderers,2-2,Swindon Town
+Sat Aug 22 1992,Notts County,1-1,Leicester City
+Sat Aug 22 1992,Cambridge United,0-3,Birmingham City
+Sat Aug 22 1992,Portsmouth,1-0,Barnsley
+Sat Aug 22 1992,Millwall,3-1,Oxford United
+Sat Aug 22 1992,Luton Town,0-3,Bristol City
+Sat Aug 22 1992,Derby County,1-2,Newcastle United
+Sat Aug 22 1992,Sunderland,1-0,Tranmere Rovers
+Sat Aug 22 1992,Grimsby Town,3-2,Watford
+Tue Aug 25 1992,Notts County,1-2,Watford
+Tue Aug 25 1992,Charlton Athletic,4-1,Bristol Rovers
+Wed Aug 26 1992,Leicester City,3-2,Derby County
+Fri Aug 28 1992,Tranmere Rovers,2-1,Bristol Rovers
+Sat Aug 29 1992,Watford,0-0,Derby County
+Sat Aug 29 1992,Barnsley,0-0,Millwall
+Sat Aug 29 1992,Peterborough United,1-3,Notts County
+Sat Aug 29 1992,Newcastle United,2-0,West Ham United
+Sat Aug 29 1992,Brentford,2-1,Southend United
+Sat Aug 29 1992,Swindon Town,4-1,Cambridge United
+Sat Aug 29 1992,Leicester City,1-0,Portsmouth
+Sat Aug 29 1992,Bristol City,0-0,Sunderland
+Sat Aug 29 1992,Oxford United,0-0,Wolverhampton Wanderers
+Sat Aug 29 1992,Charlton Athletic,0-0,Luton Town
+Sun Aug 30 1992,Birmingham City,2-1,Grimsby Town
+Tue Sep 1 1992,Birmingham City,2-0,Southend United
+Tue Sep 1 1992,Barnsley,0-1,Wolverhampton Wanderers
+Tue Sep 1 1992,Brentford,4-1,Portsmouth
+Wed Sep 2 1992,Newcastle United,2-0,Luton Town
+Fri Sep 4 1992,Cambridge United,1-0,Brentford
+Sat Sep 5 1992,West Ham United,2-1,Watford
+Sat Sep 5 1992,Southend United,3-1,Leicester City
+Sat Sep 5 1992,Wolverhampton Wanderers,4-3,Peterborough United
+Sat Sep 5 1992,Millwall,2-1,Swindon Town
+Sat Sep 5 1992,Bristol Rovers,1-2,Newcastle United
+Sat Sep 5 1992,Portsmouth,4-0,Birmingham City
+Sat Sep 5 1992,Grimsby Town,1-1,Oxford United
+Sat Sep 5 1992,Notts County,1-3,Barnsley
+Sat Sep 5 1992,Luton Town,3-3,Tranmere Rovers
+Sat Sep 5 1992,Sunderland,0-2,Charlton Athletic
+Sun Sep 6 1992,Derby County,3-4,Bristol City
+Sat Sep 12 1992,Millwall,0-0,Birmingham City
+Sat Sep 12 1992,Bristol City,0-1,Southend United
+Sat Sep 12 1992,Charlton Athletic,0-0,Cambridge United
+Sat Sep 12 1992,Newcastle United,3-1,Portsmouth
+Sat Sep 12 1992,Oxford United,0-1,Sunderland
+Sat Sep 12 1992,Watford,1-3,Notts County
+Sat Sep 12 1992,Swindon Town,2-2,Bristol Rovers
+Sat Sep 12 1992,Tranmere Rovers,1-1,Grimsby Town
+Sat Sep 12 1992,Peterborough United,1-3,West Ham United
+Sat Sep 12 1992,Barnsley,1-1,Derby County
+Sun Sep 13 1992,Leicester City,0-0,Wolverhampton Wanderers
+Sun Sep 13 1992,Brentford,1-2,Luton Town
+Tue Sep 15 1992,Bristol City,1-5,West Ham United
+Tue Sep 15 1992,Peterborough United,0-0,Millwall
+Tue Sep 15 1992,Oxford United,3-0,Cambridge United
+Fri Sep 18 1992,Tranmere Rovers,0-0,Charlton Athletic
+Fri Sep 18 1992,Southend United,0-0,Portsmouth
+Sat Sep 19 1992,Leicester City,0-0,Brentford
+Sat Sep 19 1992,Barnsley,1-2,Peterborough United
+Sat Sep 19 1992,Millwall,6-0,Notts County
+Sat Sep 19 1992,Wolverhampton Wanderers,2-2,Watford
+Sat Sep 19 1992,Luton Town,1-1,Birmingham City
+Sat Sep 19 1992,Newcastle United,5-0,Bristol City
+Sat Sep 19 1992,Cambridge United,2-1,Sunderland
+Sat Sep 19 1992,Bristol Rovers,0-3,Grimsby Town
+Sun Sep 20 1992,Swindon Town,2-2,Oxford United
+Sun Sep 20 1992,West Ham United,1-1,Derby County
+Sat Sep 26 1992,Sunderland,1-1,Bristol Rovers
+Sat Sep 26 1992,Notts County,0-0,Luton Town
+Sat Sep 26 1992,Derby County,2-0,Southend United
+Sat Sep 26 1992,Charlton Athletic,2-0,Swindon Town
+Sat Sep 26 1992,Grimsby Town,1-1,Cambridge United
+Sat Sep 26 1992,Brentford,1-1,Millwall
+Sat Sep 26 1992,Watford,0-3,Leicester City
+Sat Sep 26 1992,Oxford United,1-2,Tranmere Rovers
+Sat Sep 26 1992,Peterborough United,0-1,Newcastle United
+Sat Sep 26 1992,Bristol City,2-1,Barnsley
+Sun Sep 27 1992,Portsmouth,0-1,West Ham United
+Sun Sep 27 1992,Birmingham City,0-4,Wolverhampton Wanderers
+Tue Sep 29 1992,Swindon Town,1-0,Grimsby Town
+Tue Sep 29 1992,Tranmere Rovers,3-1,Notts County
+Tue Sep 29 1992,Watford,2-1,Sunderland
+Sat Oct 3 1992,Luton Town,1-4,Portsmouth
+Sat Oct 3 1992,Swindon Town,3-1,Watford
+Sat Oct 3 1992,Oxford United,0-0,Birmingham City
+Sat Oct 3 1992,Grimsby Town,1-3,Peterborough United
+Sat Oct 3 1992,Bristol Rovers,3-3,Notts County
+Sat Oct 3 1992,Tranmere Rovers,3-0,Bristol City
+Sat Oct 3 1992,Charlton Athletic,1-1,Southend United
+Sat Oct 3 1992,Sunderland,2-0,Millwall
+Sat Oct 3 1992,Cambridge United,1-3,Derby County
+Sat Oct 3 1992,Leicester City,2-1,Barnsley
+Sun Oct 4 1992,Brentford,1-2,Newcastle United
+Sun Oct 4 1992,Wolverhampton Wanderers,0-0,West Ham United
+Sat Oct 10 1992,Watford,4-2,Bristol Rovers
+Sat Oct 10 1992,Southend United,1-1,Wolverhampton Wanderers
+Sat Oct 10 1992,Bristol City,2-1,Charlton Athletic
+Sat Oct 10 1992,Millwall,2-2,Cambridge United
+Sat Oct 10 1992,Birmingham City,0-2,Leicester City
+Sat Oct 10 1992,Notts County,1-0,Grimsby Town
+Sat Oct 10 1992,Barnsley,3-0,Luton Town
+Sat Oct 10 1992,Peterborough United,0-0,Brentford
+Sat Oct 10 1992,Portsmouth,3-1,Swindon Town
+Sat Oct 10 1992,Newcastle United,1-0,Tranmere Rovers
+Sun Oct 11 1992,Derby County,0-1,Oxford United
+Sun Oct 11 1992,West Ham United,6-0,Sunderland
+Sat Oct 17 1992,Wolverhampton Wanderers,1-1,Portsmouth
+Sat Oct 17 1992,Cambridge United,2-1,Bristol City
+Sat Oct 17 1992,Grimsby Town,1-0,Southend United
+Sat Oct 17 1992,Brentford,1-1,Watford
+Sat Oct 17 1992,Luton Town,1-3,Derby County
+Sat Oct 17 1992,Bristol Rovers,0-4,West Ham United
+Sat Oct 17 1992,Oxford United,0-0,Barnsley
+Sat Oct 17 1992,Swindon Town,5-1,Notts County
+Sat Oct 17 1992,Tranmere Rovers,4-0,Birmingham City
+Sun Oct 18 1992,Leicester City,0-2,Peterborough United
+Sun Oct 18 1992,Sunderland,1-2,Newcastle United
+Sun Oct 18 1992,Charlton Athletic,0-2,Millwall
+Sat Oct 24 1992,Barnsley,3-2,Brentford
+Sat Oct 24 1992,Portsmouth,2-0,Sunderland
+Sat Oct 24 1992,Newcastle United,0-1,Grimsby Town
+Sat Oct 24 1992,West Ham United,0-1,Swindon Town
+Sat Oct 24 1992,Bristol City,2-1,Leicester City
+Sat Oct 24 1992,Notts County,1-1,Oxford United
+Sat Oct 24 1992,Watford,3-2,Tranmere Rovers
+Sat Oct 24 1992,Peterborough United,2-3,Luton Town
+Sat Oct 24 1992,Derby County,4-3,Charlton Athletic
+Sat Oct 24 1992,Birmingham City,2-1,Bristol Rovers
+Sun Oct 25 1992,Millwall,2-0,Wolverhampton Wanderers
+Sun Oct 25 1992,Southend United,1-1,Cambridge United
+Fri Oct 30 1992,Tranmere Rovers,1-1,Peterborough United
+Sat Oct 31 1992,Sunderland,2-2,Notts County
+Sat Oct 31 1992,Swindon Town,1-0,Barnsley
+Sat Oct 31 1992,Cambridge United,2-1,West Ham United
+Sat Oct 31 1992,Leicester City,2-1,Newcastle United
+Sat Oct 31 1992,Wolverhampton Wanderers,0-2,Derby County
+Sat Oct 31 1992,Brentford,5-1,Bristol City
+Sat Oct 31 1992,Grimsby Town,3-0,Portsmouth
+Sat Oct 31 1992,Bristol Rovers,1-0,Millwall
+Sat Oct 31 1992,Oxford United,1-1,Watford
+Sat Oct 31 1992,Luton Town,2-2,Southend United
+Sun Nov 1 1992,Charlton Athletic,0-0,Birmingham City
+Tue Nov 3 1992,Grimsby Town,1-1,West Ham United
+Tue Nov 3 1992,Tranmere Rovers,3-0,Southend United
+Tue Nov 3 1992,Cambridge United,3-3,Luton Town
+Tue Nov 3 1992,Watford,1-2,Peterborough United
+Tue Nov 3 1992,Swindon Town,0-2,Brentford
+Tue Nov 3 1992,Oxford United,5-5,Portsmouth
+Tue Nov 3 1992,Notts County,0-2,Derby County
+Tue Nov 3 1992,Bristol Rovers,1-5,Barnsley
+Tue Nov 3 1992,Sunderland,2-0,Wolverhampton Wanderers
+Wed Nov 4 1992,Birmingham City,2-3,Newcastle United
+Wed Nov 4 1992,Millwall,4-1,Bristol City
+Wed Nov 4 1992,Charlton Athletic,2-0,Leicester City
+Sat Nov 7 1992,Derby County,1-2,Millwall
+Sat Nov 7 1992,Bristol City,3-0,Birmingham City
+Sat Nov 7 1992,Wolverhampton Wanderers,5-1,Bristol Rovers
+Sat Nov 7 1992,Peterborough United,5-2,Sunderland
+Sat Nov 7 1992,Brentford,2-0,Charlton Athletic
+Sat Nov 7 1992,Leicester City,0-1,Tranmere Rovers
+Sat Nov 7 1992,West Ham United,2-0,Notts County
+Sat Nov 7 1992,Portsmouth,3-0,Cambridge United
+Sat Nov 7 1992,Barnsley,0-1,Watford
+Sat Nov 7 1992,Southend United,0-3,Oxford United
+Sat Nov 7 1992,Luton Town,1-4,Grimsby Town
+Sun Nov 8 1992,Newcastle United,0-0,Swindon Town
+Sat Nov 14 1992,Watford,0-0,Portsmouth
+Sat Nov 14 1992,Cambridge United,1-2,Barnsley
+Sat Nov 14 1992,Oxford United,4-0,Luton Town
+Sat Nov 14 1992,Grimsby Town,2-1,Bristol City
+Sat Nov 14 1992,Bristol Rovers,1-2,Derby County
+Sat Nov 14 1992,Swindon Town,3-2,Southend United
+Sat Nov 14 1992,Tranmere Rovers,3-2,Brentford
+Sat Nov 14 1992,Notts County,2-2,Wolverhampton Wanderers
+Sat Nov 14 1992,Charlton Athletic,1-3,Newcastle United
+Sun Nov 15 1992,Millwall,2-1,West Ham United
+Sun Nov 15 1992,Sunderland,1-2,Leicester City
+Sat Nov 21 1992,Peterborough United,1-1,Bristol Rovers
+Sat Nov 21 1992,West Ham United,5-3,Oxford United
+Sat Nov 21 1992,Derby County,0-1,Sunderland
+Sat Nov 21 1992,Newcastle United,2-0,Watford
+Sat Nov 21 1992,Portsmouth,4-0,Tranmere Rovers
+Sat Nov 21 1992,Southend United,3-1,Notts County
+Sat Nov 21 1992,Leicester City,2-2,Cambridge United
+Sat Nov 21 1992,Brentford,1-3,Grimsby Town
+Sat Nov 21 1992,Bristol City,2-2,Swindon Town
+Sat Nov 21 1992,Luton Town,1-1,Millwall
+Sat Nov 21 1992,Barnsley,1-0,Birmingham City
+Sun Nov 22 1992,Wolverhampton Wanderers,2-1,Charlton Athletic
+Sat Nov 28 1992,Leicester City,0-1,Bristol Rovers
+Sat Nov 28 1992,Brentford,1-0,Oxford United
+Sat Nov 28 1992,Wolverhampton Wanderers,2-1,Grimsby Town
+Sat Nov 28 1992,Newcastle United,4-1,Cambridge United
+Sat Nov 28 1992,Barnsley,1-0,Charlton Athletic
+Sat Nov 28 1992,Derby County,1-2,Tranmere Rovers
+Sat Nov 28 1992,Southend United,0-1,Sunderland
+Sat Nov 28 1992,Portsmouth,1-0,Millwall
+Sat Nov 28 1992,Bristol City,1-0,Notts County
+Sat Nov 28 1992,West Ham United,3-1,Birmingham City
+Sun Nov 29 1992,Peterborough United,3-3,Swindon Town
+Sun Nov 29 1992,Luton Town,2-0,Watford
+Fri Dec 4 1992,Tranmere Rovers,5-2,West Ham United
+Sat Dec 5 1992,Grimsby Town,1-3,Leicester City
+Sat Dec 5 1992,Bristol Rovers,2-0,Luton Town
+Sat Dec 5 1992,Notts County,0-2,Newcastle United
+Sat Dec 5 1992,Cambridge United,1-1,Wolverhampton Wanderers
+Sat Dec 5 1992,Watford,0-0,Bristol City
+Sat Dec 5 1992,Birmingham City,1-3,Brentford
+Sat Dec 5 1992,Sunderland,2-1,Barnsley
+Sat Dec 5 1992,Charlton Athletic,1-0,Portsmouth
+Sat Dec 5 1992,Millwall,1-1,Southend United
+Sun Dec 6 1992,Swindon Town,2-4,Derby County
+Sat Dec 12 1992,Wolverhampton Wanderers,1-2,Luton Town
+Sat Dec 12 1992,Notts County,1-0,Cambridge United
+Sat Dec 12 1992,Millwall,2-1,Grimsby Town
+Sat Dec 12 1992,Peterborough United,1-1,Portsmouth
+Sat Dec 12 1992,Derby County,3-1,Birmingham City
+Sat Dec 12 1992,West Ham United,2-0,Southend United
+Sat Dec 12 1992,Sunderland,1-3,Brentford
+Sun Dec 13 1992,Barnsley,1-0,Newcastle United
+Sun Dec 13 1992,Watford,1-1,Charlton Athletic
+Sun Dec 13 1992,Oxford United,0-0,Leicester City
+Sun Dec 13 1992,Bristol Rovers,4-0,Bristol City
+Fri Dec 18 1992,Cambridge United,0-1,Bristol Rovers
+Sat Dec 19 1992,Tranmere Rovers,3-0,Wolverhampton Wanderers
+Sat Dec 19 1992,Charlton Athletic,1-1,Oxford United
+Sat Dec 19 1992,Southend United,3-0,Barnsley
+Sat Dec 19 1992,Birmingham City,2-2,Watford
+Sat Dec 19 1992,Portsmouth,0-0,Notts County
+Sat Dec 19 1992,Bristol City,0-1,Peterborough United
+Sat Dec 19 1992,Luton Town,0-0,Sunderland
+Sun Dec 20 1992,Grimsby Town,0-2,Derby County
+Sun Dec 20 1992,Newcastle United,1-1,Millwall
+Sun Dec 20 1992,Brentford,0-0,West Ham United
+Sun Dec 20 1992,Leicester City,4-2,Swindon Town
+Sat Dec 26 1992,Bristol City,1-1,Oxford United
+Sat Dec 26 1992,Tranmere Rovers,1-1,Millwall
+Sat Dec 26 1992,Southend United,1-2,Watford
+Sat Dec 26 1992,Brentford,2-1,Derby County
+Sat Dec 26 1992,Newcastle United,2-1,Wolverhampton Wanderers
+Sat Dec 26 1992,Portsmouth,4-1,Bristol Rovers
+Sat Dec 26 1992,Charlton Athletic,1-1,West Ham United
+Sat Dec 26 1992,Grimsby Town,4-2,Barnsley
+Mon Dec 28 1992,Millwall,2-0,Leicester City
+Mon Dec 28 1992,Bristol Rovers,0-2,Southend United
+Mon Dec 28 1992,Wolverhampton Wanderers,0-0,Bristol City
+Mon Dec 28 1992,Derby County,2-4,Portsmouth
+Mon Dec 28 1992,Peterborough United,1-1,Charlton Athletic
+Mon Dec 28 1992,West Ham United,2-2,Luton Town
+Mon Dec 28 1992,Barnsley,3-1,Tranmere Rovers
+Mon Dec 28 1992,Notts County,1-1,Brentford
+Mon Dec 28 1992,Sunderland,2-0,Grimsby Town
+Mon Dec 28 1992,Watford,2-2,Cambridge United
+Mon Dec 28 1992,Oxford United,4-2,Newcastle United
+Sat Jan 9 1993,Notts County,1-2,Millwall
+Sat Jan 9 1993,Watford,3-1,Wolverhampton Wanderers
+Sat Jan 9 1993,Birmingham City,2-1,Luton Town
+Sat Jan 9 1993,Grimsby Town,2-0,Bristol Rovers
+Sat Jan 9 1993,Oxford United,0-1,Swindon Town
+Sat Jan 9 1993,Brentford,1-3,Leicester City
+Sat Jan 9 1993,Charlton Athletic,2-2,Tranmere Rovers
+Sat Jan 9 1993,Sunderland,3-3,Cambridge United
+Sat Jan 9 1993,Bristol City,1-2,Newcastle United
+Sat Jan 9 1993,Portsmouth,2-0,Southend United
+Sat Jan 9 1993,Peterborough United,1-1,Barnsley
+Sun Jan 10 1993,Derby County,0-2,West Ham United
+Tue Jan 12 1993,Swindon Town,0-0,Birmingham City
+Fri Jan 15 1993,Tranmere Rovers,4-0,Oxford United
+Sat Jan 16 1993,West Ham United,2-0,Portsmouth
+Sat Jan 16 1993,Luton Town,0-0,Notts County
+Sat Jan 16 1993,Leicester City,5-2,Watford
+Sat Jan 16 1993,Cambridge United,2-0,Grimsby Town
+Sat Jan 16 1993,Newcastle United,3-0,Peterborough United
+Sat Jan 16 1993,Barnsley,2-1,Bristol City
+Sat Jan 16 1993,Swindon Town,2-2,Charlton Athletic
+Sat Jan 16 1993,Bristol Rovers,2-2,Sunderland
+Sat Jan 16 1993,Southend United,0-0,Derby County
+Sun Jan 17 1993,Wolverhampton Wanderers,2-1,Birmingham City
+Sun Jan 17 1993,Millwall,6-1,Brentford
+Wed Jan 20 1993,Southend United,1-1,Newcastle United
+Fri Jan 22 1993,Birmingham City,2-0,Peterborough United
+Sat Jan 23 1993,Cambridge United,2-2,Oxford United
+Sat Jan 23 1993,Portsmouth,1-0,Brentford
+Sat Jan 23 1993,Leicester City,1-1,Notts County
+Tue Jan 26 1993,Grimsby Town,2-1,Swindon Town
+Tue Jan 26 1993,Notts County,5-1,Tranmere Rovers
+Wed Jan 27 1993,Millwall,4-0,Peterborough United
+Wed Jan 27 1993,Bristol Rovers,0-2,Charlton Athletic
+Wed Jan 27 1993,Southend United,4-0,Birmingham City
+Wed Jan 27 1993,Sunderland,1-2,Watford
+Wed Jan 27 1993,Luton Town,0-0,Newcastle United
+Wed Jan 27 1993,Wolverhampton Wanderers,1-0,Barnsley
+Wed Jan 27 1993,West Ham United,2-0,Bristol City
+Sat Jan 30 1993,Charlton Athletic,2-1,Notts County
+Sat Jan 30 1993,Watford,2-3,Grimsby Town
+Sat Jan 30 1993,Birmingham City,0-2,Cambridge United
+Sat Jan 30 1993,Leicester City,1-2,West Ham United
+Sat Jan 30 1993,Peterborough United,1-0,Southend United
+Sat Jan 30 1993,Barnsley,1-1,Portsmouth
+Sat Jan 30 1993,Brentford,0-3,Bristol Rovers
+Sat Jan 30 1993,Swindon Town,1-0,Wolverhampton Wanderers
+Sat Jan 30 1993,Oxford United,3-0,Millwall
+Sat Jan 30 1993,Bristol City,0-0,Luton Town
+Sun Jan 31 1993,Newcastle United,1-1,Derby County
+Sat Feb 6 1993,Sunderland,0-1,Swindon Town
+Sat Feb 6 1993,Millwall,5-2,Watford
+Sat Feb 6 1993,Grimsby Town,1-0,Charlton Athletic
+Sat Feb 6 1993,Wolverhampton Wanderers,1-2,Brentford
+Sat Feb 6 1993,Cambridge United,0-1,Tranmere Rovers
+Sat Feb 6 1993,Derby County,2-3,Peterborough United
+Sat Feb 6 1993,Portsmouth,2-3,Bristol City
+Sat Feb 6 1993,Notts County,3-1,Birmingham City
+Sat Feb 6 1993,Bristol Rovers,0-1,Oxford United
+Sat Feb 6 1993,Luton Town,2-0,Leicester City
+Sat Feb 6 1993,West Ham United,1-1,Barnsley
+Tue Feb 9 1993,Birmingham City,0-0,Millwall
+Tue Feb 9 1993,Sunderland,2-0,Oxford United
+Tue Feb 9 1993,West Ham United,2-1,Peterborough United
+Tue Feb 9 1993,Luton Town,0-0,Brentford
+Tue Feb 9 1993,Portsmouth,2-0,Newcastle United
+Wed Feb 10 1993,Derby County,3-0,Barnsley
+Wed Feb 10 1993,Southend United,1-1,Bristol City
+Sat Feb 13 1993,Peterborough United,2-3,Wolverhampton Wanderers
+Sat Feb 13 1993,Charlton Athletic,0-1,Sunderland
+Sat Feb 13 1993,Birmingham City,2-3,Portsmouth
+Sat Feb 13 1993,Watford,1-2,West Ham United
+Sat Feb 13 1993,Swindon Town,3-0,Millwall
+Sat Feb 13 1993,Tranmere Rovers,0-2,Luton Town
+Sun Feb 14 1993,Brentford,0-1,Cambridge United
+Sat Feb 20 1993,Sunderland,0-0,Bristol City
+Sat Feb 20 1993,Wolverhampton Wanderers,0-1,Oxford United
+Sat Feb 20 1993,Millwall,0-4,Barnsley
+Sat Feb 20 1993,Portsmouth,1-1,Leicester City
+Sat Feb 20 1993,Bristol Rovers,1-0,Tranmere Rovers
+Sat Feb 20 1993,Cambridge United,1-0,Swindon Town
+Sat Feb 20 1993,Derby County,1-2,Watford
+Sat Feb 20 1993,Grimsby Town,1-1,Birmingham City
+Sat Feb 20 1993,Luton Town,1-0,Charlton Athletic
+Sun Feb 21 1993,Notts County,1-0,Peterborough United
+Sun Feb 21 1993,Southend United,3-0,Brentford
+Sun Feb 21 1993,West Ham United,0-0,Newcastle United
+Tue Feb 23 1993,Swindon Town,2-0,Tranmere Rovers
+Tue Feb 23 1993,Oxford United,0-1,Grimsby Town
+Wed Feb 24 1993,Derby County,2-0,Leicester City
+Wed Feb 24 1993,Newcastle United,0-0,Bristol Rovers
+Sat Feb 27 1993,Wolverhampton Wanderers,1-1,Southend United
+Sat Feb 27 1993,Luton Town,2-2,Barnsley
+Sat Feb 27 1993,Brentford,0-1,Peterborough United
+Sat Feb 27 1993,Cambridge United,1-1,Millwall
+Sat Feb 27 1993,Grimsby Town,3-3,Notts County
+Sat Feb 27 1993,Charlton Athletic,2-1,Bristol City
+Sat Feb 27 1993,Swindon Town,1-0,Portsmouth
+Sat Feb 27 1993,Oxford United,0-1,Derby County
+Sat Feb 27 1993,Bristol Rovers,0-3,Watford
+Sat Feb 27 1993,Sunderland,0-0,West Ham United
+Sun Feb 28 1993,Tranmere Rovers,0-3,Newcastle United
+Sun Feb 28 1993,Leicester City,2-1,Birmingham City
+Wed Mar 3 1993,Derby County,0-0,Cambridge United
+Sat Mar 6 1993,Millwall,0-0,Sunderland
+Sat Mar 6 1993,Peterborough United,1-0,Grimsby Town
+Sat Mar 6 1993,Portsmouth,2-1,Luton Town
+Sat Mar 6 1993,Southend United,0-2,Charlton Athletic
+Sat Mar 6 1993,Barnsley,2-3,Leicester City
+Sat Mar 6 1993,Birmingham City,1-0,Oxford United
+Sat Mar 6 1993,Watford,0-4,Swindon Town
+Sat Mar 6 1993,Notts County,3-0,Bristol Rovers
+Sat Mar 6 1993,West Ham United,3-1,Wolverhampton Wanderers
+Sat Mar 6 1993,Bristol City,1-3,Tranmere Rovers
+Sat Mar 6 1993,Newcastle United,5-1,Brentford
+Tue Mar 9 1993,Barnsley,2-0,Cambridge United
+Tue Mar 9 1993,Portsmouth,1-0,Watford
+Tue Mar 9 1993,Wolverhampton Wanderers,3-0,Notts County
+Tue Mar 9 1993,Luton Town,3-1,Oxford United
+Tue Mar 9 1993,Brentford,0-1,Tranmere Rovers
+Tue Mar 9 1993,Bristol City,0-1,Millwall
+Tue Mar 9 1993,West Ham United,2-1,Grimsby Town
+Tue Mar 9 1993,Peterborough United,2-1,Birmingham City
+Wed Mar 10 1993,Southend United,1-1,Swindon Town
+Wed Mar 10 1993,Derby County,3-1,Bristol Rovers
+Wed Mar 10 1993,Leicester City,3-2,Sunderland
+Wed Mar 10 1993,Newcastle United,2-2,Charlton Athletic
+Sat Mar 13 1993,Tranmere Rovers,2-3,Leicester City
+Sat Mar 13 1993,Grimsby Town,3-1,Luton Town
+Sat Mar 13 1993,Oxford United,0-1,Southend United
+Sat Mar 13 1993,Watford,1-2,Barnsley
+Sat Mar 13 1993,Birmingham City,0-1,Bristol City
+Sat Mar 13 1993,Cambridge United,0-1,Portsmouth
+Sat Mar 13 1993,Swindon Town,2-1,Newcastle United
+Sat Mar 13 1993,Charlton Athletic,1-0,Brentford
+Sat Mar 13 1993,Notts County,1-0,West Ham United
+Sat Mar 13 1993,Sunderland,3-0,Peterborough United
+Sat Mar 13 1993,Millwall,1-0,Derby County
+Sat Mar 13 1993,Bristol Rovers,1-1,Wolverhampton Wanderers
+Tue Mar 16 1993,Barnsley,0-0,Notts County
+Tue Mar 16 1993,Cambridge United,2-2,Peterborough United
+Tue Mar 16 1993,Grimsby Town,0-0,Tranmere Rovers
+Tue Mar 16 1993,Birmingham City,1-0,Sunderland
+Wed Mar 17 1993,Luton Town,0-0,Swindon Town
+Sat Mar 20 1993,Luton Town,1-1,Bristol Rovers
+Sat Mar 20 1993,Brentford,0-2,Birmingham City
+Sat Mar 20 1993,West Ham United,2-0,Tranmere Rovers
+Sat Mar 20 1993,Newcastle United,4-0,Notts County
+Sat Mar 20 1993,Wolverhampton Wanderers,1-2,Cambridge United
+Sat Mar 20 1993,Peterborough United,1-1,Oxford United
+Sat Mar 20 1993,Bristol City,2-1,Watford
+Sat Mar 20 1993,Portsmouth,1-0,Charlton Athletic
+Sat Mar 20 1993,Leicester City,3-0,Grimsby Town
+Sun Mar 21 1993,Southend United,3-3,Millwall
+Sun Mar 21 1993,Barnsley,2-0,Sunderland
+Sun Mar 21 1993,Derby County,2-1,Swindon Town
+Tue Mar 23 1993,Grimsby Town,0-1,Brentford
+Tue Mar 23 1993,Birmingham City,3-0,Barnsley
+Tue Mar 23 1993,Charlton Athletic,0-1,Wolverhampton Wanderers
+Tue Mar 23 1993,Tranmere Rovers,0-2,Portsmouth
+Tue Mar 23 1993,Cambridge United,1-3,Leicester City
+Tue Mar 23 1993,Oxford United,1-0,West Ham United
+Tue Mar 23 1993,Notts County,4-0,Southend United
+Tue Mar 23 1993,Watford,1-0,Newcastle United
+Wed Mar 24 1993,Bristol Rovers,3-1,Peterborough United
+Wed Mar 24 1993,Sunderland,1-0,Derby County
+Wed Mar 24 1993,Swindon Town,2-1,Bristol City
+Wed Mar 24 1993,Millwall,1-0,Luton Town
+Fri Mar 26 1993,Southend United,1-2,Tranmere Rovers
+Sat Mar 27 1993,Brentford,0-0,Swindon Town
+Sat Mar 27 1993,Barnsley,2-1,Bristol Rovers
+Sat Mar 27 1993,Peterborough United,0-0,Watford
+Sat Mar 27 1993,Luton Town,2-0,Cambridge United
+Sat Mar 27 1993,Portsmouth,3-0,Oxford United
+Sat Mar 27 1993,Wolverhampton Wanderers,2-1,Sunderland
+Sat Mar 27 1993,Leicester City,3-1,Charlton Athletic
+Sun Mar 28 1993,Newcastle United,2-2,Birmingham City
+Sun Mar 28 1993,Bristol City,1-0,Grimsby Town
+Sun Mar 28 1993,West Ham United,2-2,Millwall
+Fri Apr 2 1993,Tranmere Rovers,2-1,Derby County
+Sat Apr 3 1993,Millwall,1-1,Portsmouth
+Sat Apr 3 1993,Cambridge United,0-3,Newcastle United
+Sat Apr 3 1993,Watford,0-0,Luton Town
+Sat Apr 3 1993,Swindon Town,1-0,Peterborough United
+Sat Apr 3 1993,Oxford United,0-2,Brentford
+Sat Apr 3 1993,Charlton Athletic,0-0,Barnsley
+Sat Apr 3 1993,Notts County,0-0,Bristol City
+Sat Apr 3 1993,Bristol Rovers,0-0,Leicester City
+Sat Apr 3 1993,Sunderland,2-4,Southend United
+Sat Apr 3 1993,Birmingham City,1-2,West Ham United
+Sat Apr 3 1993,Grimsby Town,1-0,Wolverhampton Wanderers
+Tue Apr 6 1993,Tranmere Rovers,3-1,Swindon Town
+Tue Apr 6 1993,Portsmouth,4-0,Peterborough United
+Tue Apr 6 1993,Brentford,1-1,Sunderland
+Tue Apr 6 1993,Bristol City,2-1,Bristol Rovers
+Tue Apr 6 1993,Grimsby Town,1-0,Millwall
+Tue Apr 6 1993,Birmingham City,1-1,Derby County
+Tue Apr 6 1993,Charlton Athletic,3-1,Watford
+Tue Apr 6 1993,Cambridge United,3-0,Notts County
+Wed Apr 7 1993,Leicester City,2-1,Oxford United
+Wed Apr 7 1993,Newcastle United,6-0,Barnsley
+Wed Apr 7 1993,Luton Town,1-1,Wolverhampton Wanderers
+Wed Apr 7 1993,Southend United,1-0,West Ham United
+Sat Apr 10 1993,Wolverhampton Wanderers,1-0,Newcastle United
+Sat Apr 10 1993,Derby County,3-2,Brentford
+Sat Apr 10 1993,Millwall,0-0,Tranmere Rovers
+Sat Apr 10 1993,Watford,0-0,Southend United
+Sat Apr 10 1993,Bristol Rovers,1-2,Portsmouth
+Sat Apr 10 1993,Notts County,2-0,Charlton Athletic
+Sat Apr 10 1993,Peterborough United,1-0,Cambridge United
+Sat Apr 10 1993,Sunderland,1-2,Birmingham City
+Sat Apr 10 1993,Barnsley,0-2,Grimsby Town
+Sat Apr 10 1993,Oxford United,2-0,Bristol City
+Sat Apr 10 1993,Swindon Town,1-0,Luton Town
+Sun Apr 11 1993,West Ham United,3-0,Leicester City
+Mon Apr 12 1993,Birmingham City,4-6,Swindon Town
+Mon Apr 12 1993,Grimsby Town,1-0,Sunderland
+Mon Apr 12 1993,Bristol City,1-0,Wolverhampton Wanderers
+Mon Apr 12 1993,Charlton Athletic,0-1,Peterborough United
+Mon Apr 12 1993,Brentford,2-2,Notts County
+Mon Apr 12 1993,Tranmere Rovers,2-1,Barnsley
+Mon Apr 12 1993,Portsmouth,3-0,Derby County
+Tue Apr 13 1993,Luton Town,2-0,West Ham United
+Tue Apr 13 1993,Cambridge United,1-1,Watford
+Wed Apr 14 1993,Leicester City,3-0,Millwall
+Wed Apr 14 1993,Southend United,3-0,Bristol Rovers
+Sat Apr 17 1993,Swindon Town,1-1,Leicester City
+Sat Apr 17 1993,Bristol Rovers,1-1,Cambridge United
+Sat Apr 17 1993,Barnsley,3-1,Southend United
+Sat Apr 17 1993,Notts County,0-1,Portsmouth
+Sat Apr 17 1993,Derby County,2-1,Grimsby Town
+Sat Apr 17 1993,Wolverhampton Wanderers,0-2,Tranmere Rovers
+Sat Apr 17 1993,Oxford United,0-1,Charlton Athletic
+Sat Apr 17 1993,Millwall,1-2,Newcastle United
+Sat Apr 17 1993,Watford,1-0,Birmingham City
+Sat Apr 17 1993,Peterborough United,1-1,Bristol City
+Sat Apr 17 1993,West Ham United,4-0,Brentford
+Sat Apr 17 1993,Sunderland,2-2,Luton Town
+Tue Apr 20 1993,Leicester City,4-1,Southend United
+Tue Apr 20 1993,Bristol City,0-0,Derby County
+Tue Apr 20 1993,Oxford United,2-1,Peterborough United
+Fri Apr 23 1993,Southend United,1-0,Grimsby Town
+Sat Apr 24 1993,West Ham United,2-1,Bristol Rovers
+Sat Apr 24 1993,Birmingham City,0-0,Tranmere Rovers
+Sat Apr 24 1993,Derby County,1-1,Luton Town
+Sat Apr 24 1993,Notts County,1-1,Swindon Town
+Sat Apr 24 1993,Peterborough United,3-0,Leicester City
+Sat Apr 24 1993,Barnsley,0-1,Oxford United
+Sat Apr 24 1993,Portsmouth,2-0,Wolverhampton Wanderers
+Sat Apr 24 1993,Millwall,1-0,Charlton Athletic
+Sat Apr 24 1993,Bristol City,0-0,Cambridge United
+Sat Apr 24 1993,Watford,1-0,Brentford
+Sun Apr 25 1993,Newcastle United,1-0,Sunderland
+Sat May 1 1993,Charlton Athletic,2-1,Derby County
+Sat May 1 1993,Luton Town,0-0,Peterborough United
+Sat May 1 1993,Tranmere Rovers,2-1,Watford
+Sat May 1 1993,Wolverhampton Wanderers,3-1,Millwall
+Sat May 1 1993,Brentford,3-1,Barnsley
+Sat May 1 1993,Sunderland,4-1,Portsmouth
+Sat May 1 1993,Leicester City,0-0,Bristol City
+Sat May 1 1993,Cambridge United,3-1,Southend United
+Sat May 1 1993,Oxford United,1-1,Notts County
+Sat May 1 1993,Bristol Rovers,3-3,Birmingham City
+Sun May 2 1993,Swindon Town,1-3,West Ham United
+Tue May 4 1993,Grimsby Town,0-2,Newcastle United
+Tue May 4 1993,Tranmere Rovers,2-1,Sunderland
+Wed May 5 1993,Derby County,2-0,Notts County
+Thu May 6 1993,Newcastle United,2-1,Oxford United
+Sat May 8 1993,Bristol City,4-1,Brentford
+Sat May 8 1993,West Ham United,2-0,Cambridge United
+Sat May 8 1993,Barnsley,1-0,Swindon Town
+Sat May 8 1993,Watford,0-1,Oxford United
+Sat May 8 1993,Southend United,2-1,Luton Town
+Sat May 8 1993,Birmingham City,1-0,Charlton Athletic
+Sat May 8 1993,Derby County,2-0,Wolverhampton Wanderers
+Sat May 8 1993,Peterborough United,1-1,Tranmere Rovers
+Sat May 8 1993,Millwall,0-3,Bristol Rovers
+Sat May 8 1993,Portsmouth,2-1,Grimsby Town
+Sat May 8 1993,Notts County,3-1,Sunderland
+Sun May 9 1993,Newcastle United,7-1,Leicester City

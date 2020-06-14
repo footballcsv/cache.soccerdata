@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 23 1986,Middlesbrough,2-2,Port Vale
+Sat Aug 23 1986,Rotherham United,0-0,Fulham
+Sat Aug 23 1986,Bristol City,2-2,Bury
+Sat Aug 23 1986,Newport County,1-2,Gillingham
+Sat Aug 23 1986,Blackpool,0-0,Chesterfield
+Sat Aug 23 1986,Brentford,1-1,AFC Bournemouth
+Sat Aug 23 1986,Notts County,2-0,Wigan Athletic
+Sat Aug 23 1986,Bolton Wanderers,1-2,Swindon Town
+Sat Aug 23 1986,Mansfield Town,2-1,Doncaster Rovers
+Sat Aug 23 1986,York City,3-1,Darlington
+Sat Aug 23 1986,Chester,2-2,Carlisle United
+Sat Aug 23 1986,Walsall,0-3,Bristol Rovers
+Sat Aug 30 1986,Chesterfield,3-2,Walsall
+Sat Aug 30 1986,Bristol Rovers,1-0,Bolton Wanderers
+Sat Aug 30 1986,Doncaster Rovers,2-0,Brentford
+Sat Aug 30 1986,AFC Bournemouth,2-1,Newport County
+Sat Aug 30 1986,Bury,1-1,Chester
+Sat Aug 30 1986,Wigan Athletic,0-2,Middlesbrough
+Sat Aug 30 1986,Carlisle United,2-2,York City
+Sat Aug 30 1986,Fulham,0-1,Blackpool
+Sat Aug 30 1986,Port Vale,1-1,Rotherham United
+Sat Aug 30 1986,Gillingham,1-1,Bristol City
+Sat Aug 30 1986,Darlington,2-1,Mansfield Town
+Sun Aug 31 1986,Swindon Town,1-2,Notts County
+Sat Sep 6 1986,Walsall,1-3,Doncaster Rovers
+Sat Sep 6 1986,Middlesbrough,3-1,Bury
+Sat Sep 6 1986,Newport County,2-2,Swindon Town
+Sat Sep 6 1986,York City,1-0,Bristol Rovers
+Sat Sep 6 1986,Notts County,1-1,AFC Bournemouth
+Sat Sep 6 1986,Blackpool,1-2,Carlisle United
+Sat Sep 6 1986,Bolton Wanderers,4-3,Darlington
+Sat Sep 6 1986,Rotherham United,0-1,Gillingham
+Sat Sep 6 1986,Brentford,0-2,Port Vale
+Sat Sep 6 1986,Bristol City,2-1,Wigan Athletic
+Sat Sep 6 1986,Chester,2-2,Fulham
+Sun Sep 7 1986,Mansfield Town,1-1,Chesterfield
+Sat Sep 13 1986,Gillingham,0-0,Middlesbrough
+Sat Sep 13 1986,Swindon Town,1-1,Chester
+Sat Sep 13 1986,Bury,0-2,Rotherham United
+Sat Sep 13 1986,Carlisle United,0-3,Walsall
+Sat Sep 13 1986,Port Vale,2-3,York City
+Sat Sep 13 1986,Darlington,2-1,Notts County
+Sat Sep 13 1986,AFC Bournemouth,2-1,Bolton Wanderers
+Sat Sep 13 1986,Bristol Rovers,0-0,Mansfield Town
+Sat Sep 13 1986,Chesterfield,0-3,Bristol City
+Sat Sep 13 1986,Wigan Athletic,1-2,Newport County
+Sat Sep 13 1986,Fulham,1-3,Brentford
+Sun Sep 14 1986,Doncaster Rovers,2-2,Blackpool
+Tue Sep 16 1986,Darlington,1-3,Newport County
+Tue Sep 16 1986,Port Vale,1-1,Notts County
+Tue Sep 16 1986,Wigan Athletic,5-1,Walsall
+Tue Sep 16 1986,AFC Bournemouth,2-0,Chester
+Tue Sep 16 1986,Bury,1-1,Mansfield Town
+Tue Sep 16 1986,Swindon Town,2-6,Blackpool
+Tue Sep 16 1986,Gillingham,2-0,York City
+Tue Sep 16 1986,Fulham,4-2,Bolton Wanderers
+Tue Sep 16 1986,Chesterfield,2-1,Rotherham United
+Tue Sep 16 1986,Carlisle United,0-0,Brentford
+Wed Sep 17 1986,Bristol Rovers,1-2,Middlesbrough
+Wed Sep 17 1986,Doncaster Rovers,1-0,Bristol City
+Sat Sep 20 1986,Bolton Wanderers,3-0,Port Vale
+Sat Sep 20 1986,Blackpool,5-1,Wigan Athletic
+Sat Sep 20 1986,Notts County,2-3,Fulham
+Sat Sep 20 1986,Mansfield Town,1-1,AFC Bournemouth
+Sat Sep 20 1986,Brentford,5-3,Darlington
+Sat Sep 20 1986,Newport County,3-2,Doncaster Rovers
+Sat Sep 20 1986,Middlesbrough,2-0,Chesterfield
+Sat Sep 20 1986,Bristol City,3-0,Carlisle United
+Sat Sep 20 1986,York City,1-0,Bury
+Sat Sep 20 1986,Rotherham United,0-1,Bristol Rovers
+Fri Sep 26 1986,Wigan Athletic,2-1,Bolton Wanderers
+Sat Sep 27 1986,Bury,4-3,Newport County
+Sat Sep 27 1986,Port Vale,4-1,Walsall
+Sat Sep 27 1986,Darlington,1-0,Chester
+Sat Sep 27 1986,Carlisle United,1-2,Mansfield Town
+Sat Sep 27 1986,Fulham,2-2,Middlesbrough
+Sat Sep 27 1986,Gillingham,2-0,Brentford
+Sat Sep 27 1986,Swindon Town,2-0,Rotherham United
+Sat Sep 27 1986,Bristol Rovers,2-2,Blackpool
+Sat Sep 27 1986,AFC Bournemouth,2-0,Bristol City
+Sat Sep 27 1986,Doncaster Rovers,3-1,York City
+Sat Sep 27 1986,Chesterfield,1-2,Notts County
+Tue Sep 30 1986,Rotherham United,0-2,Wigan Athletic
+Tue Sep 30 1986,York City,2-0,AFC Bournemouth
+Tue Sep 30 1986,Bristol City,1-1,Darlington
+Tue Sep 30 1986,Notts County,3-0,Bristol Rovers
+Tue Sep 30 1986,Brentford,0-2,Bury
+Tue Sep 30 1986,Bolton Wanderers,1-2,Chesterfield
+Tue Sep 30 1986,Mansfield Town,1-0,Gillingham
+Tue Sep 30 1986,Walsall,1-1,Fulham
+Tue Sep 30 1986,Middlesbrough,1-0,Swindon Town
+Tue Sep 30 1986,Blackpool,2-0,Port Vale
+Wed Oct 1 1986,Chester,1-0,Doncaster Rovers
+Sat Oct 4 1986,Bolton Wanderers,1-1,Notts County
+Sat Oct 4 1986,Blackpool,1-1,Walsall
+Sat Oct 4 1986,Bristol Rovers,3-2,Chesterfield
+Sat Oct 4 1986,Chester,0-3,Bristol City
+Sat Oct 4 1986,York City,1-3,Mansfield Town
+Sat Oct 4 1986,Port Vale,0-1,Fulham
+Sat Oct 4 1986,Gillingham,1-0,Bury
+Sat Oct 4 1986,Rotherham United,1-4,Middlesbrough
+Sat Oct 4 1986,Darlington,0-3,AFC Bournemouth
+Sat Oct 4 1986,Brentford,2-0,Newport County
+Sun Oct 5 1986,Swindon Town,3-1,Wigan Athletic
+Sat Oct 11 1986,Carlisle United,1-0,Darlington
+Sat Oct 11 1986,Chesterfield,2-4,Port Vale
+Sat Oct 11 1986,Bury,2-0,Doncaster Rovers
+Sat Oct 11 1986,Newport County,2-2,Chester
+Sat Oct 11 1986,Notts County,5-0,Rotherham United
+Sat Oct 11 1986,Wigan Athletic,4-3,Bristol Rovers
+Sat Oct 11 1986,Walsall,3-3,Bolton Wanderers
+Sat Oct 11 1986,Bristol City,3-0,York City
+Sat Oct 11 1986,Fulham,0-2,Swindon Town
+Sat Oct 11 1986,Mansfield Town,1-0,Brentford
+Sat Oct 11 1986,Middlesbrough,1-3,Blackpool
+Tue Oct 14 1986,Doncaster Rovers,2-0,Carlisle United
+Wed Oct 15 1986,Chester,1-1,Gillingham
+Sat Oct 18 1986,Bristol Rovers,0-0,Port Vale
+Sat Oct 18 1986,Bury,0-1,AFC Bournemouth
+Sat Oct 18 1986,Middlesbrough,3-1,Walsall
+Sat Oct 18 1986,Rotherham United,1-0,Bolton Wanderers
+Sat Oct 18 1986,Swindon Town,2-1,Chesterfield
+Sat Oct 18 1986,Blackpool,3-1,Notts County
+Sat Oct 18 1986,Doncaster Rovers,0-0,Darlington
+Sat Oct 18 1986,Chester,1-1,Mansfield Town
+Sat Oct 18 1986,Wigan Athletic,2-0,Fulham
+Sat Oct 18 1986,Gillingham,1-0,Carlisle United
+Sat Oct 18 1986,Brentford,3-1,York City
+Tue Oct 21 1986,Notts County,1-0,Middlesbrough
+Tue Oct 21 1986,Fulham,2-2,Bristol Rovers
+Tue Oct 21 1986,Bolton Wanderers,1-0,Blackpool
+Tue Oct 21 1986,Walsall,4-1,Rotherham United
+Tue Oct 21 1986,Chesterfield,4-3,Wigan Athletic
+Tue Oct 21 1986,AFC Bournemouth,3-2,Doncaster Rovers
+Tue Oct 21 1986,Port Vale,3-4,Swindon Town
+Tue Oct 21 1986,Carlisle United,2-1,Bury
+Tue Oct 21 1986,Darlington,1-1,Gillingham
+Tue Oct 21 1986,York City,1-1,Chester
+Sat Oct 25 1986,AFC Bournemouth,3-1,Wigan Athletic
+Sat Oct 25 1986,Fulham,2-1,Bury
+Sat Oct 25 1986,York City,2-1,Rotherham United
+Sat Oct 25 1986,Port Vale,1-2,Gillingham
+Sat Oct 25 1986,Carlisle United,2-0,Bristol Rovers
+Sat Oct 25 1986,Chesterfield,3-2,Newport County
+Sat Oct 25 1986,Bristol City,2-2,Middlesbrough
+Sat Oct 25 1986,Notts County,3-1,Doncaster Rovers
+Sat Oct 25 1986,Bolton Wanderers,1-1,Chester
+Sat Oct 25 1986,Darlington,0-0,Swindon Town
+Sat Oct 25 1986,Walsall,5-2,Brentford
+Tue Oct 28 1986,Newport County,1-1,Carlisle United
+Sat Nov 1 1986,Wigan Athletic,2-0,Carlisle United
+Sat Nov 1 1986,Brentford,1-2,Bolton Wanderers
+Sat Nov 1 1986,Doncaster Rovers,2-1,Fulham
+Sat Nov 1 1986,Middlesbrough,4-0,AFC Bournemouth
+Sat Nov 1 1986,Newport County,1-1,Notts County
+Sat Nov 1 1986,Bury,2-2,Port Vale
+Sat Nov 1 1986,Rotherham United,2-2,Mansfield Town
+Sat Nov 1 1986,Chester,0-0,Walsall
+Sat Nov 1 1986,Gillingham,3-0,Chesterfield
+Sat Nov 1 1986,Swindon Town,3-1,York City
+Sat Nov 1 1986,Blackpool,1-0,Bristol City
+Tue Nov 4 1986,Walsall,2-0,AFC Bournemouth
+Tue Nov 4 1986,Chesterfield,3-1,Fulham
+Tue Nov 4 1986,Gillingham,2-1,Blackpool
+Tue Nov 4 1986,Bristol City,0-0,Mansfield Town
+Tue Nov 4 1986,Wigan Athletic,1-1,Doncaster Rovers
+Tue Nov 4 1986,Rotherham United,3-0,Chester
+Tue Nov 4 1986,Swindon Town,1-2,Bristol Rovers
+Tue Nov 4 1986,Newport County,1-1,York City
+Tue Nov 4 1986,Middlesbrough,0-0,Bolton Wanderers
+Tue Nov 4 1986,Brentford,1-0,Notts County
+Tue Nov 4 1986,Carlisle United,2-0,Port Vale
+Fri Nov 7 1986,Doncaster Rovers,2-0,Gillingham
+Sat Nov 8 1986,Bristol Rovers,1-1,Bury
+Sat Nov 8 1986,Fulham,0-3,Bristol City
+Sat Nov 8 1986,Blackpool,1-0,Rotherham United
+Sat Nov 8 1986,Mansfield Town,0-0,Swindon Town
+Sat Nov 8 1986,Port Vale,0-1,Wigan Athletic
+Sat Nov 8 1986,Darlington,0-1,Middlesbrough
+Sat Nov 8 1986,York City,1-1,Chesterfield
+Sat Nov 8 1986,AFC Bournemouth,2-1,Carlisle United
+Sat Nov 8 1986,Bolton Wanderers,0-1,Newport County
+Sat Nov 8 1986,Chester,1-1,Brentford
+Sat Nov 8 1986,Notts County,2-1,Walsall
+Sat Nov 22 1986,Carlisle United,1-3,Fulham
+Sat Nov 22 1986,York City,1-5,Walsall
+Sat Nov 22 1986,Mansfield Town,2-2,Bolton Wanderers
+Sat Nov 22 1986,Gillingham,3-1,Notts County
+Sat Nov 22 1986,Newport County,0-1,Middlesbrough
+Sat Nov 22 1986,Chester,3-1,Bristol Rovers
+Sat Nov 22 1986,Bristol City,0-1,Rotherham United
+Sat Nov 22 1986,AFC Bournemouth,2-0,Chesterfield
+Sat Nov 22 1986,Bury,1-2,Swindon Town
+Sat Nov 22 1986,Darlington,1-0,Wigan Athletic
+Sat Nov 22 1986,Brentford,1-1,Blackpool
+Sat Nov 22 1986,Doncaster Rovers,2-1,Port Vale
+Tue Nov 25 1986,Mansfield Town,1-0,Newport County
+Tue Nov 25 1986,Walsall,1-0,Swindon Town
+Sat Nov 29 1986,Notts County,2-0,Bristol City
+Sat Nov 29 1986,Walsall,2-0,Mansfield Town
+Sat Nov 29 1986,Middlesbrough,1-2,Chester
+Sat Nov 29 1986,Swindon Town,2-0,Carlisle United
+Sat Nov 29 1986,Chesterfield,1-1,Bury
+Sat Nov 29 1986,Blackpool,1-1,Newport County
+Sat Nov 29 1986,Bolton Wanderers,3-1,York City
+Sat Nov 29 1986,Fulham,3-1,Darlington
+Sat Nov 29 1986,Wigan Athletic,3-1,Gillingham
+Sun Nov 30 1986,Rotherham United,2-3,Brentford
+Tue Dec 2 1986,Newport County,0-1,Bristol City
+Tue Dec 2 1986,AFC Bournemouth,0-2,Gillingham
+Sat Dec 6 1986,Mansfield Town,1-1,Blackpool
+Sat Dec 13 1986,Middlesbrough,1-0,Doncaster Rovers
+Sat Dec 13 1986,Fulham,1-1,Mansfield Town
+Sat Dec 13 1986,Wigan Athletic,1-1,Brentford
+Sat Dec 13 1986,Chesterfield,3-2,Carlisle United
+Sat Dec 13 1986,Rotherham United,4-2,AFC Bournemouth
+Sat Dec 13 1986,Notts County,5-1,York City
+Sat Dec 13 1986,Walsall,4-2,Darlington
+Sat Dec 13 1986,Blackpool,1-1,Bury
+Sat Dec 13 1986,Bolton Wanderers,3-0,Gillingham
+Sun Dec 14 1986,Swindon Town,1-2,Bristol City
+Sun Dec 14 1986,Port Vale,2-1,Chester
+Sun Dec 14 1986,Bristol Rovers,2-2,Newport County
+Fri Dec 19 1986,Chester,1-1,Chesterfield
+Fri Dec 19 1986,Darlington,3-2,Port Vale
+Fri Dec 19 1986,Gillingham,4-1,Bristol Rovers
+Sat Dec 20 1986,Bury,4-0,Walsall
+Sat Dec 20 1986,Bristol City,4-1,Bolton Wanderers
+Sat Dec 20 1986,Newport County,1-2,Rotherham United
+Sat Dec 20 1986,York City,1-1,Fulham
+Sun Dec 21 1986,Carlisle United,0-2,Notts County
+Sun Dec 21 1986,Mansfield Town,1-5,Wigan Athletic
+Sun Dec 21 1986,Doncaster Rovers,2-2,Swindon Town
+Sun Dec 21 1986,Brentford,0-1,Middlesbrough
+Fri Dec 26 1986,Middlesbrough,1-0,Carlisle United
+Fri Dec 26 1986,Bolton Wanderers,2-3,Bury
+Fri Dec 26 1986,Rotherham United,0-0,Darlington
+Fri Dec 26 1986,Fulham,2-2,Gillingham
+Fri Dec 26 1986,Wigan Athletic,2-2,Chester
+Fri Dec 26 1986,Walsall,2-0,Newport County
+Fri Dec 26 1986,Blackpool,2-1,York City
+Fri Dec 26 1986,Swindon Town,2-0,Brentford
+Fri Dec 26 1986,Port Vale,0-0,Bristol City
+Fri Dec 26 1986,Chesterfield,4-1,Doncaster Rovers
+Fri Dec 26 1986,Notts County,0-0,Mansfield Town
+Fri Dec 26 1986,Bristol Rovers,0-3,AFC Bournemouth
+Sat Dec 27 1986,Carlisle United,3-5,Rotherham United
+Sat Dec 27 1986,Mansfield Town,1-1,Middlesbrough
+Sat Dec 27 1986,Chester,1-4,Blackpool
+Sat Dec 27 1986,AFC Bournemouth,3-2,Fulham
+Sat Dec 27 1986,Bristol City,2-1,Walsall
+Sat Dec 27 1986,Darlington,1-1,Chesterfield
+Sat Dec 27 1986,Newport County,0-2,Port Vale
+Sat Dec 27 1986,Bury,0-2,Notts County
+Sat Dec 27 1986,Gillingham,1-3,Swindon Town
+Sat Dec 27 1986,Doncaster Rovers,3-0,Bolton Wanderers
+Sat Dec 27 1986,York City,1-1,Wigan Athletic
+Sun Dec 28 1986,Brentford,1-2,Bristol Rovers
+Thu Jan 1 1987,Brentford,2-2,Chesterfield
+Thu Jan 1 1987,York City,3-1,Middlesbrough
+Thu Jan 1 1987,Newport County,0-0,Fulham
+Thu Jan 1 1987,Bristol City,0-1,Bristol Rovers
+Thu Jan 1 1987,Doncaster Rovers,3-0,Rotherham United
+Thu Jan 1 1987,Gillingham,4-0,Walsall
+Thu Jan 1 1987,AFC Bournemouth,1-0,Swindon Town
+Thu Jan 1 1987,Bury,1-3,Wigan Athletic
+Thu Jan 1 1987,Mansfield Town,0-1,Port Vale
+Sat Jan 3 1987,Swindon Town,1-0,Bury
+Sat Jan 3 1987,Blackpool,2-0,Brentford
+Sat Jan 3 1987,Wigan Athletic,1-1,Darlington
+Sat Jan 3 1987,Notts County,3-1,Gillingham
+Sat Jan 3 1987,Middlesbrough,2-0,Newport County
+Sat Jan 3 1987,Fulham,3-0,Carlisle United
+Sat Jan 3 1987,Bolton Wanderers,0-1,Mansfield Town
+Sat Jan 3 1987,Chesterfield,1-1,AFC Bournemouth
+Sat Jan 3 1987,Rotherham United,2-0,Bristol City
+Sat Jan 10 1987,AFC Bournemouth,1-1,Brentford
+Sat Jan 17 1987,Bolton Wanderers,2-2,Bristol Rovers
+Fri Jan 23 1987,Bristol Rovers,1-0,York City
+Sat Jan 24 1987,Carlisle United,3-1,Blackpool
+Sat Jan 24 1987,Port Vale,4-1,Brentford
+Sat Jan 24 1987,Doncaster Rovers,1-1,Walsall
+Sat Jan 24 1987,AFC Bournemouth,3-0,Notts County
+Sat Jan 24 1987,Bury,0-3,Middlesbrough
+Sat Jan 24 1987,Wigan Athletic,3-1,Bristol City
+Sat Jan 24 1987,Fulham,0-5,Chester
+Sun Jan 25 1987,Chesterfield,0-1,Mansfield Town
+Sun Jan 25 1987,Swindon Town,3-0,Newport County
+Tue Jan 27 1987,Rotherham United,1-1,Port Vale
+Sat Jan 31 1987,Notts County,2-2,Darlington
+Sat Jan 31 1987,Rotherham United,2-1,Bury
+Sat Jan 31 1987,Bristol City,1-0,Chesterfield
+Sat Jan 31 1987,Bolton Wanderers,0-1,AFC Bournemouth
+Sat Jan 31 1987,Mansfield Town,5-0,Bristol Rovers
+Sun Feb 1 1987,Brentford,3-3,Fulham
+Tue Feb 3 1987,Carlisle United,0-0,Bolton Wanderers
+Tue Feb 3 1987,Port Vale,4-2,Doncaster Rovers
+Tue Feb 3 1987,Bury,2-0,Darlington
+Tue Feb 3 1987,AFC Bournemouth,1-1,Blackpool
+Tue Feb 3 1987,Gillingham,1-0,Rotherham United
+Sat Feb 7 1987,Middlesbrough,1-0,Bristol Rovers
+Sat Feb 7 1987,Rotherham United,0-1,Chesterfield
+Sat Feb 7 1987,Chester,2-2,AFC Bournemouth
+Sat Feb 7 1987,Bristol City,5-0,Doncaster Rovers
+Sat Feb 7 1987,York City,2-1,Gillingham
+Sat Feb 7 1987,Mansfield Town,1-3,Bury
+Sat Feb 7 1987,Walsall,2-3,Wigan Athletic
+Sat Feb 7 1987,Blackpool,1-1,Swindon Town
+Sat Feb 7 1987,Notts County,4-1,Port Vale
+Sat Feb 7 1987,Brentford,3-1,Carlisle United
+Sat Feb 7 1987,Bolton Wanderers,3-2,Fulham
+Fri Feb 13 1987,Wigan Athletic,4-1,Blackpool
+Sat Feb 14 1987,Port Vale,1-1,Bolton Wanderers
+Sat Feb 14 1987,Bristol Rovers,0-2,Rotherham United
+Sat Feb 14 1987,Doncaster Rovers,0-1,Newport County
+Sat Feb 14 1987,Fulham,3-1,Notts County
+Sat Feb 14 1987,Carlisle United,1-2,Bristol City
+Sat Feb 14 1987,Gillingham,1-2,Chester
+Sat Feb 14 1987,AFC Bournemouth,4-1,Mansfield Town
+Sat Feb 14 1987,Chesterfield,2-1,Middlesbrough
+Sat Feb 14 1987,Bury,1-0,York City
+Sun Feb 15 1987,Darlington,1-1,Brentford
+Tue Feb 17 1987,Fulham,1-1,Rotherham United
+Tue Feb 17 1987,Chester,1-2,Notts County
+Tue Feb 17 1987,Port Vale,0-0,Middlesbrough
+Tue Feb 17 1987,Chesterfield,1-1,Blackpool
+Tue Feb 17 1987,Doncaster Rovers,1-0,Mansfield Town
+Tue Feb 17 1987,Gillingham,1-1,Newport County
+Wed Feb 18 1987,Darlington,0-1,Bolton Wanderers
+Sat Feb 21 1987,Chester,6-0,Darlington
+Sat Feb 21 1987,Blackpool,6-1,Bristol Rovers
+Sat Feb 21 1987,Newport County,2-2,Bury
+Sat Feb 21 1987,Middlesbrough,3-0,Fulham
+Sat Feb 21 1987,York City,1-1,Doncaster Rovers
+Sat Feb 21 1987,Brentford,3-2,Gillingham
+Sat Feb 21 1987,Rotherham United,1-2,Swindon Town
+Sat Feb 21 1987,Notts County,2-1,Chesterfield
+Sat Feb 21 1987,Bristol City,2-0,AFC Bournemouth
+Sat Feb 21 1987,Mansfield Town,2-0,Carlisle United
+Tue Feb 24 1987,Darlington,2-2,York City
+Tue Feb 24 1987,Newport County,0-1,AFC Bournemouth
+Fri Feb 27 1987,Doncaster Rovers,1-1,Chester
+Sat Feb 28 1987,Bristol Rovers,0-0,Notts County
+Sat Feb 28 1987,Wigan Athletic,2-1,Rotherham United
+Sat Feb 28 1987,AFC Bournemouth,3-0,York City
+Sat Feb 28 1987,Carlisle United,2-2,Newport County
+Sat Feb 28 1987,Swindon Town,1-0,Middlesbrough
+Sat Feb 28 1987,Darlington,0-0,Bristol City
+Sat Feb 28 1987,Gillingham,2-0,Mansfield Town
+Sat Feb 28 1987,Chesterfield,0-0,Bolton Wanderers
+Sat Feb 28 1987,Fulham,2-2,Walsall
+Sat Feb 28 1987,Bury,1-1,Brentford
+Sat Feb 28 1987,Port Vale,1-6,Blackpool
+Tue Mar 3 1987,Notts County,5-2,Newport County
+Tue Mar 3 1987,Mansfield Town,0-0,Rotherham United
+Tue Mar 3 1987,Carlisle United,0-2,Wigan Athletic
+Tue Mar 3 1987,Darlington,1-1,Bristol Rovers
+Tue Mar 3 1987,Chesterfield,1-0,Gillingham
+Tue Mar 3 1987,Fulham,0-0,Doncaster Rovers
+Tue Mar 3 1987,York City,0-3,Swindon Town
+Tue Mar 3 1987,Bolton Wanderers,0-2,Brentford
+Tue Mar 3 1987,AFC Bournemouth,3-1,Middlesbrough
+Tue Mar 3 1987,Bristol City,3-1,Blackpool
+Tue Mar 3 1987,Port Vale,2-0,Bury
+Sat Mar 7 1987,Gillingham,0-0,Port Vale
+Sat Mar 7 1987,Blackpool,1-2,Mansfield Town
+Sat Mar 7 1987,Brentford,0-1,Walsall
+Sat Mar 7 1987,Doncaster Rovers,1-2,Notts County
+Sat Mar 7 1987,Middlesbrough,1-0,Bristol City
+Sat Mar 7 1987,Chester,0-0,Bolton Wanderers
+Sat Mar 7 1987,Rotherham United,0-0,York City
+Sat Mar 7 1987,Bury,2-1,Fulham
+Sun Mar 8 1987,Newport County,1-0,Chesterfield
+Tue Mar 10 1987,Darlington,1-1,Blackpool
+Wed Mar 11 1987,Bristol Rovers,0-3,Walsall
+Sat Mar 14 1987,Chesterfield,1-3,Swindon Town
+Sat Mar 14 1987,York City,2-1,Brentford
+Sat Mar 14 1987,Port Vale,4-1,Bristol Rovers
+Sat Mar 14 1987,AFC Bournemouth,1-0,Bury
+Sat Mar 14 1987,Walsall,1-0,Middlesbrough
+Sat Mar 14 1987,Carlisle United,2-4,Gillingham
+Sat Mar 14 1987,Bolton Wanderers,0-0,Rotherham United
+Sat Mar 14 1987,Bristol City,4-0,Newport County
+Sat Mar 14 1987,Darlington,2-2,Doncaster Rovers
+Sat Mar 14 1987,Notts County,3-2,Blackpool
+Sat Mar 14 1987,Mansfield Town,2-3,Chester
+Tue Mar 17 1987,Doncaster Rovers,0-3,AFC Bournemouth
+Tue Mar 17 1987,Bury,0-0,Carlisle United
+Tue Mar 17 1987,Blackpool,1-1,Bolton Wanderers
+Tue Mar 17 1987,Middlesbrough,2-0,Notts County
+Tue Mar 17 1987,Swindon Town,1-0,Port Vale
+Tue Mar 17 1987,Newport County,0-3,Mansfield Town
+Tue Mar 17 1987,Brentford,1-1,Bristol City
+Tue Mar 17 1987,Wigan Athletic,1-1,Chesterfield
+Tue Mar 17 1987,Rotherham United,1-0,Walsall
+Tue Mar 17 1987,Gillingham,4-1,Darlington
+Wed Mar 18 1987,Bristol Rovers,0-0,Fulham
+Wed Mar 18 1987,Chester,2-1,York City
+Sat Mar 21 1987,Port Vale,2-2,Chesterfield
+Sat Mar 21 1987,Chester,2-0,Newport County
+Sat Mar 21 1987,Doncaster Rovers,0-0,Bury
+Sat Mar 21 1987,Gillingham,2-1,AFC Bournemouth
+Sat Mar 21 1987,Swindon Town,2-0,Fulham
+Sat Mar 21 1987,York City,1-1,Bristol City
+Sat Mar 21 1987,Rotherham United,1-1,Notts County
+Sat Mar 21 1987,Darlington,0-1,Carlisle United
+Sat Mar 21 1987,Blackpool,0-1,Middlesbrough
+Sat Mar 21 1987,Brentford,3-1,Mansfield Town
+Sat Mar 21 1987,Bolton Wanderers,1-0,Walsall
+Sat Mar 21 1987,Bristol Rovers,1-0,Wigan Athletic
+Tue Mar 24 1987,Wigan Athletic,1-0,Notts County
+Tue Mar 24 1987,Walsall,3-2,York City
+Tue Mar 24 1987,Swindon Town,2-0,Bolton Wanderers
+Wed Mar 25 1987,Chester,0-1,Bury
+Sat Mar 28 1987,Middlesbrough,0-0,Rotherham United
+Sat Mar 28 1987,AFC Bournemouth,1-0,Darlington
+Sat Mar 28 1987,Fulham,0-6,Port Vale
+Sat Mar 28 1987,Wigan Athletic,3-2,Swindon Town
+Sat Mar 28 1987,Notts County,0-0,Bolton Wanderers
+Sat Mar 28 1987,Bury,1-0,Gillingham
+Sat Mar 28 1987,Bristol City,1-0,Chester
+Sat Mar 28 1987,Carlisle United,1-0,Doncaster Rovers
+Sat Mar 28 1987,Mansfield Town,1-1,York City
+Sat Mar 28 1987,Walsall,2-1,Blackpool
+Sat Mar 28 1987,Chesterfield,1-1,Bristol Rovers
+Tue Mar 31 1987,Newport County,1-2,Wigan Athletic
+Tue Mar 31 1987,Port Vale,1-2,AFC Bournemouth
+Tue Mar 31 1987,York City,2-0,Carlisle United
+Tue Mar 31 1987,Bury,1-2,Bristol City
+Wed Apr 1 1987,Chester,2-0,Swindon Town
+Fri Apr 3 1987,Swindon Town,3-0,Mansfield Town
+Sat Apr 4 1987,Chesterfield,1-0,York City
+Sat Apr 4 1987,Walsall,1-1,Notts County
+Sat Apr 4 1987,Newport County,2-1,Bolton Wanderers
+Sat Apr 4 1987,Bristol City,0-0,Fulham
+Sat Apr 4 1987,Brentford,3-1,Chester
+Sat Apr 4 1987,Carlisle United,0-0,AFC Bournemouth
+Sat Apr 4 1987,Gillingham,2-1,Doncaster Rovers
+Sat Apr 4 1987,Rotherham United,1-0,Blackpool
+Sat Apr 4 1987,Bury,1-0,Bristol Rovers
+Sat Apr 4 1987,Wigan Athletic,2-1,Port Vale
+Sun Apr 5 1987,Middlesbrough,1-1,Darlington
+Tue Apr 7 1987,Newport County,2-2,Brentford
+Tue Apr 7 1987,Walsall,3-0,Carlisle United
+Tue Apr 7 1987,Bolton Wanderers,1-2,Wigan Athletic
+Tue Apr 7 1987,Blackpool,1-0,Fulham
+Sat Apr 11 1987,AFC Bournemouth,1-0,Walsall
+Sat Apr 11 1987,Darlington,4-1,Bury
+Sat Apr 11 1987,Mansfield Town,2-0,Bristol City
+Sat Apr 11 1987,Notts County,1-1,Brentford
+Sat Apr 11 1987,Bristol Rovers,3-4,Swindon Town
+Sat Apr 11 1987,Bolton Wanderers,0-1,Middlesbrough
+Sat Apr 11 1987,Blackpool,0-1,Gillingham
+Sat Apr 11 1987,Chester,1-0,Rotherham United
+Sat Apr 11 1987,Port Vale,0-1,Carlisle United
+Sat Apr 11 1987,York City,3-0,Newport County
+Sat Apr 11 1987,Fulham,3-1,Chesterfield
+Tue Apr 14 1987,York City,1-4,Port Vale
+Tue Apr 14 1987,Wigan Athletic,0-2,AFC Bournemouth
+Tue Apr 14 1987,Newport County,3-0,Darlington
+Tue Apr 14 1987,Brentford,1-1,Doncaster Rovers
+Tue Apr 14 1987,Walsall,2-1,Chesterfield
+Fri Apr 17 1987,Wigan Athletic,1-0,Bury
+Sat Apr 18 1987,Notts County,1-1,Chester
+Sat Apr 18 1987,Fulham,2-0,Newport County
+Sat Apr 18 1987,Swindon Town,1-1,AFC Bournemouth
+Sat Apr 18 1987,Bolton Wanderers,2-0,Carlisle United
+Sat Apr 18 1987,Port Vale,3-2,Mansfield Town
+Sat Apr 18 1987,Middlesbrough,3-1,York City
+Sat Apr 18 1987,Walsall,1-0,Gillingham
+Sat Apr 18 1987,Blackpool,2-1,Darlington
+Sat Apr 18 1987,Chesterfield,1-2,Brentford
+Sat Apr 18 1987,Rotherham United,2-0,Doncaster Rovers
+Sat Apr 18 1987,Bristol Rovers,0-0,Bristol City
+Mon Apr 20 1987,Gillingham,4-1,Fulham
+Mon Apr 20 1987,Doncaster Rovers,1-1,Chesterfield
+Mon Apr 20 1987,AFC Bournemouth,2-0,Bristol Rovers
+Mon Apr 20 1987,Brentford,1-1,Swindon Town
+Mon Apr 20 1987,York City,1-1,Blackpool
+Mon Apr 20 1987,Darlington,1-1,Rotherham United
+Mon Apr 20 1987,Chester,1-2,Wigan Athletic
+Mon Apr 20 1987,Newport County,2-4,Walsall
+Mon Apr 20 1987,Bristol City,1-0,Port Vale
+Mon Apr 20 1987,Carlisle United,0-1,Middlesbrough
+Mon Apr 20 1987,Bury,0-0,Bolton Wanderers
+Tue Apr 21 1987,Mansfield Town,1-2,Notts County
+Wed Apr 22 1987,Doncaster Rovers,1-1,Wigan Athletic
+Wed Apr 22 1987,Bristol Rovers,4-0,Carlisle United
+Wed Apr 22 1987,Bristol City,2-0,Gillingham
+Wed Apr 22 1987,Swindon Town,1-0,Darlington
+Wed Apr 22 1987,Walsall,1-0,Chester
+Sat Apr 25 1987,Swindon Town,1-1,Doncaster Rovers
+Sat Apr 25 1987,Walsall,3-1,Bury
+Sat Apr 25 1987,Blackpool,1-3,AFC Bournemouth
+Sat Apr 25 1987,Bolton Wanderers,0-0,Bristol City
+Sat Apr 25 1987,Rotherham United,3-1,Newport County
+Sat Apr 25 1987,Wigan Athletic,3-0,Mansfield Town
+Sat Apr 25 1987,Port Vale,1-2,Darlington
+Sat Apr 25 1987,Middlesbrough,2-0,Brentford
+Sat Apr 25 1987,Chesterfield,0-1,Chester
+Sat Apr 25 1987,Fulham,1-0,York City
+Sat Apr 25 1987,Bristol Rovers,0-1,Gillingham
+Sun Apr 26 1987,Notts County,2-1,Carlisle United
+Tue Apr 28 1987,Bristol Rovers,3-2,Chester
+Tue Apr 28 1987,Middlesbrough,3-0,Gillingham
+Tue Apr 28 1987,Bristol City,0-2,Brentford
+Tue Apr 28 1987,Fulham,2-2,Wigan Athletic
+Tue Apr 28 1987,Blackpool,1-1,Doncaster Rovers
+Tue Apr 28 1987,Mansfield Town,1-0,Darlington
+Tue Apr 28 1987,Walsall,5-2,Port Vale
+Tue Apr 28 1987,Notts County,2-3,Swindon Town
+Thu Apr 30 1987,Bristol Rovers,2-1,Darlington
+Sat May 2 1987,Chester,1-2,Middlesbrough
+Sat May 2 1987,Bury,1-1,Chesterfield
+Sat May 2 1987,Gillingham,0-0,Wigan Athletic
+Sat May 2 1987,Doncaster Rovers,2-0,Bristol Rovers
+Sat May 2 1987,Newport County,1-1,Blackpool
+Sat May 2 1987,Bristol City,3-1,Notts County
+Sat May 2 1987,Darlington,0-1,Fulham
+Sat May 2 1987,York City,2-1,Bolton Wanderers
+Sat May 2 1987,Brentford,2-0,Rotherham United
+Sat May 2 1987,Carlisle United,0-3,Swindon Town
+Sat May 2 1987,Mansfield Town,2-0,Walsall
+Sat May 2 1987,AFC Bournemouth,0-0,Port Vale
+Mon May 4 1987,Bolton Wanderers,0-1,Doncaster Rovers
+Mon May 4 1987,Walsall,1-1,Bristol City
+Mon May 4 1987,Notts County,1-2,Bury
+Mon May 4 1987,Swindon Town,1-1,Gillingham
+Mon May 4 1987,Wigan Athletic,3-2,York City
+Mon May 4 1987,Blackpool,1-0,Chester
+Mon May 4 1987,Bristol Rovers,0-1,Brentford
+Mon May 4 1987,Chesterfield,1-0,Darlington
+Mon May 4 1987,Fulham,1-3,AFC Bournemouth
+Mon May 4 1987,Middlesbrough,1-0,Mansfield Town
+Mon May 4 1987,Rotherham United,2-1,Carlisle United
+Mon May 4 1987,Port Vale,6-1,Newport County
+Wed May 6 1987,Middlesbrough,0-0,Wigan Athletic
+Wed May 6 1987,Bristol Rovers,2-3,Doncaster Rovers
+Wed May 6 1987,Swindon Town,0-0,Walsall
+Wed May 6 1987,Carlisle United,0-2,Chester
+Sat May 9 1987,Newport County,0-1,Bristol Rovers
+Sat May 9 1987,Brentford,2-3,Wigan Athletic
+Sat May 9 1987,Chester,1-2,Port Vale
+Sat May 9 1987,Mansfield Town,1-1,Fulham
+Sat May 9 1987,AFC Bournemouth,2-0,Rotherham United
+Sat May 9 1987,Bristol City,1-1,Swindon Town
+Sat May 9 1987,York City,1-1,Notts County
+Sat May 9 1987,Bury,4-1,Blackpool
+Sat May 9 1987,Carlisle United,3-0,Chesterfield
+Sat May 9 1987,Gillingham,1-0,Bolton Wanderers
+Sat May 9 1987,Doncaster Rovers,0-2,Middlesbrough
+Sat May 9 1987,Darlington,1-3,Walsall

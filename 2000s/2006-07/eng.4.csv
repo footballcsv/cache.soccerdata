@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 5 2006,Wycombe Wanderers,1-1,Wrexham
+Sat Aug 5 2006,Chester,2-0,Accrington
+Sat Aug 5 2006,Darlington,4-0,Macclesfield
+Sat Aug 5 2006,Grimsby Town,3-2,Boston United
+Sat Aug 5 2006,Hartlepool United,0-1,Swindon Town
+Sat Aug 5 2006,Lincoln City,1-1,Notts County
+Sat Aug 5 2006,Shrewsbury Town,2-2,Mansfield Town
+Sat Aug 5 2006,Barnet,0-1,Torquay United
+Sat Aug 5 2006,Peterborough United,4-1,Bristol Rovers
+Sat Aug 5 2006,Rochdale,0-1,Walsall
+Sat Aug 5 2006,Stockport County,0-2,Hereford United
+Sat Aug 5 2006,Milton Keynes Dons,2-1,Bury
+Tue Aug 8 2006,Swindon Town,2-1,Barnet
+Tue Aug 8 2006,Bristol Rovers,1-2,Wycombe Wanderers
+Tue Aug 8 2006,Bury,1-3,Chester
+Tue Aug 8 2006,Wrexham,3-0,Grimsby Town
+Tue Aug 8 2006,Notts County,1-1,Shrewsbury Town
+Tue Aug 8 2006,Torquay United,1-0,Rochdale
+Tue Aug 8 2006,Walsall,2-0,Stockport County
+Tue Aug 8 2006,Mansfield Town,2-1,Milton Keynes Dons
+Tue Aug 8 2006,Accrington,0-2,Darlington
+Tue Aug 8 2006,Macclesfield,0-0,Hartlepool United
+Tue Aug 8 2006,Hereford United,1-2,Lincoln City
+Wed Aug 9 2006,Boston United,0-1,Peterborough United
+Sat Aug 12 2006,Bury,1-2,Shrewsbury Town
+Sat Aug 12 2006,Walsall,2-0,Hartlepool United
+Sat Aug 12 2006,Mansfield Town,1-1,Stockport County
+Sat Aug 12 2006,Notts County,1-0,Wycombe Wanderers
+Sat Aug 12 2006,Wrexham,0-0,Peterborough United
+Sat Aug 12 2006,Hereford United,2-0,Chester
+Sat Aug 12 2006,Torquay United,1-2,Lincoln City
+Sat Aug 12 2006,Swindon Town,1-0,Rochdale
+Sat Aug 12 2006,Bristol Rovers,1-0,Grimsby Town
+Sat Aug 12 2006,Macclesfield,1-2,Milton Keynes Dons
+Sat Aug 12 2006,Boston United,4-1,Darlington
+Sat Aug 12 2006,Accrington,2-1,Barnet
+Fri Aug 18 2006,Stockport County,1-1,Accrington
+Fri Aug 18 2006,Grimsby Town,1-1,Mansfield Town
+Sat Aug 19 2006,Peterborough United,3-1,Macclesfield
+Sat Aug 19 2006,Rochdale,0-1,Notts County
+Sat Aug 19 2006,Hartlepool United,1-1,Torquay United
+Sat Aug 19 2006,Shrewsbury Town,5-0,Boston United
+Sat Aug 19 2006,Milton Keynes Dons,2-0,Bristol Rovers
+Sat Aug 19 2006,Barnet,3-0,Hereford United
+Sat Aug 19 2006,Darlington,1-2,Swindon Town
+Sat Aug 19 2006,Wycombe Wanderers,3-0,Bury
+Sat Aug 19 2006,Lincoln City,2-2,Walsall
+Sun Aug 20 2006,Chester,1-2,Wrexham
+Sat Aug 26 2006,Bristol Rovers,1-0,Shrewsbury Town
+Sat Aug 26 2006,Swindon Town,2-0,Stockport County
+Sat Aug 26 2006,Torquay United,2-2,Chester
+Sat Aug 26 2006,Notts County,0-0,Peterborough United
+Sat Aug 26 2006,Accrington,1-1,Rochdale
+Sat Aug 26 2006,Macclesfield,0-2,Wycombe Wanderers
+Sat Aug 26 2006,Mansfield Town,2-4,Lincoln City
+Sat Aug 26 2006,Hereford United,3-1,Hartlepool United
+Sat Aug 26 2006,Walsall,1-0,Darlington
+Sat Aug 26 2006,Bury,3-0,Grimsby Town
+Sat Aug 26 2006,Boston United,0-1,Milton Keynes Dons
+Sat Aug 26 2006,Wrexham,1-1,Barnet
+Fri Sep 1 2006,Lincoln City,3-1,Accrington
+Fri Sep 1 2006,Wycombe Wanderers,1-0,Mansfield Town
+Fri Sep 1 2006,Grimsby Town,1-1,Macclesfield
+Fri Sep 1 2006,Darlington,1-1,Torquay United
+Fri Sep 1 2006,Chester,0-2,Swindon Town
+Fri Sep 1 2006,Hartlepool United,2-1,Boston United
+Sat Sep 2 2006,Barnet,1-1,Walsall
+Sat Sep 2 2006,Milton Keynes Dons,3-2,Notts County
+Sat Sep 2 2006,Rochdale,1-1,Hereford United
+Sun Sep 3 2006,Stockport County,2-1,Bristol Rovers
+Sun Sep 3 2006,Peterborough United,0-1,Bury
+Sat Sep 9 2006,Shrewsbury Town,0-1,Lincoln City
+Sat Sep 9 2006,Grimsby Town,2-1,Walsall
+Sat Sep 9 2006,Wycombe Wanderers,1-0,Chester
+Sat Sep 9 2006,Milton Keynes Dons,0-0,Hartlepool United
+Sat Sep 9 2006,Macclesfield,2-3,Barnet
+Sat Sep 9 2006,Bury,0-1,Torquay United
+Sat Sep 9 2006,Mansfield Town,4-1,Hereford United
+Sat Sep 9 2006,Boston United,2-1,Stockport County
+Sat Sep 9 2006,Wrexham,2-1,Swindon Town
+Sat Sep 9 2006,Peterborough United,1-3,Darlington
+Sat Sep 9 2006,Bristol Rovers,0-0,Rochdale
+Sat Sep 9 2006,Notts County,3-2,Accrington
+Tue Sep 12 2006,Walsall,5-0,Peterborough United
+Tue Sep 12 2006,Swindon Town,2-1,Milton Keynes Dons
+Tue Sep 12 2006,Hereford United,1-2,Wycombe Wanderers
+Tue Sep 12 2006,Darlington,1-0,Bury
+Tue Sep 12 2006,Rochdale,1-0,Grimsby Town
+Tue Sep 12 2006,Stockport County,0-3,Shrewsbury Town
+Tue Sep 12 2006,Hartlepool United,2-0,Mansfield Town
+Tue Sep 12 2006,Chester,0-0,Notts County
+Tue Sep 12 2006,Lincoln City,2-1,Macclesfield
+Tue Sep 12 2006,Barnet,3-3,Boston United
+Wed Sep 13 2006,Accrington,5-0,Wrexham
+Wed Sep 13 2006,Torquay United,0-0,Bristol Rovers
+Sat Sep 16 2006,Accrington,2-1,Boston United
+Sat Sep 16 2006,Chester,0-2,Grimsby Town
+Sat Sep 16 2006,Stockport County,5-2,Wrexham
+Sat Sep 16 2006,Darlington,1-1,Bristol Rovers
+Sat Sep 16 2006,Swindon Town,0-1,Peterborough United
+Sat Sep 16 2006,Torquay United,1-0,Mansfield Town
+Sat Sep 16 2006,Lincoln City,2-3,Milton Keynes Dons
+Sat Sep 16 2006,Hereford United,1-0,Bury
+Sat Sep 16 2006,Walsall,2-0,Macclesfield
+Sat Sep 16 2006,Rochdale,0-2,Wycombe Wanderers
+Sat Sep 16 2006,Barnet,2-3,Notts County
+Sat Sep 16 2006,Hartlepool United,0-3,Shrewsbury Town
+Sat Sep 23 2006,Boston United,0-3,Rochdale
+Sat Sep 23 2006,Shrewsbury Town,2-2,Darlington
+Sat Sep 23 2006,Peterborough United,3-5,Hartlepool United
+Sat Sep 23 2006,Milton Keynes Dons,1-2,Chester
+Sat Sep 23 2006,Wycombe Wanderers,1-3,Lincoln City
+Sat Sep 23 2006,Notts County,1-1,Swindon Town
+Sat Sep 23 2006,Mansfield Town,2-2,Accrington
+Sat Sep 23 2006,Grimsby Town,0-1,Stockport County
+Sat Sep 23 2006,Bristol Rovers,1-2,Walsall
+Sat Sep 23 2006,Macclesfield,3-3,Torquay United
+Sat Sep 23 2006,Bury,2-2,Barnet
+Sun Sep 24 2006,Wrexham,1-0,Hereford United
+Tue Sep 26 2006,Shrewsbury Town,1-1,Walsall
+Tue Sep 26 2006,Bury,2-2,Accrington
+Tue Sep 26 2006,Mansfield Town,1-0,Darlington
+Tue Sep 26 2006,Macclesfield,1-1,Chester
+Tue Sep 26 2006,Milton Keynes Dons,3-2,Torquay United
+Tue Sep 26 2006,Wycombe Wanderers,1-1,Swindon Town
+Tue Sep 26 2006,Notts County,1-0,Stockport County
+Tue Sep 26 2006,Grimsby Town,1-4,Hartlepool United
+Tue Sep 26 2006,Peterborough United,1-1,Barnet
+Wed Sep 27 2006,Wrexham,1-2,Rochdale
+Wed Sep 27 2006,Bristol Rovers,2-1,Hereford United
+Wed Sep 27 2006,Boston United,1-0,Lincoln City
+Fri Sep 29 2006,Darlington,2-2,Grimsby Town
+Sat Sep 30 2006,Chester,2-0,Bristol Rovers
+Sat Sep 30 2006,Swindon Town,1-1,Boston United
+Sat Sep 30 2006,Accrington,2-1,Wycombe Wanderers
+Sat Sep 30 2006,Torquay United,0-1,Notts County
+Sat Sep 30 2006,Hartlepool United,3-0,Wrexham
+Sat Sep 30 2006,Hereford United,1-0,Macclesfield
+Sat Sep 30 2006,Rochdale,1-1,Shrewsbury Town
+Sat Sep 30 2006,Walsall,4-0,Mansfield Town
+Sat Sep 30 2006,Stockport County,0-1,Peterborough United
+Sat Sep 30 2006,Barnet,3-3,Milton Keynes Dons
+Sat Sep 30 2006,Lincoln City,0-2,Bury
+Fri Oct 6 2006,Shrewsbury Town,2-1,Macclesfield
+Fri Oct 6 2006,Lincoln City,2-0,Hartlepool United
+Fri Oct 6 2006,Darlington,0-5,Rochdale
+Fri Oct 6 2006,Milton Keynes Dons,0-2,Peterborough United
+Fri Oct 6 2006,Chester,0-0,Walsall
+Fri Oct 6 2006,Wycombe Wanderers,2-0,Torquay United
+Sat Oct 7 2006,Accrington,1-1,Swindon Town
+Sat Oct 7 2006,Bristol Rovers,1-0,Boston United
+Sat Oct 7 2006,Mansfield Town,2-2,Notts County
+Sat Oct 7 2006,Stockport County,2-0,Barnet
+Sun Oct 8 2006,Grimsby Town,2-1,Hereford United
+Sat Oct 14 2006,Swindon Town,3-0,Grimsby Town
+Sat Oct 14 2006,Macclesfield,2-3,Bury
+Sat Oct 14 2006,Barnet,0-5,Lincoln City
+Sat Oct 14 2006,Wrexham,1-2,Milton Keynes Dons
+Sat Oct 14 2006,Boston United,1-1,Mansfield Town
+Sat Oct 14 2006,Torquay United,0-2,Accrington
+Sat Oct 14 2006,Rochdale,0-0,Chester
+Sat Oct 14 2006,Walsall,2-0,Wycombe Wanderers
+Sat Oct 14 2006,Peterborough United,2-1,Shrewsbury Town
+Sat Oct 14 2006,Hartlepool United,1-1,Stockport County
+Sat Oct 14 2006,Notts County,1-2,Bristol Rovers
+Sat Oct 14 2006,Hereford United,1-1,Darlington
+Fri Oct 20 2006,Chester,2-1,Hartlepool United
+Sat Oct 21 2006,Accrington,1-2,Walsall
+Sat Oct 21 2006,Shrewsbury Town,1-2,Swindon Town
+Sat Oct 21 2006,Darlington,2-0,Barnet
+Sat Oct 21 2006,Wycombe Wanderers,2-0,Peterborough United
+Sat Oct 21 2006,Bristol Rovers,0-0,Macclesfield
+Sat Oct 21 2006,Bury,2-1,Boston United
+Sat Oct 21 2006,Lincoln City,7-1,Rochdale
+Sat Oct 21 2006,Grimsby Town,0-2,Notts County
+Sat Oct 21 2006,Milton Keynes Dons,1-3,Hereford United
+Sat Oct 21 2006,Mansfield Town,3-0,Wrexham
+Sat Oct 21 2006,Stockport County,1-0,Torquay United
+Sat Oct 28 2006,Macclesfield,2-3,Mansfield Town
+Sat Oct 28 2006,Peterborough United,2-2,Grimsby Town
+Sat Oct 28 2006,Hereford United,1-0,Accrington
+Sat Oct 28 2006,Notts County,0-1,Bury
+Sat Oct 28 2006,Wrexham,2-0,Bristol Rovers
+Sat Oct 28 2006,Swindon Town,0-1,Lincoln City
+Sat Oct 28 2006,Walsall,0-0,Milton Keynes Dons
+Sat Oct 28 2006,Barnet,1-0,Chester
+Sat Oct 28 2006,Hartlepool United,0-0,Darlington
+Sat Oct 28 2006,Torquay United,0-0,Shrewsbury Town
+Sat Oct 28 2006,Boston United,0-1,Wycombe Wanderers
+Sat Oct 28 2006,Rochdale,1-3,Stockport County
+Fri Nov 3 2006,Darlington,1-0,Chester
+Sat Nov 4 2006,Rochdale,1-3,Bury
+Sat Nov 4 2006,Wrexham,0-0,Macclesfield
+Sat Nov 4 2006,Bristol Rovers,1-0,Mansfield Town
+Sat Nov 4 2006,Shrewsbury Town,0-0,Wycombe Wanderers
+Sat Nov 4 2006,Hartlepool United,0-1,Barnet
+Sat Nov 4 2006,Stockport County,2-0,Lincoln City
+Sat Nov 4 2006,Boston United,3-3,Notts County
+Sat Nov 4 2006,Swindon Town,1-2,Hereford United
+Sat Nov 4 2006,Grimsby Town,1-3,Milton Keynes Dons
+Sat Nov 4 2006,Walsall,1-0,Torquay United
+Sat Nov 4 2006,Peterborough United,4-2,Accrington
+Tue Nov 7 2006,Bury,1-0,Wrexham
+Fri Nov 17 2006,Chester,1-1,Stockport County
+Sat Nov 18 2006,Notts County,2-1,Wrexham
+Sat Nov 18 2006,Lincoln City,1-3,Darlington
+Sat Nov 18 2006,Barnet,3-2,Rochdale
+Sat Nov 18 2006,Torquay United,0-1,Swindon Town
+Sat Nov 18 2006,Accrington,1-2,Hartlepool United
+Sat Nov 18 2006,Macclesfield,2-3,Boston United
+Sat Nov 18 2006,Hereford United,0-1,Walsall
+Sat Nov 18 2006,Milton Keynes Dons,2-0,Shrewsbury Town
+Sat Nov 18 2006,Bury,0-2,Bristol Rovers
+Sat Nov 18 2006,Mansfield Town,0-2,Peterborough United
+Sat Nov 18 2006,Wycombe Wanderers,1-1,Grimsby Town
+Sat Nov 25 2006,Walsall,2-1,Notts County
+Sat Nov 25 2006,Boston United,1-1,Hereford United
+Sat Nov 25 2006,Darlington,1-0,Milton Keynes Dons
+Sat Nov 25 2006,Rochdale,2-0,Mansfield Town
+Sat Nov 25 2006,Hartlepool United,2-0,Wycombe Wanderers
+Sat Nov 25 2006,Peterborough United,5-2,Torquay United
+Sat Nov 25 2006,Grimsby Town,2-0,Accrington
+Sat Nov 25 2006,Swindon Town,2-1,Bury
+Sat Nov 25 2006,Stockport County,1-1,Macclesfield
+Sat Nov 25 2006,Shrewsbury Town,2-1,Chester
+Sat Nov 25 2006,Wrexham,2-1,Lincoln City
+Sun Nov 26 2006,Bristol Rovers,2-0,Barnet
+Sat Dec 2 2006,Accrington,3-3,Shrewsbury Town
+Tue Dec 5 2006,Mansfield Town,2-0,Swindon Town
+Tue Dec 5 2006,Macclesfield,1-0,Rochdale
+Tue Dec 5 2006,Bury,1-2,Walsall
+Tue Dec 5 2006,Milton Keynes Dons,2-0,Stockport County
+Tue Dec 5 2006,Wycombe Wanderers,1-0,Darlington
+Tue Dec 5 2006,Lincoln City,1-0,Bristol Rovers
+Tue Dec 5 2006,Torquay United,1-1,Wrexham
+Tue Dec 5 2006,Chester,3-1,Boston United
+Tue Dec 5 2006,Hereford United,0-0,Peterborough United
+Tue Dec 5 2006,Notts County,0-1,Hartlepool United
+Tue Dec 5 2006,Barnet,0-1,Grimsby Town
+Sat Dec 9 2006,Chester,4-1,Lincoln City
+Sat Dec 9 2006,Accrington,3-4,Milton Keynes Dons
+Sat Dec 9 2006,Boston United,4-0,Wrexham
+Sat Dec 9 2006,Mansfield Town,0-2,Bury
+Sat Dec 9 2006,Hereford United,1-1,Torquay United
+Sat Dec 9 2006,Stockport County,5-2,Darlington
+Sat Dec 9 2006,Bristol Rovers,0-2,Hartlepool United
+Sat Dec 9 2006,Grimsby Town,2-1,Shrewsbury Town
+Sat Dec 9 2006,Rochdale,0-1,Peterborough United
+Sat Dec 9 2006,Walsall,0-2,Swindon Town
+Sat Dec 9 2006,Notts County,1-2,Macclesfield
+Sat Dec 9 2006,Wycombe Wanderers,1-1,Barnet
+Fri Dec 15 2006,Hartlepool United,1-0,Rochdale
+Sat Dec 16 2006,Barnet,2-1,Mansfield Town
+Sat Dec 16 2006,Macclesfield,3-3,Accrington
+Sat Dec 16 2006,Torquay United,0-1,Boston United
+Sat Dec 16 2006,Bury,2-0,Stockport County
+Sat Dec 16 2006,Shrewsbury Town,3-0,Hereford United
+Sat Dec 16 2006,Swindon Town,2-1,Bristol Rovers
+Sat Dec 16 2006,Milton Keynes Dons,3-1,Wycombe Wanderers
+Sat Dec 16 2006,Wrexham,1-1,Walsall
+Sat Dec 16 2006,Darlington,0-1,Notts County
+Sat Dec 16 2006,Peterborough United,0-2,Chester
+Sat Dec 16 2006,Lincoln City,2-0,Grimsby Town
+Fri Dec 22 2006,Shrewsbury Town,0-1,Barnet
+Fri Dec 22 2006,Notts County,0-1,Hereford United
+Fri Dec 22 2006,Grimsby Town,2-0,Torquay United
+Sat Dec 23 2006,Wrexham,1-0,Darlington
+Sat Dec 23 2006,Bury,0-1,Hartlepool United
+Sat Dec 23 2006,Wycombe Wanderers,2-0,Stockport County
+Sat Dec 23 2006,Boston United,1-1,Walsall
+Sat Dec 23 2006,Bristol Rovers,4-0,Accrington
+Sat Dec 23 2006,Macclesfield,2-1,Swindon Town
+Sat Dec 23 2006,Milton Keynes Dons,2-1,Rochdale
+Sat Dec 23 2006,Peterborough United,1-2,Lincoln City
+Tue Dec 26 2006,Torquay United,0-2,Milton Keynes Dons
+Tue Dec 26 2006,Lincoln City,2-1,Boston United
+Tue Dec 26 2006,Accrington,1-1,Bury
+Tue Dec 26 2006,Walsall,1-0,Shrewsbury Town
+Tue Dec 26 2006,Barnet,1-0,Peterborough United
+Tue Dec 26 2006,Hereford United,0-0,Bristol Rovers
+Tue Dec 26 2006,Rochdale,2-2,Wrexham
+Tue Dec 26 2006,Stockport County,2-0,Notts County
+Tue Dec 26 2006,Swindon Town,2-1,Wycombe Wanderers
+Tue Dec 26 2006,Chester,0-3,Macclesfield
+Tue Dec 26 2006,Darlington,0-2,Mansfield Town
+Tue Dec 26 2006,Hartlepool United,2-0,Grimsby Town
+Sat Dec 30 2006,Lincoln City,1-0,Wycombe Wanderers
+Sat Dec 30 2006,Walsall,2-2,Bristol Rovers
+Sat Dec 30 2006,Torquay United,0-1,Macclesfield
+Sat Dec 30 2006,Rochdale,4-0,Boston United
+Sat Dec 30 2006,Swindon Town,1-1,Notts County
+Sat Dec 30 2006,Hartlepool United,1-0,Peterborough United
+Sat Dec 30 2006,Darlington,1-2,Shrewsbury Town
+Sat Dec 30 2006,Stockport County,3-0,Grimsby Town
+Sat Dec 30 2006,Barnet,2-1,Bury
+Sat Dec 30 2006,Chester,0-3,Milton Keynes Dons
+Sat Dec 30 2006,Hereford United,2-0,Wrexham
+Mon Jan 1 2007,Wycombe Wanderers,0-0,Hereford United
+Mon Jan 1 2007,Peterborough United,0-2,Walsall
+Mon Jan 1 2007,Boston United,2-1,Barnet
+Mon Jan 1 2007,Wrexham,1-3,Accrington
+Mon Jan 1 2007,Milton Keynes Dons,0-1,Swindon Town
+Mon Jan 1 2007,Bristol Rovers,1-0,Torquay United
+Mon Jan 1 2007,Notts County,1-2,Chester
+Mon Jan 1 2007,Macclesfield,2-1,Lincoln City
+Mon Jan 1 2007,Grimsby Town,0-4,Rochdale
+Mon Jan 1 2007,Mansfield Town,0-1,Hartlepool United
+Mon Jan 1 2007,Shrewsbury Town,4-2,Stockport County
+Sat Jan 6 2007,Wycombe Wanderers,1-1,Rochdale
+Sat Jan 6 2007,Boston United,1-0,Accrington
+Sat Jan 6 2007,Shrewsbury Town,1-1,Hartlepool United
+Mon Jan 8 2007,Milton Keynes Dons,2-2,Lincoln City
+Tue Jan 9 2007,Grimsby Town,0-2,Chester
+Sat Jan 13 2007,Hartlepool United,1-0,Milton Keynes Dons
+Sat Jan 13 2007,Darlington,3-1,Peterborough United
+Sat Jan 13 2007,Barnet,1-0,Macclesfield
+Sat Jan 13 2007,Rochdale,0-1,Bristol Rovers
+Sat Jan 13 2007,Torquay United,2-2,Bury
+Sat Jan 13 2007,Swindon Town,2-1,Wrexham
+Sat Jan 13 2007,Lincoln City,1-1,Shrewsbury Town
+Sat Jan 13 2007,Hereford United,1-3,Mansfield Town
+Sat Jan 13 2007,Chester,0-1,Wycombe Wanderers
+Sat Jan 13 2007,Stockport County,2-0,Boston United
+Sat Jan 13 2007,Accrington,1-2,Notts County
+Mon Jan 15 2007,Walsall,2-0,Grimsby Town
+Tue Jan 16 2007,Bury,1-1,Darlington
+Tue Jan 16 2007,Accrington,3-2,Mansfield Town
+Sat Jan 20 2007,Wycombe Wanderers,1-1,Accrington
+Sat Jan 20 2007,Milton Keynes Dons,3-1,Barnet
+Sat Jan 20 2007,Mansfield Town,2-1,Walsall
+Sat Jan 20 2007,Wrexham,1-1,Hartlepool United
+Sat Jan 20 2007,Peterborough United,0-3,Stockport County
+Sat Jan 20 2007,Boston United,1-3,Swindon Town
+Sat Jan 20 2007,Bristol Rovers,0-0,Chester
+Sat Jan 20 2007,Notts County,5-2,Torquay United
+Sat Jan 20 2007,Grimsby Town,0-1,Darlington
+Sat Jan 20 2007,Bury,2-2,Lincoln City
+Sat Jan 20 2007,Macclesfield,3-0,Hereford United
+Fri Jan 26 2007,Torquay United,4-1,Grimsby Town
+Sat Jan 27 2007,Swindon Town,2-0,Macclesfield
+Sat Jan 27 2007,Lincoln City,1-0,Peterborough United
+Sat Jan 27 2007,Walsall,1-1,Boston United
+Sat Jan 27 2007,Darlington,1-1,Wrexham
+Sat Jan 27 2007,Rochdale,5-0,Milton Keynes Dons
+Sat Jan 27 2007,Hartlepool United,2-0,Bury
+Sat Jan 27 2007,Hereford United,3-2,Notts County
+Sat Jan 27 2007,Stockport County,2-0,Wycombe Wanderers
+Sat Jan 27 2007,Chester,1-1,Mansfield Town
+Tue Jan 30 2007,Bury,2-2,Hereford United
+Tue Jan 30 2007,Mansfield Town,5-0,Torquay United
+Tue Jan 30 2007,Notts County,1-1,Barnet
+Tue Jan 30 2007,Peterborough United,1-1,Swindon Town
+Tue Jan 30 2007,Macclesfield,0-2,Walsall
+Tue Jan 30 2007,Wrexham,0-1,Stockport County
+Sat Feb 3 2007,Accrington,0-1,Chester
+Sat Feb 3 2007,Macclesfield,1-1,Darlington
+Sat Feb 3 2007,Boston United,0-6,Grimsby Town
+Sat Feb 3 2007,Notts County,3-1,Lincoln City
+Sat Feb 3 2007,Swindon Town,0-1,Hartlepool United
+Sat Feb 3 2007,Torquay United,1-1,Barnet
+Sat Feb 3 2007,Bury,0-2,Milton Keynes Dons
+Sat Feb 3 2007,Hereford United,0-2,Stockport County
+Sat Feb 3 2007,Wrexham,0-2,Wycombe Wanderers
+Sat Feb 3 2007,Mansfield Town,1-1,Shrewsbury Town
+Sat Feb 3 2007,Bristol Rovers,3-2,Peterborough United
+Sat Feb 3 2007,Walsall,1-1,Rochdale
+Tue Feb 6 2007,Bristol Rovers,1-2,Darlington
+Sat Feb 10 2007,Wycombe Wanderers,0-0,Notts County
+Sat Feb 10 2007,Hartlepool United,3-1,Walsall
+Sat Feb 10 2007,Barnet,1-2,Accrington
+Sat Feb 10 2007,Darlington,2-0,Boston United
+Sat Feb 10 2007,Stockport County,1-0,Mansfield Town
+Sat Feb 10 2007,Grimsby Town,4-3,Bristol Rovers
+Sat Feb 10 2007,Peterborough United,3-0,Wrexham
+Sat Feb 10 2007,Lincoln City,1-0,Torquay United
+Fri Feb 16 2007,Walsall,1-2,Lincoln City
+Sat Feb 17 2007,Accrington,0-1,Stockport County
+Sat Feb 17 2007,Torquay United,0-1,Hartlepool United
+Sat Feb 17 2007,Bristol Rovers,1-1,Milton Keynes Dons
+Sat Feb 17 2007,Boston United,0-3,Shrewsbury Town
+Sat Feb 17 2007,Hereford United,2-0,Barnet
+Sat Feb 17 2007,Macclesfield,2-1,Peterborough United
+Sat Feb 17 2007,Notts County,1-2,Rochdale
+Sat Feb 17 2007,Swindon Town,1-1,Darlington
+Sat Feb 17 2007,Mansfield Town,1-2,Grimsby Town
+Sat Feb 17 2007,Bury,0-4,Wycombe Wanderers
+Sun Feb 18 2007,Wrexham,0-0,Chester
+Tue Feb 20 2007,Milton Keynes Dons,1-1,Mansfield Town
+Tue Feb 20 2007,Hartlepool United,3-2,Macclesfield
+Tue Feb 20 2007,Stockport County,1-0,Walsall
+Tue Feb 20 2007,Shrewsbury Town,2-0,Notts County
+Tue Feb 20 2007,Peterborough United,1-1,Boston United
+Tue Feb 20 2007,Rochdale,2-0,Torquay United
+Tue Feb 20 2007,Grimsby Town,2-1,Wrexham
+Tue Feb 20 2007,Barnet,1-0,Swindon Town
+Tue Feb 20 2007,Lincoln City,1-4,Hereford United
+Tue Feb 20 2007,Darlington,2-1,Accrington
+Wed Feb 21 2007,Chester,1-0,Bury
+Sat Feb 24 2007,Walsall,4-1,Barnet
+Sat Feb 24 2007,Accrington,2-2,Lincoln City
+Sat Feb 24 2007,Notts County,2-2,Milton Keynes Dons
+Sat Feb 24 2007,Boston United,0-1,Hartlepool United
+Sat Feb 24 2007,Bury,0-3,Peterborough United
+Sat Feb 24 2007,Hereford United,0-0,Rochdale
+Sat Feb 24 2007,Macclesfield,2-1,Grimsby Town
+Sat Feb 24 2007,Mansfield Town,3-2,Wycombe Wanderers
+Sat Feb 24 2007,Swindon Town,1-0,Chester
+Sat Feb 24 2007,Torquay United,0-1,Darlington
+Sun Feb 25 2007,Wrexham,1-3,Shrewsbury Town
+Tue Feb 27 2007,Chester,1-1,Hereford United
+Fri Mar 2 2007,Shrewsbury Town,0-0,Bristol Rovers
+Fri Mar 2 2007,Chester,1-1,Torquay United
+Sat Mar 3 2007,Milton Keynes Dons,3-2,Boston United
+Sat Mar 3 2007,Rochdale,4-2,Accrington
+Sat Mar 3 2007,Hartlepool United,3-2,Hereford United
+Sat Mar 3 2007,Stockport County,3-0,Swindon Town
+Sat Mar 3 2007,Peterborough United,2-0,Notts County
+Sat Mar 3 2007,Lincoln City,1-2,Mansfield Town
+Sat Mar 3 2007,Darlington,0-0,Walsall
+Sat Mar 3 2007,Barnet,1-2,Wrexham
+Sat Mar 3 2007,Wycombe Wanderers,3-0,Macclesfield
+Sat Mar 3 2007,Grimsby Town,2-0,Bury
+Tue Mar 6 2007,Mansfield Town,2-1,Chester
+Tue Mar 6 2007,Accrington,1-1,Bristol Rovers
+Fri Mar 9 2007,Wrexham,1-1,Bury
+Fri Mar 9 2007,Hartlepool United,1-1,Lincoln City
+Sat Mar 10 2007,Swindon Town,2-0,Accrington
+Sat Mar 10 2007,Notts County,0-0,Mansfield Town
+Sat Mar 10 2007,Boston United,2-1,Bristol Rovers
+Sat Mar 10 2007,Torquay United,3-0,Wycombe Wanderers
+Sat Mar 10 2007,Barnet,3-1,Stockport County
+Sat Mar 10 2007,Macclesfield,2-2,Shrewsbury Town
+Sat Mar 10 2007,Peterborough United,4-0,Milton Keynes Dons
+Sat Mar 10 2007,Hereford United,0-1,Grimsby Town
+Sat Mar 10 2007,Walsall,1-0,Chester
+Sat Mar 10 2007,Rochdale,0-0,Darlington
+Tue Mar 13 2007,Milton Keynes Dons,3-0,Macclesfield
+Fri Mar 16 2007,Chester,0-1,Rochdale
+Fri Mar 16 2007,Shrewsbury Town,2-1,Peterborough United
+Sat Mar 17 2007,Mansfield Town,1-2,Boston United
+Sat Mar 17 2007,Wycombe Wanderers,0-0,Walsall
+Sat Mar 17 2007,Bury,1-1,Macclesfield
+Sat Mar 17 2007,Stockport County,3-3,Hartlepool United
+Sat Mar 17 2007,Grimsby Town,1-0,Swindon Town
+Sat Mar 17 2007,Lincoln City,1-0,Barnet
+Sat Mar 17 2007,Darlington,1-0,Hereford United
+Sat Mar 17 2007,Milton Keynes Dons,2-1,Wrexham
+Sat Mar 17 2007,Bristol Rovers,2-0,Notts County
+Sat Mar 17 2007,Accrington,1-0,Torquay United
+Tue Mar 20 2007,Barnet,0-0,Shrewsbury Town
+Tue Mar 20 2007,Bristol Rovers,2-1,Stockport County
+Fri Mar 23 2007,Mansfield Town,1-2,Macclesfield
+Fri Mar 23 2007,Wycombe Wanderers,0-0,Boston United
+Sat Mar 24 2007,Accrington,2-0,Hereford United
+Sat Mar 24 2007,Shrewsbury Town,1-0,Torquay United
+Sat Mar 24 2007,Bristol Rovers,0-1,Wrexham
+Sat Mar 24 2007,Chester,2-0,Barnet
+Sat Mar 24 2007,Bury,0-1,Notts County
+Sat Mar 24 2007,Stockport County,2-7,Rochdale
+Sat Mar 24 2007,Grimsby Town,0-2,Peterborough United
+Sun Mar 25 2007,Milton Keynes Dons,1-1,Walsall
+Sun Mar 25 2007,Lincoln City,2-3,Swindon Town
+Sun Mar 25 2007,Darlington,0-3,Hartlepool United
+Tue Mar 27 2007,Wycombe Wanderers,0-1,Bristol Rovers
+Tue Mar 27 2007,Shrewsbury Town,3-0,Rochdale
+Fri Mar 30 2007,Hartlepool United,3-0,Chester
+Sat Mar 31 2007,Rochdale,2-0,Lincoln City
+Sat Mar 31 2007,Hereford United,0-0,Milton Keynes Dons
+Sat Mar 31 2007,Peterborough United,3-3,Wycombe Wanderers
+Sat Mar 31 2007,Barnet,2-1,Darlington
+Sat Mar 31 2007,Boston United,0-1,Bury
+Sat Mar 31 2007,Wrexham,0-0,Mansfield Town
+Sat Mar 31 2007,Torquay United,1-0,Stockport County
+Sat Mar 31 2007,Swindon Town,2-1,Shrewsbury Town
+Sat Mar 31 2007,Walsall,3-2,Accrington
+Sat Mar 31 2007,Notts County,2-0,Grimsby Town
+Tue Apr 3 2007,Shrewsbury Town,1-3,Bury
+Tue Apr 3 2007,Rochdale,0-0,Swindon Town
+Fri Apr 6 2007,Chester,1-1,Darlington
+Sat Apr 7 2007,Accrington,3-2,Peterborough United
+Sat Apr 7 2007,Torquay United,1-2,Walsall
+Sat Apr 7 2007,Bury,0-1,Rochdale
+Sat Apr 7 2007,Notts County,2-0,Boston United
+Sat Apr 7 2007,Milton Keynes Dons,1-2,Grimsby Town
+Sat Apr 7 2007,Mansfield Town,0-1,Bristol Rovers
+Sat Apr 7 2007,Macclesfield,2-0,Wrexham
+Sat Apr 7 2007,Wycombe Wanderers,1-1,Shrewsbury Town
+Sat Apr 7 2007,Lincoln City,0-0,Stockport County
+Sat Apr 7 2007,Hereford United,0-0,Swindon Town
+Sat Apr 7 2007,Barnet,2-1,Hartlepool United
+Mon Apr 9 2007,Rochdale,0-2,Barnet
+Mon Apr 9 2007,Stockport County,2-0,Chester
+Mon Apr 9 2007,Walsall,1-0,Hereford United
+Mon Apr 9 2007,Hartlepool United,1-0,Accrington
+Mon Apr 9 2007,Swindon Town,2-1,Torquay United
+Mon Apr 9 2007,Boston United,4-1,Macclesfield
+Mon Apr 9 2007,Bristol Rovers,2-0,Bury
+Mon Apr 9 2007,Grimsby Town,2-2,Wycombe Wanderers
+Mon Apr 9 2007,Darlington,1-1,Lincoln City
+Mon Apr 9 2007,Shrewsbury Town,2-1,Milton Keynes Dons
+Mon Apr 9 2007,Wrexham,0-1,Notts County
+Mon Apr 9 2007,Peterborough United,2-0,Mansfield Town
+Sat Apr 14 2007,Barnet,1-1,Bristol Rovers
+Sat Apr 14 2007,Notts County,1-2,Walsall
+Sat Apr 14 2007,Mansfield Town,1-2,Rochdale
+Sat Apr 14 2007,Lincoln City,0-3,Wrexham
+Sat Apr 14 2007,Bury,0-1,Swindon Town
+Sat Apr 14 2007,Accrington,4-1,Grimsby Town
+Sat Apr 14 2007,Torquay United,1-1,Peterborough United
+Sat Apr 14 2007,Wycombe Wanderers,0-1,Hartlepool United
+Sat Apr 14 2007,Hereford United,3-0,Boston United
+Sat Apr 14 2007,Milton Keynes Dons,1-0,Darlington
+Sat Apr 14 2007,Macclesfield,2-0,Stockport County
+Sun Apr 15 2007,Chester,0-0,Shrewsbury Town
+Fri Apr 20 2007,Hartlepool United,1-1,Notts County
+Sat Apr 21 2007,Stockport County,1-2,Milton Keynes Dons
+Sat Apr 21 2007,Darlington,3-2,Wycombe Wanderers
+Sat Apr 21 2007,Boston United,1-0,Chester
+Sat Apr 21 2007,Rochdale,5-0,Macclesfield
+Sat Apr 21 2007,Shrewsbury Town,2-1,Accrington
+Sat Apr 21 2007,Swindon Town,2-0,Mansfield Town
+Sat Apr 21 2007,Walsall,0-1,Bury
+Sat Apr 21 2007,Bristol Rovers,0-0,Lincoln City
+Sat Apr 21 2007,Grimsby Town,5-0,Barnet
+Sat Apr 21 2007,Peterborough United,3-0,Hereford United
+Sat Apr 21 2007,Wrexham,1-0,Torquay United
+Tue Apr 24 2007,Shrewsbury Town,0-1,Wrexham
+Tue Apr 24 2007,Macclesfield,0-1,Bristol Rovers
+Sat Apr 28 2007,Wycombe Wanderers,0-2,Milton Keynes Dons
+Sat Apr 28 2007,Hereford United,0-1,Shrewsbury Town
+Sat Apr 28 2007,Mansfield Town,2-1,Barnet
+Sat Apr 28 2007,Chester,1-1,Peterborough United
+Sat Apr 28 2007,Grimsby Town,0-0,Lincoln City
+Sat Apr 28 2007,Notts County,0-1,Darlington
+Sat Apr 28 2007,Walsall,1-0,Wrexham
+Sat Apr 28 2007,Bristol Rovers,1-0,Swindon Town
+Sat Apr 28 2007,Accrington,3-2,Macclesfield
+Sat Apr 28 2007,Stockport County,0-0,Bury
+Sat Apr 28 2007,Boston United,1-1,Torquay United
+Sat Apr 28 2007,Rochdale,2-0,Hartlepool United
+Sat May 5 2007,Lincoln City,2-0,Chester
+Sat May 5 2007,Hartlepool United,1-2,Bristol Rovers
+Sat May 5 2007,Bury,1-1,Mansfield Town
+Sat May 5 2007,Torquay United,0-0,Hereford United
+Sat May 5 2007,Shrewsbury Town,2-2,Grimsby Town
+Sat May 5 2007,Barnet,2-1,Wycombe Wanderers
+Sat May 5 2007,Swindon Town,1-1,Walsall
+Sat May 5 2007,Peterborough United,3-3,Rochdale
+Sat May 5 2007,Macclesfield,1-1,Notts County
+Sat May 5 2007,Wrexham,3-1,Boston United
+Sat May 5 2007,Milton Keynes Dons,3-1,Accrington
+Sat May 5 2007,Darlington,0-5,Stockport County

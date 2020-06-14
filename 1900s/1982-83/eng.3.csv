@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 28 1982,Brentford,5-1,Bristol Rovers
+Sat Aug 28 1982,AFC Bournemouth,3-0,Walsall
+Sat Aug 28 1982,Doncaster Rovers,0-0,Newport County
+Sat Aug 28 1982,Chesterfield,1-2,Leyton Orient
+Sat Aug 28 1982,Lincoln City,2-1,Wigan Athletic
+Sat Aug 28 1982,Portsmouth,4-1,Sheffield United
+Sat Aug 28 1982,Plymouth Argyle,1-0,Southend United
+Sat Aug 28 1982,Huddersfield Town,1-1,Exeter City
+Sat Aug 28 1982,Gillingham,0-1,Oxford United
+Sat Aug 28 1982,Preston North End,3-2,Millwall
+Sat Aug 28 1982,Bradford City,3-2,Reading
+Sat Aug 28 1982,Cardiff City,1-2,Wrexham
+Sat Sep 4 1982,Wrexham,1-1,Huddersfield Town
+Sat Sep 4 1982,Exeter City,2-2,Gillingham
+Sat Sep 4 1982,Walsall,0-3,Portsmouth
+Sat Sep 4 1982,Oxford United,2-0,AFC Bournemouth
+Sat Sep 4 1982,Leyton Orient,0-1,Bradford City
+Sat Sep 4 1982,Southend United,2-0,Lincoln City
+Sat Sep 4 1982,Reading,3-2,Plymouth Argyle
+Sat Sep 4 1982,Bristol Rovers,2-0,Doncaster Rovers
+Sat Sep 4 1982,Newport County,1-0,Chesterfield
+Sat Sep 4 1982,Wigan Athletic,3-2,Brentford
+Sat Sep 4 1982,Sheffield United,2-1,Preston North End
+Sun Sep 5 1982,Millwall,0-4,Cardiff City
+Mon Sep 6 1982,Southend United,2-0,Chesterfield
+Tue Sep 7 1982,Wrexham,0-1,Lincoln City
+Tue Sep 7 1982,Sheffield United,2-0,Huddersfield Town
+Tue Sep 7 1982,Wigan Athletic,3-2,Bradford City
+Tue Sep 7 1982,Newport County,2-2,Plymouth Argyle
+Tue Sep 7 1982,Walsall,2-1,Preston North End
+Tue Sep 7 1982,Bristol Rovers,2-1,Gillingham
+Wed Sep 8 1982,Leyton Orient,4-0,Cardiff City
+Wed Sep 8 1982,Exeter City,1-1,Portsmouth
+Wed Sep 8 1982,Millwall,2-0,AFC Bournemouth
+Wed Sep 8 1982,Reading,1-1,Brentford
+Wed Sep 8 1982,Oxford United,3-0,Doncaster Rovers
+Fri Sep 10 1982,Doncaster Rovers,6-1,Exeter City
+Sat Sep 11 1982,Preston North End,1-2,Oxford United
+Sat Sep 11 1982,AFC Bournemouth,0-0,Sheffield United
+Sat Sep 11 1982,Huddersfield Town,2-2,Walsall
+Sat Sep 11 1982,Gillingham,1-0,Millwall
+Sat Sep 11 1982,Bradford City,4-2,Newport County
+Sat Sep 11 1982,Plymouth Argyle,2-0,Leyton Orient
+Sat Sep 11 1982,Portsmouth,3-0,Wrexham
+Sat Sep 11 1982,Chesterfield,0-0,Bristol Rovers
+Sat Sep 11 1982,Brentford,4-2,Southend United
+Sat Sep 11 1982,Cardiff City,3-2,Wigan Athletic
+Sat Sep 11 1982,Lincoln City,4-0,Reading
+Sat Sep 18 1982,Walsall,1-2,Cardiff City
+Sat Sep 18 1982,Newport County,2-1,Huddersfield Town
+Sat Sep 18 1982,Bristol Rovers,1-2,Lincoln City
+Sat Sep 18 1982,Wigan Athletic,1-2,AFC Bournemouth
+Sat Sep 18 1982,Oxford United,1-1,Portsmouth
+Sat Sep 18 1982,Millwall,1-1,Bradford City
+Sat Sep 18 1982,Sheffield United,3-1,Plymouth Argyle
+Sat Sep 18 1982,Leyton Orient,3-3,Brentford
+Sat Sep 18 1982,Reading,0-0,Chesterfield
+Sat Sep 18 1982,Southend United,3-2,Doncaster Rovers
+Sat Sep 18 1982,Exeter City,5-1,Preston North End
+Sat Sep 18 1982,Wrexham,1-0,Gillingham
+Sat Sep 25 1982,Brentford,1-1,Millwall
+Sat Sep 25 1982,AFC Bournemouth,2-0,Exeter City
+Sat Sep 25 1982,Huddersfield Town,2-0,Oxford United
+Sat Sep 25 1982,Cardiff City,2-0,Sheffield United
+Sat Sep 25 1982,Lincoln City,2-0,Leyton Orient
+Sat Sep 25 1982,Preston North End,2-2,Bristol Rovers
+Sat Sep 25 1982,Bradford City,1-0,Southend United
+Sat Sep 25 1982,Doncaster Rovers,7-5,Reading
+Sat Sep 25 1982,Portsmouth,1-2,Newport County
+Sat Sep 25 1982,Chesterfield,2-0,Wigan Athletic
+Sat Sep 25 1982,Plymouth Argyle,2-0,Wrexham
+Sat Sep 25 1982,Gillingham,3-0,Walsall
+Tue Sep 28 1982,Brentford,2-0,Newport County
+Tue Sep 28 1982,Doncaster Rovers,3-6,Wigan Athletic
+Tue Sep 28 1982,Cardiff City,2-0,Exeter City
+Tue Sep 28 1982,Gillingham,1-0,Reading
+Tue Sep 28 1982,Chesterfield,1-2,Oxford United
+Tue Sep 28 1982,Preston North End,3-0,Wrexham
+Tue Sep 28 1982,AFC Bournemouth,0-2,Southend United
+Tue Sep 28 1982,Portsmouth,2-0,Millwall
+Tue Sep 28 1982,Plymouth Argyle,0-4,Bristol Rovers
+Tue Sep 28 1982,Huddersfield Town,6-0,Leyton Orient
+Wed Sep 29 1982,Lincoln City,3-0,Sheffield United
+Wed Sep 29 1982,Bradford City,1-1,Walsall
+Fri Oct 1 1982,Southend United,4-0,Portsmouth
+Sat Oct 2 1982,Oxford United,2-2,Cardiff City
+Sat Oct 2 1982,Wrexham,1-0,AFC Bournemouth
+Sat Oct 2 1982,Wigan Athletic,3-0,Plymouth Argyle
+Sat Oct 2 1982,Reading,2-3,Preston North End
+Sat Oct 2 1982,Exeter City,2-3,Chesterfield
+Sat Oct 2 1982,Leyton Orient,1-0,Doncaster Rovers
+Sat Oct 2 1982,Sheffield United,0-2,Gillingham
+Sat Oct 2 1982,Millwall,3-0,Huddersfield Town
+Sat Oct 2 1982,Newport County,1-0,Lincoln City
+Sat Oct 2 1982,Bristol Rovers,4-1,Bradford City
+Sat Oct 2 1982,Walsall,2-1,Brentford
+Sat Oct 9 1982,Reading,3-0,Leyton Orient
+Sat Oct 9 1982,Brentford,4-2,Chesterfield
+Sat Oct 9 1982,Millwall,2-1,Oxford United
+Sat Oct 9 1982,Huddersfield Town,1-1,Portsmouth
+Sat Oct 9 1982,Walsall,0-0,Sheffield United
+Sat Oct 9 1982,Wrexham,1-2,Exeter City
+Sat Oct 9 1982,AFC Bournemouth,3-1,Cardiff City
+Sat Oct 9 1982,Lincoln City,5-1,Doncaster Rovers
+Sat Oct 9 1982,Bradford City,4-0,Plymouth Argyle
+Sat Oct 9 1982,Newport County,2-0,Bristol Rovers
+Sat Oct 9 1982,Gillingham,2-1,Preston North End
+Sat Oct 9 1982,Wigan Athletic,4-0,Southend United
+Fri Oct 15 1982,Southend United,4-2,Reading
+Sat Oct 16 1982,Exeter City,2-1,Millwall
+Sat Oct 16 1982,Oxford United,4-2,Walsall
+Sat Oct 16 1982,Preston North End,0-0,Huddersfield Town
+Sat Oct 16 1982,Bristol Rovers,4-0,Wigan Athletic
+Sat Oct 16 1982,Cardiff City,1-0,Gillingham
+Sat Oct 16 1982,Portsmouth,0-2,AFC Bournemouth
+Sat Oct 16 1982,Doncaster Rovers,4-4,Brentford
+Sat Oct 16 1982,Chesterfield,3-0,Bradford City
+Sat Oct 16 1982,Plymouth Argyle,0-2,Lincoln City
+Sat Oct 16 1982,Sheffield United,2-0,Wrexham
+Sat Oct 16 1982,Leyton Orient,1-5,Newport County
+Tue Oct 19 1982,Huddersfield Town,2-1,Southend United
+Tue Oct 19 1982,Walsall,0-1,Chesterfield
+Tue Oct 19 1982,Gillingham,4-0,Leyton Orient
+Tue Oct 19 1982,Sheffield United,1-1,Reading
+Tue Oct 19 1982,Bristol Rovers,4-0,Millwall
+Tue Oct 19 1982,Preston North End,0-0,Newport County
+Tue Oct 19 1982,Plymouth Argyle,2-0,AFC Bournemouth
+Tue Oct 19 1982,Wigan Athletic,0-1,Portsmouth
+Tue Oct 19 1982,Doncaster Rovers,1-1,Wrexham
+Tue Oct 19 1982,Cardiff City,1-0,Bradford City
+Wed Oct 20 1982,Oxford United,2-2,Brentford
+Wed Oct 20 1982,Lincoln City,4-1,Exeter City
+Sat Oct 23 1982,Portsmouth,3-1,Preston North End
+Sat Oct 23 1982,Reading,2-1,Wigan Athletic
+Sat Oct 23 1982,Brentford,2-0,Lincoln City
+Sat Oct 23 1982,Chesterfield,1-2,Plymouth Argyle
+Sat Oct 23 1982,Bradford City,1-0,Doncaster Rovers
+Sat Oct 23 1982,Newport County,1-1,Southend United
+Sat Oct 23 1982,AFC Bournemouth,0-1,Gillingham
+Sat Oct 23 1982,Wrexham,1-1,Oxford United
+Sat Oct 23 1982,Huddersfield Town,4-0,Cardiff City
+Sat Oct 23 1982,Exeter City,0-3,Sheffield United
+Sat Oct 23 1982,Leyton Orient,1-5,Bristol Rovers
+Sat Oct 23 1982,Millwall,2-2,Walsall
+Fri Oct 29 1982,Southend United,1-1,Leyton Orient
+Sat Oct 30 1982,Gillingham,1-3,Huddersfield Town
+Sat Oct 30 1982,Doncaster Rovers,0-0,Chesterfield
+Sat Oct 30 1982,Wigan Athletic,0-1,Newport County
+Sat Oct 30 1982,Preston North End,0-1,AFC Bournemouth
+Sat Oct 30 1982,Cardiff City,1-0,Portsmouth
+Sat Oct 30 1982,Walsall,1-1,Wrexham
+Sat Oct 30 1982,Bristol Rovers,3-0,Reading
+Sat Oct 30 1982,Oxford United,1-1,Exeter City
+Sat Oct 30 1982,Sheffield United,1-1,Millwall
+Sat Oct 30 1982,Plymouth Argyle,2-0,Brentford
+Sat Oct 30 1982,Lincoln City,1-0,Bradford City
+Tue Nov 2 1982,Leyton Orient,2-1,Walsall
+Tue Nov 2 1982,Chesterfield,1-2,Gillingham
+Tue Nov 2 1982,Huddersfield Town,3-0,Doncaster Rovers
+Tue Nov 2 1982,Millwall,2-2,Plymouth Argyle
+Tue Nov 2 1982,Portsmouth,4-1,Lincoln City
+Tue Nov 2 1982,Brentford,3-1,Preston North End
+Tue Nov 2 1982,Wrexham,3-2,Southend United
+Tue Nov 2 1982,Newport County,3-1,Sheffield United
+Tue Nov 2 1982,AFC Bournemouth,0-0,Bristol Rovers
+Wed Nov 3 1982,Bradford City,3-2,Oxford United
+Wed Nov 3 1982,Exeter City,2-1,Wigan Athletic
+Wed Nov 3 1982,Reading,1-2,Cardiff City
+Fri Nov 5 1982,Southend United,1-0,Bristol Rovers
+Sat Nov 6 1982,Oxford United,0-0,Sheffield United
+Sat Nov 6 1982,AFC Bournemouth,0-1,Huddersfield Town
+Sat Nov 6 1982,Reading,4-2,Newport County
+Sat Nov 6 1982,Brentford,0-2,Bradford City
+Sat Nov 6 1982,Chesterfield,1-3,Lincoln City
+Sat Nov 6 1982,Portsmouth,1-0,Gillingham
+Sat Nov 6 1982,Millwall,1-1,Wrexham
+Sat Nov 6 1982,Exeter City,4-3,Walsall
+Sat Nov 6 1982,Leyton Orient,1-1,Wigan Athletic
+Sat Nov 6 1982,Cardiff City,3-1,Preston North End
+Mon Nov 8 1982,Doncaster Rovers,2-2,Plymouth Argyle
+Sat Nov 13 1982,Lincoln City,2-1,Cardiff City
+Sat Nov 13 1982,Huddersfield Town,2-0,Brentford
+Sat Nov 13 1982,Wrexham,1-0,Leyton Orient
+Sat Nov 13 1982,Walsall,2-1,Reading
+Sat Nov 13 1982,Bristol Rovers,5-1,Portsmouth
+Sat Nov 13 1982,Sheffield United,0-1,Southend United
+Sat Nov 13 1982,Preston North End,1-1,Chesterfield
+Sat Nov 13 1982,Bradford City,3-3,Exeter City
+Sat Nov 13 1982,Newport County,5-1,AFC Bournemouth
+Sat Nov 13 1982,Wigan Athletic,3-1,Millwall
+Sat Nov 13 1982,Gillingham,1-1,Doncaster Rovers
+Sat Nov 13 1982,Plymouth Argyle,2-1,Oxford United
+Sat Nov 27 1982,AFC Bournemouth,2-2,Bradford City
+Sat Nov 27 1982,Preston North End,2-2,Plymouth Argyle
+Sat Nov 27 1982,Gillingham,0-2,Wigan Athletic
+Sat Nov 27 1982,Wrexham,1-0,Newport County
+Sat Nov 27 1982,Huddersfield Town,3-1,Bristol Rovers
+Sat Nov 27 1982,Exeter City,2-0,Leyton Orient
+Sat Nov 27 1982,Portsmouth,2-1,Doncaster Rovers
+Sat Nov 27 1982,Sheffield United,1-2,Brentford
+Sat Nov 27 1982,Walsall,1-3,Southend United
+Sun Nov 28 1982,Millwall,1-1,Reading
+Tue Nov 30 1982,Bristol Rovers,1-1,AFC Bournemouth
+Fri Dec 3 1982,Southend United,2-3,Preston North End
+Sat Dec 4 1982,Brentford,4-1,Wrexham
+Sat Dec 4 1982,Doncaster Rovers,2-2,Cardiff City
+Sat Dec 4 1982,Plymouth Argyle,2-1,Huddersfield Town
+Sat Dec 4 1982,Newport County,2-1,Gillingham
+Sat Dec 4 1982,Bradford City,2-2,Portsmouth
+Sat Dec 4 1982,Bristol Rovers,2-0,Walsall
+Sat Dec 4 1982,Wigan Athletic,3-2,Sheffield United
+Sat Dec 4 1982,Chesterfield,0-0,AFC Bournemouth
+Sat Dec 4 1982,Lincoln City,3-1,Millwall
+Sat Dec 4 1982,Leyton Orient,1-5,Oxford United
+Sat Dec 4 1982,Reading,3-1,Exeter City
+Tue Dec 7 1982,Cardiff City,1-1,Chesterfield
+Sat Dec 11 1982,Exeter City,2-2,Reading
+Fri Dec 17 1982,Leyton Orient,2-1,Preston North End
+Fri Dec 17 1982,Southend United,1-2,Cardiff City
+Sat Dec 18 1982,Newport County,1-1,Walsall
+Sat Dec 18 1982,Reading,1-1,Huddersfield Town
+Sat Dec 18 1982,Chesterfield,0-1,Portsmouth
+Sat Dec 18 1982,Plymouth Argyle,2-0,Gillingham
+Sat Dec 18 1982,Wigan Athletic,0-1,Oxford United
+Sat Dec 18 1982,Lincoln City,9-0,AFC Bournemouth
+Sat Dec 18 1982,Bristol Rovers,4-0,Wrexham
+Sat Dec 18 1982,Doncaster Rovers,2-1,Millwall
+Sat Dec 18 1982,Brentford,4-0,Exeter City
+Sun Dec 26 1982,Millwall,0-1,Leyton Orient
+Mon Dec 27 1982,Portsmouth,2-1,Brentford
+Mon Dec 27 1982,Walsall,1-1,Lincoln City
+Mon Dec 27 1982,Cardiff City,3-2,Newport County
+Mon Dec 27 1982,Oxford United,4-2,Bristol Rovers
+Mon Dec 27 1982,Gillingham,1-0,Southend United
+Mon Dec 27 1982,AFC Bournemouth,1-1,Reading
+Mon Dec 27 1982,Sheffield United,3-1,Doncaster Rovers
+Mon Dec 27 1982,Exeter City,1-0,Plymouth Argyle
+Mon Dec 27 1982,Preston North End,0-0,Bradford City
+Mon Dec 27 1982,Huddersfield Town,3-1,Chesterfield
+Mon Dec 27 1982,Wrexham,1-1,Wigan Athletic
+Tue Dec 28 1982,Brentford,1-1,Gillingham
+Tue Dec 28 1982,Lincoln City,1-2,Huddersfield Town
+Tue Dec 28 1982,Southend United,1-1,Millwall
+Tue Dec 28 1982,Chesterfield,3-1,Sheffield United
+Tue Dec 28 1982,Newport County,1-2,Oxford United
+Tue Dec 28 1982,Doncaster Rovers,2-0,Preston North End
+Tue Dec 28 1982,Bradford City,0-0,Wrexham
+Tue Dec 28 1982,Plymouth Argyle,3-2,Cardiff City
+Tue Dec 28 1982,Reading,1-2,Portsmouth
+Tue Dec 28 1982,Leyton Orient,5-0,AFC Bournemouth
+Wed Dec 29 1982,Wigan Athletic,1-3,Walsall
+Wed Dec 29 1982,Bristol Rovers,4-4,Exeter City
+Sat Jan 1 1983,Portsmouth,2-1,Plymouth Argyle
+Sat Jan 1 1983,Exeter City,0-1,Newport County
+Sat Jan 1 1983,Walsall,1-0,Doncaster Rovers
+Sat Jan 1 1983,Cardiff City,3-1,Bristol Rovers
+Sat Jan 1 1983,Millwall,1-1,Chesterfield
+Sat Jan 1 1983,Oxford United,1-0,Southend United
+Sat Jan 1 1983,Preston North End,4-1,Wigan Athletic
+Sat Jan 1 1983,Gillingham,0-2,Lincoln City
+Sat Jan 1 1983,Wrexham,4-0,Reading
+Sat Jan 1 1983,Huddersfield Town,6-3,Bradford City
+Sat Jan 1 1983,AFC Bournemouth,4-3,Brentford
+Sat Jan 1 1983,Sheffield United,3-0,Leyton Orient
+Mon Jan 3 1983,Bradford City,1-1,Gillingham
+Mon Jan 3 1983,Newport County,2-2,Millwall
+Mon Jan 3 1983,Wigan Athletic,2-0,Huddersfield Town
+Mon Jan 3 1983,Reading,0-3,Oxford United
+Mon Jan 3 1983,Brentford,1-3,Cardiff City
+Mon Jan 3 1983,Lincoln City,3-0,Preston North End
+Mon Jan 3 1983,Southend United,1-1,Exeter City
+Mon Jan 3 1983,Chesterfield,5-1,Wrexham
+Mon Jan 3 1983,Doncaster Rovers,2-1,AFC Bournemouth
+Sat Jan 8 1983,Gillingham,4-4,Exeter City
+Sat Jan 8 1983,Doncaster Rovers,1-2,Bristol Rovers
+Sat Jan 8 1983,Brentford,1-3,Wigan Athletic
+Wed Jan 12 1983,Bradford City,2-3,Leyton Orient
+Fri Jan 14 1983,Southend United,3-1,Plymouth Argyle
+Sat Jan 15 1983,Wigan Athletic,2-1,Lincoln City
+Sat Jan 15 1983,Walsall,3-1,AFC Bournemouth
+Sat Jan 15 1983,Oxford United,1-1,Gillingham
+Sat Jan 15 1983,Leyton Orient,2-0,Chesterfield
+Sat Jan 15 1983,Bristol Rovers,2-0,Brentford
+Sat Jan 15 1983,Wrexham,0-0,Cardiff City
+Sat Jan 15 1983,Reading,2-1,Bradford City
+Sat Jan 15 1983,Millwall,1-0,Preston North End
+Sat Jan 15 1983,Exeter City,3-4,Huddersfield Town
+Sat Jan 15 1983,Newport County,1-2,Doncaster Rovers
+Sat Jan 15 1983,Sheffield United,2-1,Portsmouth
+Tue Jan 18 1983,Leyton Orient,2-1,Portsmouth
+Sat Jan 22 1983,Portsmouth,1-0,Oxford United
+Sat Jan 22 1983,Huddersfield Town,0-0,Sheffield United
+Sat Jan 22 1983,Chesterfield,0-0,Reading
+Sat Jan 22 1983,AFC Bournemouth,3-0,Millwall
+Sat Jan 22 1983,Gillingham,1-1,Wrexham
+Sat Jan 22 1983,Lincoln City,2-1,Bristol Rovers
+Sat Jan 22 1983,Bradford City,0-1,Wigan Athletic
+Sat Jan 22 1983,Cardiff City,3-1,Walsall
+Sat Jan 22 1983,Doncaster Rovers,0-0,Southend United
+Sat Jan 22 1983,Brentford,5-2,Leyton Orient
+Sat Jan 22 1983,Plymouth Argyle,2-4,Newport County
+Sat Jan 22 1983,Preston North End,2-2,Exeter City
+Sat Jan 29 1983,Sheffield United,2-2,AFC Bournemouth
+Sat Jan 29 1983,Newport County,1-1,Bradford City
+Sat Jan 29 1983,Southend United,4-2,Brentford
+Sat Jan 29 1983,Walsall,2-0,Huddersfield Town
+Sat Jan 29 1983,Leyton Orient,0-2,Plymouth Argyle
+Sat Jan 29 1983,Reading,1-1,Lincoln City
+Sat Jan 29 1983,Exeter City,0-2,Cardiff City
+Sat Jan 29 1983,Oxford United,3-2,Preston North End
+Sat Jan 29 1983,Wrexham,0-2,Portsmouth
+Sat Jan 29 1983,Wigan Athletic,0-3,Doncaster Rovers
+Sat Jan 29 1983,Bristol Rovers,3-0,Chesterfield
+Sun Jan 30 1983,Millwall,4-1,Gillingham
+Tue Feb 1 1983,Plymouth Argyle,3-0,Reading
+Tue Feb 1 1983,AFC Bournemouth,2-0,Oxford United
+Tue Feb 1 1983,Cardiff City,3-0,Millwall
+Tue Feb 1 1983,Chesterfield,3-1,Newport County
+Sat Feb 5 1983,Wigan Athletic,2-2,Chesterfield
+Sat Feb 5 1983,Walsall,0-0,Gillingham
+Sat Feb 5 1983,Reading,2-0,Doncaster Rovers
+Sat Feb 5 1983,Southend United,1-1,Bradford City
+Sat Feb 5 1983,Wrexham,3-1,Preston North End
+Sat Feb 5 1983,Sheffield United,2-0,Cardiff City
+Sat Feb 5 1983,Exeter City,4-2,AFC Bournemouth
+Sat Feb 5 1983,Bristol Rovers,2-0,Plymouth Argyle
+Sat Feb 5 1983,Oxford United,1-1,Huddersfield Town
+Sat Feb 5 1983,Leyton Orient,1-1,Lincoln City
+Sun Feb 6 1983,Newport County,0-0,Brentford
+Sun Feb 6 1983,Millwall,0-2,Portsmouth
+Tue Feb 8 1983,Plymouth Argyle,0-0,Walsall
+Sat Feb 12 1983,Bradford City,2-0,Bristol Rovers
+Sat Feb 12 1983,Portsmouth,3-2,Exeter City
+Sat Feb 12 1983,Huddersfield Town,5-1,Millwall
+Sat Feb 12 1983,Brentford,1-2,Reading
+Sat Feb 12 1983,Cardiff City,3-0,Oxford United
+Sat Feb 12 1983,AFC Bournemouth,1-1,Wrexham
+Mon Feb 14 1983,Southend United,0-1,Huddersfield Town
+Tue Feb 15 1983,Wrexham,5-0,Doncaster Rovers
+Tue Feb 15 1983,Gillingham,3-1,Chesterfield
+Tue Feb 15 1983,Newport County,3-0,Preston North End
+Tue Feb 15 1983,Walsall,2-0,Leyton Orient
+Tue Feb 15 1983,Wigan Athletic,1-0,Exeter City
+Wed Feb 16 1983,Lincoln City,0-3,Portsmouth
+Wed Feb 16 1983,Bradford City,4-2,Cardiff City
+Fri Feb 18 1983,Southend United,2-0,Wigan Athletic
+Sat Feb 19 1983,Preston North End,0-0,Gillingham
+Sat Feb 19 1983,Doncaster Rovers,2-2,Lincoln City
+Sat Feb 19 1983,Bristol Rovers,1-3,Newport County
+Sat Feb 19 1983,Plymouth Argyle,3-1,Bradford City
+Sat Feb 19 1983,Sheffield United,3-1,Walsall
+Sat Feb 19 1983,Cardiff City,1-1,AFC Bournemouth
+Sat Feb 19 1983,Chesterfield,2-1,Brentford
+Sat Feb 19 1983,Exeter City,3-3,Wrexham
+Sun Feb 20 1983,Leyton Orient,3-3,Reading
+Tue Feb 22 1983,Portsmouth,3-2,Huddersfield Town
+Wed Feb 23 1983,Reading,2-0,Sheffield United
+Wed Feb 23 1983,Lincoln City,0-1,Southend United
+Sat Feb 26 1983,AFC Bournemouth,0-2,Portsmouth
+Sat Feb 26 1983,Huddersfield Town,1-1,Preston North End
+Sat Feb 26 1983,Newport County,4-1,Leyton Orient
+Sat Feb 26 1983,Millwall,5-2,Exeter City
+Sat Feb 26 1983,Wrexham,4-1,Sheffield United
+Sat Feb 26 1983,Bradford City,1-0,Chesterfield
+Sat Feb 26 1983,Wigan Athletic,0-5,Bristol Rovers
+Sat Feb 26 1983,Lincoln City,1-2,Plymouth Argyle
+Sat Feb 26 1983,Gillingham,2-3,Cardiff City
+Sat Feb 26 1983,Reading,1-1,Southend United
+Sat Feb 26 1983,Brentford,1-0,Doncaster Rovers
+Sat Feb 26 1983,Walsall,1-0,Oxford United
+Mon Feb 28 1983,Southend United,2-2,Wrexham
+Tue Mar 1 1983,Preston North End,3-0,Brentford
+Tue Mar 1 1983,Sheffield United,2-0,Newport County
+Tue Mar 1 1983,Leyton Orient,2-0,Gillingham
+Tue Mar 1 1983,Portsmouth,0-0,Wigan Athletic
+Tue Mar 1 1983,Plymouth Argyle,3-1,Millwall
+Tue Mar 1 1983,Chesterfield,0-0,Walsall
+Tue Mar 1 1983,Cardiff City,0-0,Reading
+Tue Mar 1 1983,Doncaster Rovers,0-4,Huddersfield Town
+Wed Mar 2 1983,Exeter City,3-1,Lincoln City
+Wed Mar 2 1983,Oxford United,5-1,Bradford City
+Fri Mar 4 1983,Southend United,1-4,Newport County
+Sat Mar 5 1983,Walsall,4-0,Millwall
+Sat Mar 5 1983,Plymouth Argyle,2-0,Chesterfield
+Sat Mar 5 1983,Lincoln City,2-1,Brentford
+Sat Mar 5 1983,Preston North End,0-0,Portsmouth
+Sat Mar 5 1983,Doncaster Rovers,1-2,Bradford City
+Sat Mar 5 1983,Wigan Athletic,2-2,Reading
+Sat Mar 5 1983,Gillingham,2-5,AFC Bournemouth
+Sat Mar 5 1983,Bristol Rovers,2-1,Leyton Orient
+Sat Mar 5 1983,Oxford United,2-0,Wrexham
+Sat Mar 5 1983,Sheffield United,3-0,Exeter City
+Fri Mar 11 1983,Brentford,2-0,Plymouth Argyle
+Sat Mar 12 1983,Chesterfield,3-3,Doncaster Rovers
+Sat Mar 12 1983,Reading,1-2,Bristol Rovers
+Sat Mar 12 1983,Newport County,1-0,Wigan Athletic
+Sat Mar 12 1983,Millwall,1-2,Sheffield United
+Sat Mar 12 1983,Portsmouth,0-0,Cardiff City
+Sat Mar 12 1983,Bradford City,1-1,Lincoln City
+Sat Mar 12 1983,Exeter City,3-1,Oxford United
+Sat Mar 12 1983,Wrexham,4-0,Walsall
+Sat Mar 12 1983,AFC Bournemouth,4-0,Preston North End
+Sat Mar 12 1983,Huddersfield Town,3-2,Gillingham
+Sun Mar 13 1983,Leyton Orient,1-1,Southend United
+Tue Mar 15 1983,AFC Bournemouth,1-0,Plymouth Argyle
+Tue Mar 15 1983,Chesterfield,0-2,Southend United
+Tue Mar 15 1983,Gillingham,0-2,Sheffield United
+Tue Mar 15 1983,Cardiff City,1-1,Huddersfield Town
+Wed Mar 16 1983,Oxford United,1-0,Lincoln City
+Sat Mar 19 1983,Preston North End,2-1,Cardiff City
+Sat Mar 19 1983,Lincoln City,2-0,Chesterfield
+Sat Mar 19 1983,Plymouth Argyle,1-2,Doncaster Rovers
+Sat Mar 19 1983,Wrexham,4-3,Millwall
+Sat Mar 19 1983,Bristol Rovers,2-2,Southend United
+Sat Mar 19 1983,Newport County,1-0,Reading
+Sat Mar 19 1983,Wigan Athletic,0-1,Leyton Orient
+Sat Mar 19 1983,Gillingham,1-0,Portsmouth
+Sat Mar 19 1983,Huddersfield Town,0-0,AFC Bournemouth
+Sat Mar 19 1983,Sheffield United,3-2,Oxford United
+Sat Mar 19 1983,Bradford City,0-1,Brentford
+Sat Mar 19 1983,Walsall,3-2,Exeter City
+Tue Mar 22 1983,Brentford,1-1,Oxford United
+Wed Mar 23 1983,Lincoln City,1-4,Newport County
+Fri Mar 25 1983,Leyton Orient,0-0,Wrexham
+Fri Mar 25 1983,Doncaster Rovers,0-2,Gillingham
+Fri Mar 25 1983,Reading,1-1,Walsall
+Sat Mar 26 1983,AFC Bournemouth,0-1,Newport County
+Sat Mar 26 1983,Cardiff City,1-0,Lincoln City
+Sat Mar 26 1983,Brentford,1-0,Huddersfield Town
+Sat Mar 26 1983,Oxford United,1-1,Plymouth Argyle
+Sat Mar 26 1983,Portsmouth,1-0,Bristol Rovers
+Sat Mar 26 1983,Southend United,3-1,Sheffield United
+Sat Mar 26 1983,Exeter City,2-1,Bradford City
+Sat Mar 26 1983,Chesterfield,1-1,Preston North End
+Sun Mar 27 1983,Millwall,2-0,Wigan Athletic
+Tue Mar 29 1983,Bristol Rovers,2-1,Sheffield United
+Tue Mar 29 1983,Preston North End,1-0,Walsall
+Tue Mar 29 1983,Huddersfield Town,4-1,Wrexham
+Fri Apr 1 1983,Brentford,1-1,Portsmouth
+Fri Apr 1 1983,Plymouth Argyle,1-0,Exeter City
+Fri Apr 1 1983,Southend United,1-1,Gillingham
+Sat Apr 2 1983,Sheffield United,3-1,Chesterfield
+Sat Apr 2 1983,Oxford United,0-3,Newport County
+Sat Apr 2 1983,Cardiff City,0-0,Plymouth Argyle
+Sat Apr 2 1983,Preston North End,4-1,Doncaster Rovers
+Sat Apr 2 1983,Walsall,2-0,Wigan Athletic
+Sat Apr 2 1983,Exeter City,0-1,Bristol Rovers
+Sat Apr 2 1983,Millwall,3-1,Southend United
+Sat Apr 2 1983,Wrexham,0-4,Bradford City
+Sat Apr 2 1983,Huddersfield Town,1-1,Lincoln City
+Sat Apr 2 1983,Portsmouth,2-2,Reading
+Sat Apr 2 1983,AFC Bournemouth,2-0,Leyton Orient
+Sat Apr 2 1983,Gillingham,2-2,Brentford
+Mon Apr 4 1983,Reading,2-1,AFC Bournemouth
+Mon Apr 4 1983,Wigan Athletic,3-1,Wrexham
+Mon Apr 4 1983,Leyton Orient,2-3,Millwall
+Mon Apr 4 1983,Bradford City,1-2,Preston North End
+Mon Apr 4 1983,Lincoln City,2-1,Walsall
+Mon Apr 4 1983,Newport County,1-0,Cardiff City
+Mon Apr 4 1983,Chesterfield,0-1,Huddersfield Town
+Tue Apr 5 1983,Bristol Rovers,0-1,Oxford United
+Tue Apr 5 1983,Doncaster Rovers,2-0,Sheffield United
+Fri Apr 8 1983,Preston North End,1-1,Southend United
+Fri Apr 8 1983,Wrexham,3-4,Brentford
+Sat Apr 9 1983,Sheffield United,2-0,Wigan Athletic
+Sat Apr 9 1983,Cardiff City,3-0,Doncaster Rovers
+Sat Apr 9 1983,Huddersfield Town,2-0,Plymouth Argyle
+Sat Apr 9 1983,Portsmouth,0-1,Bradford City
+Sat Apr 9 1983,AFC Bournemouth,2-1,Chesterfield
+Sat Apr 9 1983,Gillingham,2-0,Newport County
+Sat Apr 9 1983,Millwall,2-1,Lincoln City
+Sat Apr 9 1983,Walsall,5-0,Bristol Rovers
+Sat Apr 9 1983,Oxford United,2-2,Leyton Orient
+Tue Apr 12 1983,Doncaster Rovers,0-3,Leyton Orient
+Tue Apr 12 1983,Millwall,1-1,Bristol Rovers
+Tue Apr 12 1983,Preston North End,1-0,Sheffield United
+Sat Apr 16 1983,Newport County,0-3,Portsmouth
+Sat Apr 16 1983,Lincoln City,2-0,Wrexham
+Sat Apr 16 1983,Wigan Athletic,0-0,Cardiff City
+Sat Apr 16 1983,Chesterfield,1-3,Exeter City
+Sat Apr 16 1983,Doncaster Rovers,0-1,Oxford United
+Sat Apr 16 1983,Southend United,0-0,AFC Bournemouth
+Sat Apr 16 1983,Brentford,2-3,Walsall
+Sat Apr 16 1983,Bristol Rovers,3-2,Preston North End
+Sat Apr 16 1983,Leyton Orient,1-3,Huddersfield Town
+Sat Apr 16 1983,Plymouth Argyle,3-1,Sheffield United
+Sat Apr 16 1983,Reading,0-0,Gillingham
+Sat Apr 16 1983,Bradford City,0-0,Millwall
+Tue Apr 19 1983,Plymouth Argyle,0-2,Wigan Athletic
+Fri Apr 22 1983,Wrexham,0-0,Bristol Rovers
+Sat Apr 23 1983,AFC Bournemouth,1-0,Lincoln City
+Sat Apr 23 1983,Preston North End,2-1,Leyton Orient
+Sat Apr 23 1983,Oxford United,2-0,Wigan Athletic
+Sat Apr 23 1983,Cardiff City,4-1,Southend United
+Sat Apr 23 1983,Huddersfield Town,3-1,Reading
+Sat Apr 23 1983,Millwall,3-0,Doncaster Rovers
+Sat Apr 23 1983,Gillingham,2-1,Plymouth Argyle
+Sat Apr 23 1983,Portsmouth,4-0,Chesterfield
+Sat Apr 23 1983,Sheffield United,2-1,Bradford City
+Sat Apr 23 1983,Exeter City,1-7,Brentford
+Sat Apr 23 1983,Walsall,2-1,Newport County
+Wed Apr 27 1983,Oxford United,1-0,Millwall
+Fri Apr 29 1983,Southend United,1-1,Walsall
+Sat Apr 30 1983,Newport County,4-0,Wrexham
+Sat Apr 30 1983,Bradford City,2-3,AFC Bournemouth
+Sat Apr 30 1983,Leyton Orient,5-1,Exeter City
+Sat Apr 30 1983,Reading,3-3,Millwall
+Sat Apr 30 1983,Bristol Rovers,1-0,Huddersfield Town
+Sat Apr 30 1983,Plymouth Argyle,1-1,Preston North End
+Sat Apr 30 1983,Doncaster Rovers,0-2,Portsmouth
+Sat Apr 30 1983,Chesterfield,0-1,Cardiff City
+Sat Apr 30 1983,Brentford,2-1,Sheffield United
+Sat Apr 30 1983,Wigan Athletic,2-2,Gillingham
+Sat Apr 30 1983,Lincoln City,1-1,Oxford United
+Mon May 2 1983,Exeter City,4-3,Southend United
+Mon May 2 1983,Wrexham,0-0,Chesterfield
+Mon May 2 1983,Oxford United,1-2,Reading
+Mon May 2 1983,Cardiff City,3-1,Brentford
+Mon May 2 1983,AFC Bournemouth,2-2,Doncaster Rovers
+Mon May 2 1983,Portsmouth,2-2,Leyton Orient
+Mon May 2 1983,Walsall,2-0,Plymouth Argyle
+Mon May 2 1983,Sheffield United,2-1,Bristol Rovers
+Mon May 2 1983,Millwall,3-0,Newport County
+Mon May 2 1983,Preston North End,1-0,Lincoln City
+Tue May 3 1983,Gillingham,3-0,Bradford City
+Sat May 7 1983,Preston North End,2-0,Reading
+Sat May 7 1983,Walsall,1-1,Bradford City
+Sat May 7 1983,Oxford United,1-0,Chesterfield
+Sat May 7 1983,Gillingham,1-0,Bristol Rovers
+Sat May 7 1983,Sheffield United,0-1,Lincoln City
+Sat May 7 1983,AFC Bournemouth,2-2,Wigan Athletic
+Sat May 7 1983,Exeter City,3-0,Doncaster Rovers
+Sat May 7 1983,Wrexham,2-3,Plymouth Argyle
+Sat May 7 1983,Portsmouth,2-0,Southend United
+Sat May 7 1983,Huddersfield Town,1-0,Newport County
+Sat May 7 1983,Cardiff City,2-0,Leyton Orient
+Sun May 8 1983,Millwall,1-0,Brentford
+Sun May 8 1983,Bradford City,2-0,Sheffield United
+Tue May 10 1983,Portsmouth,1-0,Walsall
+Tue May 10 1983,Huddersfield Town,1-1,Wigan Athletic
+Fri May 13 1983,Southend United,1-2,Oxford United
+Sat May 14 1983,Bradford City,3-1,Huddersfield Town
+Sat May 14 1983,Chesterfield,0-1,Millwall
+Sat May 14 1983,Doncaster Rovers,1-3,Walsall
+Sat May 14 1983,Brentford,2-1,AFC Bournemouth
+Sat May 14 1983,Bristol Rovers,1-1,Cardiff City
+Sat May 14 1983,Reading,1-0,Wrexham
+Sat May 14 1983,Plymouth Argyle,0-1,Portsmouth
+Sat May 14 1983,Lincoln City,3-1,Gillingham
+Sat May 14 1983,Newport County,1-1,Exeter City
+Sat May 14 1983,Leyton Orient,4-1,Sheffield United
+Sat May 14 1983,Wigan Athletic,0-1,Preston North End

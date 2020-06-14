@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 27 1932,Manchester United,0-2,Stoke City
+Sat Aug 27 1932,Burnley,1-1,Chesterfield
+Sat Aug 27 1932,Preston North End,2-3,Bradford Park Avenue
+Sat Aug 27 1932,Tottenham Hotspur,4-1,Charlton Athletic
+Sat Aug 27 1932,Millwall,3-0,Southampton
+Sat Aug 27 1932,Bradford City,2-0,Fulham
+Sat Aug 27 1932,Grimsby Town,1-1,Nottingham Forest
+Sat Aug 27 1932,Oldham Athletic,3-1,Plymouth Argyle
+Sat Aug 27 1932,Port Vale,1-0,Bury
+Sat Aug 27 1932,Notts County,1-1,Lincoln City
+Sat Aug 27 1932,Swansea City,1-0,West Ham United
+Mon Aug 29 1932,Southampton,2-2,Port Vale
+Mon Aug 29 1932,Stoke City,1-2,Millwall
+Mon Aug 29 1932,West Ham United,2-4,Bradford City
+Mon Aug 29 1932,Charlton Athletic,0-1,Manchester United
+Mon Aug 29 1932,Lincoln City,2-0,Swansea City
+Mon Aug 29 1932,Bury,3-1,Notts County
+Mon Aug 29 1932,Preston North End,6-1,Burnley
+Mon Aug 29 1932,Nottingham Forest,3-1,Tottenham Hotspur
+Wed Aug 31 1932,Bradford Park Avenue,1-3,Oldham Athletic
+Wed Aug 31 1932,Plymouth Argyle,4-0,Grimsby Town
+Sat Sep 3 1932,Nottingham Forest,2-3,Oldham Athletic
+Sat Sep 3 1932,Bradford Park Avenue,0-4,Burnley
+Sat Sep 3 1932,Plymouth Argyle,5-0,Preston North End
+Sat Sep 3 1932,Bury,3-0,Millwall
+Sat Sep 3 1932,West Ham United,1-1,Notts County
+Sat Sep 3 1932,Charlton Athletic,2-3,Grimsby Town
+Sat Sep 3 1932,Lincoln City,0-1,Port Vale
+Sat Sep 3 1932,Fulham,3-1,Swansea City
+Sat Sep 3 1932,Chesterfield,1-2,Bradford City
+Sat Sep 3 1932,Southampton,4-2,Manchester United
+Sat Sep 3 1932,Stoke City,2-0,Tottenham Hotspur
+Mon Sep 5 1932,Swansea City,3-1,Lincoln City
+Mon Sep 5 1932,Burnley,4-0,Preston North End
+Mon Sep 5 1932,Fulham,2-2,Chesterfield
+Mon Sep 5 1932,Tottenham Hotspur,0-0,Nottingham Forest
+Mon Sep 5 1932,Oldham Athletic,1-3,Bradford Park Avenue
+Mon Sep 5 1932,Millwall,0-0,Stoke City
+Mon Sep 5 1932,Port Vale,0-2,Southampton
+Tue Sep 6 1932,Grimsby Town,2-3,Plymouth Argyle
+Wed Sep 7 1932,Manchester United,1-1,Charlton Athletic
+Wed Sep 7 1932,Bradford City,5-1,West Ham United
+Sat Sep 10 1932,Millwall,2-0,Lincoln City
+Sat Sep 10 1932,Port Vale,4-0,West Ham United
+Sat Sep 10 1932,Tottenham Hotspur,6-1,Manchester United
+Sat Sep 10 1932,Southampton,1-0,Bury
+Sat Sep 10 1932,Swansea City,3-0,Chesterfield
+Sat Sep 10 1932,Oldham Athletic,0-0,Charlton Athletic
+Sat Sep 10 1932,Grimsby Town,0-1,Stoke City
+Sat Sep 10 1932,Notts County,1-2,Fulham
+Sat Sep 10 1932,Preston North End,2-1,Nottingham Forest
+Sat Sep 10 1932,Burnley,1-1,Plymouth Argyle
+Sat Sep 10 1932,Bradford City,1-0,Bradford Park Avenue
+Sat Sep 17 1932,Fulham,1-1,Port Vale
+Sat Sep 17 1932,Nottingham Forest,1-1,Burnley
+Sat Sep 17 1932,Charlton Athletic,0-1,Preston North End
+Sat Sep 17 1932,Plymouth Argyle,3-2,Bradford Park Avenue
+Sat Sep 17 1932,Chesterfield,0-0,Notts County
+Sat Sep 17 1932,Bradford City,1-1,Swansea City
+Sat Sep 17 1932,Stoke City,4-0,Oldham Athletic
+Sat Sep 17 1932,Lincoln City,1-0,Southampton
+Sat Sep 17 1932,Bury,1-0,Tottenham Hotspur
+Sat Sep 17 1932,Manchester United,1-1,Grimsby Town
+Sat Sep 17 1932,West Ham United,3-0,Millwall
+Sat Sep 24 1932,Burnley,0-1,Charlton Athletic
+Sat Sep 24 1932,Southampton,4-3,West Ham United
+Sat Sep 24 1932,Millwall,2-1,Fulham
+Sat Sep 24 1932,Preston North End,1-3,Stoke City
+Sat Sep 24 1932,Notts County,2-0,Bradford City
+Sat Sep 24 1932,Swansea City,0-1,Plymouth Argyle
+Sat Sep 24 1932,Bury,2-2,Lincoln City
+Sat Sep 24 1932,Grimsby Town,3-2,Tottenham Hotspur
+Sat Sep 24 1932,Bradford Park Avenue,3-1,Nottingham Forest
+Sat Sep 24 1932,Port Vale,9-1,Chesterfield
+Sat Sep 24 1932,Oldham Athletic,1-1,Manchester United
+Sat Oct 1 1932,Chesterfield,1-0,Millwall
+Sat Oct 1 1932,Swansea City,2-0,Notts County
+Sat Oct 1 1932,Manchester United,0-0,Preston North End
+Sat Oct 1 1932,Lincoln City,6-3,Grimsby Town
+Sat Oct 1 1932,Bradford City,7-0,Port Vale
+Sat Oct 1 1932,Nottingham Forest,1-1,Plymouth Argyle
+Sat Oct 1 1932,Fulham,4-2,Southampton
+Sat Oct 1 1932,Charlton Athletic,0-2,Bradford Park Avenue
+Sat Oct 1 1932,West Ham United,0-1,Bury
+Sat Oct 1 1932,Stoke City,3-0,Burnley
+Sat Oct 1 1932,Tottenham Hotspur,1-1,Oldham Athletic
+Thu Oct 6 1932,Notts County,2-2,Bury
+Sat Oct 8 1932,Bury,1-1,Fulham
+Sat Oct 8 1932,Oldham Athletic,0-1,Grimsby Town
+Sat Oct 8 1932,Lincoln City,6-0,West Ham United
+Sat Oct 8 1932,Preston North End,2-6,Tottenham Hotspur
+Sat Oct 8 1932,Notts County,2-4,Nottingham Forest
+Sat Oct 8 1932,Millwall,3-3,Bradford City
+Sat Oct 8 1932,Southampton,2-1,Chesterfield
+Sat Oct 8 1932,Burnley,2-3,Manchester United
+Sat Oct 8 1932,Bradford Park Avenue,2-2,Stoke City
+Sat Oct 8 1932,Port Vale,2-1,Swansea City
+Sat Oct 8 1932,Plymouth Argyle,6-1,Charlton Athletic
+Sat Oct 15 1932,Stoke City,2-0,Plymouth Argyle
+Sat Oct 15 1932,Charlton Athletic,3-0,Nottingham Forest
+Sat Oct 15 1932,Fulham,3-2,Lincoln City
+Sat Oct 15 1932,Tottenham Hotspur,4-1,Burnley
+Sat Oct 15 1932,Swansea City,1-0,Millwall
+Sat Oct 15 1932,Grimsby Town,5-5,Preston North End
+Sat Oct 15 1932,Bradford City,1-0,Southampton
+Sat Oct 15 1932,Manchester United,2-1,Bradford Park Avenue
+Sat Oct 15 1932,West Ham United,5-2,Oldham Athletic
+Sat Oct 15 1932,Notts County,5-0,Port Vale
+Sat Oct 15 1932,Chesterfield,1-3,Bury
+Sat Oct 22 1932,Bradford Park Avenue,5-1,Chesterfield
+Sat Oct 22 1932,Manchester United,7-1,Millwall
+Sat Oct 22 1932,Preston North End,4-1,West Ham United
+Sat Oct 22 1932,Stoke City,1-0,Port Vale
+Sat Oct 22 1932,Plymouth Argyle,2-1,Bradford City
+Sat Oct 22 1932,Tottenham Hotspur,5-0,Southampton
+Sat Oct 22 1932,Charlton Athletic,3-3,Notts County
+Sat Oct 22 1932,Nottingham Forest,2-2,Swansea City
+Sat Oct 22 1932,Grimsby Town,1-0,Bury
+Sat Oct 22 1932,Burnley,3-3,Fulham
+Sat Oct 22 1932,Oldham Athletic,5-2,Lincoln City
+Sat Oct 29 1932,Chesterfield,1-1,Plymouth Argyle
+Sat Oct 29 1932,Lincoln City,2-1,Preston North End
+Sat Oct 29 1932,Swansea City,2-0,Charlton Athletic
+Sat Oct 29 1932,Bury,3-3,Oldham Athletic
+Sat Oct 29 1932,West Ham United,4-4,Burnley
+Sat Oct 29 1932,Notts County,3-4,Stoke City
+Sat Oct 29 1932,Millwall,1-4,Tottenham Hotspur
+Sat Oct 29 1932,Fulham,5-2,Bradford Park Avenue
+Sat Oct 29 1932,Bradford City,2-2,Nottingham Forest
+Sat Oct 29 1932,Southampton,3-0,Grimsby Town
+Sat Oct 29 1932,Port Vale,3-3,Manchester United
+Sat Nov 5 1932,Stoke City,2-0,Swansea City
+Sat Nov 5 1932,Burnley,0-0,Lincoln City
+Sat Nov 5 1932,Tottenham Hotspur,4-0,Port Vale
+Sat Nov 5 1932,Nottingham Forest,2-3,Chesterfield
+Sat Nov 5 1932,Plymouth Argyle,2-3,Fulham
+Sat Nov 5 1932,Charlton Athletic,0-0,Bradford City
+Sat Nov 5 1932,Manchester United,2-0,Notts County
+Sat Nov 5 1932,Preston North End,1-3,Bury
+Sat Nov 5 1932,Oldham Athletic,2-0,Southampton
+Sat Nov 5 1932,Bradford Park Avenue,3-0,West Ham United
+Sat Nov 5 1932,Grimsby Town,1-1,Millwall
+Sat Nov 12 1932,Chesterfield,4-3,Preston North End
+Sat Nov 12 1932,Swansea City,3-1,Bradford Park Avenue
+Sat Nov 12 1932,Fulham,1-0,Oldham Athletic
+Sat Nov 12 1932,Millwall,2-1,Charlton Athletic
+Sat Nov 12 1932,Bury,2-2,Manchester United
+Sat Nov 12 1932,Port Vale,0-1,Nottingham Forest
+Sat Nov 12 1932,Notts County,4-1,Plymouth Argyle
+Sat Nov 12 1932,Southampton,1-0,Stoke City
+Sat Nov 12 1932,Bradford City,2-1,Burnley
+Sat Nov 12 1932,West Ham United,5-2,Grimsby Town
+Sat Nov 12 1932,Lincoln City,2-2,Tottenham Hotspur
+Sat Nov 19 1932,Nottingham Forest,0-2,Bury
+Sat Nov 19 1932,Manchester United,4-3,Fulham
+Sat Nov 19 1932,Preston North End,3-0,Notts County
+Sat Nov 19 1932,Tottenham Hotspur,4-1,Chesterfield
+Sat Nov 19 1932,Bradford Park Avenue,3-0,Millwall
+Sat Nov 19 1932,Burnley,1-1,Port Vale
+Sat Nov 19 1932,Charlton Athletic,4-2,Lincoln City
+Sat Nov 19 1932,Oldham Athletic,0-0,Swansea City
+Sat Nov 19 1932,Plymouth Argyle,1-1,Southampton
+Sat Nov 19 1932,Stoke City,0-0,West Ham United
+Sat Nov 19 1932,Grimsby Town,1-1,Bradford City
+Sat Nov 26 1932,Swansea City,1-0,Grimsby Town
+Sat Nov 26 1932,Notts County,2-1,Oldham Athletic
+Sat Nov 26 1932,Port Vale,0-1,Preston North End
+Sat Nov 26 1932,Chesterfield,1-1,Manchester United
+Sat Nov 26 1932,West Ham United,7-3,Charlton Athletic
+Sat Nov 26 1932,Bradford City,0-1,Tottenham Hotspur
+Sat Nov 26 1932,Millwall,4-1,Burnley
+Sat Nov 26 1932,Fulham,1-3,Stoke City
+Sat Nov 26 1932,Southampton,2-0,Bradford Park Avenue
+Sat Nov 26 1932,Lincoln City,1-1,Nottingham Forest
+Sat Nov 26 1932,Bury,2-1,Plymouth Argyle
+Sat Dec 3 1932,Tottenham Hotspur,7-0,Swansea City
+Sat Dec 3 1932,Plymouth Argyle,0-3,Lincoln City
+Sat Dec 3 1932,Oldham Athletic,2-1,Port Vale
+Sat Dec 3 1932,Burnley,2-0,Southampton
+Sat Dec 3 1932,Grimsby Town,1-1,Notts County
+Sat Dec 3 1932,Stoke City,2-1,Chesterfield
+Sat Dec 3 1932,Nottingham Forest,2-2,West Ham United
+Sat Dec 3 1932,Preston North End,0-1,Millwall
+Sat Dec 3 1932,Manchester United,0-1,Bradford City
+Sat Dec 3 1932,Charlton Athletic,1-2,Fulham
+Sat Dec 3 1932,Bradford Park Avenue,4-0,Bury
+Sat Dec 10 1932,Chesterfield,1-2,Grimsby Town
+Sat Dec 10 1932,Lincoln City,2-3,Stoke City
+Sat Dec 10 1932,Port Vale,3-1,Bradford Park Avenue
+Sat Dec 10 1932,Notts County,4-2,Burnley
+Sat Dec 10 1932,Swansea City,3-1,Preston North End
+Sat Dec 10 1932,Southampton,0-2,Nottingham Forest
+Sat Dec 10 1932,Fulham,2-2,Tottenham Hotspur
+Sat Dec 10 1932,Bury,3-1,Charlton Athletic
+Sat Dec 10 1932,Bradford City,3-0,Oldham Athletic
+Sat Dec 10 1932,West Ham United,3-1,Manchester United
+Sat Dec 10 1932,Millwall,2-0,Plymouth Argyle
+Sat Dec 17 1932,Oldham Athletic,2-0,Chesterfield
+Sat Dec 17 1932,Manchester United,4-1,Lincoln City
+Sat Dec 17 1932,Burnley,1-2,Swansea City
+Sat Dec 17 1932,Tottenham Hotspur,2-2,West Ham United
+Sat Dec 17 1932,Grimsby Town,1-0,Fulham
+Sat Dec 17 1932,Nottingham Forest,0-0,Millwall
+Sat Dec 17 1932,Bradford Park Avenue,3-4,Notts County
+Sat Dec 17 1932,Preston North End,1-4,Bradford City
+Sat Dec 17 1932,Charlton Athletic,2-0,Southampton
+Sat Dec 17 1932,Stoke City,2-3,Bury
+Sat Dec 17 1932,Plymouth Argyle,3-1,Port Vale
+Sat Dec 24 1932,Port Vale,4-2,Grimsby Town
+Sat Dec 24 1932,Notts County,3-0,Tottenham Hotspur
+Sat Dec 24 1932,West Ham United,2-2,Plymouth Argyle
+Sat Dec 24 1932,Southampton,1-0,Preston North End
+Sat Dec 24 1932,Lincoln City,2-2,Bradford Park Avenue
+Sat Dec 24 1932,Bradford City,1-1,Stoke City
+Sat Dec 24 1932,Chesterfield,2-3,Charlton Athletic
+Sat Dec 24 1932,Millwall,6-1,Oldham Athletic
+Sat Dec 24 1932,Fulham,0-1,Nottingham Forest
+Sat Dec 24 1932,Bury,5-3,Burnley
+Sat Dec 24 1932,Swansea City,2-1,Manchester United
+Mon Dec 26 1932,Notts County,1-0,Millwall
+Mon Dec 26 1932,Bury,1-1,Bradford City
+Mon Dec 26 1932,Plymouth Argyle,2-3,Manchester United
+Mon Dec 26 1932,Swansea City,2-1,Southampton
+Mon Dec 26 1932,Lincoln City,5-3,Chesterfield
+Mon Dec 26 1932,Preston North End,2-2,Oldham Athletic
+Mon Dec 26 1932,Fulham,4-2,West Ham United
+Mon Dec 26 1932,Stoke City,0-1,Nottingham Forest
+Mon Dec 26 1932,Bradford Park Avenue,3-3,Tottenham Hotspur
+Mon Dec 26 1932,Grimsby Town,1-2,Burnley
+Tue Dec 27 1932,Oldham Athletic,0-2,Preston North End
+Tue Dec 27 1932,Port Vale,2-1,Charlton Athletic
+Tue Dec 27 1932,Tottenham Hotspur,2-0,Bradford Park Avenue
+Tue Dec 27 1932,Chesterfield,3-0,Lincoln City
+Tue Dec 27 1932,Nottingham Forest,1-0,Stoke City
+Tue Dec 27 1932,Bradford City,3-0,Bury
+Tue Dec 27 1932,Millwall,1-1,Notts County
+Tue Dec 27 1932,Burnley,2-0,Grimsby Town
+Tue Dec 27 1932,Southampton,2-0,Swansea City
+Tue Dec 27 1932,West Ham United,1-1,Fulham
+Sat Dec 31 1932,Southampton,2-3,Millwall
+Sat Dec 31 1932,Bury,0-0,Port Vale
+Sat Dec 31 1932,Nottingham Forest,3-2,Grimsby Town
+Sat Dec 31 1932,Fulham,1-0,Bradford City
+Sat Dec 31 1932,Stoke City,0-0,Manchester United
+Sat Dec 31 1932,Charlton Athletic,0-3,Tottenham Hotspur
+Sat Dec 31 1932,Plymouth Argyle,2-1,Oldham Athletic
+Sat Dec 31 1932,West Ham United,3-1,Swansea City
+Sat Dec 31 1932,Chesterfield,6-0,Burnley
+Sat Dec 31 1932,Bradford Park Avenue,2-0,Preston North End
+Sat Dec 31 1932,Lincoln City,1-1,Notts County
+Mon Jan 2 1933,Manchester United,4-0,Plymouth Argyle
+Mon Jan 2 1933,Chesterfield,3-2,Fulham
+Mon Jan 2 1933,Bury,3-0,Swansea City
+Sat Jan 7 1933,Swansea City,3-0,Fulham
+Sat Jan 7 1933,Port Vale,3-2,Lincoln City
+Sat Jan 7 1933,Manchester United,1-2,Southampton
+Sat Jan 7 1933,Oldham Athletic,1-2,Nottingham Forest
+Sat Jan 7 1933,Tottenham Hotspur,3-2,Stoke City
+Sat Jan 7 1933,Burnley,2-0,Bradford Park Avenue
+Sat Jan 7 1933,Preston North End,3-0,Plymouth Argyle
+Sat Jan 7 1933,Notts County,2-0,West Ham United
+Sat Jan 7 1933,Grimsby Town,5-5,Charlton Athletic
+Sat Jan 7 1933,Millwall,5-2,Bury
+Sat Jan 7 1933,Bradford City,4-2,Chesterfield
+Sat Jan 21 1933,Nottingham Forest,2-1,Preston North End
+Sat Jan 21 1933,Charlton Athletic,1-0,Oldham Athletic
+Sat Jan 21 1933,Lincoln City,3-0,Millwall
+Sat Jan 21 1933,Stoke City,2-0,Grimsby Town
+Sat Jan 21 1933,Plymouth Argyle,4-0,Burnley
+Sat Jan 21 1933,West Ham United,5-0,Port Vale
+Sat Jan 21 1933,Bradford Park Avenue,2-0,Bradford City
+Sat Jan 21 1933,Chesterfield,1-0,Swansea City
+Sat Jan 21 1933,Fulham,3-4,Notts County
+Sat Jan 21 1933,Bury,1-0,Southampton
+Sat Jan 21 1933,Manchester United,2-1,Tottenham Hotspur
+Sat Jan 28 1933,Port Vale,1-2,Fulham
+Sat Jan 28 1933,Preston North End,4-2,Charlton Athletic
+Sat Jan 28 1933,Swansea City,2-0,Bradford City
+Sat Jan 28 1933,Southampton,4-0,Lincoln City
+Tue Jan 31 1933,Grimsby Town,1-1,Manchester United
+Tue Jan 31 1933,Burnley,3-3,Nottingham Forest
+Tue Jan 31 1933,Oldham Athletic,0-4,Stoke City
+Tue Jan 31 1933,Millwall,1-0,West Ham United
+Wed Feb 1 1933,Tottenham Hotspur,2-1,Bury
+Wed Feb 1 1933,Bradford Park Avenue,1-0,Plymouth Argyle
+Wed Feb 1 1933,Notts County,1-1,Chesterfield
+Sat Feb 4 1933,Nottingham Forest,1-1,Bradford Park Avenue
+Sat Feb 4 1933,Chesterfield,2-2,Port Vale
+Sat Feb 4 1933,Charlton Athletic,2-2,Burnley
+Sat Feb 4 1933,Stoke City,1-1,Preston North End
+Sat Feb 4 1933,Tottenham Hotspur,4-3,Grimsby Town
+Sat Feb 4 1933,Lincoln City,2-1,Bury
+Sat Feb 4 1933,Fulham,1-1,Millwall
+Sat Feb 4 1933,Bradford City,1-2,Notts County
+Sat Feb 4 1933,West Ham United,3-1,Southampton
+Sat Feb 4 1933,Manchester United,2-0,Oldham Athletic
+Sat Feb 4 1933,Plymouth Argyle,1-0,Swansea City
+Sat Feb 11 1933,Burnley,1-2,Stoke City
+Sat Feb 11 1933,Southampton,2-2,Fulham
+Sat Feb 11 1933,Bury,6-1,West Ham United
+Sat Feb 11 1933,Oldham Athletic,1-5,Tottenham Hotspur
+Sat Feb 11 1933,Millwall,0-0,Chesterfield
+Sat Feb 11 1933,Notts County,1-2,Swansea City
+Sat Feb 11 1933,Grimsby Town,3-3,Lincoln City
+Sat Feb 11 1933,Bradford Park Avenue,3-0,Charlton Athletic
+Sat Feb 11 1933,Plymouth Argyle,1-1,Nottingham Forest
+Sat Feb 11 1933,Port Vale,2-0,Bradford City
+Sat Feb 11 1933,Preston North End,3-3,Manchester United
+Sat Feb 18 1933,Stoke City,4-0,Bradford Park Avenue
+Sat Feb 18 1933,Swansea City,2-0,Port Vale
+Sat Feb 18 1933,Grimsby Town,5-1,Oldham Athletic
+Sat Feb 18 1933,Tottenham Hotspur,1-1,Preston North End
+Sat Feb 18 1933,Fulham,3-3,Bury
+Sat Feb 18 1933,Bradford City,1-5,Millwall
+Sat Feb 18 1933,Charlton Athletic,4-1,Plymouth Argyle
+Sat Feb 18 1933,Nottingham Forest,3-0,Notts County
+Wed Feb 22 1933,Chesterfield,1-0,Southampton
+Wed Feb 22 1933,Manchester United,2-1,Burnley
+Sat Feb 25 1933,Millwall,3-1,Swansea City
+Sat Feb 25 1933,Southampton,3-1,Bradford City
+Sat Feb 25 1933,Plymouth Argyle,1-0,Stoke City
+Sat Feb 25 1933,Bury,6-0,Chesterfield
+Thu Mar 2 1933,Preston North End,4-2,Grimsby Town
+Sat Mar 4 1933,Southampton,1-1,Tottenham Hotspur
+Sat Mar 4 1933,Millwall,2-0,Manchester United
+Sat Mar 4 1933,Bradford City,2-3,Plymouth Argyle
+Sat Mar 4 1933,Bury,4-1,Grimsby Town
+Sat Mar 4 1933,Lincoln City,1-3,Oldham Athletic
+Sat Mar 4 1933,Notts County,3-2,Charlton Athletic
+Sat Mar 4 1933,Swansea City,0-1,Nottingham Forest
+Sat Mar 4 1933,Port Vale,1-3,Stoke City
+Sat Mar 4 1933,Chesterfield,2-1,Bradford Park Avenue
+Mon Mar 6 1933,West Ham United,1-1,Preston North End
+Wed Mar 8 1933,Fulham,2-1,Burnley
+Sat Mar 11 1933,Charlton Athletic,3-1,Swansea City
+Sat Mar 11 1933,Oldham Athletic,2-1,Bury
+Sat Mar 11 1933,Bradford Park Avenue,1-4,Fulham
+Sat Mar 11 1933,Tottenham Hotspur,2-1,Millwall
+Sat Mar 11 1933,Burnley,4-0,West Ham United
+Sat Mar 11 1933,Preston North End,5-0,Lincoln City
+Sat Mar 11 1933,Nottingham Forest,3-1,Bradford City
+Sat Mar 11 1933,Stoke City,0-2,Notts County
+Sat Mar 11 1933,Plymouth Argyle,1-0,Chesterfield
+Sat Mar 11 1933,Grimsby Town,2-2,Southampton
+Sat Mar 11 1933,Manchester United,1-1,Port Vale
+Mon Mar 13 1933,Oldham Athletic,3-2,West Ham United
+Thu Mar 16 1933,Nottingham Forest,0-1,Charlton Athletic
+Sat Mar 18 1933,Southampton,0-2,Oldham Athletic
+Sat Mar 18 1933,Port Vale,1-1,Tottenham Hotspur
+Sat Mar 18 1933,Bury,1-2,Preston North End
+Sat Mar 18 1933,Notts County,1-0,Manchester United
+Sat Mar 18 1933,Lincoln City,1-4,Burnley
+Sat Mar 18 1933,Chesterfield,0-1,Nottingham Forest
+Sat Mar 18 1933,Fulham,3-1,Plymouth Argyle
+Sat Mar 18 1933,Bradford City,3-0,Charlton Athletic
+Sat Mar 18 1933,Millwall,0-1,Grimsby Town
+Sat Mar 18 1933,Swansea City,0-2,Stoke City
+Mon Mar 20 1933,West Ham United,2-1,Bradford Park Avenue
+Mon Mar 20 1933,Port Vale,4-0,Notts County
+Sat Mar 25 1933,Plymouth Argyle,0-2,Notts County
+Sat Mar 25 1933,Charlton Athletic,1-4,Millwall
+Sat Mar 25 1933,Tottenham Hotspur,3-2,Lincoln City
+Sat Mar 25 1933,Burnley,0-0,Bradford City
+Sat Mar 25 1933,Grimsby Town,2-1,West Ham United
+Sat Mar 25 1933,Nottingham Forest,1-1,Port Vale
+Sat Mar 25 1933,Stoke City,3-1,Southampton
+Sat Mar 25 1933,Preston North End,2-0,Chesterfield
+Sat Mar 25 1933,Bradford Park Avenue,1-0,Swansea City
+Sat Mar 25 1933,Oldham Athletic,1-3,Fulham
+Sat Mar 25 1933,Manchester United,1-3,Bury
+Mon Mar 27 1933,West Ham United,0-0,Lincoln City
+Sat Apr 1 1933,Bury,5-2,Nottingham Forest
+Sat Apr 1 1933,Southampton,2-0,Plymouth Argyle
+Sat Apr 1 1933,Bradford City,2-2,Grimsby Town
+Sat Apr 1 1933,Lincoln City,1-1,Charlton Athletic
+Sat Apr 1 1933,Port Vale,1-1,Burnley
+Sat Apr 1 1933,Fulham,3-1,Manchester United
+Sat Apr 1 1933,Millwall,1-1,Bradford Park Avenue
+Sat Apr 1 1933,Swansea City,2-0,Oldham Athletic
+Sat Apr 1 1933,Notts County,0-0,Preston North End
+Sat Apr 1 1933,Chesterfield,1-1,Tottenham Hotspur
+Sat Apr 1 1933,West Ham United,1-2,Stoke City
+Wed Apr 5 1933,Bradford Park Avenue,1-1,Manchester United
+Wed Apr 5 1933,Lincoln City,3-0,Fulham
+Sat Apr 8 1933,Oldham Athletic,5-0,Notts County
+Sat Apr 8 1933,Bradford Park Avenue,2-1,Southampton
+Sat Apr 8 1933,Stoke City,0-1,Fulham
+Sat Apr 8 1933,Grimsby Town,2-1,Swansea City
+Sat Apr 8 1933,Charlton Athletic,3-1,West Ham United
+Sat Apr 8 1933,Manchester United,2-1,Chesterfield
+Sat Apr 8 1933,Nottingham Forest,2-2,Lincoln City
+Sat Apr 8 1933,Burnley,3-0,Millwall
+Sat Apr 8 1933,Plymouth Argyle,1-0,Bury
+Sat Apr 8 1933,Tottenham Hotspur,1-1,Bradford City
+Sat Apr 8 1933,Preston North End,3-1,Port Vale
+Fri Apr 14 1933,Southampton,6-2,Notts County
+Fri Apr 14 1933,Fulham,1-0,Preston North End
+Fri Apr 14 1933,Lincoln City,0-0,Bradford City
+Fri Apr 14 1933,Grimsby Town,5-1,Bradford Park Avenue
+Fri Apr 14 1933,Chesterfield,1-0,West Ham United
+Fri Apr 14 1933,Tottenham Hotspur,0-0,Plymouth Argyle
+Fri Apr 14 1933,Charlton Athletic,1-0,Stoke City
+Fri Apr 14 1933,Burnley,1-1,Oldham Athletic
+Fri Apr 14 1933,Port Vale,2-0,Millwall
+Fri Apr 14 1933,Nottingham Forest,3-2,Manchester United
+Sat Apr 15 1933,Chesterfield,1-2,Stoke City
+Sat Apr 15 1933,Southampton,3-1,Burnley
+Sat Apr 15 1933,West Ham United,4-3,Nottingham Forest
+Sat Apr 15 1933,Lincoln City,2-0,Plymouth Argyle
+Sat Apr 15 1933,Notts County,1-3,Grimsby Town
+Sat Apr 15 1933,Fulham,3-1,Charlton Athletic
+Sat Apr 15 1933,Bradford City,1-2,Manchester United
+Sat Apr 15 1933,Bury,0-0,Bradford Park Avenue
+Sat Apr 15 1933,Swansea City,0-2,Tottenham Hotspur
+Sat Apr 15 1933,Port Vale,2-4,Oldham Athletic
+Sat Apr 15 1933,Millwall,1-1,Preston North End
+Mon Apr 17 1933,Stoke City,2-0,Charlton Athletic
+Mon Apr 17 1933,Millwall,0-1,Port Vale
+Mon Apr 17 1933,Oldham Athletic,2-2,Burnley
+Mon Apr 17 1933,Preston North End,1-2,Fulham
+Mon Apr 17 1933,West Ham United,3-1,Chesterfield
+Mon Apr 17 1933,Notts County,1-2,Southampton
+Mon Apr 17 1933,Swansea City,2-1,Bury
+Mon Apr 17 1933,Manchester United,2-1,Nottingham Forest
+Mon Apr 17 1933,Bradford Park Avenue,1-1,Grimsby Town
+Mon Apr 17 1933,Plymouth Argyle,2-2,Tottenham Hotspur
+Tue Apr 18 1933,Bradford City,1-1,Lincoln City
+Sat Apr 22 1933,Preston North End,1-0,Swansea City
+Sat Apr 22 1933,Plymouth Argyle,0-0,Millwall
+Sat Apr 22 1933,Tottenham Hotspur,0-0,Fulham
+Sat Apr 22 1933,Stoke City,5-2,Lincoln City
+Sat Apr 22 1933,Burnley,2-1,Notts County
+Sat Apr 22 1933,Grimsby Town,1-1,Chesterfield
+Sat Apr 22 1933,Bradford Park Avenue,4-2,Port Vale
+Sat Apr 22 1933,Nottingham Forest,4-2,Southampton
+Sat Apr 22 1933,Manchester United,1-2,West Ham United
+Sat Apr 22 1933,Charlton Athletic,1-3,Bury
+Sat Apr 22 1933,Oldham Athletic,6-1,Bradford City
+Mon Apr 24 1933,Burnley,1-1,Tottenham Hotspur
+Wed Apr 26 1933,Charlton Athletic,2-1,Port Vale
+Sat Apr 29 1933,Swansea City,2-0,Burnley
+Sat Apr 29 1933,Port Vale,4-1,Plymouth Argyle
+Sat Apr 29 1933,Notts County,1-4,Bradford Park Avenue
+Sat Apr 29 1933,Chesterfield,3-1,Oldham Athletic
+Sat Apr 29 1933,Bury,3-2,Stoke City
+Sat Apr 29 1933,Fulham,0-1,Grimsby Town
+Sat Apr 29 1933,Millwall,1-1,Nottingham Forest
+Sat Apr 29 1933,Bradford City,0-0,Preston North End
+Sat Apr 29 1933,Lincoln City,3-2,Manchester United
+Sat Apr 29 1933,Southampton,3-0,Charlton Athletic
+Sat Apr 29 1933,West Ham United,1-0,Tottenham Hotspur
+Sat May 6 1933,Oldham Athletic,1-0,Millwall
+Sat May 6 1933,Burnley,1-0,Bury
+Sat May 6 1933,Plymouth Argyle,4-1,West Ham United
+Sat May 6 1933,Bradford Park Avenue,6-0,Lincoln City
+Sat May 6 1933,Tottenham Hotspur,3-1,Notts County
+Sat May 6 1933,Charlton Athletic,2-5,Chesterfield
+Sat May 6 1933,Nottingham Forest,1-0,Fulham
+Sat May 6 1933,Grimsby Town,6-1,Port Vale
+Sat May 6 1933,Stoke City,4-1,Bradford City
+Sat May 6 1933,Preston North End,3-1,Southampton
+Sat May 6 1933,Manchester United,1-1,Swansea City

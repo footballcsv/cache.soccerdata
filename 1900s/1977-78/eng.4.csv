@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 20 1977,Brentford,3-0,Northampton Town
+Sat Aug 20 1977,Huddersfield Town,0-0,Swansea City
+Sat Aug 20 1977,Doncaster Rovers,2-2,Newport County
+Sat Aug 20 1977,York City,1-2,Aldershot
+Sat Aug 20 1977,Stockport County,1-3,Watford
+Sat Aug 20 1977,Crewe Alexandra,3-1,AFC Bournemouth
+Sat Aug 20 1977,Southport,1-1,Scunthorpe United
+Sat Aug 20 1977,Hartlepool United,1-2,Torquay United
+Sat Aug 20 1977,Barnsley,4-0,Rochdale
+Sat Aug 20 1977,Grimsby Town,2-0,Darlington
+Sat Aug 20 1977,Reading,0-1,Southend United
+Sat Aug 20 1977,Wimbledon,3-3,Halifax Town
+Mon Aug 22 1977,Southend United,0-0,Northampton Town
+Mon Aug 22 1977,Brentford,4-1,Wimbledon
+Tue Aug 23 1977,Scunthorpe United,3-0,Crewe Alexandra
+Tue Aug 23 1977,Halifax Town,3-0,Hartlepool United
+Tue Aug 23 1977,Swansea City,3-0,Doncaster Rovers
+Wed Aug 24 1977,Aldershot,2-1,Stockport County
+Fri Aug 26 1977,Scunthorpe United,0-0,AFC Bournemouth
+Fri Aug 26 1977,Stockport County,2-0,Grimsby Town
+Fri Aug 26 1977,Southend United,1-0,Crewe Alexandra
+Sat Aug 27 1977,Torquay United,1-1,Wimbledon
+Sat Aug 27 1977,Brentford,1-1,Reading
+Sat Aug 27 1977,Rochdale,2-0,Darlington
+Sat Aug 27 1977,Newport County,2-0,Huddersfield Town
+Sat Aug 27 1977,Southport,1-1,Hartlepool United
+Sat Aug 27 1977,Halifax Town,0-1,Northampton Town
+Sat Aug 27 1977,Swansea City,2-1,Barnsley
+Sat Aug 27 1977,Aldershot,1-0,Doncaster Rovers
+Sat Aug 27 1977,Watford,1-3,York City
+Fri Sep 2 1977,York City,2-1,Stockport County
+Sat Sep 3 1977,Huddersfield Town,1-1,Aldershot
+Sat Sep 3 1977,Hartlepool United,1-0,Scunthorpe United
+Sat Sep 3 1977,Reading,2-1,Halifax Town
+Sat Sep 3 1977,AFC Bournemouth,0-3,Southend United
+Sat Sep 3 1977,Crewe Alexandra,4-6,Brentford
+Sat Sep 3 1977,Wimbledon,2-2,Southport
+Sat Sep 3 1977,Darlington,1-1,Swansea City
+Sat Sep 3 1977,Northampton Town,1-0,Torquay United
+Sat Sep 3 1977,Grimsby Town,2-1,Rochdale
+Sat Sep 3 1977,Barnsley,1-0,Newport County
+Sat Sep 3 1977,Doncaster Rovers,0-1,Watford
+Tue Sep 6 1977,Darlington,0-2,Barnsley
+Tue Sep 6 1977,Newport County,2-1,York City
+Tue Sep 6 1977,Watford,1-0,Grimsby Town
+Fri Sep 9 1977,Stockport County,1-1,Doncaster Rovers
+Fri Sep 9 1977,Southport,3-1,Northampton Town
+Sat Sep 10 1977,Hartlepool United,2-0,Wimbledon
+Sat Sep 10 1977,Aldershot,0-0,Barnsley
+Sat Sep 10 1977,Newport County,1-1,Darlington
+Sat Sep 10 1977,Watford,2-0,Huddersfield Town
+Sat Sep 10 1977,Swansea City,3-0,Rochdale
+Sat Sep 10 1977,Torquay United,3-0,Reading
+Sat Sep 10 1977,Brentford,1-1,AFC Bournemouth
+Sat Sep 10 1977,York City,1-2,Grimsby Town
+Sat Sep 10 1977,Scunthorpe United,1-2,Southend United
+Sat Sep 10 1977,Halifax Town,1-1,Crewe Alexandra
+Mon Sep 12 1977,Southend United,2-1,Swansea City
+Tue Sep 13 1977,AFC Bournemouth,2-1,York City
+Tue Sep 13 1977,Huddersfield Town,1-1,Torquay United
+Tue Sep 13 1977,Rochdale,1-2,Brentford
+Tue Sep 13 1977,Grimsby Town,2-1,Hartlepool United
+Tue Sep 13 1977,Northampton Town,2-1,Stockport County
+Tue Sep 13 1977,Darlington,2-1,Halifax Town
+Tue Sep 13 1977,Wimbledon,1-2,Aldershot
+Tue Sep 13 1977,Barnsley,3-0,Scunthorpe United
+Wed Sep 14 1977,Reading,1-3,Watford
+Wed Sep 14 1977,Crewe Alexandra,2-0,Newport County
+Fri Sep 16 1977,Swansea City,2-0,Grimsby Town
+Fri Sep 16 1977,Southend United,0-0,York City
+Sat Sep 17 1977,Huddersfield Town,0-0,Stockport County
+Sat Sep 17 1977,Crewe Alexandra,2-0,Torquay United
+Sat Sep 17 1977,Northampton Town,5-3,Hartlepool United
+Sat Sep 17 1977,Reading,3-1,Southport
+Sat Sep 17 1977,Barnsley,1-0,Watford
+Sat Sep 17 1977,Darlington,1-1,Aldershot
+Sat Sep 17 1977,Scunthorpe United,3-0,Wimbledon
+Sat Sep 17 1977,AFC Bournemouth,0-0,Halifax Town
+Sat Sep 17 1977,Rochdale,0-1,Newport County
+Sat Sep 17 1977,Doncaster Rovers,3-1,Brentford
+Tue Sep 20 1977,Doncaster Rovers,2-1,Southport
+Fri Sep 23 1977,Southport,1-2,Crewe Alexandra
+Fri Sep 23 1977,Stockport County,3-0,Barnsley
+Sat Sep 24 1977,Grimsby Town,0-0,Doncaster Rovers
+Sat Sep 24 1977,Newport County,1-0,Swansea City
+Sat Sep 24 1977,Watford,2-1,Darlington
+Sat Sep 24 1977,Brentford,2-0,Scunthorpe United
+Sat Sep 24 1977,Wimbledon,2-0,Northampton Town
+Sat Sep 24 1977,Aldershot,2-0,Rochdale
+Sat Sep 24 1977,Halifax Town,0-1,Southend United
+Sat Sep 24 1977,York City,1-1,Huddersfield Town
+Sat Sep 24 1977,Hartlepool United,2-1,Reading
+Sat Sep 24 1977,Torquay United,1-1,AFC Bournemouth
+Mon Sep 26 1977,Torquay United,0-0,Darlington
+Mon Sep 26 1977,Stockport County,1-1,Brentford
+Tue Sep 27 1977,Scunthorpe United,1-0,Swansea City
+Tue Sep 27 1977,Doncaster Rovers,2-0,Southend United
+Tue Sep 27 1977,Wimbledon,3-0,Newport County
+Tue Sep 27 1977,Hartlepool United,1-0,Rochdale
+Tue Sep 27 1977,Halifax Town,1-1,Barnsley
+Tue Sep 27 1977,York City,2-0,Reading
+Tue Sep 27 1977,Southport,2-2,Grimsby Town
+Tue Sep 27 1977,Northampton Town,3-1,Huddersfield Town
+Tue Sep 27 1977,Watford,2-1,AFC Bournemouth
+Wed Sep 28 1977,Aldershot,2-0,Crewe Alexandra
+Fri Sep 30 1977,Southend United,4-0,Torquay United
+Sat Oct 1 1977,AFC Bournemouth,3-1,Southport
+Sat Oct 1 1977,Huddersfield Town,4-1,Doncaster Rovers
+Sat Oct 1 1977,Barnsley,2-1,York City
+Sat Oct 1 1977,Crewe Alexandra,1-0,Hartlepool United
+Sat Oct 1 1977,Brentford,4-1,Halifax Town
+Sat Oct 1 1977,Scunthorpe United,2-2,Northampton Town
+Sat Oct 1 1977,Darlington,2-2,Stockport County
+Sat Oct 1 1977,Reading,2-2,Wimbledon
+Sat Oct 1 1977,Swansea City,1-0,Aldershot
+Sat Oct 1 1977,Rochdale,2-3,Watford
+Sat Oct 1 1977,Newport County,3-0,Grimsby Town
+Mon Oct 3 1977,Southend United,0-2,Stockport County
+Mon Oct 3 1977,Brentford,0-3,Watford
+Tue Oct 4 1977,Huddersfield Town,3-1,Hartlepool United
+Tue Oct 4 1977,Barnsley,2-0,Torquay United
+Tue Oct 4 1977,Grimsby Town,3-1,Wimbledon
+Tue Oct 4 1977,Newport County,3-1,Scunthorpe United
+Tue Oct 4 1977,Darlington,2-0,Northampton Town
+Tue Oct 4 1977,Rochdale,3-1,Halifax Town
+Tue Oct 4 1977,Swansea City,1-1,Southport
+Wed Oct 5 1977,Crewe Alexandra,1-0,York City
+Wed Oct 5 1977,AFC Bournemouth,0-1,Doncaster Rovers
+Wed Oct 5 1977,Reading,1-0,Aldershot
+Fri Oct 7 1977,Stockport County,2-0,Rochdale
+Fri Oct 7 1977,York City,1-2,Darlington
+Fri Oct 7 1977,Southport,0-0,Southend United
+Sat Oct 8 1977,Halifax Town,0-0,Huddersfield Town
+Sat Oct 8 1977,Grimsby Town,0-0,Scunthorpe United
+Sat Oct 8 1977,Doncaster Rovers,2-1,Barnsley
+Sat Oct 8 1977,Aldershot,2-2,Newport County
+Sat Oct 8 1977,Watford,2-1,Swansea City
+Sat Oct 8 1977,Torquay United,2-1,Brentford
+Sat Oct 8 1977,Wimbledon,0-0,Crewe Alexandra
+Sat Oct 8 1977,Northampton Town,0-2,Reading
+Sat Oct 8 1977,Hartlepool United,0-1,AFC Bournemouth
+Tue Oct 11 1977,Northampton Town,3-1,Rochdale
+Wed Oct 12 1977,Torquay United,2-2,Southport
+Fri Oct 14 1977,Crewe Alexandra,3-2,Northampton Town
+Fri Oct 14 1977,Southend United,1-1,Hartlepool United
+Fri Oct 14 1977,Barnsley,1-2,Grimsby Town
+Sat Oct 15 1977,Scunthorpe United,0-1,Reading
+Sat Oct 15 1977,Swansea City,1-1,York City
+Sat Oct 15 1977,AFC Bournemouth,1-2,Wimbledon
+Sat Oct 15 1977,Brentford,0-0,Southport
+Sat Oct 15 1977,Aldershot,1-0,Watford
+Sat Oct 15 1977,Darlington,2-2,Huddersfield Town
+Sat Oct 15 1977,Newport County,2-2,Stockport County
+Sat Oct 15 1977,Halifax Town,0-0,Torquay United
+Sat Oct 15 1977,Rochdale,3-1,Doncaster Rovers
+Mon Oct 17 1977,Rochdale,0-0,Huddersfield Town
+Fri Oct 21 1977,Southport,1-2,Halifax Town
+Fri Oct 21 1977,Doncaster Rovers,1-2,Darlington
+Fri Oct 21 1977,York City,2-2,Rochdale
+Sat Oct 22 1977,Stockport County,2-0,Swansea City
+Sat Oct 22 1977,Hartlepool United,3-1,Brentford
+Sat Oct 22 1977,Northampton Town,1-0,AFC Bournemouth
+Sat Oct 22 1977,Wimbledon,1-3,Southend United
+Sat Oct 22 1977,Watford,2-0,Newport County
+Sat Oct 22 1977,Torquay United,4-2,Scunthorpe United
+Sat Oct 22 1977,Huddersfield Town,2-0,Barnsley
+Sat Oct 22 1977,Reading,2-0,Crewe Alexandra
+Sat Oct 22 1977,Grimsby Town,1-0,Aldershot
+Tue Oct 25 1977,AFC Bournemouth,1-0,Reading
+Fri Oct 28 1977,Stockport County,2-1,Southport
+Fri Oct 28 1977,York City,2-1,Doncaster Rovers
+Sat Oct 29 1977,Watford,5-2,Crewe Alexandra
+Sat Oct 29 1977,Huddersfield Town,1-3,Grimsby Town
+Sat Oct 29 1977,Swansea City,2-1,Reading
+Sat Oct 29 1977,Brentford,1-0,Southend United
+Sat Oct 29 1977,Newport County,0-0,Torquay United
+Sat Oct 29 1977,Scunthorpe United,2-0,Halifax Town
+Sat Oct 29 1977,Darlington,3-1,Wimbledon
+Sat Oct 29 1977,Barnsley,3-2,Hartlepool United
+Sat Oct 29 1977,Rochdale,1-1,Northampton Town
+Sat Oct 29 1977,Aldershot,2-0,AFC Bournemouth
+Fri Nov 4 1977,Southend United,0-0,Barnsley
+Sat Nov 5 1977,Reading,2-1,Darlington
+Sat Nov 5 1977,Wimbledon,1-1,Swansea City
+Sat Nov 5 1977,Hartlepool United,1-2,Watford
+Sat Nov 5 1977,Torquay United,3-1,Grimsby Town
+Sat Nov 5 1977,Southport,1-1,Aldershot
+Sat Nov 5 1977,Northampton Town,2-4,Newport County
+Sat Nov 5 1977,Crewe Alexandra,2-1,Rochdale
+Sat Nov 5 1977,Scunthorpe United,1-1,Huddersfield Town
+Sat Nov 5 1977,Halifax Town,0-1,Doncaster Rovers
+Sat Nov 5 1977,Brentford,1-0,York City
+Sat Nov 5 1977,AFC Bournemouth,1-0,Stockport County
+Mon Nov 7 1977,Wimbledon,1-1,Darlington
+Fri Nov 11 1977,Stockport County,6-0,Hartlepool United
+Sat Nov 12 1977,Aldershot,3-0,Torquay United
+Sat Nov 12 1977,Swansea City,5-0,Crewe Alexandra
+Sat Nov 12 1977,Darlington,2-0,Southend United
+Sat Nov 12 1977,Doncaster Rovers,4-2,Northampton Town
+Sat Nov 12 1977,Watford,4-1,Scunthorpe United
+Sat Nov 12 1977,Barnsley,0-0,Brentford
+Sat Nov 12 1977,Grimsby Town,0-1,Reading
+Sat Nov 12 1977,Rochdale,1-1,AFC Bournemouth
+Sat Nov 12 1977,Newport County,2-0,Halifax Town
+Sat Nov 12 1977,York City,2-1,Southport
+Sat Nov 19 1977,Northampton Town,1-1,Barnsley
+Sat Nov 19 1977,Halifax Town,2-1,Aldershot
+Sat Nov 19 1977,Torquay United,2-0,Stockport County
+Sat Nov 19 1977,Reading,1-0,Huddersfield Town
+Sat Nov 19 1977,Scunthorpe United,1-0,Rochdale
+Sat Nov 19 1977,Southport,3-3,Newport County
+Sat Nov 19 1977,Crewe Alexandra,0-2,Grimsby Town
+Sat Nov 19 1977,Southend United,1-0,Watford
+Sat Nov 19 1977,Hartlepool United,0-2,Doncaster Rovers
+Sat Nov 19 1977,Brentford,0-2,Swansea City
+Sat Nov 19 1977,Wimbledon,2-1,York City
+Sat Nov 19 1977,AFC Bournemouth,2-0,Darlington
+Fri Dec 2 1977,Huddersfield Town,3-1,Southport
+Fri Dec 2 1977,Stockport County,2-2,Wimbledon
+Fri Dec 2 1977,Darlington,1-3,Brentford
+Sat Dec 3 1977,Barnsley,4-1,Reading
+Sat Dec 3 1977,Swansea City,2-4,Northampton Town
+Sat Dec 3 1977,Watford,1-1,Halifax Town
+Sat Dec 3 1977,Grimsby Town,0-2,AFC Bournemouth
+Sat Dec 3 1977,Newport County,4-2,Hartlepool United
+Sat Dec 3 1977,Aldershot,4-0,Scunthorpe United
+Sat Dec 3 1977,Doncaster Rovers,2-0,Crewe Alexandra
+Sat Dec 3 1977,York City,0-0,Torquay United
+Sat Dec 3 1977,Rochdale,1-2,Southend United
+Fri Dec 9 1977,Southend United,4-2,Newport County
+Fri Dec 9 1977,Crewe Alexandra,1-1,Stockport County
+Sat Dec 10 1977,Northampton Town,1-1,York City
+Sat Dec 10 1977,AFC Bournemouth,1-0,Huddersfield Town
+Sat Dec 10 1977,Wimbledon,0-0,Barnsley
+Sat Dec 10 1977,Torquay United,3-0,Rochdale
+Sat Dec 10 1977,Southport,2-2,Watford
+Sat Dec 10 1977,Halifax Town,3-1,Swansea City
+Sat Dec 10 1977,Brentford,3-1,Grimsby Town
+Sat Dec 10 1977,Hartlepool United,2-2,Aldershot
+Sat Dec 10 1977,Reading,3-0,Doncaster Rovers
+Sat Dec 10 1977,Scunthorpe United,3-0,Darlington
+Sat Dec 17 1977,Halifax Town,3-1,Rochdale
+Sat Dec 17 1977,Huddersfield Town,3-0,Wimbledon
+Mon Dec 26 1977,York City,1-0,Hartlepool United
+Mon Dec 26 1977,Grimsby Town,0-0,Halifax Town
+Mon Dec 26 1977,Huddersfield Town,2-0,Southend United
+Mon Dec 26 1977,Doncaster Rovers,1-1,Scunthorpe United
+Mon Dec 26 1977,Rochdale,3-0,Wimbledon
+Mon Dec 26 1977,Swansea City,1-1,Torquay United
+Mon Dec 26 1977,Stockport County,2-0,Reading
+Mon Dec 26 1977,Darlington,3-0,Southport
+Mon Dec 26 1977,Barnsley,4-0,Crewe Alexandra
+Mon Dec 26 1977,Aldershot,1-0,Brentford
+Mon Dec 26 1977,Newport County,3-2,AFC Bournemouth
+Mon Dec 26 1977,Watford,3-0,Northampton Town
+Tue Dec 27 1977,Hartlepool United,2-1,Darlington
+Tue Dec 27 1977,AFC Bournemouth,0-1,Swansea City
+Tue Dec 27 1977,Northampton Town,2-1,Grimsby Town
+Tue Dec 27 1977,Brentford,3-3,Newport County
+Tue Dec 27 1977,Halifax Town,1-1,Stockport County
+Tue Dec 27 1977,Southend United,3-1,Aldershot
+Tue Dec 27 1977,Scunthorpe United,2-1,York City
+Tue Dec 27 1977,Crewe Alexandra,1-1,Huddersfield Town
+Tue Dec 27 1977,Torquay United,2-3,Watford
+Tue Dec 27 1977,Southport,1-1,Barnsley
+Wed Dec 28 1977,Reading,4-3,Rochdale
+Wed Dec 28 1977,Wimbledon,3-3,Doncaster Rovers
+Fri Dec 30 1977,Stockport County,2-1,AFC Bournemouth
+Sat Dec 31 1977,Hartlepool United,0-4,Swansea City
+Sat Dec 31 1977,Crewe Alexandra,2-2,Darlington
+Sat Dec 31 1977,York City,3-2,Brentford
+Sat Dec 31 1977,Grimsby Town,3-1,Torquay United
+Sat Dec 31 1977,Southport,3-1,Rochdale
+Sat Dec 31 1977,Wimbledon,1-3,Watford
+Sat Dec 31 1977,Doncaster Rovers,1-1,Halifax Town
+Sat Dec 31 1977,Barnsley,1-1,Southend United
+Sat Dec 31 1977,Huddersfield Town,4-1,Scunthorpe United
+Sat Dec 31 1977,Northampton Town,1-1,Aldershot
+Sat Dec 31 1977,Reading,2-0,Newport County
+Mon Jan 2 1978,Rochdale,0-2,Crewe Alexandra
+Mon Jan 2 1978,Halifax Town,2-0,York City
+Mon Jan 2 1978,Swansea City,3-0,Wimbledon
+Mon Jan 2 1978,Scunthorpe United,3-0,Stockport County
+Mon Jan 2 1978,Watford,1-0,Hartlepool United
+Mon Jan 2 1978,Torquay United,2-0,Doncaster Rovers
+Mon Jan 2 1978,Darlington,2-0,Reading
+Mon Jan 2 1978,Aldershot,0-0,Southport
+Mon Jan 2 1978,AFC Bournemouth,2-2,Barnsley
+Mon Jan 2 1978,Brentford,1-1,Huddersfield Town
+Mon Jan 2 1978,Southend United,1-1,Grimsby Town
+Mon Jan 2 1978,Newport County,5-3,Northampton Town
+Fri Jan 6 1978,Stockport County,2-1,Aldershot
+Sat Jan 7 1978,Wimbledon,1-1,Brentford
+Sat Jan 7 1978,York City,2-0,Newport County
+Sat Jan 7 1978,Huddersfield Town,3-1,Rochdale
+Sat Jan 7 1978,Barnsley,2-1,Darlington
+Sat Jan 7 1978,Crewe Alexandra,1-1,Scunthorpe United
+Sat Jan 7 1978,Southport,0-0,Torquay United
+Sat Jan 7 1978,Reading,0-0,AFC Bournemouth
+Tue Jan 10 1978,Doncaster Rovers,1-1,Swansea City
+Fri Jan 13 1978,Watford,1-0,Stockport County
+Fri Jan 13 1978,Southend United,0-2,Reading
+Sat Jan 14 1978,Darlington,1-2,Grimsby Town
+Sat Jan 14 1978,Scunthorpe United,0-2,Southport
+Sat Jan 14 1978,Northampton Town,2-2,Brentford
+Sat Jan 14 1978,Newport County,1-0,Doncaster Rovers
+Sat Jan 14 1978,Swansea City,1-0,Huddersfield Town
+Sat Jan 14 1978,AFC Bournemouth,1-0,Crewe Alexandra
+Sat Jan 14 1978,Torquay United,0-0,Hartlepool United
+Sat Jan 14 1978,Halifax Town,1-2,Wimbledon
+Sat Jan 14 1978,Rochdale,1-1,Barnsley
+Sat Jan 14 1978,Aldershot,1-1,York City
+Sat Jan 21 1978,Grimsby Town,0-0,Stockport County
+Sat Jan 21 1978,AFC Bournemouth,1-1,Scunthorpe United
+Sat Jan 21 1978,Wimbledon,0-1,Torquay United
+Sat Jan 21 1978,Huddersfield Town,2-0,Newport County
+Sat Jan 21 1978,York City,0-4,Watford
+Tue Jan 24 1978,Darlington,1-0,Rochdale
+Fri Jan 27 1978,Southend United,5-1,AFC Bournemouth
+Fri Jan 27 1978,Stockport County,2-0,York City
+Sat Jan 28 1978,Watford,6-0,Doncaster Rovers
+Sat Jan 28 1978,Torquay United,2-1,Northampton Town
+Sat Jan 28 1978,Aldershot,3-3,Huddersfield Town
+Sat Jan 28 1978,Brentford,5-1,Crewe Alexandra
+Sat Jan 28 1978,Swansea City,1-2,Darlington
+Wed Feb 1 1978,Crewe Alexandra,0-1,Southend United
+Fri Feb 3 1978,Southend United,2-0,Scunthorpe United
+Sat Feb 4 1978,Northampton Town,1-0,Southport
+Sat Feb 4 1978,Darlington,2-1,Newport County
+Sat Feb 4 1978,Grimsby Town,3-2,York City
+Sat Feb 4 1978,AFC Bournemouth,3-2,Brentford
+Sat Feb 4 1978,Doncaster Rovers,1-0,Stockport County
+Tue Feb 7 1978,Hartlepool United,1-1,Halifax Town
+Tue Feb 7 1978,Barnsley,2-0,Aldershot
+Wed Feb 8 1978,Reading,3-3,Torquay United
+Sat Feb 11 1978,Newport County,3-0,Rochdale
+Sat Feb 11 1978,Wimbledon,0-0,Scunthorpe United
+Sat Feb 11 1978,Watford,0-0,Barnsley
+Fri Feb 17 1978,Southend United,5-0,Halifax Town
+Fri Feb 17 1978,Swansea City,4-0,Newport County
+Sat Feb 18 1978,Reading,2-3,Hartlepool United
+Sat Feb 18 1978,Barnsley,0-1,Stockport County
+Mon Feb 20 1978,Wimbledon,3-0,Hartlepool United
+Wed Feb 22 1978,Crewe Alexandra,0-0,Halifax Town
+Fri Feb 24 1978,York City,1-2,Barnsley
+Fri Feb 24 1978,Stockport County,1-0,Darlington
+Fri Feb 24 1978,Wimbledon,1-1,Reading
+Sat Feb 25 1978,Doncaster Rovers,4-3,Huddersfield Town
+Sat Feb 25 1978,Halifax Town,1-1,Brentford
+Sat Feb 25 1978,Southport,0-0,AFC Bournemouth
+Sat Feb 25 1978,Aldershot,2-2,Swansea City
+Sat Feb 25 1978,Hartlepool United,1-1,Crewe Alexandra
+Sat Feb 25 1978,Watford,1-0,Rochdale
+Sat Feb 25 1978,Northampton Town,1-2,Scunthorpe United
+Sat Feb 25 1978,Grimsby Town,1-0,Newport County
+Mon Feb 27 1978,Stockport County,0-1,Huddersfield Town
+Mon Feb 27 1978,Rochdale,2-1,Swansea City
+Tue Feb 28 1978,Newport County,3-1,Barnsley
+Tue Feb 28 1978,Doncaster Rovers,0-1,Grimsby Town
+Tue Feb 28 1978,Northampton Town,0-3,Wimbledon
+Tue Feb 28 1978,York City,1-2,Southend United
+Tue Feb 28 1978,Halifax Town,0-0,AFC Bournemouth
+Tue Feb 28 1978,Hartlepool United,2-1,Southport
+Tue Feb 28 1978,Aldershot,3-2,Darlington
+Wed Mar 1 1978,Torquay United,1-2,Crewe Alexandra
+Fri Mar 3 1978,Swansea City,3-3,Watford
+Fri Mar 3 1978,Scunthorpe United,2-1,Grimsby Town
+Sat Mar 4 1978,Barnsley,0-0,Doncaster Rovers
+Sat Mar 4 1978,Brentford,3-0,Torquay United
+Sat Mar 4 1978,Southend United,4-2,Southport
+Sat Mar 4 1978,Huddersfield Town,2-2,Halifax Town
+Sat Mar 4 1978,Darlington,0-2,York City
+Sat Mar 4 1978,Reading,0-0,Northampton Town
+Sat Mar 4 1978,AFC Bournemouth,1-0,Hartlepool United
+Sat Mar 4 1978,Rochdale,2-1,Stockport County
+Sat Mar 4 1978,Newport County,2-1,Aldershot
+Sat Mar 4 1978,Crewe Alexandra,0-0,Wimbledon
+Mon Mar 6 1978,Brentford,4-0,Rochdale
+Mon Mar 6 1978,Stockport County,1-2,Northampton Town
+Tue Mar 7 1978,Newport County,1-0,Crewe Alexandra
+Tue Mar 7 1978,Halifax Town,0-2,Darlington
+Tue Mar 7 1978,Swansea City,0-0,Southend United
+Tue Mar 7 1978,Scunthorpe United,1-0,Barnsley
+Tue Mar 7 1978,Southport,1-1,Doncaster Rovers
+Tue Mar 7 1978,Watford,1-0,Reading
+Tue Mar 7 1978,York City,0-0,AFC Bournemouth
+Tue Mar 7 1978,Hartlepool United,3-1,Grimsby Town
+Wed Mar 8 1978,Aldershot,3-1,Wimbledon
+Wed Mar 8 1978,Torquay United,2-1,Huddersfield Town
+Fri Mar 10 1978,Stockport County,2-0,Newport County
+Fri Mar 10 1978,Doncaster Rovers,1-1,Rochdale
+Sat Mar 11 1978,Southport,1-3,Brentford
+Sat Mar 11 1978,Wimbledon,3-1,AFC Bournemouth
+Sat Mar 11 1978,York City,2-1,Swansea City
+Sat Mar 11 1978,Huddersfield Town,2-1,Darlington
+Sat Mar 11 1978,Reading,1-0,Scunthorpe United
+Sat Mar 11 1978,Torquay United,2-2,Halifax Town
+Sat Mar 11 1978,Hartlepool United,1-0,Southend United
+Sat Mar 11 1978,Grimsby Town,1-0,Barnsley
+Sat Mar 11 1978,Watford,1-0,Aldershot
+Sat Mar 11 1978,Northampton Town,0-0,Crewe Alexandra
+Tue Mar 14 1978,Southport,1-1,Reading
+Tue Mar 14 1978,AFC Bournemouth,1-1,Torquay United
+Tue Mar 14 1978,Scunthorpe United,1-1,Brentford
+Tue Mar 14 1978,Hartlepool United,4-2,York City
+Tue Mar 14 1978,Huddersfield Town,1-0,Watford
+Tue Mar 14 1978,Northampton Town,1-2,Halifax Town
+Fri Mar 17 1978,Newport County,2-2,Watford
+Fri Mar 17 1978,Southend United,1-0,Wimbledon
+Fri Mar 17 1978,Aldershot,4-2,Grimsby Town
+Fri Mar 17 1978,Swansea City,3-1,Stockport County
+Fri Mar 17 1978,AFC Bournemouth,1-1,Northampton Town
+Fri Mar 17 1978,Crewe Alexandra,1-1,Reading
+Sat Mar 18 1978,Barnsley,1-1,Huddersfield Town
+Sat Mar 18 1978,Brentford,2-0,Hartlepool United
+Sat Mar 18 1978,Scunthorpe United,0-1,Torquay United
+Sat Mar 18 1978,Darlington,1-1,Doncaster Rovers
+Sat Mar 18 1978,Rochdale,1-2,York City
+Sat Mar 18 1978,Halifax Town,2-1,Southport
+Mon Mar 20 1978,Rochdale,1-3,Grimsby Town
+Tue Mar 21 1978,Northampton Town,0-0,Southend United
+Wed Mar 22 1978,Torquay United,2-0,Newport County
+Fri Mar 24 1978,AFC Bournemouth,0-0,Aldershot
+Fri Mar 24 1978,Reading,1-4,Swansea City
+Fri Mar 24 1978,Hartlepool United,1-2,Barnsley
+Fri Mar 24 1978,Crewe Alexandra,2-2,Watford
+Fri Mar 24 1978,York City,0-2,Scunthorpe United
+Fri Mar 24 1978,Southport,2-0,Stockport County
+Fri Mar 24 1978,Grimsby Town,1-0,Huddersfield Town
+Fri Mar 24 1978,Southend United,2-1,Brentford
+Sat Mar 25 1978,Huddersfield Town,3-0,Crewe Alexandra
+Sat Mar 25 1978,Newport County,1-2,Brentford
+Sat Mar 25 1978,Grimsby Town,0-1,Northampton Town
+Sat Mar 25 1978,Darlington,1-2,Hartlepool United
+Sat Mar 25 1978,Watford,1-0,Torquay United
+Sat Mar 25 1978,Barnsley,2-1,Southport
+Sat Mar 25 1978,Doncaster Rovers,0-2,Wimbledon
+Sat Mar 25 1978,Swansea City,1-0,AFC Bournemouth
+Sat Mar 25 1978,Aldershot,3-0,Southend United
+Sat Mar 25 1978,Stockport County,1-3,Halifax Town
+Mon Mar 27 1978,Reading,2-1,Stockport County
+Mon Mar 27 1978,Halifax Town,0-0,Grimsby Town
+Mon Mar 27 1978,Southend United,1-3,Huddersfield Town
+Mon Mar 27 1978,Scunthorpe United,0-0,Doncaster Rovers
+Mon Mar 27 1978,Wimbledon,5-1,Rochdale
+Mon Mar 27 1978,Torquay United,2-4,Swansea City
+Mon Mar 27 1978,Brentford,2-0,Aldershot
+Mon Mar 27 1978,Southport,1-0,Darlington
+Mon Mar 27 1978,Crewe Alexandra,2-1,Barnsley
+Tue Mar 28 1978,Doncaster Rovers,1-1,York City
+Tue Mar 28 1978,AFC Bournemouth,4-2,Newport County
+Tue Mar 28 1978,Northampton Town,0-2,Watford
+Tue Mar 28 1978,Halifax Town,2-2,Scunthorpe United
+Fri Mar 31 1978,York City,1-1,Halifax Town
+Fri Mar 31 1978,Barnsley,3-0,AFC Bournemouth
+Fri Mar 31 1978,Stockport County,1-1,Scunthorpe United
+Sat Apr 1 1978,Aldershot,2-1,Northampton Town
+Sat Apr 1 1978,Doncaster Rovers,1-0,Torquay United
+Sat Apr 1 1978,Darlington,2-0,Crewe Alexandra
+Sat Apr 1 1978,Watford,2-0,Wimbledon
+Sat Apr 1 1978,Swansea City,8-0,Hartlepool United
+Sat Apr 1 1978,Huddersfield Town,1-3,Brentford
+Sat Apr 1 1978,Rochdale,2-1,Southport
+Sat Apr 1 1978,Newport County,0-0,Reading
+Sat Apr 1 1978,Grimsby Town,2-0,Southend United
+Mon Apr 3 1978,Darlington,0-0,Torquay United
+Mon Apr 3 1978,Brentford,4-0,Stockport County
+Mon Apr 3 1978,Southend United,4-0,Doncaster Rovers
+Tue Apr 4 1978,Rochdale,0-1,Hartlepool United
+Tue Apr 4 1978,Aldershot,1-1,Reading
+Tue Apr 4 1978,Scunthorpe United,2-0,Newport County
+Tue Apr 4 1978,AFC Bournemouth,1-2,Watford
+Tue Apr 4 1978,York City,1-1,Crewe Alexandra
+Tue Apr 4 1978,Huddersfield Town,0-1,Northampton Town
+Tue Apr 4 1978,Southport,0-3,Swansea City
+Tue Apr 4 1978,Wimbledon,2-2,Grimsby Town
+Tue Apr 4 1978,Barnsley,3-2,Halifax Town
+Fri Apr 7 1978,Southport,4-1,York City
+Fri Apr 7 1978,Southend United,2-0,Darlington
+Sat Apr 8 1978,Northampton Town,0-0,Doncaster Rovers
+Sat Apr 8 1978,AFC Bournemouth,1-0,Rochdale
+Sat Apr 8 1978,Crewe Alexandra,2-1,Swansea City
+Sat Apr 8 1978,Hartlepool United,2-0,Stockport County
+Sat Apr 8 1978,Brentford,2-0,Barnsley
+Sat Apr 8 1978,Halifax Town,3-1,Newport County
+Sat Apr 8 1978,Scunthorpe United,0-1,Watford
+Sat Apr 8 1978,Wimbledon,2-0,Huddersfield Town
+Sat Apr 8 1978,Torquay United,1-2,Aldershot
+Sat Apr 8 1978,Reading,0-0,Grimsby Town
+Tue Apr 11 1978,Hartlepool United,0-2,Northampton Town
+Tue Apr 11 1978,Doncaster Rovers,4-3,Aldershot
+Tue Apr 11 1978,Barnsley,0-2,Swansea City
+Tue Apr 11 1978,Grimsby Town,1-1,Watford
+Tue Apr 11 1978,Crewe Alexandra,2-0,Southport
+Tue Apr 11 1978,Huddersfield Town,1-2,York City
+Wed Apr 12 1978,Reading,0-0,Brentford
+Fri Apr 14 1978,Stockport County,3-0,Torquay United
+Sat Apr 15 1978,Grimsby Town,2-2,Crewe Alexandra
+Sat Apr 15 1978,Aldershot,0-0,Halifax Town
+Sat Apr 15 1978,Watford,1-1,Southend United
+Sat Apr 15 1978,Rochdale,1-1,Scunthorpe United
+Sat Apr 15 1978,Huddersfield Town,0-2,Reading
+Sat Apr 15 1978,Newport County,1-1,Southport
+Sat Apr 15 1978,Darlington,1-0,AFC Bournemouth
+Sat Apr 15 1978,Barnsley,2-3,Northampton Town
+Sat Apr 15 1978,Swansea City,2-1,Brentford
+Sat Apr 15 1978,Doncaster Rovers,2-0,Hartlepool United
+Sat Apr 15 1978,York City,1-1,Wimbledon
+Mon Apr 17 1978,Southport,0-5,Wimbledon
+Tue Apr 18 1978,Brentford,2-2,Doncaster Rovers
+Tue Apr 18 1978,Torquay United,0-1,Southend United
+Tue Apr 18 1978,Darlington,0-0,Watford
+Tue Apr 18 1978,Grimsby Town,2-1,Swansea City
+Tue Apr 18 1978,Halifax Town,2-4,Reading
+Tue Apr 18 1978,Scunthorpe United,2-0,Hartlepool United
+Fri Apr 21 1978,Southend United,3-1,Rochdale
+Sat Apr 22 1978,Northampton Town,3-1,Swansea City
+Sat Apr 22 1978,Halifax Town,1-1,Watford
+Sat Apr 22 1978,Southport,1-1,Huddersfield Town
+Sat Apr 22 1978,Reading,0-0,Barnsley
+Sat Apr 22 1978,Torquay United,3-0,York City
+Sat Apr 22 1978,Hartlepool United,1-1,Newport County
+Sat Apr 22 1978,AFC Bournemouth,1-0,Grimsby Town
+Sat Apr 22 1978,Brentford,2-0,Darlington
+Sat Apr 22 1978,Wimbledon,2-0,Stockport County
+Sat Apr 22 1978,Scunthorpe United,1-1,Aldershot
+Sat Apr 22 1978,Crewe Alexandra,2-0,Doncaster Rovers
+Mon Apr 24 1978,Stockport County,1-0,Southend United
+Mon Apr 24 1978,Rochdale,1-0,Reading
+Tue Apr 25 1978,Newport County,0-1,Wimbledon
+Tue Apr 25 1978,Crewe Alexandra,0-2,Aldershot
+Tue Apr 25 1978,Northampton Town,2-2,Darlington
+Tue Apr 25 1978,Hartlepool United,3-2,Huddersfield Town
+Tue Apr 25 1978,Watford,1-1,Brentford
+Tue Apr 25 1978,Doncaster Rovers,0-0,AFC Bournemouth
+Tue Apr 25 1978,Grimsby Town,2-0,Southport
+Tue Apr 25 1978,Swansea City,3-1,Scunthorpe United
+Wed Apr 26 1978,Reading,1-0,York City
+Wed Apr 26 1978,Torquay United,3-1,Barnsley
+Fri Apr 28 1978,Stockport County,1-2,Crewe Alexandra
+Sat Apr 29 1978,Rochdale,1-3,Torquay United
+Sat Apr 29 1978,York City,0-3,Northampton Town
+Sat Apr 29 1978,Swansea City,2-0,Halifax Town
+Sat Apr 29 1978,Doncaster Rovers,2-2,Reading
+Sat Apr 29 1978,Barnsley,3-2,Wimbledon
+Sat Apr 29 1978,Aldershot,3-0,Hartlepool United
+Sat Apr 29 1978,Grimsby Town,2-1,Brentford
+Sat Apr 29 1978,Huddersfield Town,2-0,AFC Bournemouth
+Sat Apr 29 1978,Darlington,1-1,Scunthorpe United
+Sat Apr 29 1978,Watford,3-2,Southport
+Sat Apr 29 1978,Newport County,1-2,Southend United
+Mon May 1 1978,Rochdale,0-0,Aldershot

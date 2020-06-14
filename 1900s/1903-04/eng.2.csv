@@ -1,0 +1,307 @@
+Date,Team 1,FT,Team 2
+Tue Sep 1 1903,Bolton Wanderers,3-0,Burton United
+Tue Sep 1 1903,Grimsby Town,2-0,Bradford City
+Sat Sep 5 1903,Stockport County,1-5,Preston North End
+Sat Sep 5 1903,Chesterfield,0-0,Burnley
+Sat Sep 5 1903,Lincoln City,2-1,Grimsby Town
+Sat Sep 5 1903,Barnsley,1-1,Leicester City
+Sat Sep 5 1903,Manchester United,2-2,Bristol City
+Sat Sep 5 1903,Arsenal,3-0,Blackpool
+Sat Sep 5 1903,Glossop North End,0-1,Burton United
+Sat Sep 5 1903,Bradford City,1-3,Gainsborough Trinity
+Mon Sep 7 1903,Burnley,2-0,Manchester United
+Mon Sep 7 1903,Port Vale,2-3,Bolton Wanderers
+Sat Sep 12 1903,Grimsby Town,2-1,Stockport County
+Sat Sep 12 1903,Leicester City,2-2,Lincoln City
+Sat Sep 12 1903,Blackpool,0-2,Barnsley
+Sat Sep 12 1903,Preston North End,2-1,Chesterfield
+Sat Sep 12 1903,Gainsborough Trinity,0-2,Arsenal
+Sat Sep 12 1903,Bristol City,5-0,Glossop North End
+Sat Sep 12 1903,Burton United,0-2,Bradford City
+Sat Sep 12 1903,Port Vale,1-0,Manchester United
+Sat Sep 12 1903,Burnley,0-0,Bolton Wanderers
+Sat Sep 19 1903,Barnsley,2-0,Gainsborough Trinity
+Sat Sep 19 1903,Burnley,1-0,Port Vale
+Sat Sep 19 1903,Lincoln City,0-0,Blackpool
+Sat Sep 19 1903,Glossop North End,0-5,Manchester United
+Sat Sep 19 1903,Stockport County,2-0,Leicester City
+Sat Sep 19 1903,Bolton Wanderers,0-2,Preston North End
+Sat Sep 19 1903,Chesterfield,0-1,Grimsby Town
+Sat Sep 19 1903,Arsenal,8-0,Burton United
+Sat Sep 19 1903,Bradford City,1-0,Bristol City
+Sat Sep 26 1903,Gainsborough Trinity,0-0,Lincoln City
+Sat Sep 26 1903,Bristol City,0-4,Arsenal
+Sat Sep 26 1903,Burton United,1-1,Barnsley
+Sat Sep 26 1903,Grimsby Town,0-0,Bolton Wanderers
+Sat Sep 26 1903,Preston North End,2-0,Burnley
+Sat Sep 26 1903,Blackpool,4-1,Stockport County
+Sat Sep 26 1903,Leicester City,0-0,Chesterfield
+Sat Sep 26 1903,Manchester United,3-1,Bradford City
+Sat Sep 26 1903,Port Vale,1-1,Glossop North End
+Sat Oct 3 1903,Arsenal,4-0,Manchester United
+Sat Oct 3 1903,Barnsley,2-0,Bristol City
+Sat Oct 3 1903,Bolton Wanderers,3-1,Leicester City
+Sat Oct 3 1903,Preston North End,3-1,Port Vale
+Sat Oct 3 1903,Lincoln City,1-0,Burton United
+Sat Oct 3 1903,Burnley,2-0,Grimsby Town
+Sat Oct 3 1903,Stockport County,1-4,Gainsborough Trinity
+Sat Oct 3 1903,Chesterfield,2-1,Blackpool
+Sat Oct 10 1903,Port Vale,5-2,Bradford City
+Sat Oct 10 1903,Blackpool,1-4,Bolton Wanderers
+Sat Oct 10 1903,Burton United,7-0,Stockport County
+Sat Oct 10 1903,Glossop North End,1-3,Arsenal
+Sat Oct 10 1903,Bristol City,3-1,Lincoln City
+Sat Oct 10 1903,Leicester City,0-0,Burnley
+Sat Oct 10 1903,Gainsborough Trinity,1-0,Chesterfield
+Sat Oct 10 1903,Grimsby Town,1-1,Preston North End
+Sat Oct 10 1903,Manchester United,4-0,Barnsley
+Sat Oct 17 1903,Grimsby Town,3-1,Port Vale
+Sat Oct 17 1903,Chesterfield,2-1,Burton United
+Sat Oct 17 1903,Preston North End,4-3,Leicester City
+Sat Oct 17 1903,Bolton Wanderers,5-0,Gainsborough Trinity
+Sat Oct 17 1903,Stockport County,1-1,Bristol City
+Sat Oct 17 1903,Barnsley,4-0,Glossop North End
+Sat Oct 17 1903,Burnley,1-4,Blackpool
+Sat Oct 17 1903,Lincoln City,0-0,Manchester United
+Sat Oct 24 1903,Glossop North End,5-0,Lincoln City
+Sat Oct 24 1903,Burton United,2-1,Bolton Wanderers
+Sat Oct 24 1903,Manchester United,3-1,Stockport County
+Sat Oct 24 1903,Bristol City,3-2,Chesterfield
+Sat Oct 24 1903,Leicester City,1-1,Grimsby Town
+Sat Oct 24 1903,Bradford City,3-1,Barnsley
+Sat Oct 24 1903,Port Vale,2-3,Arsenal
+Sat Oct 24 1903,Gainsborough Trinity,1-2,Burnley
+Sat Oct 24 1903,Blackpool,0-3,Preston North End
+Mon Oct 26 1903,Arsenal,8-0,Leicester City
+Sat Oct 31 1903,Preston North End,2-0,Grimsby Town
+Sat Oct 31 1903,Barnsley,2-1,Arsenal
+Sat Oct 31 1903,Bolton Wanderers,1-1,Bristol City
+Sat Nov 7 1903,Bristol City,6-0,Burnley
+Sat Nov 7 1903,Manchester United,0-0,Bolton Wanderers
+Sat Nov 7 1903,Glossop North End,0-2,Chesterfield
+Sat Nov 7 1903,Arsenal,4-0,Lincoln City
+Sat Nov 7 1903,Blackpool,1-2,Leicester City
+Sat Nov 7 1903,Port Vale,3-0,Barnsley
+Sat Nov 14 1903,Preston North End,3-0,Bristol City
+Sat Nov 14 1903,Bolton Wanderers,0-1,Glossop North End
+Sat Nov 21 1903,Arsenal,6-0,Chesterfield
+Sat Nov 21 1903,Glossop North End,6-2,Burnley
+Sat Nov 21 1903,Bradford City,3-3,Bolton Wanderers
+Sat Nov 21 1903,Burton United,0-0,Leicester City
+Sat Nov 21 1903,Gainsborough Trinity,3-1,Blackpool
+Sat Nov 21 1903,Bristol City,4-0,Grimsby Town
+Sat Nov 21 1903,Manchester United,0-2,Preston North End
+Sat Nov 21 1903,Port Vale,2-2,Lincoln City
+Sat Nov 21 1903,Barnsley,0-0,Stockport County
+Sat Nov 28 1903,Stockport County,4-0,Lincoln City
+Sat Nov 28 1903,Preston North End,3-0,Glossop North End
+Sat Nov 28 1903,Burnley,3-2,Bradford City
+Sat Nov 28 1903,Bolton Wanderers,2-1,Arsenal
+Sat Dec 5 1903,Port Vale,2-0,Stockport County
+Sat Dec 5 1903,Glossop North End,1-1,Grimsby Town
+Sat Dec 5 1903,Burton United,2-1,Gainsborough Trinity
+Sat Dec 5 1903,Bristol City,5-0,Blackpool
+Sat Dec 5 1903,Bradford City,1-1,Preston North End
+Sat Dec 5 1903,Lincoln City,0-2,Chesterfield
+Sat Dec 12 1903,Bradford City,0-0,Stockport County
+Sat Dec 12 1903,Bolton Wanderers,1-2,Lincoln City
+Sat Dec 12 1903,Leicester City,4-2,Glossop North End
+Sat Dec 19 1903,Chesterfield,1-1,Port Vale
+Sat Dec 19 1903,Barnsley,1-0,Preston North End
+Sat Dec 19 1903,Stockport County,3-2,Bolton Wanderers
+Sat Dec 19 1903,Bradford City,4-0,Leicester City
+Sat Dec 19 1903,Manchester United,4-2,Gainsborough Trinity
+Sat Dec 19 1903,Lincoln City,3-1,Burnley
+Sat Dec 19 1903,Glossop North End,0-1,Blackpool
+Sat Dec 19 1903,Arsenal,5-1,Grimsby Town
+Sat Dec 19 1903,Bristol City,4-0,Burton United
+Fri Dec 25 1903,Leicester City,1-1,Port Vale
+Fri Dec 25 1903,Burnley,2-1,Burton United
+Fri Dec 25 1903,Blackpool,3-2,Glossop North End
+Fri Dec 25 1903,Manchester United,3-1,Chesterfield
+Fri Dec 25 1903,Preston North End,2-0,Gainsborough Trinity
+Fri Dec 25 1903,Arsenal,4-1,Bradford City
+Fri Dec 25 1903,Lincoln City,3-1,Stockport County
+Fri Dec 25 1903,Bolton Wanderers,5-1,Barnsley
+Sat Dec 26 1903,Burnley,2-0,Stockport County
+Sat Dec 26 1903,Leicester City,0-0,Arsenal
+Sat Dec 26 1903,Gainsborough Trinity,0-1,Glossop North End
+Sat Dec 26 1903,Port Vale,3-1,Bristol City
+Sat Dec 26 1903,Preston North End,2-1,Lincoln City
+Sat Dec 26 1903,Blackpool,0-1,Bradford City
+Sat Dec 26 1903,Grimsby Town,5-1,Barnsley
+Sat Dec 26 1903,Bolton Wanderers,4-0,Chesterfield
+Sat Dec 26 1903,Burton United,2-2,Manchester United
+Mon Dec 28 1903,Bradford City,1-1,Port Vale
+Mon Dec 28 1903,Burton United,0-0,Preston North End
+Mon Dec 28 1903,Chesterfield,4-1,Stockport County
+Mon Dec 28 1903,Lincoln City,0-0,Barnsley
+Tue Dec 29 1903,Gainsborough Trinity,3-0,Port Vale
+Fri Jan 1 1904,Bolton Wanderers,3-0,Blackpool
+Fri Jan 1 1904,Stockport County,0-0,Arsenal
+Sat Jan 2 1904,Bolton Wanderers,5-0,Port Vale
+Sat Jan 2 1904,Preston North End,1-1,Stockport County
+Sat Jan 2 1904,Leicester City,2-0,Barnsley
+Sat Jan 2 1904,Bristol City,1-1,Manchester United
+Sat Jan 2 1904,Gainsborough Trinity,3-0,Bradford City
+Sat Jan 2 1904,Blackpool,2-2,Arsenal
+Sat Jan 2 1904,Burnley,2-1,Chesterfield
+Sat Jan 2 1904,Grimsby Town,1-1,Lincoln City
+Sat Jan 2 1904,Burton United,2-0,Glossop North End
+Sat Jan 9 1904,Bradford City,3-0,Burton United
+Sat Jan 9 1904,Arsenal,6-0,Gainsborough Trinity
+Sat Jan 9 1904,Chesterfield,0-1,Preston North End
+Sat Jan 9 1904,Glossop North End,1-1,Bristol City
+Sat Jan 9 1904,Stockport County,1-1,Grimsby Town
+Sat Jan 9 1904,Bolton Wanderers,1-1,Burnley
+Sat Jan 9 1904,Barnsley,2-2,Blackpool
+Sat Jan 9 1904,Lincoln City,6-1,Leicester City
+Sat Jan 9 1904,Manchester United,2-0,Port Vale
+Sat Jan 16 1904,Port Vale,2-2,Burnley
+Sat Jan 16 1904,Preston North End,3-1,Bolton Wanderers
+Sat Jan 16 1904,Bristol City,1-1,Bradford City
+Sat Jan 16 1904,Manchester United,3-1,Glossop North End
+Sat Jan 16 1904,Gainsborough Trinity,4-2,Barnsley
+Sat Jan 16 1904,Burton United,3-1,Arsenal
+Sat Jan 16 1904,Grimsby Town,1-0,Chesterfield
+Sat Jan 16 1904,Blackpool,2-1,Lincoln City
+Sat Jan 16 1904,Leicester City,3-0,Stockport County
+Sat Jan 23 1904,Glossop North End,4-1,Port Vale
+Sat Jan 23 1904,Stockport County,2-1,Blackpool
+Sat Jan 23 1904,Burnley,2-1,Preston North End
+Sat Jan 23 1904,Bolton Wanderers,4-0,Grimsby Town
+Sat Jan 23 1904,Barnsley,2-1,Burton United
+Sat Jan 23 1904,Chesterfield,2-0,Leicester City
+Sat Jan 23 1904,Bradford City,3-3,Manchester United
+Sat Jan 23 1904,Lincoln City,0-1,Gainsborough Trinity
+Sat Jan 30 1904,Burton United,5-2,Lincoln City
+Sat Jan 30 1904,Grimsby Town,0-0,Burnley
+Sat Jan 30 1904,Manchester United,1-0,Arsenal
+Sat Jan 30 1904,Gainsborough Trinity,2-2,Stockport County
+Sat Jan 30 1904,Leicester City,2-2,Bolton Wanderers
+Sat Jan 30 1904,Blackpool,0-0,Chesterfield
+Sat Jan 30 1904,Port Vale,0-1,Preston North End
+Sat Jan 30 1904,Bristol City,2-0,Barnsley
+Sat Feb 6 1904,Bradford City,2-1,Glossop North End
+Sat Feb 6 1904,Stockport County,1-1,Burton United
+Sat Feb 6 1904,Chesterfield,6-1,Gainsborough Trinity
+Sat Feb 6 1904,Burnley,2-1,Leicester City
+Sat Feb 13 1904,Port Vale,1-2,Grimsby Town
+Sat Feb 13 1904,Burton United,4-0,Chesterfield
+Sat Feb 13 1904,Manchester United,2-0,Lincoln City
+Sat Feb 13 1904,Blackpool,0-5,Burnley
+Sat Feb 13 1904,Bristol City,6-0,Stockport County
+Sat Feb 13 1904,Gainsborough Trinity,3-1,Bolton Wanderers
+Sat Feb 13 1904,Leicester City,1-4,Preston North End
+Sat Feb 13 1904,Glossop North End,7-0,Barnsley
+Sat Feb 20 1904,Blackpool,4-1,Burton United
+Sat Feb 20 1904,Burnley,2-0,Gainsborough Trinity
+Sat Feb 20 1904,Chesterfield,1-0,Bristol City
+Sat Feb 20 1904,Grimsby Town,4-3,Leicester City
+Sat Feb 20 1904,Barnsley,1-2,Bradford City
+Sat Feb 20 1904,Lincoln City,3-1,Glossop North End
+Thu Feb 25 1904,Leicester City,1-0,Bristol City
+Sat Feb 27 1904,Burton United,1-2,Burnley
+Sat Feb 27 1904,Glossop North End,5-1,Stockport County
+Sat Feb 27 1904,Bradford City,2-1,Lincoln City
+Sat Feb 27 1904,Bristol City,2-0,Bolton Wanderers
+Sat Feb 27 1904,Blackpool,3-0,Grimsby Town
+Sat Feb 27 1904,Port Vale,6-2,Leicester City
+Sat Feb 27 1904,Arsenal,3-0,Barnsley
+Sat Feb 27 1904,Gainsborough Trinity,2-0,Preston North End
+Mon Feb 29 1904,Arsenal,4-0,Burnley
+Tue Mar 1 1904,Glossop North End,2-0,Bradford City
+Sat Mar 5 1904,Lincoln City,0-2,Arsenal
+Sat Mar 5 1904,Stockport County,2-0,Bradford City
+Sat Mar 5 1904,Leicester City,5-1,Blackpool
+Sat Mar 5 1904,Grimsby Town,3-1,Gainsborough Trinity
+Sat Mar 5 1904,Burnley,2-3,Bristol City
+Sat Mar 5 1904,Chesterfield,0-0,Glossop North End
+Sat Mar 5 1904,Barnsley,1-0,Port Vale
+Sat Mar 5 1904,Preston North End,4-0,Burton United
+Mon Mar 7 1904,Lincoln City,2-6,Bristol City
+Wed Mar 9 1904,Blackpool,2-1,Manchester United
+Sat Mar 12 1904,Arsenal,5-2,Stockport County
+Sat Mar 12 1904,Bradford City,2-6,Chesterfield
+Sat Mar 12 1904,Gainsborough Trinity,4-0,Leicester City
+Sat Mar 12 1904,Glossop North End,3-3,Bolton Wanderers
+Sat Mar 12 1904,Port Vale,5-0,Blackpool
+Sat Mar 12 1904,Bristol City,3-1,Preston North End
+Sat Mar 12 1904,Barnsley,2-1,Lincoln City
+Sat Mar 12 1904,Manchester United,3-1,Burnley
+Sat Mar 12 1904,Burton United,1-0,Grimsby Town
+Mon Mar 14 1904,Arsenal,2-0,Bristol City
+Sat Mar 19 1904,Lincoln City,3-2,Port Vale
+Sat Mar 19 1904,Burnley,2-4,Glossop North End
+Sat Mar 19 1904,Blackpool,2-1,Gainsborough Trinity
+Sat Mar 19 1904,Grimsby Town,2-0,Bristol City
+Sat Mar 19 1904,Preston North End,1-1,Manchester United
+Sat Mar 19 1904,Chesterfield,1-0,Arsenal
+Sat Mar 19 1904,Stockport County,2-2,Barnsley
+Sat Mar 19 1904,Leicester City,1-3,Burton United
+Sat Mar 26 1904,Burton United,1-1,Blackpool
+Sat Mar 26 1904,Bristol City,4-0,Leicester City
+Sat Mar 26 1904,Bradford City,3-0,Burnley
+Sat Mar 26 1904,Port Vale,3-0,Gainsborough Trinity
+Sat Mar 26 1904,Barnsley,0-0,Chesterfield
+Sat Mar 26 1904,Glossop North End,2-2,Preston North End
+Sat Mar 26 1904,Arsenal,3-0,Bolton Wanderers
+Sat Mar 26 1904,Manchester United,2-0,Grimsby Town
+Mon Mar 28 1904,Stockport County,0-3,Manchester United
+Fri Apr 1 1904,Blackpool,1-0,Port Vale
+Fri Apr 1 1904,Lincoln City,1-0,Bradford City
+Fri Apr 1 1904,Stockport County,3-0,Glossop North End
+Fri Apr 1 1904,Grimsby Town,4-0,Burton United
+Fri Apr 1 1904,Chesterfield,0-2,Manchester United
+Fri Apr 1 1904,Preston North End,0-0,Arsenal
+Fri Apr 1 1904,Gainsborough Trinity,3-1,Bristol City
+Fri Apr 1 1904,Burnley,2-2,Barnsley
+Sat Apr 2 1904,Leicester City,0-1,Manchester United
+Sat Apr 2 1904,Stockport County,1-1,Port Vale
+Sat Apr 2 1904,Grimsby Town,2-0,Glossop North End
+Sat Apr 2 1904,Burnley,1-0,Arsenal
+Sat Apr 2 1904,Chesterfield,0-1,Lincoln City
+Sat Apr 2 1904,Gainsborough Trinity,1-2,Burton United
+Sat Apr 2 1904,Preston North End,4-0,Bradford City
+Sat Apr 2 1904,Blackpool,0-1,Bristol City
+Mon Apr 4 1904,Chesterfield,1-1,Bradford City
+Mon Apr 4 1904,Leicester City,2-2,Gainsborough Trinity
+Mon Apr 4 1904,Grimsby Town,4-0,Blackpool
+Mon Apr 4 1904,Barnsley,1-0,Bolton Wanderers
+Mon Apr 4 1904,Arsenal,2-1,Glossop North End
+Mon Apr 4 1904,Burton United,0-0,Port Vale
+Tue Apr 5 1904,Barnsley,0-2,Manchester United
+Wed Apr 6 1904,Gainsborough Trinity,4-2,Grimsby Town
+Sat Apr 9 1904,Glossop North End,5-0,Leicester City
+Sat Apr 9 1904,Manchester United,3-1,Blackpool
+Sat Apr 9 1904,Barnsley,1-1,Burnley
+Sat Apr 9 1904,Bristol City,2-1,Gainsborough Trinity
+Sat Apr 9 1904,Stockport County,2-0,Chesterfield
+Sat Apr 9 1904,Port Vale,3-1,Burton United
+Sat Apr 9 1904,Lincoln City,1-0,Bolton Wanderers
+Sat Apr 9 1904,Arsenal,0-0,Preston North End
+Sat Apr 9 1904,Bradford City,1-0,Grimsby Town
+Mon Apr 11 1904,Bolton Wanderers,1-0,Bradford City
+Tue Apr 12 1904,Grimsby Town,3-1,Manchester United
+Wed Apr 13 1904,Chesterfield,1-1,Bolton Wanderers
+Sat Apr 16 1904,Bolton Wanderers,0-1,Stockport County
+Sat Apr 16 1904,Port Vale,3-0,Chesterfield
+Sat Apr 16 1904,Burnley,3-1,Lincoln City
+Sat Apr 16 1904,Preston North End,1-1,Barnsley
+Sat Apr 16 1904,Burton United,2-3,Bristol City
+Sat Apr 16 1904,Grimsby Town,2-2,Arsenal
+Sat Apr 16 1904,Leicester City,1-2,Bradford City
+Sat Apr 16 1904,Gainsborough Trinity,0-1,Manchester United
+Tue Apr 19 1904,Bradford City,0-3,Arsenal
+Sat Apr 23 1904,Barnsley,3-1,Grimsby Town
+Sat Apr 23 1904,Stockport County,2-2,Burnley
+Sat Apr 23 1904,Lincoln City,0-0,Preston North End
+Sat Apr 23 1904,Bradford City,0-2,Blackpool
+Sat Apr 23 1904,Manchester United,2-0,Burton United
+Sat Apr 23 1904,Glossop North End,0-2,Gainsborough Trinity
+Sat Apr 23 1904,Bristol City,2-1,Port Vale
+Mon Apr 25 1904,Arsenal,0-0,Port Vale
+Mon Apr 25 1904,Bolton Wanderers,0-0,Manchester United
+Sat Apr 30 1904,Manchester United,5-2,Leicester City
+Sat Apr 30 1904,Chesterfield,1-0,Barnsley
+Sat Apr 30 1904,Preston North End,1-0,Blackpool

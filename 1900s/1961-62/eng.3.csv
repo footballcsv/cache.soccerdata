@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 19 1961,Southend United,2-1,Bradford Park Avenue
+Sat Aug 19 1961,Halifax Town,3-1,Barnsley
+Sat Aug 19 1961,Swindon Town,1-3,Portsmouth
+Sat Aug 19 1961,Queens Park Rangers,3-0,Brentford
+Sat Aug 19 1961,Lincoln City,0-2,AFC Bournemouth
+Sat Aug 19 1961,Torquay United,1-2,Crystal Palace
+Sat Aug 19 1961,Newport County,0-2,Grimsby Town
+Sat Aug 19 1961,Shrewsbury Town,4-2,Port Vale
+Sat Aug 19 1961,Watford,0-0,Northampton Town
+Sat Aug 19 1961,Notts County,1-0,Bristol City
+Sat Aug 19 1961,Peterborough United,3-2,Hull City
+Sat Aug 19 1961,Reading,4-0,Coventry City
+Mon Aug 21 1961,Newport County,0-2,Barnsley
+Mon Aug 21 1961,Queens Park Rangers,3-6,Reading
+Mon Aug 21 1961,Port Vale,4-0,Hull City
+Mon Aug 21 1961,Coventry City,2-1,Swindon Town
+Tue Aug 22 1961,Bristol City,1-0,Northampton Town
+Tue Aug 22 1961,Watford,2-3,Peterborough United
+Tue Aug 22 1961,Brentford,0-2,Halifax Town
+Tue Aug 22 1961,Grimsby Town,2-3,Torquay United
+Wed Aug 23 1961,Bradford Park Avenue,2-0,Lincoln City
+Wed Aug 23 1961,Crystal Palace,4-1,Notts County
+Wed Aug 23 1961,Portsmouth,1-0,Southend United
+Wed Aug 23 1961,AFC Bournemouth,0-0,Shrewsbury Town
+Fri Aug 25 1961,Coventry City,3-0,Newport County
+Sat Aug 26 1961,Barnsley,2-4,Queens Park Rangers
+Sat Aug 26 1961,Brentford,1-2,Reading
+Sat Aug 26 1961,Watford,3-3,Lincoln City
+Sat Aug 26 1961,Grimsby Town,3-1,Southend United
+Sat Aug 26 1961,Hull City,1-0,Northampton Town
+Sat Aug 26 1961,Bristol City,0-1,Shrewsbury Town
+Sat Aug 26 1961,Crystal Palace,3-1,Swindon Town
+Sat Aug 26 1961,Bradford Park Avenue,3-2,Notts County
+Sat Aug 26 1961,Port Vale,0-1,Peterborough United
+Sat Aug 26 1961,AFC Bournemouth,3-1,Torquay United
+Sat Aug 26 1961,Portsmouth,1-1,Halifax Town
+Mon Aug 28 1961,Southend United,2-2,Portsmouth
+Mon Aug 28 1961,Halifax Town,1-0,Brentford
+Mon Aug 28 1961,Peterborough United,4-3,Watford
+Tue Aug 29 1961,Swindon Town,3-3,Coventry City
+Tue Aug 29 1961,Northampton Town,0-1,Bristol City
+Wed Aug 30 1961,Shrewsbury Town,2-2,AFC Bournemouth
+Wed Aug 30 1961,Lincoln City,3-2,Bradford Park Avenue
+Wed Aug 30 1961,Torquay United,1-2,Grimsby Town
+Wed Aug 30 1961,Barnsley,1-1,Newport County
+Wed Aug 30 1961,Reading,0-2,Queens Park Rangers
+Thu Aug 31 1961,Notts County,0-0,Crystal Palace
+Thu Aug 31 1961,Hull City,3-1,Port Vale
+Sat Sep 2 1961,Barnsley,2-3,Reading
+Sat Sep 2 1961,Notts County,2-0,Grimsby Town
+Sat Sep 2 1961,Swindon Town,1-1,AFC Bournemouth
+Sat Sep 2 1961,Lincoln City,0-3,Hull City
+Sat Sep 2 1961,Northampton Town,1-1,Port Vale
+Sat Sep 2 1961,Halifax Town,1-1,Crystal Palace
+Sat Sep 2 1961,Queens Park Rangers,0-1,Portsmouth
+Sat Sep 2 1961,Newport County,6-1,Brentford
+Sat Sep 2 1961,Southend United,2-0,Coventry City
+Sat Sep 2 1961,Torquay United,3-4,Watford
+Sat Sep 2 1961,Shrewsbury Town,4-1,Bradford Park Avenue
+Sat Sep 2 1961,Peterborough United,3-4,Bristol City
+Mon Sep 4 1961,Queens Park Rangers,6-1,Swindon Town
+Mon Sep 4 1961,Coventry City,3-1,Halifax Town
+Mon Sep 4 1961,Port Vale,0-0,Southend United
+Tue Sep 5 1961,Watford,1-1,Shrewsbury Town
+Tue Sep 5 1961,Bristol City,1-2,Newport County
+Tue Sep 5 1961,Grimsby Town,1-0,Brentford
+Wed Sep 6 1961,Bradford Park Avenue,1-3,Reading
+Wed Sep 6 1961,AFC Bournemouth,1-1,Hull City
+Wed Sep 6 1961,Crystal Palace,1-4,Northampton Town
+Wed Sep 6 1961,Portsmouth,0-0,Lincoln City
+Thu Sep 7 1961,Torquay United,6-2,Barnsley
+Thu Sep 7 1961,Notts County,2-2,Peterborough United
+Fri Sep 8 1961,Reading,2-1,Newport County
+Sat Sep 9 1961,Northampton Town,2-2,Lincoln City
+Sat Sep 9 1961,Watford,2-0,Swindon Town
+Sat Sep 9 1961,AFC Bournemouth,2-1,Halifax Town
+Sat Sep 9 1961,Crystal Palace,2-2,Queens Park Rangers
+Sat Sep 9 1961,Hull City,4-0,Torquay United
+Sat Sep 9 1961,Bradford Park Avenue,6-2,Peterborough United
+Sat Sep 9 1961,Grimsby Town,2-1,Shrewsbury Town
+Sat Sep 9 1961,Portsmouth,3-2,Barnsley
+Sat Sep 9 1961,Coventry City,2-2,Notts County
+Sat Sep 9 1961,Bristol City,0-1,Port Vale
+Sat Sep 9 1961,Brentford,0-0,Southend United
+Sat Sep 16 1961,Shrewsbury Town,1-1,Coventry City
+Sat Sep 16 1961,Torquay United,1-2,Northampton Town
+Sat Sep 16 1961,Lincoln City,1-1,Bristol City
+Sat Sep 16 1961,Notts County,3-1,Brentford
+Sat Sep 16 1961,Swindon Town,1-1,Hull City
+Sat Sep 16 1961,Peterborough United,2-1,Grimsby Town
+Sat Sep 16 1961,Barnsley,0-3,Crystal Palace
+Sat Sep 16 1961,Halifax Town,2-0,Watford
+Sat Sep 16 1961,Queens Park Rangers,1-1,AFC Bournemouth
+Sat Sep 16 1961,Southend United,0-2,Reading
+Sat Sep 16 1961,Port Vale,3-2,Bradford Park Avenue
+Sat Sep 16 1961,Portsmouth,2-2,Newport County
+Mon Sep 18 1961,Northampton Town,0-3,AFC Bournemouth
+Mon Sep 18 1961,Newport County,1-2,Bradford Park Avenue
+Mon Sep 18 1961,Southend United,1-0,Bristol City
+Tue Sep 19 1961,Brentford,2-1,Coventry City
+Tue Sep 19 1961,Swindon Town,1-1,Barnsley
+Wed Sep 20 1961,Shrewsbury Town,3-4,Peterborough United
+Wed Sep 20 1961,Torquay United,0-2,Portsmouth
+Wed Sep 20 1961,Reading,1-2,Grimsby Town
+Wed Sep 20 1961,Crystal Palace,1-3,Lincoln City
+Thu Sep 21 1961,Notts County,2-3,Port Vale
+Thu Sep 21 1961,Hull City,1-0,Watford
+Sat Sep 23 1961,Coventry City,1-3,Peterborough United
+Sat Sep 23 1961,Crystal Palace,1-2,Portsmouth
+Sat Sep 23 1961,Newport County,0-3,Southend United
+Sat Sep 23 1961,Hull City,1-2,Halifax Town
+Sat Sep 23 1961,Bradford Park Avenue,2-0,Bristol City
+Sat Sep 23 1961,Reading,4-2,Notts County
+Sat Sep 23 1961,Northampton Town,1-2,Swindon Town
+Sat Sep 23 1961,Brentford,4-0,Shrewsbury Town
+Sat Sep 23 1961,Grimsby Town,1-1,Port Vale
+Sat Sep 23 1961,Watford,3-2,Queens Park Rangers
+Sat Sep 23 1961,Lincoln City,1-3,Torquay United
+Sat Sep 23 1961,AFC Bournemouth,5-0,Barnsley
+Mon Sep 25 1961,Coventry City,2-0,Brentford
+Mon Sep 25 1961,Port Vale,1-0,Notts County
+Mon Sep 25 1961,Queens Park Rangers,6-2,Halifax Town
+Mon Sep 25 1961,Peterborough United,0-3,Shrewsbury Town
+Tue Sep 26 1961,Grimsby Town,4-0,Reading
+Tue Sep 26 1961,Bristol City,3-2,Southend United
+Tue Sep 26 1961,Watford,1-1,Hull City
+Wed Sep 27 1961,Portsmouth,2-0,Torquay United
+Wed Sep 27 1961,AFC Bournemouth,3-2,Northampton Town
+Wed Sep 27 1961,Lincoln City,3-2,Crystal Palace
+Wed Sep 27 1961,Barnsley,6-2,Swindon Town
+Fri Sep 29 1961,Bristol City,3-0,Grimsby Town
+Sat Sep 30 1961,Shrewsbury Town,4-1,Reading
+Sat Sep 30 1961,Swindon Town,4-0,Lincoln City
+Sat Sep 30 1961,Queens Park Rangers,1-1,Hull City
+Sat Sep 30 1961,Crystal Palace,2-2,Southend United
+Sat Sep 30 1961,Port Vale,2-0,Coventry City
+Sat Sep 30 1961,Torquay United,1-3,Bradford Park Avenue
+Sat Sep 30 1961,Barnsley,3-0,Watford
+Sat Sep 30 1961,Notts County,8-1,Newport County
+Sat Sep 30 1961,Peterborough United,6-0,Brentford
+Sat Sep 30 1961,Halifax Town,1-3,Northampton Town
+Sat Sep 30 1961,Portsmouth,1-1,AFC Bournemouth
+Mon Oct 2 1961,Southend United,1-1,Shrewsbury Town
+Mon Oct 2 1961,Newport County,2-3,Peterborough United
+Tue Oct 3 1961,Swindon Town,0-0,Grimsby Town
+Tue Oct 3 1961,Watford,3-2,Crystal Palace
+Tue Oct 3 1961,Bristol City,3-0,Brentford
+Tue Oct 3 1961,Northampton Town,3-1,Barnsley
+Wed Oct 4 1961,AFC Bournemouth,2-1,Notts County
+Wed Oct 4 1961,Reading,0-0,Port Vale
+Fri Oct 6 1961,Coventry City,2-2,Torquay United
+Fri Oct 6 1961,Reading,3-2,Halifax Town
+Sat Oct 7 1961,Newport County,2-4,Queens Park Rangers
+Sat Oct 7 1961,Bristol City,1-1,Hull City
+Sat Oct 7 1961,Brentford,1-0,Swindon Town
+Sat Oct 7 1961,Port Vale,1-3,Watford
+Sat Oct 7 1961,Grimsby Town,4-1,Lincoln City
+Sat Oct 7 1961,Bradford Park Avenue,1-2,Northampton Town
+Sat Oct 7 1961,Notts County,2-1,Portsmouth
+Sat Oct 7 1961,Peterborough United,1-2,AFC Bournemouth
+Sat Oct 7 1961,Shrewsbury Town,1-5,Crystal Palace
+Sat Oct 7 1961,Southend United,1-2,Barnsley
+Mon Oct 9 1961,Queens Park Rangers,1-3,Lincoln City
+Mon Oct 9 1961,Port Vale,2-1,Reading
+Mon Oct 9 1961,Peterborough United,2-1,Newport County
+Mon Oct 9 1961,Coventry City,3-0,Bradford Park Avenue
+Tue Oct 10 1961,Brentford,0-2,Bristol City
+Tue Oct 10 1961,Grimsby Town,0-1,Swindon Town
+Wed Oct 11 1961,Portsmouth,2-1,Hull City
+Wed Oct 11 1961,Crystal Palace,1-1,Watford
+Wed Oct 11 1961,Torquay United,2-3,Halifax Town
+Wed Oct 11 1961,Barnsley,3-2,Northampton Town
+Thu Oct 12 1961,Notts County,3-2,AFC Bournemouth
+Fri Oct 13 1961,Swindon Town,4-1,Reading
+Sat Oct 14 1961,Queens Park Rangers,5-3,Southend United
+Sat Oct 14 1961,Lincoln City,1-2,Coventry City
+Sat Oct 14 1961,Halifax Town,0-0,Newport County
+Sat Oct 14 1961,Watford,1-1,Bristol City
+Sat Oct 14 1961,Crystal Palace,5-2,Peterborough United
+Sat Oct 14 1961,AFC Bournemouth,1-0,Port Vale
+Sat Oct 14 1961,Barnsley,2-0,Notts County
+Sat Oct 14 1961,Hull City,0-1,Bradford Park Avenue
+Sat Oct 14 1961,Northampton Town,7-0,Grimsby Town
+Sat Oct 14 1961,Torquay United,3-1,Brentford
+Sat Oct 14 1961,Portsmouth,3-1,Shrewsbury Town
+Mon Oct 16 1961,Newport County,3-1,Bristol City
+Mon Oct 16 1961,Southend United,4-1,Port Vale
+Mon Oct 16 1961,Bradford Park Avenue,0-0,Coventry City
+Tue Oct 17 1961,Swindon Town,0-0,Queens Park Rangers
+Tue Oct 17 1961,Northampton Town,1-1,Crystal Palace
+Wed Oct 18 1961,Shrewsbury Town,5-1,Watford
+Fri Oct 20 1961,Reading,2-1,Crystal Palace
+Fri Oct 20 1961,Coventry City,1-1,Barnsley
+Sat Oct 21 1961,Shrewsbury Town,1-3,Northampton Town
+Sat Oct 21 1961,Newport County,0-1,AFC Bournemouth
+Sat Oct 21 1961,Bristol City,5-3,Swindon Town
+Sat Oct 21 1961,Brentford,3-2,Portsmouth
+Sat Oct 21 1961,Southend United,0-1,Watford
+Sat Oct 21 1961,Bradford Park Avenue,2-0,Halifax Town
+Sat Oct 21 1961,Peterborough United,5-4,Lincoln City
+Sat Oct 21 1961,Grimsby Town,1-1,Queens Park Rangers
+Sat Oct 21 1961,Port Vale,4-1,Torquay United
+Wed Oct 25 1961,Shrewsbury Town,1-1,Southend United
+Wed Oct 25 1961,Bradford Park Avenue,4-1,Newport County
+Sat Oct 28 1961,Halifax Town,3-3,Grimsby Town
+Sat Oct 28 1961,Lincoln City,1-1,Port Vale
+Sat Oct 28 1961,Hull City,3-1,Shrewsbury Town
+Sat Oct 28 1961,Swindon Town,3-2,Bradford Park Avenue
+Sat Oct 28 1961,Barnsley,2-2,Brentford
+Sat Oct 28 1961,Queens Park Rangers,4-1,Coventry City
+Sat Oct 28 1961,Watford,3-1,Notts County
+Sat Oct 28 1961,AFC Bournemouth,3-0,Southend United
+Sat Oct 28 1961,Portsmouth,2-0,Reading
+Sat Oct 28 1961,Northampton Town,2-2,Peterborough United
+Sat Oct 28 1961,Torquay United,1-3,Bristol City
+Sat Oct 28 1961,Crystal Palace,2-0,Newport County
+Sat Nov 11 1961,Watford,2-1,Brentford
+Sat Nov 11 1961,Barnsley,7-3,Bristol City
+Sat Nov 11 1961,Crystal Palace,4-1,Grimsby Town
+Sat Nov 11 1961,Torquay United,3-3,Notts County
+Sat Nov 11 1961,Halifax Town,2-1,Peterborough United
+Sat Nov 11 1961,Queens Park Rangers,2-1,Port Vale
+Sat Nov 11 1961,AFC Bournemouth,1-1,Coventry City
+Sat Nov 11 1961,Lincoln City,2-0,Southend United
+Sat Nov 11 1961,Hull City,0-1,Reading
+Sat Nov 11 1961,Swindon Town,1-2,Shrewsbury Town
+Sat Nov 11 1961,Portsmouth,4-2,Bradford Park Avenue
+Sat Nov 11 1961,Northampton Town,5-0,Newport County
+Fri Nov 17 1961,Coventry City,0-2,Crystal Palace
+Fri Nov 17 1961,Reading,3-2,Watford
+Sat Nov 18 1961,Peterborough United,3-2,Swindon Town
+Sat Nov 18 1961,Newport County,0-2,Hull City
+Sat Nov 18 1961,Bradford Park Avenue,3-2,Barnsley
+Sat Nov 18 1961,Grimsby Town,1-0,Portsmouth
+Sat Nov 18 1961,Brentford,2-2,AFC Bournemouth
+Sat Nov 18 1961,Port Vale,1-1,Halifax Town
+Sat Nov 18 1961,Bristol City,2-0,Queens Park Rangers
+Sat Nov 18 1961,Southend United,1-3,Northampton Town
+Sat Nov 18 1961,Shrewsbury Town,1-1,Torquay United
+Sat Nov 18 1961,Notts County,1-0,Lincoln City
+Sat Dec 2 1961,Port Vale,0-1,Crystal Palace
+Sat Dec 2 1961,Southend United,2-1,Halifax Town
+Sat Dec 2 1961,Newport County,2-2,Swindon Town
+Sat Dec 2 1961,Shrewsbury Town,4-1,Barnsley
+Sat Dec 2 1961,Reading,1-0,Torquay United
+Sat Dec 2 1961,Bradford Park Avenue,1-1,Watford
+Sat Dec 2 1961,Bristol City,2-1,AFC Bournemouth
+Sat Dec 2 1961,Notts County,0-0,Queens Park Rangers
+Sat Dec 2 1961,Grimsby Town,1-0,Hull City
+Sat Dec 2 1961,Coventry City,1-0,Northampton Town
+Sat Dec 2 1961,Peterborough United,0-1,Portsmouth
+Sat Dec 2 1961,Brentford,1-0,Lincoln City
+Sat Dec 9 1961,Lincoln City,2-3,Reading
+Sat Dec 9 1961,Barnsley,0-3,Peterborough United
+Sat Dec 9 1961,AFC Bournemouth,2-2,Bradford Park Avenue
+Sat Dec 9 1961,Queens Park Rangers,3-1,Shrewsbury Town
+Sat Dec 9 1961,Crystal Palace,2-3,Bristol City
+Sat Dec 9 1961,Torquay United,3-2,Newport County
+Sat Dec 9 1961,Watford,2-1,Grimsby Town
+Sat Dec 9 1961,Swindon Town,0-0,Southend United
+Sat Dec 9 1961,Hull City,3-1,Coventry City
+Sat Dec 9 1961,Northampton Town,5-0,Brentford
+Sat Dec 9 1961,Portsmouth,1-0,Port Vale
+Sat Dec 16 1961,Brentford,1-4,Queens Park Rangers
+Sat Dec 16 1961,Bristol City,6-0,Notts County
+Sat Dec 16 1961,Grimsby Town,1-0,Newport County
+Sat Dec 16 1961,Hull City,1-1,Peterborough United
+Sat Dec 16 1961,Portsmouth,2-2,Swindon Town
+Sat Dec 16 1961,AFC Bournemouth,0-0,Lincoln City
+Sat Dec 16 1961,Port Vale,4-1,Shrewsbury Town
+Sat Dec 16 1961,Northampton Town,2-0,Watford
+Sat Dec 16 1961,Crystal Palace,7-2,Torquay United
+Sat Dec 16 1961,Coventry City,1-0,Reading
+Fri Dec 22 1961,Torquay United,2-1,AFC Bournemouth
+Sat Dec 23 1961,Shrewsbury Town,2-2,Bristol City
+Sat Dec 23 1961,Reading,4-0,Brentford
+Sat Dec 23 1961,Lincoln City,0-0,Watford
+Sat Dec 23 1961,Notts County,4-2,Bradford Park Avenue
+Sat Dec 23 1961,Southend United,2-0,Grimsby Town
+Sat Dec 23 1961,Halifax Town,0-1,Portsmouth
+Sat Dec 23 1961,Swindon Town,5-0,Crystal Palace
+Sat Dec 23 1961,Newport County,1-2,Coventry City
+Sat Dec 23 1961,Northampton Town,2-0,Hull City
+Sat Dec 23 1961,Peterborough United,1-3,Port Vale
+Tue Dec 26 1961,Reading,2-2,Bristol City
+Tue Dec 26 1961,Barnsley,0-1,Lincoln City
+Tue Dec 26 1961,Peterborough United,4-1,Southend United
+Tue Dec 26 1961,Watford,0-0,AFC Bournemouth
+Tue Dec 26 1961,Portsmouth,4-1,Northampton Town
+Tue Dec 26 1961,Hull City,2-4,Crystal Palace
+Tue Dec 26 1961,Brentford,2-0,Bradford Park Avenue
+Tue Dec 26 1961,Torquay United,2-2,Queens Park Rangers
+Tue Dec 26 1961,Port Vale,3-0,Newport County
+Tue Dec 26 1961,Notts County,3-2,Shrewsbury Town
+Tue Dec 26 1961,Coventry City,2-0,Grimsby Town
+Sat Dec 30 1961,Queens Park Rangers,6-0,Torquay United
+Sat Dec 30 1961,Southend United,1-1,Peterborough United
+Sat Dec 30 1961,AFC Bournemouth,4-1,Watford
+Sat Jan 6 1962,Southend United,2-1,Torquay United
+Sat Jan 6 1962,Grimsby Town,3-0,AFC Bournemouth
+Sat Jan 6 1962,Hull City,0-1,Portsmouth
+Fri Jan 12 1962,Reading,0-0,Barnsley
+Sat Jan 13 1962,Portsmouth,4-1,Queens Park Rangers
+Sat Jan 13 1962,Bristol City,1-2,Peterborough United
+Sat Jan 13 1962,Coventry City,3-3,Southend United
+Sat Jan 13 1962,Brentford,3-1,Newport County
+Sat Jan 13 1962,Crystal Palace,4-3,Halifax Town
+Sat Jan 13 1962,Bradford Park Avenue,1-1,Shrewsbury Town
+Sat Jan 13 1962,AFC Bournemouth,0-0,Swindon Town
+Sat Jan 13 1962,Grimsby Town,2-1,Notts County
+Sat Jan 13 1962,Hull City,1-0,Lincoln City
+Sat Jan 13 1962,Port Vale,1-1,Northampton Town
+Sat Jan 13 1962,Watford,4-1,Torquay United
+Sat Jan 20 1962,Swindon Town,3-1,Watford
+Sat Jan 20 1962,Barnsley,2-2,Portsmouth
+Sat Jan 20 1962,Shrewsbury Town,1-2,Grimsby Town
+Sat Jan 20 1962,Queens Park Rangers,1-0,Crystal Palace
+Sat Jan 20 1962,Notts County,2-0,Coventry City
+Sat Jan 20 1962,Port Vale,0-2,Bristol City
+Sat Jan 20 1962,Halifax Town,3-1,AFC Bournemouth
+Sat Jan 20 1962,Southend United,0-0,Brentford
+Sat Jan 20 1962,Lincoln City,0-0,Northampton Town
+Sat Jan 20 1962,Torquay United,4-2,Hull City
+Sat Jan 27 1962,Watford,3-1,Newport County
+Sat Jan 27 1962,Halifax Town,3-4,Bristol City
+Sat Jan 27 1962,Northampton Town,1-2,Notts County
+Sat Jan 27 1962,Hull City,0-0,Southend United
+Sat Jan 27 1962,AFC Bournemouth,1-0,Reading
+Sat Jan 27 1962,Portsmouth,3-2,Coventry City
+Sat Jan 27 1962,Crystal Palace,2-2,Brentford
+Sat Jan 27 1962,Barnsley,0-3,Grimsby Town
+Wed Jan 31 1962,Lincoln City,2-2,Barnsley
+Fri Feb 2 1962,Reading,3-1,Southend United
+Fri Feb 2 1962,Brentford,0-1,Notts County
+Sat Feb 3 1962,Northampton Town,1-2,Torquay United
+Sat Feb 3 1962,Hull City,0-1,Swindon Town
+Sat Feb 3 1962,Bradford Park Avenue,2-1,Port Vale
+Sat Feb 3 1962,Grimsby Town,2-1,Peterborough United
+Sat Feb 3 1962,Bristol City,2-0,Lincoln City
+Sat Feb 3 1962,AFC Bournemouth,3-1,Queens Park Rangers
+Sat Feb 3 1962,Watford,0-0,Halifax Town
+Sat Feb 3 1962,Coventry City,4-1,Shrewsbury Town
+Sat Feb 3 1962,Crystal Palace,1-3,Barnsley
+Mon Feb 5 1962,Newport County,0-5,Portsmouth
+Tue Feb 6 1962,Bristol City,5-0,Reading
+Wed Feb 7 1962,Lincoln City,1-2,Shrewsbury Town
+Fri Feb 9 1962,Barnsley,2-2,AFC Bournemouth
+Sat Feb 10 1962,Queens Park Rangers,1-2,Watford
+Sat Feb 10 1962,Bristol City,6-1,Bradford Park Avenue
+Sat Feb 10 1962,Peterborough United,2-3,Coventry City
+Sat Feb 10 1962,Swindon Town,2-2,Northampton Town
+Sat Feb 10 1962,Southend United,1-0,Newport County
+Sat Feb 10 1962,Port Vale,0-2,Grimsby Town
+Sat Feb 10 1962,Halifax Town,2-1,Hull City
+Sat Feb 10 1962,Torquay United,3-4,Lincoln City
+Sat Feb 10 1962,Shrewsbury Town,1-3,Brentford
+Sat Feb 10 1962,Notts County,2-2,Reading
+Sat Feb 10 1962,Portsmouth,2-1,Crystal Palace
+Fri Feb 16 1962,Lincoln City,2-2,Swindon Town
+Fri Feb 16 1962,Hull City,3-1,Queens Park Rangers
+Sat Feb 17 1962,Watford,3-1,Barnsley
+Sat Feb 17 1962,Brentford,2-0,Peterborough United
+Sat Feb 17 1962,Newport County,2-0,Notts County
+Sat Feb 17 1962,Reading,3-0,Shrewsbury Town
+Sat Feb 17 1962,Grimsby Town,1-0,Bristol City
+Sat Feb 17 1962,Northampton Town,3-1,Halifax Town
+Sat Feb 17 1962,Southend United,2-2,Crystal Palace
+Sat Feb 17 1962,AFC Bournemouth,2-0,Portsmouth
+Sat Feb 17 1962,Bradford Park Avenue,3-1,Torquay United
+Mon Feb 19 1962,Peterborough United,5-1,Queens Park Rangers
+Mon Feb 19 1962,Halifax Town,1-0,Torquay United
+Fri Feb 23 1962,Swindon Town,5-2,Brentford
+Fri Feb 23 1962,Halifax Town,2-1,Reading
+Fri Feb 23 1962,Lincoln City,1-1,Grimsby Town
+Sat Feb 24 1962,Torquay United,1-0,Coventry City
+Sat Feb 24 1962,AFC Bournemouth,1-1,Peterborough United
+Sat Feb 24 1962,Crystal Palace,2-1,Shrewsbury Town
+Sat Feb 24 1962,Watford,2-0,Port Vale
+Sat Feb 24 1962,Hull City,3-2,Bristol City
+Sat Feb 24 1962,Northampton Town,2-0,Bradford Park Avenue
+Sat Feb 24 1962,Queens Park Rangers,4-0,Newport County
+Sat Feb 24 1962,Portsmouth,0-0,Notts County
+Sat Feb 24 1962,Barnsley,1-1,Southend United
+Fri Mar 2 1962,Coventry City,2-2,Lincoln City
+Fri Mar 2 1962,Reading,1-1,Swindon Town
+Sat Mar 3 1962,Peterborough United,4-1,Crystal Palace
+Sat Mar 3 1962,Notts County,0-2,Barnsley
+Sat Mar 3 1962,Shrewsbury Town,0-1,Portsmouth
+Sat Mar 3 1962,Bristol City,2-1,Watford
+Sat Mar 3 1962,Grimsby Town,3-2,Northampton Town
+Sat Mar 3 1962,Bradford Park Avenue,1-0,Hull City
+Sat Mar 3 1962,Brentford,0-2,Torquay United
+Sat Mar 3 1962,Southend United,2-3,Queens Park Rangers
+Mon Mar 5 1962,Newport County,0-1,Halifax Town
+Mon Mar 5 1962,Port Vale,2-0,Barnsley
+Tue Mar 6 1962,Bristol City,0-4,Portsmouth
+Wed Mar 7 1962,Bradford Park Avenue,2-0,Crystal Palace
+Fri Mar 9 1962,Watford,1-3,Southend United
+Fri Mar 9 1962,Barnsley,2-1,Coventry City
+Sat Mar 10 1962,Lincoln City,1-2,Peterborough United
+Sat Mar 10 1962,Portsmouth,4-0,Brentford
+Sat Mar 10 1962,Queens Park Rangers,3-2,Grimsby Town
+Sat Mar 10 1962,Hull City,2-1,Notts County
+Sat Mar 10 1962,Torquay United,2-0,Port Vale
+Sat Mar 10 1962,AFC Bournemouth,2-1,Newport County
+Sat Mar 10 1962,Swindon Town,0-4,Bristol City
+Sat Mar 10 1962,Crystal Palace,3-4,Reading
+Sat Mar 10 1962,Northampton Town,3-1,Shrewsbury Town
+Mon Mar 12 1962,Coventry City,1-0,Watford
+Mon Mar 12 1962,Newport County,1-1,Port Vale
+Wed Mar 14 1962,Shrewsbury Town,0-0,Halifax Town
+Wed Mar 14 1962,Bradford Park Avenue,4-0,Southend United
+Fri Mar 16 1962,Reading,0-3,Portsmouth
+Fri Mar 16 1962,Coventry City,2-3,Queens Park Rangers
+Sat Mar 17 1962,Port Vale,4-0,Lincoln City
+Sat Mar 17 1962,Shrewsbury Town,2-0,Hull City
+Sat Mar 17 1962,Newport County,2-1,Crystal Palace
+Sat Mar 17 1962,Bristol City,4-1,Torquay United
+Sat Mar 17 1962,Peterborough United,0-2,Northampton Town
+Sat Mar 17 1962,Brentford,1-1,Barnsley
+Sat Mar 17 1962,Notts County,1-0,Watford
+Sat Mar 17 1962,Grimsby Town,3-0,Halifax Town
+Sat Mar 17 1962,Southend United,0-0,AFC Bournemouth
+Sat Mar 17 1962,Bradford Park Avenue,2-2,Swindon Town
+Mon Mar 19 1962,Newport County,0-0,Reading
+Mon Mar 19 1962,Peterborough United,1-0,Bradford Park Avenue
+Mon Mar 19 1962,Queens Park Rangers,3-0,Barnsley
+Mon Mar 19 1962,Halifax Town,2-0,Swindon Town
+Mon Mar 19 1962,Port Vale,1-0,AFC Bournemouth
+Tue Mar 20 1962,Northampton Town,2-2,Portsmouth
+Wed Mar 21 1962,Crystal Palace,1-2,Hull City
+Fri Mar 23 1962,Lincoln City,3-2,Newport County
+Fri Mar 23 1962,Swindon Town,1-0,Notts County
+Fri Mar 23 1962,Watford,0-1,Coventry City
+Sat Mar 24 1962,Barnsley,2-1,Port Vale
+Sat Mar 24 1962,Hull City,3-0,Brentford
+Sat Mar 24 1962,Northampton Town,1-0,Reading
+Sat Mar 24 1962,Torquay United,2-2,Southend United
+Sat Mar 24 1962,Portsmouth,5-0,Bristol City
+Sat Mar 24 1962,Crystal Palace,0-0,Bradford Park Avenue
+Sat Mar 24 1962,AFC Bournemouth,2-3,Grimsby Town
+Sat Mar 24 1962,Queens Park Rangers,3-3,Peterborough United
+Sat Mar 24 1962,Halifax Town,1-2,Shrewsbury Town
+Mon Mar 26 1962,Newport County,4-0,Lincoln City
+Tue Mar 27 1962,Barnsley,1-2,Halifax Town
+Wed Mar 28 1962,Shrewsbury Town,3-0,Notts County
+Fri Mar 30 1962,Coventry City,0-1,AFC Bournemouth
+Fri Mar 30 1962,Shrewsbury Town,1-3,Swindon Town
+Fri Mar 30 1962,Reading,1-1,Hull City
+Fri Mar 30 1962,Brentford,3-1,Watford
+Fri Mar 30 1962,Grimsby Town,0-0,Crystal Palace
+Sat Mar 31 1962,Peterborough United,5-1,Halifax Town
+Sat Mar 31 1962,Southend United,0-0,Lincoln City
+Sat Mar 31 1962,Bradford Park Avenue,2-1,Portsmouth
+Sat Mar 31 1962,Newport County,0-0,Northampton Town
+Sat Mar 31 1962,Port Vale,2-3,Queens Park Rangers
+Sat Mar 31 1962,Notts County,2-0,Torquay United
+Sat Mar 31 1962,Bristol City,0-0,Barnsley
+Mon Apr 2 1962,Torquay United,1-3,Peterborough United
+Tue Apr 3 1962,Notts County,3-0,Hull City
+Wed Apr 4 1962,Bradford Park Avenue,1-2,Brentford
+Fri Apr 6 1962,Watford,1-1,Reading
+Fri Apr 6 1962,Lincoln City,2-2,Notts County
+Sat Apr 7 1962,Portsmouth,0-2,Grimsby Town
+Sat Apr 7 1962,Barnsley,1-2,Bradford Park Avenue
+Sat Apr 7 1962,Northampton Town,3-1,Southend United
+Sat Apr 7 1962,Hull City,4-0,Newport County
+Sat Apr 7 1962,Halifax Town,3-3,Port Vale
+Sat Apr 7 1962,Queens Park Rangers,4-1,Bristol City
+Sat Apr 7 1962,Torquay United,3-1,Shrewsbury Town
+Sat Apr 7 1962,AFC Bournemouth,1-1,Brentford
+Sat Apr 7 1962,Crystal Palace,2-2,Coventry City
+Sat Apr 7 1962,Swindon Town,3-2,Peterborough United
+Mon Apr 9 1962,Halifax Town,1-2,Notts County
+Tue Apr 10 1962,Grimsby Town,2-0,Coventry City
+Wed Apr 11 1962,Queens Park Rangers,1-2,Bradford Park Avenue
+Wed Apr 11 1962,Reading,2-0,Northampton Town
+Thu Apr 12 1962,Hull City,2-1,AFC Bournemouth
+Thu Apr 12 1962,Notts County,0-1,Swindon Town
+Fri Apr 13 1962,Brentford,4-2,Crystal Palace
+Sat Apr 14 1962,Notts County,1-4,Northampton Town
+Sat Apr 14 1962,Bristol City,4-3,Halifax Town
+Sat Apr 14 1962,Southend United,2-1,Hull City
+Sat Apr 14 1962,Newport County,0-0,Watford
+Sat Apr 14 1962,Port Vale,1-1,Swindon Town
+Sat Apr 14 1962,Peterborough United,2-1,Torquay United
+Sat Apr 14 1962,Reading,0-1,AFC Bournemouth
+Sat Apr 14 1962,Grimsby Town,4-0,Barnsley
+Sat Apr 14 1962,Bradford Park Avenue,3-3,Queens Park Rangers
+Sat Apr 14 1962,Coventry City,2-0,Portsmouth
+Sat Apr 14 1962,Shrewsbury Town,0-0,Lincoln City
+Mon Apr 16 1962,Coventry City,0-1,Port Vale
+Mon Apr 16 1962,Newport County,3-2,Shrewsbury Town
+Mon Apr 16 1962,Swindon Town,6-0,Halifax Town
+Wed Apr 18 1962,Halifax Town,2-3,Bradford Park Avenue
+Fri Apr 20 1962,AFC Bournemouth,1-0,Crystal Palace
+Fri Apr 20 1962,Hull City,4-0,Barnsley
+Fri Apr 20 1962,Watford,0-0,Portsmouth
+Fri Apr 20 1962,Brentford,1-2,Port Vale
+Fri Apr 20 1962,Swindon Town,0-1,Torquay United
+Fri Apr 20 1962,Reading,3-2,Peterborough United
+Fri Apr 20 1962,Southend United,3-2,Notts County
+Sat Apr 21 1962,Lincoln City,3-3,Brentford
+Sat Apr 21 1962,Portsmouth,0-3,Peterborough United
+Sat Apr 21 1962,Hull City,2-1,Grimsby Town
+Sat Apr 21 1962,Crystal Palace,0-0,Port Vale
+Sat Apr 21 1962,AFC Bournemouth,2-1,Bristol City
+Sat Apr 21 1962,Halifax Town,0-2,Southend United
+Sat Apr 21 1962,Watford,0-2,Bradford Park Avenue
+Sat Apr 21 1962,Barnsley,1-1,Shrewsbury Town
+Sat Apr 21 1962,Northampton Town,4-1,Coventry City
+Sat Apr 21 1962,Queens Park Rangers,2-0,Notts County
+Sat Apr 21 1962,Swindon Town,3-0,Newport County
+Sat Apr 21 1962,Torquay United,0-0,Reading
+Mon Apr 23 1962,Crystal Palace,0-0,AFC Bournemouth
+Mon Apr 23 1962,Peterborough United,1-0,Reading
+Mon Apr 23 1962,Portsmouth,2-1,Watford
+Mon Apr 23 1962,Notts County,2-0,Southend United
+Mon Apr 23 1962,Grimsby Town,3-2,Bradford Park Avenue
+Mon Apr 23 1962,Queens Park Rangers,2-0,Northampton Town
+Mon Apr 23 1962,Coventry City,1-1,Bristol City
+Mon Apr 23 1962,Lincoln City,0-1,Halifax Town
+Mon Apr 23 1962,Port Vale,3-0,Brentford
+Mon Apr 23 1962,Barnsley,1-0,Hull City
+Mon Apr 23 1962,Shrewsbury Town,4-1,Newport County
+Mon Apr 23 1962,Torquay United,3-0,Swindon Town
+Tue Apr 24 1962,Northampton Town,1-1,Queens Park Rangers
+Tue Apr 24 1962,Bradford Park Avenue,0-1,Grimsby Town
+Tue Apr 24 1962,Bristol City,3-2,Coventry City
+Tue Apr 24 1962,Halifax Town,0-3,Lincoln City
+Fri Apr 27 1962,Brentford,3-0,Northampton Town
+Fri Apr 27 1962,Reading,4-0,Lincoln City
+Sat Apr 28 1962,Bradford Park Avenue,1-2,AFC Bournemouth
+Sat Apr 28 1962,Shrewsbury Town,1-2,Queens Park Rangers
+Sat Apr 28 1962,Port Vale,2-3,Portsmouth
+Sat Apr 28 1962,Bristol City,2-2,Crystal Palace
+Sat Apr 28 1962,Grimsby Town,5-3,Watford
+Sat Apr 28 1962,Newport County,0-3,Torquay United
+Sat Apr 28 1962,Notts County,0-0,Halifax Town
+Sat Apr 28 1962,Southend United,0-2,Swindon Town
+Sat Apr 28 1962,Peterborough United,4-2,Barnsley
+Sat Apr 28 1962,Coventry City,0-2,Hull City
+Mon Apr 30 1962,Peterborough United,2-0,Notts County
+Mon Apr 30 1962,Swindon Town,1-0,Port Vale
+Mon Apr 30 1962,Lincoln City,0-5,Queens Park Rangers
+Mon Apr 30 1962,Halifax Town,0-2,Coventry City
+Tue May 1 1962,Brentford,0-2,Grimsby Town
+Wed May 2 1962,Barnsley,4-2,Torquay United
+Wed May 2 1962,Reading,3-1,Bradford Park Avenue
+Wed May 2 1962,Lincoln City,2-2,Portsmouth
+Thu May 3 1962,Halifax Town,1-1,Queens Park Rangers
+Thu May 3 1962,Brentford,0-2,Hull City

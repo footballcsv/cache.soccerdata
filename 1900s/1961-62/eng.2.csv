@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 19 1961,Middlesbrough,3-4,Derby County
+Sat Aug 19 1961,Luton Town,4-1,Preston North End
+Sat Aug 19 1961,Walsall,4-3,Sunderland
+Sat Aug 19 1961,Stoke City,1-2,Rotherham United
+Sat Aug 19 1961,Norwich City,3-1,Bury
+Sat Aug 19 1961,Swansea City,1-1,Huddersfield Town
+Sat Aug 19 1961,Southampton,1-2,Plymouth Argyle
+Sat Aug 19 1961,Newcastle United,0-0,Leyton Orient
+Sat Aug 19 1961,Scunthorpe United,3-3,Brighton & Hove Albion
+Sat Aug 19 1961,Bristol Rovers,0-2,Liverpool
+Sat Aug 19 1961,Leeds United,1-0,Charlton Athletic
+Mon Aug 21 1961,Leyton Orient,1-3,Southampton
+Tue Aug 22 1961,Preston North End,1-1,Swansea City
+Tue Aug 22 1961,Bury,2-0,Bristol Rovers
+Tue Aug 22 1961,Charlton Athletic,2-2,Stoke City
+Tue Aug 22 1961,Brighton & Hove Albion,1-3,Leeds United
+Wed Aug 23 1961,Norwich City,2-2,Scunthorpe United
+Wed Aug 23 1961,Huddersfield Town,5-1,Plymouth Argyle
+Wed Aug 23 1961,Liverpool,3-0,Sunderland
+Wed Aug 23 1961,Derby County,2-0,Luton Town
+Wed Aug 23 1961,Newcastle United,1-0,Walsall
+Sat Aug 26 1961,Bury,4-1,Scunthorpe United
+Sat Aug 26 1961,Brighton & Hove Albion,2-2,Swansea City
+Sat Aug 26 1961,Sunderland,2-1,Stoke City
+Sat Aug 26 1961,Rotherham United,4-0,Bristol Rovers
+Sat Aug 26 1961,Liverpool,5-0,Leeds United
+Sat Aug 26 1961,Preston North End,0-1,Newcastle United
+Sat Aug 26 1961,Plymouth Argyle,0-3,Luton Town
+Sat Aug 26 1961,Leyton Orient,2-0,Middlesbrough
+Sat Aug 26 1961,Huddersfield Town,1-0,Southampton
+Sat Aug 26 1961,Charlton Athletic,2-2,Norwich City
+Sat Aug 26 1961,Derby County,1-3,Walsall
+Mon Aug 28 1961,Stoke City,4-0,Charlton Athletic
+Mon Aug 28 1961,Bristol Rovers,0-1,Bury
+Tue Aug 29 1961,Walsall,1-0,Newcastle United
+Tue Aug 29 1961,Swansea City,1-2,Preston North End
+Tue Aug 29 1961,Scunthorpe United,2-0,Norwich City
+Wed Aug 30 1961,Plymouth Argyle,4-2,Huddersfield Town
+Wed Aug 30 1961,Middlesbrough,5-1,Rotherham United
+Wed Aug 30 1961,Luton Town,4-2,Derby County
+Wed Aug 30 1961,Sunderland,1-4,Liverpool
+Wed Aug 30 1961,Leeds United,1-1,Brighton & Hove Albion
+Wed Aug 30 1961,Southampton,1-2,Leyton Orient
+Fri Sep 1 1961,Scunthorpe United,6-1,Charlton Athletic
+Sat Sep 2 1961,Walsall,1-5,Leyton Orient
+Sat Sep 2 1961,Middlesbrough,1-0,Preston North End
+Sat Sep 2 1961,Leeds United,1-3,Rotherham United
+Sat Sep 2 1961,Southampton,5-1,Swansea City
+Sat Sep 2 1961,Bristol Rovers,2-3,Sunderland
+Sat Sep 2 1961,Luton Town,3-4,Huddersfield Town
+Sat Sep 2 1961,Newcastle United,0-2,Plymouth Argyle
+Sat Sep 2 1961,Brighton & Hove Albion,0-2,Bury
+Sat Sep 2 1961,Norwich City,1-2,Liverpool
+Sat Sep 2 1961,Stoke City,1-1,Derby County
+Tue Sep 5 1961,Brighton & Hove Albion,2-1,Stoke City
+Tue Sep 5 1961,Scunthorpe United,2-1,Bristol Rovers
+Wed Sep 6 1961,Norwich City,2-0,Leeds United
+Wed Sep 6 1961,Derby County,6-3,Swansea City
+Wed Sep 6 1961,Southampton,1-1,Walsall
+Sat Sep 9 1961,Huddersfield Town,2-1,Newcastle United
+Sat Sep 9 1961,Bury,0-2,Southampton
+Sat Sep 9 1961,Swansea City,3-2,Luton Town
+Sat Sep 9 1961,Stoke City,2-1,Bristol Rovers
+Sat Sep 9 1961,Charlton Athletic,2-3,Brighton & Hove Albion
+Sat Sep 9 1961,Sunderland,2-1,Leeds United
+Sat Sep 9 1961,Liverpool,2-1,Scunthorpe United
+Sat Sep 9 1961,Plymouth Argyle,1-1,Middlesbrough
+Sat Sep 9 1961,Rotherham United,3-1,Norwich City
+Sat Sep 9 1961,Leyton Orient,2-0,Derby County
+Sat Sep 9 1961,Preston North End,2-3,Walsall
+Fri Sep 15 1961,Scunthorpe United,5-2,Rotherham United
+Fri Sep 15 1961,Bury,1-2,Charlton Athletic
+Sat Sep 16 1961,Middlesbrough,1-0,Huddersfield Town
+Sat Sep 16 1961,Brighton & Hove Albion,0-0,Liverpool
+Sat Sep 16 1961,Newcastle United,2-2,Swansea City
+Sat Sep 16 1961,Leeds United,3-1,Stoke City
+Sat Sep 16 1961,Walsall,1-0,Plymouth Argyle
+Sat Sep 16 1961,Luton Town,1-4,Southampton
+Sat Sep 16 1961,Bristol Rovers,2-1,Leyton Orient
+Sat Sep 16 1961,Norwich City,3-1,Sunderland
+Sat Sep 16 1961,Derby County,3-2,Preston North End
+Mon Sep 18 1961,Bristol Rovers,2-1,Scunthorpe United
+Mon Sep 18 1961,Stoke City,0-1,Brighton & Hove Albion
+Tue Sep 19 1961,Walsall,0-2,Southampton
+Tue Sep 19 1961,Swansea City,3-1,Derby County
+Tue Sep 19 1961,Bury,3-2,Sunderland
+Wed Sep 20 1961,Plymouth Argyle,1-0,Preston North End
+Wed Sep 20 1961,Newcastle United,1-2,Liverpool
+Wed Sep 20 1961,Charlton Athletic,0-2,Rotherham United
+Wed Sep 20 1961,Leeds United,0-1,Norwich City
+Wed Sep 20 1961,Leyton Orient,3-0,Huddersfield Town
+Wed Sep 20 1961,Middlesbrough,2-4,Luton Town
+Sat Sep 23 1961,Rotherham United,2-1,Brighton & Hove Albion
+Sat Sep 23 1961,Bristol Rovers,4-0,Leeds United
+Sat Sep 23 1961,Liverpool,5-0,Bury
+Sat Sep 23 1961,Preston North End,3-2,Leyton Orient
+Sat Sep 23 1961,Stoke City,3-1,Norwich City
+Sat Sep 23 1961,Sunderland,4-0,Scunthorpe United
+Sat Sep 23 1961,Plymouth Argyle,2-3,Derby County
+Sat Sep 23 1961,Southampton,1-0,Newcastle United
+Sat Sep 23 1961,Huddersfield Town,4-2,Walsall
+Sat Sep 23 1961,Charlton Athletic,0-1,Luton Town
+Sat Sep 23 1961,Swansea City,3-3,Middlesbrough
+Tue Sep 26 1961,Rotherham United,3-2,Charlton Athletic
+Tue Sep 26 1961,Preston North End,1-1,Plymouth Argyle
+Wed Sep 27 1961,Luton Town,3-2,Middlesbrough
+Wed Sep 27 1961,Huddersfield Town,1-1,Leyton Orient
+Wed Sep 27 1961,Sunderland,3-0,Bury
+Fri Sep 29 1961,Scunthorpe United,2-2,Stoke City
+Fri Sep 29 1961,Leyton Orient,1-2,Plymouth Argyle
+Sat Sep 30 1961,Charlton Athletic,0-4,Liverpool
+Sat Sep 30 1961,Walsall,0-0,Swansea City
+Sat Sep 30 1961,Norwich City,2-2,Bristol Rovers
+Sat Sep 30 1961,Brighton & Hove Albion,1-1,Sunderland
+Sat Sep 30 1961,Middlesbrough,1-1,Southampton
+Sat Sep 30 1961,Bury,2-1,Rotherham United
+Sat Sep 30 1961,Newcastle United,4-1,Luton Town
+Sat Sep 30 1961,Leeds United,1-2,Preston North End
+Sat Sep 30 1961,Derby County,1-0,Huddersfield Town
+Wed Oct 4 1961,Liverpool,2-0,Newcastle United
+Sat Oct 7 1961,Walsall,5-0,Rotherham United
+Sat Oct 7 1961,Derby County,1-1,Sunderland
+Sat Oct 7 1961,Swansea City,2-1,Scunthorpe United
+Sat Oct 7 1961,Southampton,6-1,Brighton & Hove Albion
+Sat Oct 7 1961,Middlesbrough,2-0,Liverpool
+Sat Oct 7 1961,Leyton Orient,3-0,Stoke City
+Sat Oct 7 1961,Huddersfield Town,1-1,Norwich City
+Sat Oct 7 1961,Plymouth Argyle,1-1,Leeds United
+Sat Oct 7 1961,Newcastle United,4-1,Charlton Athletic
+Sat Oct 7 1961,Luton Town,4-0,Bury
+Sat Oct 7 1961,Preston North End,1-0,Bristol Rovers
+Fri Oct 13 1961,Scunthorpe United,5-1,Southampton
+Sat Oct 14 1961,Brighton & Hove Albion,2-1,Luton Town
+Sat Oct 14 1961,Liverpool,6-1,Walsall
+Sat Oct 14 1961,Norwich City,2-1,Swansea City
+Sat Oct 14 1961,Sunderland,2-1,Leyton Orient
+Sat Oct 14 1961,Stoke City,1-1,Preston North End
+Sat Oct 14 1961,Charlton Athletic,1-0,Middlesbrough
+Sat Oct 14 1961,Leeds United,1-0,Huddersfield Town
+Sat Oct 14 1961,Bristol Rovers,4-3,Plymouth Argyle
+Sat Oct 14 1961,Rotherham United,2-2,Derby County
+Sat Oct 14 1961,Bury,2-7,Newcastle United
+Wed Oct 18 1961,Southampton,0-0,Preston North End
+Sat Oct 21 1961,Derby County,2-0,Liverpool
+Sat Oct 21 1961,Plymouth Argyle,3-1,Stoke City
+Sat Oct 21 1961,Leyton Orient,1-1,Rotherham United
+Sat Oct 21 1961,Southampton,2-2,Norwich City
+Sat Oct 21 1961,Luton Town,1-2,Scunthorpe United
+Sat Oct 21 1961,Preston North End,0-1,Sunderland
+Sat Oct 21 1961,Newcastle United,5-0,Brighton & Hove Albion
+Sat Oct 21 1961,Huddersfield Town,4-1,Bristol Rovers
+Sat Oct 21 1961,Middlesbrough,2-1,Bury
+Sat Oct 21 1961,Walsall,2-2,Charlton Athletic
+Sat Oct 21 1961,Swansea City,2-1,Leeds United
+Tue Oct 24 1961,Bury,2-1,Walsall
+Fri Oct 27 1961,Scunthorpe United,3-2,Newcastle United
+Sat Oct 28 1961,Brighton & Hove Albion,2-0,Middlesbrough
+Sat Oct 28 1961,Charlton Athletic,4-0,Derby County
+Sat Oct 28 1961,Liverpool,3-3,Leyton Orient
+Sat Oct 28 1961,Rotherham United,2-2,Preston North End
+Sat Oct 28 1961,Sunderland,5-0,Plymouth Argyle
+Sat Oct 28 1961,Stoke City,3-0,Huddersfield Town
+Sat Oct 28 1961,Bristol Rovers,4-1,Swansea City
+Sat Oct 28 1961,Leeds United,1-1,Southampton
+Sat Oct 28 1961,Norwich City,0-4,Luton Town
+Sat Nov 4 1961,Luton Town,3-2,Leeds United
+Sat Nov 4 1961,Walsall,2-2,Brighton & Hove Albion
+Sat Nov 4 1961,Southampton,0-2,Bristol Rovers
+Sat Nov 4 1961,Derby County,3-0,Bury
+Sat Nov 4 1961,Newcastle United,0-0,Norwich City
+Sat Nov 4 1961,Preston North End,1-3,Liverpool
+Sat Nov 4 1961,Huddersfield Town,0-0,Sunderland
+Sat Nov 4 1961,Plymouth Argyle,2-5,Rotherham United
+Sat Nov 4 1961,Leyton Orient,2-1,Charlton Athletic
+Sat Nov 4 1961,Middlesbrough,1-2,Scunthorpe United
+Sat Nov 4 1961,Swansea City,1-0,Stoke City
+Sat Nov 11 1961,Liverpool,1-1,Luton Town
+Sat Nov 11 1961,Rotherham United,0-0,Newcastle United
+Sat Nov 11 1961,Scunthorpe United,5-1,Plymouth Argyle
+Sat Nov 11 1961,Bristol Rovers,1-4,Derby County
+Sat Nov 11 1961,Sunderland,2-1,Middlesbrough
+Sat Nov 11 1961,Stoke City,2-1,Walsall
+Sat Nov 11 1961,Leeds United,0-0,Leyton Orient
+Sat Nov 11 1961,Norwich City,2-0,Preston North End
+Sat Nov 11 1961,Brighton & Hove Albion,2-2,Huddersfield Town
+Sat Nov 11 1961,Bury,1-1,Swansea City
+Sat Nov 18 1961,Swansea City,2-2,Rotherham United
+Sat Nov 18 1961,Luton Town,0-0,Stoke City
+Sat Nov 18 1961,Walsall,5-0,Norwich City
+Sat Nov 18 1961,Newcastle United,5-2,Bristol Rovers
+Sat Nov 18 1961,Plymouth Argyle,2-1,Charlton Athletic
+Sat Nov 18 1961,Southampton,2-0,Sunderland
+Sat Nov 18 1961,Preston North End,1-2,Bury
+Sat Nov 18 1961,Huddersfield Town,1-2,Liverpool
+Sat Nov 18 1961,Middlesbrough,1-3,Leeds United
+Sat Nov 18 1961,Leyton Orient,4-1,Brighton & Hove Albion
+Sat Nov 18 1961,Derby County,2-2,Scunthorpe United
+Fri Nov 24 1961,Scunthorpe United,0-2,Leyton Orient
+Sat Nov 25 1961,Stoke City,3-1,Newcastle United
+Sat Nov 25 1961,Charlton Athletic,0-2,Huddersfield Town
+Sat Nov 25 1961,Leeds United,4-1,Walsall
+Sat Nov 25 1961,Rotherham United,4-2,Southampton
+Sat Nov 25 1961,Brighton & Hove Albion,0-0,Preston North End
+Sat Nov 25 1961,Bury,1-1,Plymouth Argyle
+Sat Nov 25 1961,Bristol Rovers,0-2,Middlesbrough
+Sat Nov 25 1961,Norwich City,3-2,Derby County
+Sat Nov 25 1961,Liverpool,5-0,Swansea City
+Sat Nov 25 1961,Sunderland,2-2,Luton Town
+Sat Dec 2 1961,Middlesbrough,2-2,Stoke City
+Sat Dec 2 1961,Huddersfield Town,2-0,Bury
+Sat Dec 2 1961,Leyton Orient,2-0,Norwich City
+Sat Dec 2 1961,Luton Town,4-3,Rotherham United
+Sat Dec 2 1961,Walsall,0-0,Bristol Rovers
+Sat Dec 2 1961,Derby County,3-3,Leeds United
+Sat Dec 2 1961,Newcastle United,2-2,Sunderland
+Sat Dec 2 1961,Preston North End,4-1,Scunthorpe United
+Sat Dec 2 1961,Plymouth Argyle,5-0,Brighton & Hove Albion
+Sat Dec 2 1961,Southampton,2-0,Liverpool
+Sat Dec 2 1961,Swansea City,1-0,Charlton Athletic
+Fri Dec 8 1961,Rotherham United,3-3,Huddersfield Town
+Sat Dec 9 1961,Norwich City,5-4,Middlesbrough
+Sat Dec 9 1961,Stoke City,3-2,Southampton
+Sat Dec 9 1961,Bristol Rovers,1-0,Luton Town
+Sat Dec 9 1961,Sunderland,7-2,Swansea City
+Sat Dec 9 1961,Charlton Athletic,4-0,Preston North End
+Sat Dec 9 1961,Brighton & Hove Albion,1-2,Derby County
+Sat Dec 9 1961,Liverpool,2-1,Plymouth Argyle
+Sat Dec 16 1961,Brighton & Hove Albion,0-3,Scunthorpe United
+Sat Dec 16 1961,Sunderland,3-0,Walsall
+Sat Dec 16 1961,Plymouth Argyle,4-0,Southampton
+Sat Dec 16 1961,Bury,2-3,Norwich City
+Sat Dec 16 1961,Derby County,3-2,Middlesbrough
+Sat Dec 16 1961,Charlton Athletic,3-1,Leeds United
+Sat Dec 16 1961,Preston North End,2-0,Luton Town
+Sat Dec 16 1961,Liverpool,2-0,Bristol Rovers
+Sat Dec 16 1961,Rotherham United,1-2,Stoke City
+Sat Dec 16 1961,Leyton Orient,2-0,Newcastle United
+Fri Dec 22 1961,Bristol Rovers,4-2,Rotherham United
+Fri Dec 22 1961,Scunthorpe United,1-2,Bury
+Sat Dec 23 1961,Leeds United,1-0,Liverpool
+Sat Dec 23 1961,Norwich City,2-2,Charlton Athletic
+Sat Dec 23 1961,Luton Town,0-2,Plymouth Argyle
+Sat Dec 23 1961,Southampton,3-1,Huddersfield Town
+Sat Dec 23 1961,Stoke City,1-0,Sunderland
+Sat Dec 23 1961,Newcastle United,0-2,Preston North End
+Sat Dec 23 1961,Swansea City,3-0,Brighton & Hove Albion
+Sat Dec 23 1961,Middlesbrough,2-3,Leyton Orient
+Sat Dec 23 1961,Walsall,2-0,Derby County
+Tue Dec 26 1961,Rotherham United,1-0,Liverpool
+Tue Dec 26 1961,Bury,0-2,Stoke City
+Tue Dec 26 1961,Leyton Orient,1-0,Swansea City
+Tue Dec 26 1961,Walsall,2-0,Luton Town
+Tue Dec 26 1961,Derby County,1-1,Southampton
+Tue Dec 26 1961,Norwich City,0-2,Plymouth Argyle
+Tue Dec 26 1961,Newcastle United,3-4,Middlesbrough
+Tue Dec 26 1961,Leeds United,1-4,Scunthorpe United
+Tue Dec 26 1961,Charlton Athletic,2-0,Sunderland
+Tue Dec 26 1961,Preston North End,1-0,Huddersfield Town
+Tue Dec 26 1961,Bristol Rovers,0-1,Brighton & Hove Albion
+Sat Dec 30 1961,Plymouth Argyle,3-1,Norwich City
+Sat Dec 30 1961,Swansea City,1-3,Leyton Orient
+Sat Dec 30 1961,Southampton,2-1,Derby County
+Sat Dec 30 1961,Brighton & Hove Albion,1-0,Bristol Rovers
+Fri Jan 12 1962,Rotherham United,2-1,Leeds United
+Sat Jan 13 1962,Liverpool,5-4,Norwich City
+Sat Jan 13 1962,Sunderland,6-1,Bristol Rovers
+Sat Jan 13 1962,Swansea City,0-1,Southampton
+Sat Jan 13 1962,Leyton Orient,3-0,Walsall
+Sat Jan 13 1962,Plymouth Argyle,1-1,Newcastle United
+Sat Jan 13 1962,Charlton Athletic,3-3,Scunthorpe United
+Sat Jan 13 1962,Preston North End,4-3,Middlesbrough
+Sat Jan 13 1962,Huddersfield Town,1-2,Luton Town
+Sat Jan 13 1962,Derby County,2-0,Stoke City
+Sat Jan 13 1962,Bury,2-1,Brighton & Hove Albion
+Sat Jan 20 1962,Leeds United,1-0,Sunderland
+Sat Jan 20 1962,Walsall,2-1,Preston North End
+Sat Jan 20 1962,Norwich City,0-1,Rotherham United
+Sat Jan 20 1962,Derby County,1-2,Leyton Orient
+Sat Jan 20 1962,Newcastle United,1-1,Huddersfield Town
+Sat Jan 20 1962,Middlesbrough,1-1,Plymouth Argyle
+Sat Jan 20 1962,Southampton,5-3,Bury
+Sat Jan 20 1962,Luton Town,5-1,Swansea City
+Sat Jan 20 1962,Scunthorpe United,1-1,Liverpool
+Sat Jan 20 1962,Bristol Rovers,0-2,Stoke City
+Sat Jan 27 1962,Leeds United,0-1,Newcastle United
+Fri Feb 2 1962,Swansea City,3-2,Newcastle United
+Fri Feb 2 1962,Rotherham United,0-1,Scunthorpe United
+Sat Feb 3 1962,Charlton Athletic,1-0,Bury
+Sat Feb 3 1962,Liverpool,3-1,Brighton & Hove Albion
+Sat Feb 3 1962,Stoke City,2-1,Leeds United
+Sat Feb 3 1962,Leyton Orient,2-3,Bristol Rovers
+Sat Feb 3 1962,Southampton,3-0,Luton Town
+Sat Feb 3 1962,Preston North End,1-0,Derby County
+Sat Feb 3 1962,Plymouth Argyle,2-1,Walsall
+Sat Feb 3 1962,Huddersfield Town,0-0,Middlesbrough
+Sat Feb 3 1962,Sunderland,2-0,Norwich City
+Fri Feb 9 1962,Leyton Orient,0-2,Preston North End
+Sat Feb 10 1962,Middlesbrough,1-3,Swansea City
+Sat Feb 10 1962,Leeds United,0-0,Bristol Rovers
+Sat Feb 10 1962,Luton Town,1-6,Charlton Athletic
+Sat Feb 10 1962,Bury,0-3,Liverpool
+Sat Feb 10 1962,Walsall,2-2,Huddersfield Town
+Sat Feb 10 1962,Derby County,2-2,Plymouth Argyle
+Sat Feb 10 1962,Newcastle United,3-2,Southampton
+Sat Feb 10 1962,Scunthorpe United,3-1,Sunderland
+Sat Feb 10 1962,Norwich City,1-0,Stoke City
+Sat Feb 10 1962,Brighton & Hove Albion,0-3,Rotherham United
+Sat Feb 17 1962,Luton Town,1-0,Newcastle United
+Sat Feb 17 1962,Plymouth Argyle,2-1,Leyton Orient
+Sat Feb 17 1962,Stoke City,1-0,Scunthorpe United
+Sat Feb 17 1962,Sunderland,0-0,Brighton & Hove Albion
+Sat Feb 17 1962,Swansea City,1-3,Walsall
+Sat Feb 17 1962,Rotherham United,2-0,Bury
+Tue Feb 20 1962,Scunthorpe United,2-1,Leeds United
+Wed Feb 21 1962,Southampton,1-3,Middlesbrough
+Fri Feb 23 1962,Scunthorpe United,2-0,Swansea City
+Sat Feb 24 1962,Stoke City,0-1,Leyton Orient
+Sat Feb 24 1962,Charlton Athletic,1-1,Newcastle United
+Sat Feb 24 1962,Bristol Rovers,2-1,Preston North End
+Sat Feb 24 1962,Rotherham United,2-2,Walsall
+Sat Feb 24 1962,Sunderland,2-1,Derby County
+Sat Feb 24 1962,Leeds United,2-3,Plymouth Argyle
+Sat Feb 24 1962,Brighton & Hove Albion,0-0,Southampton
+Sat Feb 24 1962,Liverpool,5-1,Middlesbrough
+Sat Feb 24 1962,Norwich City,1-2,Huddersfield Town
+Sat Feb 24 1962,Bury,2-1,Luton Town
+Tue Feb 27 1962,Bristol Rovers,2-1,Norwich City
+Sat Mar 3 1962,Middlesbrough,3-2,Charlton Athletic
+Sat Mar 3 1962,Preston North End,1-2,Stoke City
+Sat Mar 3 1962,Luton Town,2-1,Brighton & Hove Albion
+Sat Mar 3 1962,Huddersfield Town,2-1,Leeds United
+Sat Mar 3 1962,Southampton,6-4,Scunthorpe United
+Sat Mar 3 1962,Plymouth Argyle,3-1,Bristol Rovers
+Sat Mar 3 1962,Newcastle United,1-2,Bury
+Sat Mar 3 1962,Leyton Orient,1-1,Sunderland
+Sat Mar 3 1962,Derby County,1-1,Rotherham United
+Sat Mar 3 1962,Walsall,1-1,Liverpool
+Sat Mar 3 1962,Swansea City,0-3,Norwich City
+Tue Mar 6 1962,Charlton Athletic,1-0,Southampton
+Tue Mar 6 1962,Scunthorpe United,2-1,Walsall
+Wed Mar 7 1962,Middlesbrough,3-0,Newcastle United
+Fri Mar 9 1962,Rotherham United,2-1,Leyton Orient
+Sat Mar 10 1962,Norwich City,1-1,Southampton
+Sat Mar 10 1962,Charlton Athletic,3-3,Walsall
+Sat Mar 10 1962,Bristol Rovers,1-1,Huddersfield Town
+Sat Mar 10 1962,Scunthorpe United,2-0,Luton Town
+Sat Mar 10 1962,Leeds United,2-0,Swansea City
+Sat Mar 10 1962,Stoke City,2-0,Plymouth Argyle
+Sat Mar 10 1962,Liverpool,4-1,Derby County
+Sat Mar 10 1962,Bury,2-1,Middlesbrough
+Sat Mar 10 1962,Brighton & Hove Albion,0-4,Newcastle United
+Tue Mar 13 1962,Bury,0-1,Leyton Orient
+Wed Mar 14 1962,Sunderland,4-1,Charlton Athletic
+Fri Mar 16 1962,Middlesbrough,4-0,Brighton & Hove Albion
+Sat Mar 17 1962,Leyton Orient,2-2,Liverpool
+Sat Mar 17 1962,Swansea City,1-1,Bristol Rovers
+Sat Mar 17 1962,Preston North End,2-0,Rotherham United
+Sat Mar 17 1962,Plymouth Argyle,3-2,Sunderland
+Sat Mar 17 1962,Luton Town,1-2,Norwich City
+Sat Mar 17 1962,Derby County,0-1,Charlton Athletic
+Sat Mar 17 1962,Southampton,4-1,Leeds United
+Sat Mar 17 1962,Huddersfield Town,3-0,Stoke City
+Sat Mar 17 1962,Walsall,3-0,Bury
+Sat Mar 17 1962,Newcastle United,2-1,Scunthorpe United
+Wed Mar 21 1962,Sunderland,0-0,Preston North End
+Fri Mar 23 1962,Scunthorpe United,1-1,Middlesbrough
+Sat Mar 24 1962,Leeds United,2-1,Luton Town
+Sat Mar 24 1962,Norwich City,0-0,Newcastle United
+Sat Mar 24 1962,Bury,2-2,Derby County
+Sat Mar 24 1962,Sunderland,3-1,Huddersfield Town
+Sat Mar 24 1962,Liverpool,4-1,Preston North End
+Sat Mar 24 1962,Stoke City,0-0,Swansea City
+Sat Mar 24 1962,Rotherham United,1-3,Plymouth Argyle
+Sat Mar 24 1962,Bristol Rovers,1-0,Southampton
+Sat Mar 24 1962,Brighton & Hove Albion,3-2,Walsall
+Sat Mar 24 1962,Charlton Athletic,1-2,Leyton Orient
+Mon Mar 26 1962,Huddersfield Town,3-1,Swansea City
+Wed Mar 28 1962,Liverpool,4-1,Rotherham United
+Fri Mar 30 1962,Walsall,3-1,Stoke City
+Fri Mar 30 1962,Preston North End,2-0,Norwich City
+Sat Mar 31 1962,Huddersfield Town,2-0,Brighton & Hove Albion
+Sat Mar 31 1962,Swansea City,0-1,Bury
+Sat Mar 31 1962,Middlesbrough,0-1,Sunderland
+Sat Mar 31 1962,Luton Town,1-0,Liverpool
+Sat Mar 31 1962,Southampton,1-2,Charlton Athletic
+Sat Mar 31 1962,Derby County,4-1,Bristol Rovers
+Sat Mar 31 1962,Newcastle United,1-0,Rotherham United
+Sat Mar 31 1962,Plymouth Argyle,3-1,Scunthorpe United
+Sat Mar 31 1962,Leyton Orient,0-0,Leeds United
+Mon Apr 2 1962,Huddersfield Town,2-2,Preston North End
+Tue Apr 3 1962,Rotherham United,0-1,Middlesbrough
+Fri Apr 6 1962,Scunthorpe United,2-0,Derby County
+Sat Apr 7 1962,Leeds United,2-0,Middlesbrough
+Sat Apr 7 1962,Brighton & Hove Albion,0-1,Leyton Orient
+Sat Apr 7 1962,Stoke City,2-1,Luton Town
+Sat Apr 7 1962,Charlton Athletic,3-1,Plymouth Argyle
+Sat Apr 7 1962,Sunderland,3-0,Southampton
+Sat Apr 7 1962,Bury,2-1,Preston North End
+Sat Apr 7 1962,Norwich City,3-1,Walsall
+Sat Apr 7 1962,Liverpool,1-1,Huddersfield Town
+Sat Apr 7 1962,Bristol Rovers,2-1,Newcastle United
+Sat Apr 7 1962,Rotherham United,1-2,Swansea City
+Mon Apr 9 1962,Preston North End,1-1,Leeds United
+Mon Apr 9 1962,Huddersfield Town,4-0,Derby County
+Tue Apr 10 1962,Brighton & Hove Albion,2-2,Charlton Athletic
+Wed Apr 11 1962,Luton Town,2-0,Walsall
+Wed Apr 11 1962,Stoke City,1-3,Bury
+Sat Apr 14 1962,Newcastle United,2-0,Stoke City
+Sat Apr 14 1962,Walsall,1-1,Leeds United
+Sat Apr 14 1962,Middlesbrough,5-0,Bristol Rovers
+Sat Apr 14 1962,Huddersfield Town,0-2,Charlton Athletic
+Sat Apr 14 1962,Luton Town,1-2,Sunderland
+Sat Apr 14 1962,Derby County,1-1,Norwich City
+Sat Apr 14 1962,Preston North End,3-1,Brighton & Hove Albion
+Sat Apr 14 1962,Plymouth Argyle,1-2,Bury
+Sat Apr 14 1962,Southampton,2-1,Rotherham United
+Sat Apr 14 1962,Leyton Orient,0-1,Scunthorpe United
+Fri Apr 20 1962,Newcastle United,3-0,Derby County
+Fri Apr 20 1962,Bristol Rovers,2-2,Charlton Athletic
+Fri Apr 20 1962,Leyton Orient,0-0,Luton Town
+Fri Apr 20 1962,Scunthorpe United,2-1,Preston North End
+Fri Apr 20 1962,Brighton & Hove Albion,2-1,Norwich City
+Fri Apr 20 1962,Bury,1-1,Leeds United
+Sat Apr 21 1962,Charlton Athletic,3-2,Swansea City
+Sat Apr 21 1962,Liverpool,2-0,Southampton
+Sat Apr 21 1962,Norwich City,0-0,Leyton Orient
+Sat Apr 21 1962,Sunderland,3-0,Newcastle United
+Sat Apr 21 1962,Bury,1-2,Huddersfield Town
+Sat Apr 21 1962,Leeds United,0-0,Derby County
+Sat Apr 21 1962,Stoke City,2-0,Middlesbrough
+Sat Apr 21 1962,Rotherham United,1-1,Luton Town
+Sat Apr 21 1962,Bristol Rovers,2-2,Walsall
+Sat Apr 21 1962,Brighton & Hove Albion,3-2,Plymouth Argyle
+Mon Apr 23 1962,Plymouth Argyle,0-0,Swansea City
+Mon Apr 23 1962,Huddersfield Town,1-2,Scunthorpe United
+Mon Apr 23 1962,Walsall,1-2,Middlesbrough
+Mon Apr 23 1962,Luton Town,1-3,Leyton Orient
+Mon Apr 23 1962,Preston North End,1-1,Southampton
+Mon Apr 23 1962,Derby County,1-2,Newcastle United
+Mon Apr 23 1962,Liverpool,2-1,Stoke City
+Mon Apr 23 1962,Charlton Athletic,2-1,Bristol Rovers
+Mon Apr 23 1962,Norwich City,3-0,Brighton & Hove Albion
+Mon Apr 23 1962,Sunderland,4-0,Rotherham United
+Tue Apr 24 1962,Middlesbrough,3-0,Walsall
+Tue Apr 24 1962,Leeds United,0-0,Bury
+Tue Apr 24 1962,Swansea City,5-0,Plymouth Argyle
+Tue Apr 24 1962,Stoke City,0-0,Liverpool
+Tue Apr 24 1962,Scunthorpe United,1-3,Huddersfield Town
+Tue Apr 24 1962,Rotherham United,0-3,Sunderland
+Sat Apr 28 1962,Huddersfield Town,0-3,Rotherham United
+Sat Apr 28 1962,Swansea City,1-1,Sunderland
+Sat Apr 28 1962,Middlesbrough,2-1,Norwich City
+Sat Apr 28 1962,Leyton Orient,2-0,Bury
+Sat Apr 28 1962,Plymouth Argyle,2-3,Liverpool
+Sat Apr 28 1962,Derby County,2-0,Brighton & Hove Albion
+Sat Apr 28 1962,Newcastle United,0-3,Leeds United
+Sat Apr 28 1962,Luton Town,2-0,Bristol Rovers
+Sat Apr 28 1962,Walsall,4-1,Scunthorpe United
+Sat Apr 28 1962,Southampton,5-1,Stoke City
+Sat Apr 28 1962,Preston North End,2-0,Charlton Athletic
+Mon Apr 30 1962,Liverpool,2-1,Charlton Athletic
+Fri May 4 1962,Swansea City,4-2,Liverpool

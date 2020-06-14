@@ -1,0 +1,553 @@
+Date,Team 1,FT,Team 2
+Sat Aug 20 1966,Walsall,1-2,Mansfield Town
+Sat Aug 20 1966,Scunthorpe United,1-2,Gillingham
+Sat Aug 20 1966,Bristol Rovers,3-3,Swansea City
+Sat Aug 20 1966,Oldham Athletic,3-1,Leyton Orient
+Sat Aug 20 1966,Darlington,1-0,Watford
+Sat Aug 20 1966,Peterborough United,3-3,Doncaster Rovers
+Sat Aug 20 1966,Workington,2-1,Grimsby Town
+Sat Aug 20 1966,Queens Park Rangers,2-2,Shrewsbury Town
+Sat Aug 20 1966,Colchester United,2-3,Middlesbrough
+Sat Aug 20 1966,Oxford United,1-1,AFC Bournemouth
+Sat Aug 20 1966,Torquay United,3-0,Reading
+Sat Aug 20 1966,Brighton & Hove Albion,2-2,Swindon Town
+Sat Aug 27 1966,Shrewsbury Town,2-1,Colchester United
+Sat Aug 27 1966,Watford,1-0,Queens Park Rangers
+Sat Aug 27 1966,AFC Bournemouth,2-1,Oldham Athletic
+Sat Aug 27 1966,Swansea City,0-1,Oxford United
+Sat Aug 27 1966,Reading,1-1,Brighton & Hove Albion
+Sat Aug 27 1966,Grimsby Town,3-1,Walsall
+Sat Aug 27 1966,Gillingham,1-1,Workington
+Sat Aug 27 1966,Middlesbrough,1-2,Bristol Rovers
+Sat Aug 27 1966,Doncaster Rovers,2-1,Torquay United
+Sat Aug 27 1966,Swindon Town,4-0,Darlington
+Sat Aug 27 1966,Leyton Orient,3-1,Scunthorpe United
+Sat Aug 27 1966,Mansfield Town,0-0,Peterborough United
+Mon Aug 29 1966,Swansea City,3-0,Oldham Athletic
+Fri Sep 2 1966,Workington,3-1,Leyton Orient
+Sat Sep 3 1966,Colchester United,2-1,Watford
+Sat Sep 3 1966,Brighton & Hove Albion,0-0,Doncaster Rovers
+Sat Sep 3 1966,Oxford United,1-1,Middlesbrough
+Sat Sep 3 1966,Torquay United,1-2,Mansfield Town
+Sat Sep 3 1966,Scunthorpe United,0-1,AFC Bournemouth
+Sat Sep 3 1966,Peterborough United,2-1,Grimsby Town
+Sat Sep 3 1966,Queens Park Rangers,3-1,Swindon Town
+Sat Sep 3 1966,Bristol Rovers,1-0,Shrewsbury Town
+Sat Sep 3 1966,Oldham Athletic,4-1,Swansea City
+Sat Sep 3 1966,Gillingham,0-0,Walsall
+Sat Sep 3 1966,Darlington,0-1,Reading
+Mon Sep 5 1966,Leyton Orient,0-0,Torquay United
+Mon Sep 5 1966,Darlington,1-0,Swansea City
+Mon Sep 5 1966,Mansfield Town,2-4,Oldham Athletic
+Mon Sep 5 1966,Peterborough United,2-0,Gillingham
+Tue Sep 6 1966,Queens Park Rangers,4-0,Middlesbrough
+Tue Sep 6 1966,Walsall,2-0,Workington
+Tue Sep 6 1966,Swindon Town,1-1,Colchester United
+Tue Sep 6 1966,Doncaster Rovers,2-1,Oxford United
+Tue Sep 6 1966,Watford,1-0,Shrewsbury Town
+Wed Sep 7 1966,Grimsby Town,7-1,Scunthorpe United
+Wed Sep 7 1966,Reading,1-2,Bristol Rovers
+Wed Sep 7 1966,Brighton & Hove Albion,0-3,AFC Bournemouth
+Fri Sep 9 1966,Doncaster Rovers,0-4,Darlington
+Fri Sep 9 1966,Leyton Orient,0-1,Gillingham
+Sat Sep 10 1966,Mansfield Town,2-1,Brighton & Hove Albion
+Sat Sep 10 1966,Grimsby Town,1-0,Torquay United
+Sat Sep 10 1966,Colchester United,3-1,Bristol Rovers
+Sat Sep 10 1966,AFC Bournemouth,0-2,Workington
+Sat Sep 10 1966,Reading,2-2,Queens Park Rangers
+Sat Sep 10 1966,Swindon Town,1-2,Watford
+Sat Sep 10 1966,Shrewsbury Town,1-0,Oxford United
+Sat Sep 10 1966,Walsall,1-1,Peterborough United
+Sat Sep 10 1966,Swansea City,0-1,Scunthorpe United
+Sat Sep 10 1966,Middlesbrough,0-2,Oldham Athletic
+Fri Sep 16 1966,Workington,6-3,Swansea City
+Sat Sep 17 1966,Scunthorpe United,3-2,Middlesbrough
+Sat Sep 17 1966,Bristol Rovers,3-0,Swindon Town
+Sat Sep 17 1966,Leyton Orient,1-1,Peterborough United
+Sat Sep 17 1966,Queens Park Rangers,6-0,Doncaster Rovers
+Sat Sep 17 1966,Torquay United,5-2,Walsall
+Sat Sep 17 1966,Gillingham,0-0,AFC Bournemouth
+Sat Sep 17 1966,Watford,1-0,Reading
+Sat Sep 17 1966,Brighton & Hove Albion,0-2,Grimsby Town
+Sat Sep 17 1966,Darlington,1-1,Mansfield Town
+Sat Sep 17 1966,Oldham Athletic,4-1,Shrewsbury Town
+Sat Sep 17 1966,Oxford United,1-1,Colchester United
+Wed Sep 21 1966,Reading,1-0,Darlington
+Wed Sep 21 1966,Shrewsbury Town,3-2,Torquay United
+Fri Sep 23 1966,Doncaster Rovers,0-0,Watford
+Sat Sep 24 1966,Walsall,2-1,Brighton & Hove Albion
+Sat Sep 24 1966,AFC Bournemouth,1-0,Leyton Orient
+Sat Sep 24 1966,Grimsby Town,4-1,Darlington
+Sat Sep 24 1966,Reading,2-1,Swindon Town
+Sat Sep 24 1966,Swansea City,1-1,Gillingham
+Sat Sep 24 1966,Middlesbrough,3-2,Workington
+Sat Sep 24 1966,Colchester United,3-2,Oldham Athletic
+Sat Sep 24 1966,Mansfield Town,1-7,Queens Park Rangers
+Sat Sep 24 1966,Bristol Rovers,2-1,Oxford United
+Sat Sep 24 1966,Peterborough United,0-1,Torquay United
+Sat Sep 24 1966,Shrewsbury Town,4-3,Scunthorpe United
+Mon Sep 26 1966,Colchester United,2-1,Swindon Town
+Mon Sep 26 1966,Middlesbrough,2-2,Queens Park Rangers
+Mon Sep 26 1966,Shrewsbury Town,1-1,Watford
+Tue Sep 27 1966,Bristol Rovers,2-1,Reading
+Tue Sep 27 1966,Oldham Athletic,0-0,Mansfield Town
+Tue Sep 27 1966,Swansea City,1-1,Darlington
+Tue Sep 27 1966,Scunthorpe United,0-0,Grimsby Town
+Wed Sep 28 1966,Torquay United,1-1,Leyton Orient
+Wed Sep 28 1966,Oxford United,6-1,Doncaster Rovers
+Wed Sep 28 1966,Workington,4-0,Walsall
+Wed Sep 28 1966,AFC Bournemouth,2-1,Brighton & Hove Albion
+Fri Sep 30 1966,Scunthorpe United,3-1,Colchester United
+Sat Oct 1 1966,Swindon Town,0-1,Doncaster Rovers
+Sat Oct 1 1966,Oxford United,1-3,Reading
+Sat Oct 1 1966,Leyton Orient,1-0,Swansea City
+Sat Oct 1 1966,Brighton & Hove Albion,5-2,Peterborough United
+Sat Oct 1 1966,Darlington,0-1,Walsall
+Sat Oct 1 1966,Gillingham,5-1,Middlesbrough
+Sat Oct 1 1966,AFC Bournemouth,1-0,Torquay United
+Sat Oct 1 1966,Queens Park Rangers,5-1,Grimsby Town
+Sat Oct 1 1966,Watford,0-1,Mansfield Town
+Sat Oct 1 1966,Oldham Athletic,3-0,Bristol Rovers
+Tue Oct 4 1966,Bristol Rovers,3-0,Darlington
+Wed Oct 5 1966,Gillingham,2-2,Peterborough United
+Fri Oct 7 1966,Doncaster Rovers,3-2,Bristol Rovers
+Sat Oct 8 1966,Watford,2-0,Middlesbrough
+Sat Oct 8 1966,Torquay United,4-1,Gillingham
+Sat Oct 8 1966,Darlington,1-2,AFC Bournemouth
+Sat Oct 8 1966,Swindon Town,2-2,Shrewsbury Town
+Sat Oct 8 1966,Mansfield Town,1-1,Oxford United
+Sat Oct 8 1966,Reading,2-3,Colchester United
+Sat Oct 8 1966,Peterborough United,3-0,Workington
+Sat Oct 8 1966,Walsall,2-0,Scunthorpe United
+Sat Oct 8 1966,Queens Park Rangers,4-2,Swansea City
+Sat Oct 8 1966,Grimsby Town,1-0,Oldham Athletic
+Sat Oct 8 1966,Brighton & Hove Albion,1-0,Leyton Orient
+Tue Oct 11 1966,Walsall,3-0,Gillingham
+Fri Oct 14 1966,Workington,1-2,Torquay United
+Fri Oct 14 1966,Scunthorpe United,1-0,Peterborough United
+Sat Oct 15 1966,Swansea City,2-2,Watford
+Sat Oct 15 1966,Colchester United,5-0,Doncaster Rovers
+Sat Oct 15 1966,Gillingham,2-0,Brighton & Hove Albion
+Sat Oct 15 1966,Leyton Orient,1-2,Darlington
+Sat Oct 15 1966,Middlesbrough,4-0,Swindon Town
+Sat Oct 15 1966,Oxford United,3-1,Grimsby Town
+Sat Oct 15 1966,Shrewsbury Town,1-0,Reading
+Sat Oct 15 1966,Bristol Rovers,4-4,Mansfield Town
+Sat Oct 15 1966,AFC Bournemouth,1-3,Queens Park Rangers
+Sat Oct 15 1966,Oldham Athletic,6-2,Walsall
+Mon Oct 17 1966,Middlesbrough,4-1,Swansea City
+Mon Oct 17 1966,Mansfield Town,3-1,Doncaster Rovers
+Mon Oct 17 1966,Colchester United,2-2,Leyton Orient
+Mon Oct 17 1966,Peterborough United,2-2,Watford
+Tue Oct 18 1966,Walsall,1-1,Swindon Town
+Tue Oct 18 1966,Oldham Athletic,2-0,Scunthorpe United
+Tue Oct 18 1966,Bristol Rovers,4-1,Gillingham
+Wed Oct 19 1966,Torquay United,1-1,Queens Park Rangers
+Wed Oct 19 1966,Oxford United,3-0,Workington
+Wed Oct 19 1966,Shrewsbury Town,4-1,AFC Bournemouth
+Wed Oct 19 1966,Grimsby Town,2-0,Reading
+Wed Oct 19 1966,Brighton & Hove Albion,5-0,Darlington
+Fri Oct 21 1966,Doncaster Rovers,2-1,Shrewsbury Town
+Sat Oct 22 1966,Queens Park Rangers,4-1,Leyton Orient
+Sat Oct 22 1966,Brighton & Hove Albion,0-0,Workington
+Sat Oct 22 1966,Mansfield Town,2-0,Colchester United
+Sat Oct 22 1966,Reading,0-0,Middlesbrough
+Sat Oct 22 1966,Swindon Town,4-0,Swansea City
+Sat Oct 22 1966,Watford,3-0,AFC Bournemouth
+Sat Oct 22 1966,Grimsby Town,0-0,Bristol Rovers
+Sat Oct 22 1966,Walsall,2-0,Oxford United
+Sat Oct 22 1966,Torquay United,1-1,Scunthorpe United
+Sat Oct 22 1966,Peterborough United,3-1,Oldham Athletic
+Sat Oct 22 1966,Darlington,1-1,Gillingham
+Mon Oct 24 1966,Bristol Rovers,1-1,Scunthorpe United
+Fri Oct 28 1966,Scunthorpe United,0-1,Brighton & Hove Albion
+Fri Oct 28 1966,Workington,1-2,Darlington
+Sat Oct 29 1966,Middlesbrough,2-0,Doncaster Rovers
+Sat Oct 29 1966,Gillingham,2-2,Queens Park Rangers
+Sat Oct 29 1966,Shrewsbury Town,1-0,Mansfield Town
+Sat Oct 29 1966,Leyton Orient,1-1,Watford
+Sat Oct 29 1966,Oldham Athletic,5-0,Torquay United
+Sat Oct 29 1966,AFC Bournemouth,1-4,Swindon Town
+Sat Oct 29 1966,Oxford United,0-3,Peterborough United
+Sat Oct 29 1966,Bristol Rovers,4-2,Walsall
+Sat Oct 29 1966,Swansea City,5-2,Reading
+Sat Oct 29 1966,Colchester United,4-0,Grimsby Town
+Mon Oct 31 1966,Mansfield Town,4-2,Torquay United
+Wed Nov 2 1966,Shrewsbury Town,3-4,Bristol Rovers
+Fri Nov 4 1966,Walsall,1-0,Colchester United
+Sat Nov 5 1966,Swindon Town,5-1,Leyton Orient
+Sat Nov 5 1966,Grimsby Town,1-1,Shrewsbury Town
+Sat Nov 5 1966,Brighton & Hove Albion,2-0,Oldham Athletic
+Sat Nov 5 1966,Doncaster Rovers,4-1,Swansea City
+Sat Nov 5 1966,Reading,0-0,AFC Bournemouth
+Sat Nov 5 1966,Queens Park Rangers,4-1,Workington
+Sat Nov 5 1966,Watford,1-1,Gillingham
+Sat Nov 5 1966,Torquay United,1-0,Oxford United
+Sat Nov 5 1966,Peterborough United,1-1,Bristol Rovers
+Sat Nov 5 1966,Darlington,2-1,Scunthorpe United
+Sat Nov 5 1966,Mansfield Town,4-5,Middlesbrough
+Fri Nov 11 1966,Leyton Orient,3-2,Reading
+Sat Nov 12 1966,Colchester United,1-4,Peterborough United
+Sat Nov 12 1966,Oldham Athletic,4-0,Darlington
+Sat Nov 12 1966,Gillingham,1-0,Swindon Town
+Sat Nov 12 1966,Bristol Rovers,1-0,Torquay United
+Sat Nov 12 1966,Shrewsbury Town,1-2,Walsall
+Sat Nov 12 1966,Oxford United,1-2,Brighton & Hove Albion
+Sat Nov 12 1966,AFC Bournemouth,4-1,Doncaster Rovers
+Sat Nov 12 1966,Swansea City,0-1,Mansfield Town
+Sat Nov 12 1966,Scunthorpe United,0-2,Queens Park Rangers
+Sat Nov 12 1966,Middlesbrough,0-1,Grimsby Town
+Sat Nov 12 1966,Workington,1-2,Watford
+Mon Nov 14 1966,Darlington,3-1,Brighton & Hove Albion
+Mon Nov 14 1966,Leyton Orient,3-3,Colchester United
+Tue Nov 15 1966,Scunthorpe United,1-1,Oldham Athletic
+Tue Nov 15 1966,Doncaster Rovers,4-6,Mansfield Town
+Tue Nov 15 1966,Queens Park Rangers,2-1,Torquay United
+Tue Nov 15 1966,Watford,3-1,Peterborough United
+Tue Nov 15 1966,Swansea City,4-4,Middlesbrough
+Wed Nov 16 1966,Workington,0-0,Oxford United
+Wed Nov 16 1966,AFC Bournemouth,0-3,Shrewsbury Town
+Wed Nov 16 1966,Reading,6-0,Grimsby Town
+Wed Nov 16 1966,Gillingham,1-0,Bristol Rovers
+Fri Nov 18 1966,Doncaster Rovers,2-2,Leyton Orient
+Sat Nov 19 1966,Grimsby Town,2-1,Swansea City
+Sat Nov 19 1966,Watford,0-1,Scunthorpe United
+Sat Nov 19 1966,Queens Park Rangers,0-1,Oldham Athletic
+Sat Nov 19 1966,Torquay United,5-0,Colchester United
+Sat Nov 19 1966,Reading,2-1,Gillingham
+Sat Nov 19 1966,Swindon Town,3-0,Workington
+Sat Nov 19 1966,Walsall,2-1,Middlesbrough
+Sat Nov 19 1966,Peterborough United,0-2,Shrewsbury Town
+Sat Nov 19 1966,Brighton & Hove Albion,3-2,Bristol Rovers
+Sat Nov 19 1966,Darlington,1-2,Oxford United
+Sat Nov 19 1966,Mansfield Town,1-0,AFC Bournemouth
+Sat Dec 3 1966,Watford,2-0,Oxford United
+Sat Dec 3 1966,Doncaster Rovers,2-1,Workington
+Sat Dec 3 1966,Peterborough United,4-4,Swansea City
+Sat Dec 3 1966,Queens Park Rangers,3-0,Bristol Rovers
+Sat Dec 3 1966,Swindon Town,6-3,Oldham Athletic
+Sat Dec 3 1966,Darlington,0-4,Colchester United
+Sat Dec 3 1966,Brighton & Hove Albion,2-1,Shrewsbury Town
+Sat Dec 3 1966,Walsall,3-0,AFC Bournemouth
+Sat Dec 3 1966,Reading,4-0,Scunthorpe United
+Sat Dec 3 1966,Grimsby Town,1-2,Leyton Orient
+Sat Dec 3 1966,Torquay United,2-1,Middlesbrough
+Sat Dec 3 1966,Mansfield Town,4-1,Gillingham
+Fri Dec 9 1966,Scunthorpe United,2-1,Doncaster Rovers
+Sat Dec 10 1966,Colchester United,1-3,Queens Park Rangers
+Sat Dec 10 1966,Gillingham,2-0,Grimsby Town
+Sat Dec 10 1966,Swansea City,0-0,Torquay United
+Sat Dec 10 1966,Shrewsbury Town,3-0,Darlington
+Sat Dec 10 1966,Bristol Rovers,0-3,Watford
+Sat Dec 10 1966,Workington,2-4,Mansfield Town
+Sat Dec 10 1966,Middlesbrough,1-0,Brighton & Hove Albion
+Sat Dec 10 1966,AFC Bournemouth,1-1,Peterborough United
+Sat Dec 10 1966,Oldham Athletic,1-3,Reading
+Sat Dec 10 1966,Oxford United,0-0,Swindon Town
+Wed Dec 14 1966,Torquay United,1-0,Watford
+Sat Dec 17 1966,Gillingham,0-1,Scunthorpe United
+Sat Dec 17 1966,Swindon Town,1-1,Brighton & Hove Albion
+Sat Dec 17 1966,AFC Bournemouth,0-0,Oxford United
+Sat Dec 17 1966,Leyton Orient,2-2,Oldham Athletic
+Sat Dec 17 1966,Swansea City,2-2,Bristol Rovers
+Sat Dec 17 1966,Shrewsbury Town,0-0,Queens Park Rangers
+Sat Dec 17 1966,Watford,2-0,Darlington
+Sat Dec 17 1966,Grimsby Town,4-1,Workington
+Sat Dec 17 1966,Middlesbrough,4-0,Colchester United
+Sat Dec 17 1966,Mansfield Town,4-1,Walsall
+Sat Dec 17 1966,Reading,2-1,Torquay United
+Sat Dec 17 1966,Doncaster Rovers,3-1,Peterborough United
+Fri Dec 23 1966,Doncaster Rovers,3-2,Grimsby Town
+Fri Dec 23 1966,Peterborough United,1-2,Swindon Town
+Fri Dec 23 1966,Scunthorpe United,2-1,Mansfield Town
+Mon Dec 26 1966,Workington,1-1,Oldham Athletic
+Mon Dec 26 1966,Swindon Town,4-1,Peterborough United
+Mon Dec 26 1966,Swansea City,5-2,Shrewsbury Town
+Mon Dec 26 1966,Watford,2-1,Torquay United
+Mon Dec 26 1966,Queens Park Rangers,3-0,Brighton & Hove Albion
+Mon Dec 26 1966,Walsall,3-1,Reading
+Mon Dec 26 1966,Oxford United,1-1,Gillingham
+Mon Dec 26 1966,Grimsby Town,4-1,Doncaster Rovers
+Mon Dec 26 1966,AFC Bournemouth,1-1,Colchester United
+Mon Dec 26 1966,Leyton Orient,0-2,Bristol Rovers
+Mon Dec 26 1966,Darlington,0-3,Middlesbrough
+Tue Dec 27 1966,Oldham Athletic,3-0,Workington
+Tue Dec 27 1966,Middlesbrough,4-0,Darlington
+Tue Dec 27 1966,Reading,3-1,Walsall
+Tue Dec 27 1966,Bristol Rovers,1-0,Leyton Orient
+Tue Dec 27 1966,Shrewsbury Town,2-2,Swansea City
+Tue Dec 27 1966,Gillingham,3-1,Oxford United
+Tue Dec 27 1966,Colchester United,2-0,AFC Bournemouth
+Tue Dec 27 1966,Brighton & Hove Albion,2-2,Queens Park Rangers
+Tue Dec 27 1966,Mansfield Town,3-1,Scunthorpe United
+Fri Dec 30 1966,Scunthorpe United,2-2,Leyton Orient
+Sat Dec 31 1966,Oldham Athletic,1-1,AFC Bournemouth
+Sat Dec 31 1966,Torquay United,4-0,Doncaster Rovers
+Sat Dec 31 1966,Workington,1-3,Gillingham
+Sat Dec 31 1966,Walsall,1-0,Grimsby Town
+Sat Dec 31 1966,Peterborough United,3-1,Mansfield Town
+Sat Dec 31 1966,Darlington,2-1,Swindon Town
+Sat Dec 31 1966,Brighton & Hove Albion,0-1,Reading
+Sat Dec 31 1966,Queens Park Rangers,4-1,Watford
+Sat Dec 31 1966,Oxford United,2-3,Swansea City
+Sat Dec 31 1966,Bristol Rovers,2-2,Middlesbrough
+Sat Dec 31 1966,Colchester United,3-1,Shrewsbury Town
+Sat Jan 14 1967,Oxford United,2-1,Shrewsbury Town
+Sat Jan 14 1967,Brighton & Hove Albion,1-0,Mansfield Town
+Sat Jan 14 1967,Scunthorpe United,4-3,Swansea City
+Sat Jan 14 1967,Oldham Athletic,0-1,Middlesbrough
+Sat Jan 14 1967,Queens Park Rangers,2-1,Reading
+Sat Jan 14 1967,Darlington,3-2,Doncaster Rovers
+Sat Jan 14 1967,Bristol Rovers,4-1,Colchester United
+Sat Jan 14 1967,Workington,0-0,AFC Bournemouth
+Sat Jan 14 1967,Gillingham,0-0,Leyton Orient
+Sat Jan 14 1967,Watford,2-0,Swindon Town
+Sat Jan 14 1967,Torquay United,3-1,Grimsby Town
+Sat Jan 14 1967,Peterborough United,2-1,Walsall
+Sat Jan 21 1967,Reading,1-1,Watford
+Sat Jan 21 1967,Swindon Town,0-1,Bristol Rovers
+Sat Jan 21 1967,Peterborough United,0-2,Leyton Orient
+Sat Jan 21 1967,Shrewsbury Town,3-1,Oldham Athletic
+Sat Jan 21 1967,Mansfield Town,2-2,Darlington
+Sat Jan 21 1967,Walsall,0-1,Torquay United
+Sat Jan 21 1967,Grimsby Town,2-3,Brighton & Hove Albion
+Sat Jan 21 1967,AFC Bournemouth,1-0,Gillingham
+Sat Jan 21 1967,Colchester United,1-2,Oxford United
+Sat Jan 21 1967,Doncaster Rovers,1-1,Queens Park Rangers
+Sat Jan 21 1967,Middlesbrough,2-1,Scunthorpe United
+Sat Jan 21 1967,Swansea City,5-2,Workington
+Sat Jan 28 1967,Workington,1-0,Colchester United
+Sat Jan 28 1967,AFC Bournemouth,0-0,Scunthorpe United
+Sat Feb 4 1967,Darlington,1-0,Grimsby Town
+Sat Feb 4 1967,Brighton & Hove Albion,2-3,Walsall
+Sat Feb 4 1967,Leyton Orient,1-0,AFC Bournemouth
+Sat Feb 4 1967,Gillingham,0-0,Swansea City
+Sat Feb 4 1967,Watford,4-1,Doncaster Rovers
+Sat Feb 4 1967,Oldham Athletic,4-0,Colchester United
+Sat Feb 4 1967,Torquay United,1-0,Peterborough United
+Sat Feb 4 1967,Swindon Town,0-1,Reading
+Sat Feb 4 1967,Scunthorpe United,2-0,Shrewsbury Town
+Sat Feb 4 1967,Workington,1-2,Middlesbrough
+Sat Feb 4 1967,Oxford United,4-1,Bristol Rovers
+Sat Feb 4 1967,Queens Park Rangers,0-0,Mansfield Town
+Sat Feb 11 1967,Walsall,1-1,Darlington
+Sat Feb 11 1967,Torquay United,3-2,AFC Bournemouth
+Sat Feb 11 1967,Peterborough United,2-1,Brighton & Hove Albion
+Sat Feb 11 1967,Grimsby Town,1-1,Queens Park Rangers
+Sat Feb 11 1967,Reading,1-2,Oxford United
+Sat Feb 11 1967,Shrewsbury Town,3-1,Workington
+Sat Feb 11 1967,Middlesbrough,1-1,Gillingham
+Sat Feb 11 1967,Mansfield Town,2-1,Watford
+Sat Feb 11 1967,Swansea City,2-0,Leyton Orient
+Sat Feb 11 1967,Bristol Rovers,2-1,Oldham Athletic
+Sat Feb 11 1967,Doncaster Rovers,1-0,Swindon Town
+Sat Feb 11 1967,Colchester United,0-1,Scunthorpe United
+Sat Feb 18 1967,Workington,0-2,Bristol Rovers
+Sat Feb 18 1967,Watford,2-1,Walsall
+Sat Feb 18 1967,AFC Bournemouth,1-1,Middlesbrough
+Sat Feb 18 1967,Gillingham,2-1,Colchester United
+Sat Feb 18 1967,Darlington,0-0,Torquay United
+Sat Feb 18 1967,Leyton Orient,2-2,Shrewsbury Town
+Sat Feb 18 1967,Oxford United,2-1,Scunthorpe United
+Sat Feb 18 1967,Oldham Athletic,1-0,Doncaster Rovers
+Mon Feb 20 1967,Peterborough United,0-2,Queens Park Rangers
+Wed Feb 22 1967,Mansfield Town,4-2,Reading
+Fri Feb 24 1967,Oldham Athletic,0-1,Grimsby Town
+Fri Feb 24 1967,Scunthorpe United,2-0,Walsall
+Sat Feb 25 1967,Middlesbrough,3-0,Watford
+Sat Feb 25 1967,Shrewsbury Town,3-1,Swindon Town
+Sat Feb 25 1967,Bristol Rovers,4-2,Doncaster Rovers
+Sat Feb 25 1967,AFC Bournemouth,1-1,Darlington
+Sat Feb 25 1967,Swansea City,1-3,Queens Park Rangers
+Sat Feb 25 1967,Leyton Orient,3-2,Brighton & Hove Albion
+Sat Feb 25 1967,Oxford United,2-1,Mansfield Town
+Sat Feb 25 1967,Workington,1-0,Peterborough United
+Sat Feb 25 1967,Colchester United,2-0,Reading
+Sat Feb 25 1967,Gillingham,0-0,Torquay United
+Tue Feb 28 1967,Swindon Town,3-1,Grimsby Town
+Fri Mar 3 1967,Watford,1-1,Swansea City
+Fri Mar 3 1967,Walsall,1-1,Oldham Athletic
+Fri Mar 3 1967,Doncaster Rovers,1-4,Colchester United
+Fri Mar 3 1967,Reading,2-0,Shrewsbury Town
+Sat Mar 4 1967,Darlington,0-0,Leyton Orient
+Sat Mar 4 1967,Brighton & Hove Albion,2-2,Gillingham
+Sat Mar 4 1967,Peterborough United,1-0,Scunthorpe United
+Sat Mar 4 1967,Torquay United,5-1,Workington
+Sat Mar 4 1967,Swindon Town,4-1,Middlesbrough
+Sat Mar 4 1967,Grimsby Town,1-0,Oxford United
+Sat Mar 4 1967,Mansfield Town,2-0,Bristol Rovers
+Tue Mar 7 1967,Queens Park Rangers,4-0,AFC Bournemouth
+Wed Mar 8 1967,Brighton & Hove Albion,3-2,Swansea City
+Fri Mar 10 1967,Doncaster Rovers,1-1,Oldham Athletic
+Fri Mar 10 1967,Scunthorpe United,2-2,Oxford United
+Sat Mar 11 1967,Swansea City,1-1,Brighton & Hove Albion
+Sat Mar 11 1967,Walsall,0-1,Watford
+Sat Mar 11 1967,Shrewsbury Town,6-1,Leyton Orient
+Sat Mar 11 1967,Middlesbrough,3-1,AFC Bournemouth
+Sat Mar 11 1967,Reading,2-2,Mansfield Town
+Sat Mar 11 1967,Torquay United,2-0,Darlington
+Sat Mar 11 1967,Colchester United,0-0,Gillingham
+Sat Mar 11 1967,Queens Park Rangers,0-0,Peterborough United
+Sat Mar 11 1967,Bristol Rovers,0-1,Workington
+Fri Mar 17 1967,Scunthorpe United,3-1,Torquay United
+Fri Mar 17 1967,Workington,2-1,Brighton & Hove Albion
+Sat Mar 18 1967,Swansea City,2-2,Swindon Town
+Sat Mar 18 1967,Oldham Athletic,1-0,Peterborough United
+Sat Mar 18 1967,Middlesbrough,2-2,Reading
+Sat Mar 18 1967,Gillingham,1-2,Darlington
+Sat Mar 18 1967,Shrewsbury Town,2-1,Doncaster Rovers
+Sat Mar 18 1967,Colchester United,3-0,Mansfield Town
+Sat Mar 18 1967,Bristol Rovers,0-0,Grimsby Town
+Sat Mar 18 1967,Oxford United,1-2,Walsall
+Sat Mar 18 1967,AFC Bournemouth,0-0,Watford
+Sat Mar 18 1967,Leyton Orient,0-0,Queens Park Rangers
+Fri Mar 24 1967,Watford,1-1,Brighton & Hove Albion
+Fri Mar 24 1967,Colchester United,3-1,Swansea City
+Fri Mar 24 1967,Queens Park Rangers,4-0,Darlington
+Fri Mar 24 1967,Grimsby Town,1-2,Mansfield Town
+Fri Mar 24 1967,Bristol Rovers,1-1,AFC Bournemouth
+Fri Mar 24 1967,Oxford United,0-0,Leyton Orient
+Sat Mar 25 1967,Brighton & Hove Albion,2-2,Scunthorpe United
+Sat Mar 25 1967,Grimsby Town,0-0,Colchester United
+Sat Mar 25 1967,Walsall,1-1,Bristol Rovers
+Sat Mar 25 1967,Torquay United,4-0,Oldham Athletic
+Sat Mar 25 1967,Watford,1-3,Leyton Orient
+Sat Mar 25 1967,Peterborough United,2-3,Oxford United
+Sat Mar 25 1967,Mansfield Town,0-1,Shrewsbury Town
+Sat Mar 25 1967,Queens Park Rangers,2-0,Gillingham
+Sat Mar 25 1967,Doncaster Rovers,0-4,Middlesbrough
+Sat Mar 25 1967,Reading,2-0,Swansea City
+Sat Mar 25 1967,Swindon Town,1-0,AFC Bournemouth
+Sat Mar 25 1967,Darlington,1-1,Workington
+Mon Mar 27 1967,Middlesbrough,1-0,Shrewsbury Town
+Mon Mar 27 1967,AFC Bournemouth,0-0,Bristol Rovers
+Mon Mar 27 1967,Leyton Orient,2-1,Oxford United
+Mon Mar 27 1967,Brighton & Hove Albion,1-0,Watford
+Mon Mar 27 1967,Swansea City,1-0,Colchester United
+Mon Mar 27 1967,Walsall,4-0,Doncaster Rovers
+Mon Mar 27 1967,Scunthorpe United,4-1,Workington
+Mon Mar 27 1967,Darlington,0-0,Queens Park Rangers
+Mon Mar 27 1967,Gillingham,1-0,Oldham Athletic
+Mon Mar 27 1967,Reading,2-2,Peterborough United
+Mon Mar 27 1967,Torquay United,1-0,Swindon Town
+Tue Mar 28 1967,Mansfield Town,4-0,Grimsby Town
+Tue Mar 28 1967,Swindon Town,0-0,Torquay United
+Tue Mar 28 1967,Workington,1-0,Scunthorpe United
+Tue Mar 28 1967,Peterborough United,2-1,Reading
+Tue Mar 28 1967,Doncaster Rovers,2-1,Walsall
+Wed Mar 29 1967,Shrewsbury Town,1-0,Middlesbrough
+Wed Mar 29 1967,Oldham Athletic,2-1,Gillingham
+Fri Mar 31 1967,Scunthorpe United,2-0,Darlington
+Sat Apr 1 1967,Swansea City,6-0,Doncaster Rovers
+Sat Apr 1 1967,Leyton Orient,0-0,Swindon Town
+Sat Apr 1 1967,Middlesbrough,1-0,Mansfield Town
+Sat Apr 1 1967,AFC Bournemouth,2-2,Reading
+Sat Apr 1 1967,Colchester United,5-1,Walsall
+Sat Apr 1 1967,Gillingham,4-1,Watford
+Sat Apr 1 1967,Oxford United,2-2,Torquay United
+Sat Apr 1 1967,Oldham Athletic,4-1,Brighton & Hove Albion
+Sat Apr 1 1967,Bristol Rovers,1-1,Peterborough United
+Sat Apr 1 1967,Workington,0-2,Queens Park Rangers
+Sat Apr 1 1967,Shrewsbury Town,0-1,Grimsby Town
+Tue Apr 4 1967,Swansea City,0-1,AFC Bournemouth
+Wed Apr 5 1967,Grimsby Town,3-4,Swindon Town
+Sat Apr 8 1967,Reading,1-0,Leyton Orient
+Sat Apr 8 1967,Brighton & Hove Albion,2-0,Oxford United
+Sat Apr 8 1967,Watford,2-1,Workington
+Sat Apr 8 1967,Mansfield Town,1-2,Swansea City
+Sat Apr 8 1967,Walsall,2-2,Shrewsbury Town
+Sat Apr 8 1967,Queens Park Rangers,5-1,Scunthorpe United
+Sat Apr 8 1967,Swindon Town,2-0,Gillingham
+Sat Apr 8 1967,Darlington,2-3,Oldham Athletic
+Sat Apr 8 1967,Peterborough United,2-1,Colchester United
+Sat Apr 8 1967,Doncaster Rovers,1-1,AFC Bournemouth
+Sat Apr 8 1967,Torquay United,2-1,Bristol Rovers
+Sat Apr 8 1967,Grimsby Town,2-1,Middlesbrough
+Mon Apr 10 1967,Darlington,5-0,Peterborough United
+Mon Apr 10 1967,Colchester United,2-2,Workington
+Mon Apr 10 1967,Leyton Orient,2-0,Middlesbrough
+Tue Apr 11 1967,Walsall,2-0,Queens Park Rangers
+Tue Apr 11 1967,Swindon Town,3-1,Mansfield Town
+Wed Apr 12 1967,Grimsby Town,0-2,Watford
+Wed Apr 12 1967,Shrewsbury Town,3-1,Gillingham
+Wed Apr 12 1967,Reading,4-0,Doncaster Rovers
+Wed Apr 12 1967,Brighton & Hove Albion,0-1,Torquay United
+Wed Apr 12 1967,Oxford United,3-1,Oldham Athletic
+Fri Apr 14 1967,Scunthorpe United,1-0,Watford
+Sat Apr 15 1967,Shrewsbury Town,1-1,Peterborough United
+Sat Apr 15 1967,Bristol Rovers,2-2,Brighton & Hove Albion
+Sat Apr 15 1967,Colchester United,1-0,Torquay United
+Sat Apr 15 1967,Gillingham,0-2,Reading
+Sat Apr 15 1967,Leyton Orient,4-1,Doncaster Rovers
+Sat Apr 15 1967,AFC Bournemouth,1-3,Mansfield Town
+Sat Apr 15 1967,Swansea City,2-0,Grimsby Town
+Sat Apr 15 1967,Workington,1-3,Swindon Town
+Sat Apr 15 1967,Middlesbrough,0-2,Walsall
+Sat Apr 15 1967,Oxford United,3-2,Darlington
+Sat Apr 15 1967,Oldham Athletic,0-1,Queens Park Rangers
+Tue Apr 18 1967,Swindon Town,3-2,Walsall
+Fri Apr 21 1967,Doncaster Rovers,2-3,Gillingham
+Sat Apr 22 1967,Queens Park Rangers,3-1,Oxford United
+Sat Apr 22 1967,Reading,2-0,Workington
+Sat Apr 22 1967,Mansfield Town,1-1,Leyton Orient
+Sat Apr 22 1967,Torquay United,0-2,Shrewsbury Town
+Sat Apr 22 1967,Watford,2-2,Oldham Athletic
+Sat Apr 22 1967,Grimsby Town,1-0,AFC Bournemouth
+Sat Apr 22 1967,Walsall,1-1,Swansea City
+Sat Apr 22 1967,Darlington,0-3,Bristol Rovers
+Sat Apr 22 1967,Brighton & Hove Albion,1-1,Colchester United
+Sat Apr 22 1967,Peterborough United,1-2,Middlesbrough
+Sat Apr 22 1967,Swindon Town,2-1,Scunthorpe United
+Mon Apr 24 1967,Middlesbrough,3-1,Leyton Orient
+Mon Apr 24 1967,Scunthorpe United,3-1,Bristol Rovers
+Mon Apr 24 1967,Mansfield Town,1-3,Swindon Town
+Mon Apr 24 1967,Peterborough United,2-0,Darlington
+Tue Apr 25 1967,Queens Park Rangers,0-0,Walsall
+Tue Apr 25 1967,Doncaster Rovers,0-2,Reading
+Tue Apr 25 1967,Watford,3-1,Grimsby Town
+Tue Apr 25 1967,Oldham Athletic,1-1,Oxford United
+Wed Apr 26 1967,Torquay United,5-0,Brighton & Hove Albion
+Wed Apr 26 1967,AFC Bournemouth,1-0,Swansea City
+Wed Apr 26 1967,Gillingham,1-1,Shrewsbury Town
+Fri Apr 28 1967,Oldham Athletic,1-0,Swindon Town
+Fri Apr 28 1967,Scunthorpe United,0-2,Reading
+Sat Apr 29 1967,Swansea City,3-3,Peterborough United
+Sat Apr 29 1967,AFC Bournemouth,3-0,Walsall
+Sat Apr 29 1967,Middlesbrough,4-0,Torquay United
+Sat Apr 29 1967,Bristol Rovers,2-1,Queens Park Rangers
+Sat Apr 29 1967,Oxford United,0-0,Watford
+Sat Apr 29 1967,Gillingham,5-2,Mansfield Town
+Sat Apr 29 1967,Leyton Orient,1-1,Grimsby Town
+Sat Apr 29 1967,Shrewsbury Town,0-0,Brighton & Hove Albion
+Sat Apr 29 1967,Workington,3-1,Doncaster Rovers
+Sat Apr 29 1967,Colchester United,2-3,Darlington
+Tue May 2 1967,Grimsby Town,1-1,Peterborough United
+Tue May 2 1967,Swindon Town,1-1,Queens Park Rangers
+Fri May 5 1967,Doncaster Rovers,3-0,Scunthorpe United
+Sat May 6 1967,Reading,2-1,Oldham Athletic
+Sat May 6 1967,Swindon Town,3-0,Oxford United
+Sat May 6 1967,Walsall,1-1,Leyton Orient
+Sat May 6 1967,Darlington,1-1,Shrewsbury Town
+Sat May 6 1967,Queens Park Rangers,2-1,Colchester United
+Sat May 6 1967,Brighton & Hove Albion,1-1,Middlesbrough
+Sat May 6 1967,Mansfield Town,0-1,Workington
+Sat May 6 1967,Torquay United,2-4,Swansea City
+Sat May 6 1967,Watford,3-1,Bristol Rovers
+Sat May 6 1967,Grimsby Town,4-0,Gillingham
+Sat May 6 1967,Peterborough United,2-0,AFC Bournemouth
+Tue May 9 1967,Watford,0-0,Colchester United
+Fri May 12 1967,Scunthorpe United,1-2,Swindon Town
+Fri May 12 1967,Leyton Orient,4-2,Mansfield Town
+Sat May 13 1967,AFC Bournemouth,0-0,Grimsby Town
+Sat May 13 1967,Middlesbrough,2-1,Peterborough United
+Sat May 13 1967,Oxford United,2-1,Queens Park Rangers
+Sat May 13 1967,Swansea City,4-1,Walsall
+Sat May 13 1967,Gillingham,3-1,Doncaster Rovers
+Sat May 13 1967,Colchester United,3-2,Brighton & Hove Albion
+Sat May 13 1967,Oldham Athletic,1-1,Watford
+Sat May 13 1967,Workington,1-2,Reading
+Tue May 16 1967,Middlesbrough,4-1,Oxford United
+Tue May 16 1967,Doncaster Rovers,1-1,Brighton & Hove Albion
+Wed May 17 1967,Workington,2-3,Shrewsbury Town
+Fri May 19 1967,Leyton Orient,0-2,Walsall
+Sat May 27 1967,Leyton Orient,2-1,Workington

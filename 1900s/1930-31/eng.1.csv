@@ -1,0 +1,463 @@
+Date,Team 1,FT,Team 2
+Sat Aug 30 1930,Sunderland,3-3,Manchester City
+Sat Aug 30 1930,Bolton Wanderers,3-0,Middlesbrough
+Sat Aug 30 1930,Leeds United,2-2,Portsmouth
+Sat Aug 30 1930,Manchester United,3-4,Aston Villa
+Sat Aug 30 1930,Birmingham City,3-1,Sheffield United
+Sat Aug 30 1930,Liverpool,2-1,Blackburn Rovers
+Sat Aug 30 1930,Leicester City,1-1,Derby County
+Sat Aug 30 1930,Grimsby Town,0-1,Chelsea
+Sat Aug 30 1930,Sheffield Wednesday,2-1,Newcastle United
+Sat Aug 30 1930,Blackpool,1-4,Arsenal
+Sat Aug 30 1930,West Ham United,2-1,Huddersfield Town
+Mon Sep 1 1930,Blackburn Rovers,1-2,Portsmouth
+Mon Sep 1 1930,Leicester City,2-1,Birmingham City
+Mon Sep 1 1930,Bolton Wanderers,1-4,Arsenal
+Mon Sep 1 1930,Huddersfield Town,2-2,Grimsby Town
+Mon Sep 1 1930,West Ham United,7-0,Liverpool
+Mon Sep 1 1930,Aston Villa,2-0,Sheffield Wednesday
+Wed Sep 3 1930,Manchester City,2-4,Blackpool
+Wed Sep 3 1930,Sheffield United,3-3,Sunderland
+Wed Sep 3 1930,Derby County,4-1,Leeds United
+Wed Sep 3 1930,Newcastle United,1-0,Chelsea
+Wed Sep 3 1930,Middlesbrough,3-1,Manchester United
+Sat Sep 6 1930,Newcastle United,1-2,Grimsby Town
+Sat Sep 6 1930,Huddersfield Town,3-2,Bolton Wanderers
+Sat Sep 6 1930,Derby County,0-0,Birmingham City
+Sat Sep 6 1930,Aston Villa,6-1,West Ham United
+Sat Sep 6 1930,Sheffield United,1-1,Sheffield Wednesday
+Sat Sep 6 1930,Manchester City,0-2,Leicester City
+Sat Sep 6 1930,Portsmouth,1-1,Sunderland
+Sat Sep 6 1930,Blackburn Rovers,5-0,Blackpool
+Sat Sep 6 1930,Arsenal,3-1,Leeds United
+Sat Sep 6 1930,Middlesbrough,3-3,Liverpool
+Sat Sep 6 1930,Chelsea,6-2,Manchester United
+Mon Sep 8 1930,Leeds United,4-2,Manchester City
+Mon Sep 8 1930,Leicester City,2-2,Sheffield United
+Mon Sep 8 1930,Sheffield Wednesday,1-1,Chelsea
+Mon Sep 8 1930,West Ham United,0-3,Middlesbrough
+Tue Sep 9 1930,Grimsby Town,1-2,Aston Villa
+Wed Sep 10 1930,Manchester United,0-6,Huddersfield Town
+Wed Sep 10 1930,Sunderland,1-3,Derby County
+Wed Sep 10 1930,Blackpool,2-2,Portsmouth
+Wed Sep 10 1930,Birmingham City,1-1,Newcastle United
+Wed Sep 10 1930,Liverpool,7-2,Bolton Wanderers
+Wed Sep 10 1930,Arsenal,3-2,Blackburn Rovers
+Sat Sep 13 1930,Leeds United,4-2,Blackburn Rovers
+Sat Sep 13 1930,Birmingham City,3-2,Manchester City
+Sat Sep 13 1930,Bolton Wanderers,1-1,Aston Villa
+Sat Sep 13 1930,Grimsby Town,2-3,Sheffield Wednesday
+Sat Sep 13 1930,Sunderland,1-4,Arsenal
+Sat Sep 13 1930,Leicester City,3-1,Portsmouth
+Sat Sep 13 1930,West Ham United,4-1,Chelsea
+Sat Sep 13 1930,Liverpool,1-4,Huddersfield Town
+Sat Sep 13 1930,Blackpool,3-2,Middlesbrough
+Sat Sep 13 1930,Manchester United,4-7,Newcastle United
+Sat Sep 13 1930,Sheffield United,3-3,Derby County
+Mon Sep 15 1930,Aston Villa,2-0,Grimsby Town
+Mon Sep 15 1930,Huddersfield Town,3-0,Manchester United
+Mon Sep 15 1930,Chelsea,0-0,Sheffield Wednesday
+Mon Sep 15 1930,Blackburn Rovers,2-2,Arsenal
+Wed Sep 17 1930,Middlesbrough,2-2,West Ham United
+Wed Sep 17 1930,Derby County,4-1,Sunderland
+Wed Sep 17 1930,Newcastle United,2-2,Birmingham City
+Wed Sep 17 1930,Manchester City,1-0,Leeds United
+Wed Sep 17 1930,Portsmouth,4-3,Blackpool
+Sat Sep 20 1930,Chelsea,0-1,Bolton Wanderers
+Sat Sep 20 1930,Newcastle United,4-2,West Ham United
+Sat Sep 20 1930,Blackpool,3-7,Leeds United
+Sat Sep 20 1930,Sheffield Wednesday,3-0,Manchester United
+Sat Sep 20 1930,Manchester City,0-4,Sheffield United
+Sat Sep 20 1930,Huddersfield Town,2-2,Middlesbrough
+Sat Sep 20 1930,Portsmouth,2-2,Birmingham City
+Sat Sep 20 1930,Derby County,1-0,Grimsby Town
+Sat Sep 20 1930,Arsenal,4-1,Leicester City
+Sat Sep 20 1930,Aston Villa,4-2,Liverpool
+Sat Sep 20 1930,Blackburn Rovers,3-0,Sunderland
+Wed Sep 24 1930,Sheffield United,0-2,Leicester City
+Sat Sep 27 1930,Manchester United,0-2,Grimsby Town
+Sat Sep 27 1930,Bolton Wanderers,0-3,Newcastle United
+Sat Sep 27 1930,Sheffield United,3-1,Portsmouth
+Sat Sep 27 1930,West Ham United,3-3,Sheffield Wednesday
+Sat Sep 27 1930,Leeds United,1-2,Huddersfield Town
+Sat Sep 27 1930,Middlesbrough,3-1,Aston Villa
+Sat Sep 27 1930,Birmingham City,2-4,Arsenal
+Sat Sep 27 1930,Sunderland,2-4,Blackpool
+Sat Sep 27 1930,Liverpool,3-1,Chelsea
+Sat Sep 27 1930,Derby County,1-1,Manchester City
+Sat Sep 27 1930,Leicester City,3-1,Blackburn Rovers
+Sat Oct 4 1930,Sheffield Wednesday,1-0,Bolton Wanderers
+Sat Oct 4 1930,Leeds United,0-3,Sunderland
+Sat Oct 4 1930,Manchester City,4-1,Manchester United
+Sat Oct 4 1930,Aston Villa,6-1,Huddersfield Town
+Sat Oct 4 1930,Blackburn Rovers,2-1,Birmingham City
+Sat Oct 4 1930,Portsmouth,2-0,Derby County
+Sat Oct 4 1930,Chelsea,4-0,Middlesbrough
+Sat Oct 4 1930,Newcastle United,0-4,Liverpool
+Sat Oct 4 1930,Grimsby Town,4-0,West Ham United
+Sat Oct 4 1930,Arsenal,1-1,Sheffield United
+Sat Oct 4 1930,Blackpool,5-4,Leicester City
+Sat Oct 11 1930,West Ham United,5-1,Manchester United
+Sat Oct 11 1930,Middlesbrough,3-1,Newcastle United
+Sat Oct 11 1930,Huddersfield Town,1-1,Chelsea
+Sat Oct 11 1930,Leicester City,4-0,Leeds United
+Sat Oct 11 1930,Manchester City,1-3,Portsmouth
+Sat Oct 11 1930,Sheffield United,1-1,Blackburn Rovers
+Sat Oct 11 1930,Liverpool,1-2,Sheffield Wednesday
+Sat Oct 11 1930,Sunderland,1-1,Aston Villa
+Sat Oct 11 1930,Derby County,4-2,Arsenal
+Sat Oct 11 1930,Bolton Wanderers,4-2,Grimsby Town
+Sat Oct 11 1930,Birmingham City,1-1,Blackpool
+Sat Oct 18 1930,Manchester United,1-2,Arsenal
+Sat Oct 18 1930,Liverpool,2-0,Leeds United
+Sat Oct 18 1930,Bolton Wanderers,1-0,Blackpool
+Sat Oct 18 1930,Newcastle United,2-5,Derby County
+Sat Oct 18 1930,Middlesbrough,1-0,Sunderland
+Sat Oct 18 1930,Chelsea,1-0,Sheffield United
+Sat Oct 18 1930,Huddersfield Town,4-1,Leicester City
+Sat Oct 18 1930,West Ham United,4-3,Blackburn Rovers
+Sat Oct 18 1930,Sheffield Wednesday,1-1,Manchester City
+Sat Oct 18 1930,Aston Villa,1-1,Birmingham City
+Sat Oct 18 1930,Grimsby Town,0-3,Portsmouth
+Sat Oct 25 1930,Blackburn Rovers,2-2,Bolton Wanderers
+Sat Oct 25 1930,Portsmouth,4-1,Manchester United
+Sat Oct 25 1930,Derby County,2-3,Sheffield Wednesday
+Sat Oct 25 1930,Manchester City,1-0,Grimsby Town
+Sat Oct 25 1930,Sunderland,4-2,Huddersfield Town
+Sat Oct 25 1930,Sheffield United,3-1,Newcastle United
+Sat Oct 25 1930,Blackpool,1-3,Liverpool
+Sat Oct 25 1930,Leeds United,7-0,Middlesbrough
+Sat Oct 25 1930,Birmingham City,6-2,Chelsea
+Sat Oct 25 1930,Arsenal,1-1,West Ham United
+Sat Oct 25 1930,Leicester City,4-1,Aston Villa
+Sat Nov 1 1930,Newcastle United,4-1,Leeds United
+Sat Nov 1 1930,Chelsea,3-0,Blackpool
+Sat Nov 1 1930,Aston Villa,5-2,Blackburn Rovers
+Sat Nov 1 1930,Liverpool,0-2,Manchester City
+Sat Nov 1 1930,Middlesbrough,0-1,Portsmouth
+Sat Nov 1 1930,Grimsby Town,8-2,Leicester City
+Sat Nov 1 1930,Huddersfield Town,1-1,Arsenal
+Sat Nov 1 1930,West Ham United,4-1,Sheffield United
+Sat Nov 1 1930,Bolton Wanderers,1-2,Derby County
+Sat Nov 1 1930,Manchester United,2-0,Birmingham City
+Sat Nov 1 1930,Sheffield Wednesday,7-2,Sunderland
+Sat Nov 8 1930,Sheffield United,2-0,Bolton Wanderers
+Sat Nov 8 1930,Leicester City,5-4,Manchester United
+Sat Nov 8 1930,Derby County,2-2,Liverpool
+Sat Nov 8 1930,Blackpool,0-0,Newcastle United
+Sat Nov 8 1930,Blackburn Rovers,2-0,Chelsea
+Sat Nov 8 1930,Portsmouth,2-2,Huddersfield Town
+Sat Nov 8 1930,Birmingham City,0-2,West Ham United
+Sat Nov 8 1930,Sunderland,3-2,Grimsby Town
+Sat Nov 8 1930,Manchester City,4-2,Middlesbrough
+Sat Nov 8 1930,Leeds United,2-3,Sheffield Wednesday
+Sat Nov 8 1930,Arsenal,5-2,Aston Villa
+Sat Nov 15 1930,Liverpool,3-1,Leicester City
+Sat Nov 15 1930,Huddersfield Town,1-1,Sheffield United
+Sat Nov 15 1930,Middlesbrough,1-1,Birmingham City
+Sat Nov 15 1930,Sheffield Wednesday,1-2,Arsenal
+Sat Nov 15 1930,Manchester United,0-0,Blackpool
+Sat Nov 15 1930,Bolton Wanderers,2-2,Sunderland
+Sat Nov 15 1930,Newcastle United,4-7,Portsmouth
+Sat Nov 15 1930,Grimsby Town,2-0,Blackburn Rovers
+Sat Nov 15 1930,West Ham United,1-1,Leeds United
+Sat Nov 15 1930,Chelsea,2-0,Manchester City
+Sat Nov 15 1930,Aston Villa,4-6,Derby County
+Sat Nov 22 1930,Manchester City,3-0,Bolton Wanderers
+Sat Nov 22 1930,Blackpool,2-2,Aston Villa
+Sat Nov 22 1930,Leicester City,2-5,Sheffield Wednesday
+Sat Nov 22 1930,Derby County,1-1,West Ham United
+Sat Nov 22 1930,Portsmouth,4-0,Liverpool
+Sat Nov 22 1930,Birmingham City,4-1,Grimsby Town
+Sat Nov 22 1930,Blackburn Rovers,5-3,Huddersfield Town
+Sat Nov 22 1930,Sunderland,5-0,Newcastle United
+Sat Nov 22 1930,Arsenal,5-3,Middlesbrough
+Sat Nov 22 1930,Sheffield United,3-1,Manchester United
+Sat Nov 22 1930,Leeds United,2-3,Chelsea
+Sat Nov 29 1930,Middlesbrough,4-1,Derby County
+Sat Nov 29 1930,Bolton Wanderers,2-0,Birmingham City
+Sat Nov 29 1930,Grimsby Town,2-0,Leeds United
+Sat Nov 29 1930,Sheffield Wednesday,7-1,Blackpool
+Sat Nov 29 1930,Newcastle United,2-3,Blackburn Rovers
+Sat Nov 29 1930,Chelsea,1-5,Arsenal
+Sat Nov 29 1930,Huddersfield Town,1-1,Manchester City
+Sat Nov 29 1930,Liverpool,6-1,Sheffield United
+Sat Nov 29 1930,Manchester United,1-1,Sunderland
+Sat Nov 29 1930,West Ham United,2-0,Leicester City
+Wed Dec 3 1930,Aston Villa,2-2,Portsmouth
+Sat Dec 6 1930,Portsmouth,2-4,Sheffield Wednesday
+Sat Dec 6 1930,Leeds United,3-1,Bolton Wanderers
+Sat Dec 6 1930,Sunderland,6-5,Liverpool
+Sat Dec 6 1930,Birmingham City,2-0,Huddersfield Town
+Sat Dec 6 1930,Blackpool,1-3,West Ham United
+Sat Dec 6 1930,Manchester City,2-0,Newcastle United
+Sat Dec 6 1930,Leicester City,0-3,Middlesbrough
+Sat Dec 6 1930,Sheffield United,3-4,Aston Villa
+Sat Dec 6 1930,Derby County,6-2,Chelsea
+Sat Dec 6 1930,Blackburn Rovers,4-1,Manchester United
+Sat Dec 13 1930,Grimsby Town,2-1,Sheffield United
+Sat Dec 13 1930,Aston Villa,4-3,Leeds United
+Sat Dec 13 1930,Chelsea,5-0,Sunderland
+Sat Dec 13 1930,Sheffield Wednesday,9-1,Birmingham City
+Sat Dec 13 1930,Manchester United,2-1,Derby County
+Sat Dec 13 1930,West Ham United,2-0,Manchester City
+Sat Dec 13 1930,Middlesbrough,4-1,Blackburn Rovers
+Sat Dec 13 1930,Huddersfield Town,10-1,Blackpool
+Sat Dec 13 1930,Bolton Wanderers,3-1,Portsmouth
+Sat Dec 13 1930,Liverpool,1-1,Arsenal
+Sat Dec 13 1930,Newcastle United,5-2,Leicester City
+Sat Dec 20 1930,Arsenal,1-2,Newcastle United
+Sat Dec 20 1930,Derby County,4-1,Huddersfield Town
+Sat Dec 20 1930,Portsmouth,1-1,Chelsea
+Sat Dec 20 1930,Leeds United,5-0,Manchester United
+Sat Dec 20 1930,Birmingham City,2-0,Liverpool
+Sat Dec 20 1930,Sheffield United,4-2,Middlesbrough
+Sat Dec 20 1930,Blackpool,3-1,Grimsby Town
+Sat Dec 20 1930,Sunderland,6-1,West Ham United
+Sat Dec 20 1930,Blackburn Rovers,5-2,Sheffield Wednesday
+Sat Dec 20 1930,Manchester City,3-1,Aston Villa
+Sat Dec 20 1930,Leicester City,2-1,Bolton Wanderers
+Thu Dec 25 1930,Birmingham City,0-1,Leeds United
+Thu Dec 25 1930,Sunderland,2-5,Leicester City
+Thu Dec 25 1930,Blackpool,2-1,Sheffield United
+Thu Dec 25 1930,Blackburn Rovers,1-0,Derby County
+Thu Dec 25 1930,West Ham United,4-3,Portsmouth
+Thu Dec 25 1930,Grimsby Town,0-0,Liverpool
+Thu Dec 25 1930,Chelsea,0-2,Aston Villa
+Thu Dec 25 1930,Manchester City,1-4,Arsenal
+Thu Dec 25 1930,Bolton Wanderers,3-1,Manchester United
+Fri Dec 26 1930,Huddersfield Town,0-3,Newcastle United
+Fri Dec 26 1930,Leicester City,1-1,Sunderland
+Fri Dec 26 1930,Portsmouth,2-0,West Ham United
+Fri Dec 26 1930,Aston Villa,3-3,Chelsea
+Fri Dec 26 1930,Arsenal,3-1,Manchester City
+Fri Dec 26 1930,Derby County,1-1,Blackburn Rovers
+Fri Dec 26 1930,Leeds United,3-1,Birmingham City
+Fri Dec 26 1930,Liverpool,1-1,Grimsby Town
+Fri Dec 26 1930,Middlesbrough,2-0,Sheffield Wednesday
+Fri Dec 26 1930,Sheffield United,5-1,Blackpool
+Fri Dec 26 1930,Manchester United,1-1,Bolton Wanderers
+Sat Dec 27 1930,Sheffield United,3-1,Birmingham City
+Sat Dec 27 1930,Arsenal,7-1,Blackpool
+Sat Dec 27 1930,Portsmouth,1-1,Leeds United
+Sat Dec 27 1930,Huddersfield Town,2-0,West Ham United
+Sat Dec 27 1930,Chelsea,5-0,Grimsby Town
+Sat Dec 27 1930,Derby County,1-0,Leicester City
+Sat Dec 27 1930,Blackburn Rovers,3-3,Liverpool
+Sat Dec 27 1930,Middlesbrough,3-0,Bolton Wanderers
+Sat Dec 27 1930,Manchester City,2-0,Sunderland
+Sat Dec 27 1930,Newcastle United,1-2,Sheffield Wednesday
+Sat Dec 27 1930,Aston Villa,7-0,Manchester United
+Mon Dec 29 1930,Sheffield Wednesday,3-2,Middlesbrough
+Thu Jan 1 1931,Middlesbrough,2-1,Grimsby Town
+Thu Jan 1 1931,Blackburn Rovers,0-1,Manchester City
+Thu Jan 1 1931,Newcastle United,2-0,Aston Villa
+Thu Jan 1 1931,Manchester United,0-0,Leeds United
+Thu Jan 1 1931,Sheffield Wednesday,2-1,Huddersfield Town
+Sat Jan 3 1931,Bolton Wanderers,1-0,Huddersfield Town
+Sat Jan 3 1931,Manchester United,1-0,Chelsea
+Sat Jan 3 1931,Liverpool,3-1,Middlesbrough
+Sat Jan 3 1931,West Ham United,5-5,Aston Villa
+Sat Jan 3 1931,Leicester City,3-2,Manchester City
+Sat Jan 3 1931,Sheffield Wednesday,1-3,Sheffield United
+Sat Jan 3 1931,Birmingham City,1-2,Derby County
+Sat Jan 3 1931,Blackpool,1-1,Blackburn Rovers
+Sat Jan 3 1931,Grimsby Town,2-2,Newcastle United
+Sat Jan 3 1931,Sunderland,0-0,Portsmouth
+Wed Jan 14 1931,Bolton Wanderers,2-0,Liverpool
+Sat Jan 17 1931,Middlesbrough,5-1,Blackpool
+Sat Jan 17 1931,Sheffield Wednesday,4-1,Grimsby Town
+Sat Jan 17 1931,Chelsea,2-1,West Ham United
+Sat Jan 17 1931,Portsmouth,2-1,Leicester City
+Sat Jan 17 1931,Aston Villa,3-1,Bolton Wanderers
+Sat Jan 17 1931,Huddersfield Town,2-1,Liverpool
+Sat Jan 17 1931,Arsenal,1-3,Sunderland
+Sat Jan 17 1931,Newcastle United,4-3,Manchester United
+Sat Jan 17 1931,Blackburn Rovers,3-1,Leeds United
+Sat Jan 17 1931,Manchester City,4-2,Birmingham City
+Sat Jan 17 1931,Derby County,4-3,Sheffield United
+Sat Jan 24 1931,Liverpool,1-1,Aston Villa
+Sat Jan 24 1931,Middlesbrough,2-3,Huddersfield Town
+Mon Jan 26 1931,West Ham United,3-2,Newcastle United
+Wed Jan 28 1931,Arsenal,9-1,Grimsby Town
+Wed Jan 28 1931,Sheffield United,2-2,Manchester City
+Wed Jan 28 1931,Manchester United,4-1,Sheffield Wednesday
+Wed Jan 28 1931,Leeds United,2-2,Blackpool
+Wed Jan 28 1931,Birmingham City,2-1,Portsmouth
+Sat Jan 31 1931,Portsmouth,2-3,Sheffield United
+Sat Jan 31 1931,Chelsea,2-2,Liverpool
+Sat Jan 31 1931,Blackpool,3-1,Sunderland
+Sat Jan 31 1931,Sheffield Wednesday,5-3,West Ham United
+Sat Jan 31 1931,Huddersfield Town,3-0,Leeds United
+Sat Jan 31 1931,Manchester City,4-3,Derby County
+Sat Jan 31 1931,Grimsby Town,2-1,Manchester United
+Sat Jan 31 1931,Arsenal,1-1,Birmingham City
+Sat Jan 31 1931,Newcastle United,4-0,Bolton Wanderers
+Sat Jan 31 1931,Aston Villa,8-1,Middlesbrough
+Tue Feb 3 1931,Grimsby Town,5-3,Derby County
+Wed Feb 4 1931,Sunderland,8-2,Blackburn Rovers
+Wed Feb 4 1931,Bolton Wanderers,1-1,Chelsea
+Thu Feb 5 1931,Leicester City,2-7,Arsenal
+Sat Feb 7 1931,Sunderland,4-0,Leeds United
+Sat Feb 7 1931,Leicester City,6-0,Blackpool
+Sat Feb 7 1931,Sheffield United,1-1,Arsenal
+Sat Feb 7 1931,Bolton Wanderers,2-2,Sheffield Wednesday
+Sat Feb 7 1931,West Ham United,3-4,Grimsby Town
+Sat Feb 7 1931,Middlesbrough,2-2,Chelsea
+Sat Feb 7 1931,Liverpool,4-2,Newcastle United
+Sat Feb 7 1931,Birmingham City,4-1,Blackburn Rovers
+Sat Feb 7 1931,Huddersfield Town,1-6,Aston Villa
+Sat Feb 7 1931,Derby County,5-1,Portsmouth
+Sat Feb 7 1931,Manchester United,1-3,Manchester City
+Sat Feb 14 1931,Arsenal,6-3,Derby County
+Sat Feb 14 1931,Sheffield Wednesday,3-5,Liverpool
+Sat Feb 14 1931,Manchester United,1-0,West Ham United
+Sat Feb 14 1931,Newcastle United,0-5,Middlesbrough
+Tue Feb 17 1931,Grimsby Town,4-1,Bolton Wanderers
+Wed Feb 18 1931,Aston Villa,4-2,Sunderland
+Wed Feb 18 1931,Portsmouth,1-1,Manchester City
+Wed Feb 18 1931,Blackpool,0-1,Birmingham City
+Wed Feb 18 1931,Leeds United,1-3,Leicester City
+Wed Feb 18 1931,Chelsea,1-2,Huddersfield Town
+Thu Feb 19 1931,Blackburn Rovers,2-1,Sheffield United
+Sat Feb 21 1931,Portsmouth,4-3,Grimsby Town
+Sat Feb 21 1931,Sunderland,1-1,Middlesbrough
+Sat Feb 21 1931,Blackpool,3-3,Bolton Wanderers
+Sat Feb 21 1931,Derby County,1-5,Newcastle United
+Sat Feb 21 1931,Leeds United,1-2,Liverpool
+Sat Feb 21 1931,Manchester City,2-0,Sheffield Wednesday
+Sat Feb 21 1931,Birmingham City,0-4,Aston Villa
+Sat Feb 21 1931,Arsenal,4-1,Manchester United
+Sat Feb 21 1931,Leicester City,1-2,Huddersfield Town
+Sat Feb 21 1931,Sheffield United,4-0,Chelsea
+Sat Feb 21 1931,Blackburn Rovers,1-0,West Ham United
+Sat Feb 28 1931,Bolton Wanderers,1-1,Blackburn Rovers
+Sat Feb 28 1931,Grimsby Town,3-5,Manchester City
+Sat Feb 28 1931,West Ham United,2-4,Arsenal
+Sat Feb 28 1931,Newcastle United,1-0,Sheffield United
+Sat Feb 28 1931,Middlesbrough,5-0,Leeds United
+Sat Feb 28 1931,Liverpool,5-2,Blackpool
+Sat Feb 28 1931,Aston Villa,4-2,Leicester City
+Mon Mar 2 1931,Blackburn Rovers,3-0,Leicester City
+Sat Mar 7 1931,Portsmouth,1-0,Middlesbrough
+Sat Mar 7 1931,Derby County,4-1,Bolton Wanderers
+Sat Mar 7 1931,Leicester City,0-1,Grimsby Town
+Sat Mar 7 1931,Birmingham City,0-0,Manchester United
+Sat Mar 7 1931,Sunderland,5-1,Sheffield Wednesday
+Sat Mar 7 1931,Manchester City,1-1,Liverpool
+Sat Mar 7 1931,Blackpool,2-1,Chelsea
+Sat Mar 7 1931,Blackburn Rovers,0-2,Aston Villa
+Sat Mar 7 1931,Arsenal,0-0,Huddersfield Town
+Sat Mar 7 1931,Sheffield United,1-2,West Ham United
+Sat Mar 7 1931,Leeds United,1-0,Newcastle United
+Wed Mar 11 1931,Leeds United,1-2,Arsenal
+Sat Mar 14 1931,Chelsea,3-2,Blackburn Rovers
+Sat Mar 14 1931,Aston Villa,5-1,Arsenal
+Sat Mar 14 1931,Middlesbrough,4-1,Manchester City
+Sat Mar 14 1931,Newcastle United,0-2,Blackpool
+Sat Mar 14 1931,Sheffield Wednesday,2-1,Leeds United
+Sat Mar 14 1931,Huddersfield Town,1-3,Portsmouth
+Sat Mar 14 1931,Liverpool,0-0,Derby County
+Sat Mar 14 1931,Bolton Wanderers,6-2,Sheffield United
+Mon Mar 16 1931,Manchester United,0-1,Portsmouth
+Mon Mar 16 1931,West Ham United,1-2,Birmingham City
+Mon Mar 16 1931,Huddersfield Town,2-0,Sunderland
+Sat Mar 21 1931,Sheffield United,0-2,Huddersfield Town
+Sat Mar 21 1931,Derby County,1-1,Aston Villa
+Sat Mar 21 1931,Manchester City,2-0,Chelsea
+Sat Mar 21 1931,Blackpool,5-1,Manchester United
+Sat Mar 21 1931,Blackburn Rovers,5-2,Grimsby Town
+Sat Mar 21 1931,Sunderland,3-1,Bolton Wanderers
+Sat Mar 21 1931,Arsenal,2-0,Sheffield Wednesday
+Sat Mar 21 1931,Portsmouth,1-2,Newcastle United
+Sat Mar 21 1931,Leicester City,3-2,Liverpool
+Sat Mar 21 1931,Leeds United,3-0,West Ham United
+Sat Mar 21 1931,Birmingham City,1-2,Middlesbrough
+Tue Mar 24 1931,Grimsby Town,2-1,Sunderland
+Wed Mar 25 1931,Manchester United,0-0,Leicester City
+Wed Mar 25 1931,Chelsea,1-0,Birmingham City
+Sat Mar 28 1931,Aston Villa,4-1,Blackpool
+Sat Mar 28 1931,Sheffield Wednesday,4-0,Leicester City
+Sat Mar 28 1931,Bolton Wanderers,1-1,Manchester City
+Sat Mar 28 1931,Manchester United,1-2,Sheffield United
+Sat Mar 28 1931,West Ham United,0-1,Derby County
+Sat Mar 28 1931,Huddersfield Town,1-1,Blackburn Rovers
+Sat Mar 28 1931,Middlesbrough,2-5,Arsenal
+Sat Mar 28 1931,Grimsby Town,4-1,Birmingham City
+Sat Mar 28 1931,Chelsea,1-0,Leeds United
+Sat Mar 28 1931,Liverpool,3-1,Portsmouth
+Sat Mar 28 1931,Newcastle United,2-0,Sunderland
+Fri Apr 3 1931,Grimsby Town,4-1,Middlesbrough
+Fri Apr 3 1931,West Ham United,1-4,Bolton Wanderers
+Fri Apr 3 1931,Blackpool,1-0,Derby County
+Fri Apr 3 1931,Liverpool,1-1,Manchester United
+Fri Apr 3 1931,Portsmouth,1-1,Arsenal
+Fri Apr 3 1931,Sunderland,1-0,Birmingham City
+Fri Apr 3 1931,Manchester City,3-0,Blackburn Rovers
+Fri Apr 3 1931,Newcastle United,1-1,Huddersfield Town
+Sat Apr 4 1931,Leicester City,1-1,West Ham United
+Sat Apr 4 1931,Arsenal,2-1,Chelsea
+Sat Apr 4 1931,Manchester City,0-1,Huddersfield Town
+Sat Apr 4 1931,Portsmouth,5-0,Aston Villa
+Sat Apr 4 1931,Sheffield United,4-1,Liverpool
+Sat Apr 4 1931,Derby County,1-2,Middlesbrough
+Sat Apr 4 1931,Leeds United,0-0,Grimsby Town
+Sat Apr 4 1931,Blackburn Rovers,1-0,Newcastle United
+Sat Apr 4 1931,Blackpool,0-4,Sheffield Wednesday
+Sat Apr 4 1931,Birmingham City,0-2,Bolton Wanderers
+Sat Apr 4 1931,Sunderland,1-2,Manchester United
+Mon Apr 6 1931,Arsenal,1-1,Portsmouth
+Mon Apr 6 1931,Chelsea,1-0,Leicester City
+Mon Apr 6 1931,Derby County,3-2,Blackpool
+Mon Apr 6 1931,Bolton Wanderers,4-2,West Ham United
+Mon Apr 6 1931,Manchester United,4-1,Liverpool
+Mon Apr 6 1931,Birmingham City,1-0,Sunderland
+Mon Apr 6 1931,Sheffield United,1-1,Leeds United
+Tue Apr 7 1931,Leicester City,2-1,Chelsea
+Tue Apr 7 1931,Aston Villa,4-3,Newcastle United
+Tue Apr 7 1931,Leeds United,4-0,Sheffield United
+Tue Apr 7 1931,Huddersfield Town,1-1,Sheffield Wednesday
+Sat Apr 11 1931,Manchester United,0-1,Blackburn Rovers
+Sat Apr 11 1931,Aston Villa,4-0,Sheffield United
+Sat Apr 11 1931,Huddersfield Town,1-0,Birmingham City
+Sat Apr 11 1931,West Ham United,3-2,Blackpool
+Sat Apr 11 1931,Grimsby Town,0-1,Arsenal
+Sat Apr 11 1931,Liverpool,2-4,Sunderland
+Sat Apr 11 1931,Bolton Wanderers,2-0,Leeds United
+Sat Apr 11 1931,Sheffield Wednesday,2-2,Portsmouth
+Sat Apr 11 1931,Newcastle United,0-1,Manchester City
+Sat Apr 11 1931,Middlesbrough,2-2,Leicester City
+Sat Apr 11 1931,Chelsea,1-1,Derby County
+Wed Apr 15 1931,Liverpool,0-0,Birmingham City
+Sat Apr 18 1931,Birmingham City,2-0,Sheffield Wednesday
+Sat Apr 18 1931,Leicester City,3-1,Newcastle United
+Sat Apr 18 1931,Leeds United,0-2,Aston Villa
+Sat Apr 18 1931,Sunderland,2-0,Chelsea
+Sat Apr 18 1931,Sheffield United,2-1,Grimsby Town
+Sat Apr 18 1931,Derby County,6-1,Manchester United
+Sat Apr 18 1931,Arsenal,3-1,Liverpool
+Sat Apr 18 1931,Manchester City,1-1,West Ham United
+Sat Apr 18 1931,Blackburn Rovers,4-5,Middlesbrough
+Sat Apr 18 1931,Blackpool,1-1,Huddersfield Town
+Sat Apr 18 1931,Portsmouth,1-0,Bolton Wanderers
+Mon Apr 20 1931,Sheffield Wednesday,3-2,Derby County
+Sat Apr 25 1931,Grimsby Town,6-2,Blackpool
+Sat Apr 25 1931,Sheffield Wednesday,1-3,Blackburn Rovers
+Sat Apr 25 1931,Huddersfield Town,3-0,Derby County
+Sat Apr 25 1931,West Ham United,0-3,Sunderland
+Sat Apr 25 1931,Chelsea,2-0,Portsmouth
+Sat Apr 25 1931,Aston Villa,4-2,Manchester City
+Sat Apr 25 1931,Bolton Wanderers,4-1,Leicester City
+Sat Apr 25 1931,Newcastle United,1-3,Arsenal
+Sat Apr 25 1931,Middlesbrough,4-1,Sheffield United
+Sat May 2 1931,Leeds United,3-1,Derby County
+Sat May 2 1931,Chelsea,1-1,Newcastle United
+Sat May 2 1931,Birmingham City,2-1,Leicester City
+Sat May 2 1931,Sheffield Wednesday,3-0,Aston Villa
+Sat May 2 1931,Sunderland,2-1,Sheffield United
+Sat May 2 1931,Grimsby Town,2-1,Huddersfield Town
+Sat May 2 1931,Liverpool,2-0,West Ham United
+Sat May 2 1931,Manchester United,4-4,Middlesbrough
+Sat May 2 1931,Blackpool,2-2,Manchester City
+Sat May 2 1931,Arsenal,5-0,Bolton Wanderers
+Sat May 2 1931,Portsmouth,3-0,Blackburn Rovers
