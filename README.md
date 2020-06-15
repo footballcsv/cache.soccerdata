@@ -1,13 +1,6 @@
 # Cache - Soccer Data
 
-A cache for datasets from James P. Curley's Soccer Data R statistics package.
-
-
-## What's James P. Curley's Soccer Data?
-
-
-...
-
+A cache for datasets from [James P. Curley's Soccer Data R statistics package](https://github.com/jalapic/engsoccerdata).
 
 
 ## Why Cache the Datasets?
